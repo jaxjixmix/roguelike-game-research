@@ -1,0 +1,262 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "clover pit",
+    "name": "CloverPit",
+    "display_name": "Clover Pit",
+    "appid": 3314790,
+    "img": "img/3314790.jpg",
+    "steam_url": "https://store.steampowered.com/app/3314790/",
+    "website": "https://www.panikarcade.games/",
+    "short_description": "A rogue-lite slot machine nightmare. Gamble for your life in a never-ending debt simulator!",
+    "developers": [
+      "Panik Arcade"
+    ],
+    "publishers": [
+      "Future Friends Games"
+    ],
+    "release_date": "Sep 26, 2025",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "tags": [],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.2,
+    "steam_total_reviews": 26175,
+    "metacritic": 77,
+    "metacritic_url": "https://www.metacritic.com/game/cloverpit/",
+    "metacritic_user": 6.8,
+    "opencritic": 81,
+    "opencritic_url": "https://opencritic.com/game/19389/cloverpit",
+    "other_scores": [
+      {
+        "source": "Steam (user reviews)",
+        "score": "Very Positive, 90.2% of 26,175",
+        "url": "https://store.steampowered.com/app/3314790/CloverPit/"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "62/100",
+        "url": "https://opencritic.com/game/19389/cloverpit"
+      },
+      {
+        "source": "DualShockers",
+        "score": "9/10",
+        "url": "https://opencritic.com/game/19389/cloverpit"
+      },
+      {
+        "source": "Checkpoint Gaming",
+        "score": "7.5/10",
+        "url": "https://checkpointgaming.net/reviews/2025/09/cloverpit-review-lets-go-gambling-forever-and-ever-and-ever/"
+      },
+      {
+        "source": "Game8",
+        "score": "72/100",
+        "url": "https://opencritic.com/game/19389/cloverpit"
+      }
+    ],
+    "vgi_units": 1700000,
+    "vgi_revenue": 12200000,
+    "vgi_rating": 90.188,
+    "vgi_reviews": 26161,
+    "vgi_url": "https://app.sensortower.com/vgi/game/cloverpit",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "0.00",
+    "src_net": "0.00",
+    "src_url": "https://steam-revenue-calculator.com/app/3314790/cloverpit",
+    "final_tier": "A",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm going to put this game as a solid A tier.",
+        "video_id": "kTg56_oKfGY",
+        "t": 999,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=999s",
+        "year_in_title": null,
+        "pos": 6,
+        "row_n": 9,
+        "row_score": 0.42777777777777776,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Clover Pit is a first-person slot machine roguelike where you are locked in a room, gambling to earn enough money to get the key and escape. It blends Luck Be a Landlord's slot-machine idea with Balatro-style multiplicative scoring and Inscription's eerie, interactive-room vibe. He loves the gameplay and the run variety, and the escape motivation kept him playing. He holds it back from S tier because the eerie atmosphere promises a story and spooky events that never really arrive. He still highly recommends it and calls it very solid.",
+        "praise": [
+          "Scoring stacks multiplicative bonuses on symbols and on their positions, which can then be duplicated, leading to trillions-scale numbers",
+          "Many different builds; runs felt different depending on relics and goals",
+          "Relics plus the phone's permanent passive upgrades (symbol odds, doubled values) combine well",
+          "Being locked in a room with an eerie vibe and a real incentive to escape is more motivating than Luck Be a Landlord's rent",
+          "Interactable room (toilet, door, telephone) adds charm and atmosphere",
+          "Getting the key and escaping was satisfying; there is also a true ending"
+        ],
+        "criticism": [
+          "Little content beyond the gameplay; the eerie setup promises a subplot that does not materialise",
+          "Wants random spooky events (power outage, alley sequence) even if purely cosmetic",
+          "Animations, like tickets and cards coming out, feel slow and tiring even when sped up",
+          "Many unlockable pre-run cards are uninteresting or too situational",
+          "Nothing crazy unique, in a crowded genre of Balatro-like games"
+        ],
+        "unique_points": [
+          "Uses a slot machine inside a first-person locked-room setting, unlike the 2D screen of Luck Be a Landlord",
+          "Stacks multipliers on both symbols and positions, each duplicable",
+          "Phone gives permanent passive bonuses alongside run-based relics",
+          "Icons matter less than in Luck Be a Landlord; the slot machine almost serves as the excuse for the game"
+        ],
+        "quote": "the game is very solid. It was a really good time",
+        "comparisons": [
+          "Luck Be a Landlord",
+          "Balatro",
+          "Inscription"
+        ],
+        "design_criteria": [
+          "Synergies and multipliers: duplicating multiplications on symbols and positions creates huge number scaling",
+          "Build diversity: runs feel different based on relics and symbols found",
+          "Meta-progression: unlockable relics, pre-run cards and phone permanent passives",
+          "Atmosphere and narrative: eerie locked-room vibe, but underdelivered story and events",
+          "Motivation and stakes: escape goal is stronger than paying a landlord",
+          "Pacing and feel: slow animations become tiring over many runs",
+          "Originality: solid but not especially unique in the Balatro-like space"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A first-person, PSX-styled roguelite where you pull a demonic slot machine in a prison cell to pay escalating debt deadlines, buying Lucky Charms to bend the odds (Balatro meets Buckshot Roulette).",
+      "consensus_summary": "CloverPit is received as a stylish, highly addictive slot-machine roguelite: Steam sits at Very Positive (about 90% of roughly 26k reviews), and critics are generally favorable (Metacritic 77, OpenCritic 81). Praise centers on the grimy atmosphere, sound and tactile feel, the number-go-up thrill and cheap price. The recurring complaint is that it has far less player agency than Balatro: it is luck-heavy, early deadlines can be lost on bad shop rolls, and the growing pool of niche charms dilutes good shops as you unlock more. Metacritic users are noticeably cooler (6.8, mixed) than Steam. After release the dev patched the game (1.2 nerfs, Hard Mode required for holographic memory cards, endless runs removed), which angered parts of the community; 1.3 softened some of this. A paid DLC (Unholy Fusion, April 2026) and console/mobile ports followed, and it reportedly passed 1 million copies by mid-November 2025.",
+      "best_things": [
+        "Addictive loop: huge dopamine hits on jackpots and a 'one more run' pull, often described as Balatro plus Buckshot Roulette",
+        "Oppressive, grungy low-poly PSX visuals, humour and sound design create a distinctive tense tone (cramped cell, ticking deadline, intercom voice)",
+        "Satisfying number-go-up build-crafting once charm synergies (symbol value, patterns, luck, multipliers) come together, with values climbing into e-notation",
+        "Gambling thrill without real money; several reviewers even call it an anti-gambling statement",
+        "Very good value at $9.99, with a demo whose progress carries over to the full game",
+        "Phone/telephone permanent perks and memory cards add run-to-run variety; big unlock catalog (about 160 charms) gives long replay value for completionists"
+      ],
+      "worst_things": [
+        "Low player agency and skill expression compared with Balatro: you are essentially pressing a button, so outcomes often feel like pure luck",
+        "Charm pool bloat: as you unlock ~160 charms, many are niche or bad and pollute the shop, so progression can make runs worse",
+        "Many charms are considered never worth using (too specific triggers, non-functional effects, no supporting builds), leaving a narrow meta (e.g. interest farming)",
+        "Brutal early game: the first two deadlines are dominated by shop RNG and can fail on consecutive runs even with luck items",
+        "Drawer/charm swapping and camera turning is fiddly and time-consuming",
+        "Post-launch balance patches (1.2) were seen as mostly nerfs that removed fun builds and endless runs",
+        "Late-game and end-of-run flow: cannot just quit at run end, dialogue/animations hard to skip",
+        "Some critics and players find the game runs out of gas and gets repetitive after several runs",
+        "Players flag the in-game odds for the 666 jackpot as misleading (the top-voted Steam review says the displayed chance and the real chance look swapped, roughly 1.5% vs 1/4), which feels unfair in a luck-driven game"
+      ],
+      "improvements": [
+        "Rework or buff the large set of weak/niche charms and rebalance to reduce dead picks",
+        "Give players control over the shop pool (ban, favorite or remove charms) so unlocks do not dilute good options",
+        "Make memory cards easier to obtain and unlock, and allow reuse instead of single-use consumption; make holographic/Lord of the Pit achievable without forced Hard Mode",
+        "Improve the drawer/charm-swap UI so players do not constantly turn around and click back and forth",
+        "Add more player agency (e.g. freezing rows/columns or other ways to nudge the machine) and smoother early-game odds",
+        "More cosmetic unlockables and QoL: skip dialogue/animations, option to quit cleanly after a run, better accessibility (audio settings, flashing lights)"
+      ],
+      "unique_things": [
+        "Slot machine as the core roguelite engine, with charms modifying symbols, patterns, luck and payouts rather than a card deck",
+        "Survival-horror framing: escape-room cell, debt deadlines, trapdoor on failure, corpse parts and multiple endings",
+        "Telephone calls give permanent deadline-by-deadline abilities that combine with charms",
+        "Memory cards act as single-use run modifiers that can be upgraded (holographic/rainbow) for meta progression",
+        "Deliberate PSX low-poly look, tactile lever pulling and a first-person physical-space interface",
+        "Demo progress carries over to the full game"
+      ],
+      "tedious_or_disliked": [
+        "Constant charm shuffling in and out of drawers, with repeated camera turns, described as '90% prep, 10% play'",
+        "Grinding for specific memory cards and corpse parts/skull for the real ending, with no way to skip dialogue or animations",
+        "Losing early deadlines due to shop RNG and having to restart at Deadline 1",
+        "Rerolling the charm shop becomes an expensive second slot machine",
+        "Forced Hard Mode for holographic cards and 100% completion after the 1.2 update",
+        "Flashing lights and overstimulation (an option to tone these down was added in 1.3)"
+      ],
+      "divisive_points": [
+        "Luck versus strategy: some love the desperate, random feel and the thrill; others feel there is no real decision-making compared with Balatro",
+        "Dev nerfs and Hard Mode: many see them as needed anti-exploit balance, others as punishing players of a single-player game",
+        "Late-game balance: some say it is 'startlingly easy' once you optimize, while others say the early game is brutally unfair",
+        "Metacritic users (6.8, mixed) disagree with the much more positive Steam reception"
+      ],
+      "reception_notes": "Announced April 2025 with a demo at Steam Next Fest (over 680k downloads per Wikipedia), delayed to avoid Hollow Knight: Silksong, and launched on Windows Sept 26, 2025 at $9.99 (Panik Arcade, published by Future Friends Games). Reported 100k copies in one day and about 1M by mid-November 2025 (Wikipedia; third-party Steam revenue estimator returned $0 so no reliable revenue figure was obtained). Ports: Xbox/Game Pass Nov 2025, iOS/Android Dec 2025, PlayStation/Switch Aug 2026. Patch 1.2 nerfed many charms, removed endless runs and tied holographic memory cards to Hard Mode, drawing a wave of negative Steam reviews; 1.3 made Hard Mode fairer, reworked memory cards and added a reduced-flashing option but kept the holographic requirement. Unholy Fusion DLC (April 9, 2026) added a new ending and a charm-fusion Surgery Machine. Some users complained that Steam community discussion groups were locked. OpenCritic figures varied between fetches (81 rating, 27 to 30 reviews, 73-86% recommend). Not early access and actively supported.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3314790.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3314790/CloverPit/",
+          "what": "Steam store page data (release, price, Very Positive 90.2%) via local steam_data.json"
+        },
+        {
+          "url": "https://www.metacritic.com/game/cloverpit/",
+          "what": "Metascore 77 (12 reviews) and user score 6.8 (77 ratings)"
+        },
+        {
+          "url": "https://opencritic.com/game/19389/cloverpit",
+          "what": "OpenCritic rating 81, outlet scores, critic consensus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/CloverPit",
+          "what": "Development, release timeline, sales milestones, DLC and ports"
+        },
+        {
+          "url": "https://urflow.bearblog.dev/roguelites-cloverpit/",
+          "what": "Design critique: tedious drawer management, snowballing economy, limited interactivity"
+        },
+        {
+          "url": "https://rogueliker.com/cloverpit-review",
+          "what": "Positive but reserved review: atmosphere, charm system, RNG and fussy clicking"
+        },
+        {
+          "url": "https://checkpointgaming.net/reviews/2025/09/cloverpit-review-lets-go-gambling-forever-and-ever-and-ever/",
+          "what": "Checkpoint Gaming review (7.5/10)"
+        },
+        {
+          "url": "https://www.gamesasylum.com/?p=63153",
+          "what": "Games Asylum review listed in search results"
+        },
+        {
+          "url": "https://www.pcgamesn.com/cloverpit/steam-roguelike-balatro",
+          "what": "PCGamesN preview of gritty Balatro-inspired slot roguelite"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (Metascore 77, 12 critics; user 6.8, 77 ratings) and OpenCritic (81, 30 reviews, 73% recommend; PC Gamer 62, Game8 72): all match, no score changes. Removed 'Responsive developer early on' from best_things (unsupported by Steam reviews, which mostly criticize the dev's nerfs). Added 666-odds misleading-display theme (top-voted review, 780 upvotes) to worst_things. Other bullets are consistent with top Steam reviews (luck vs agency, charm pool dilution, nerfs/Hard Mode, memory cards, flashing lights)."
+    },
+    "his_anchor": null,
+    "his_pos": 6,
+    "his_row_n": 9,
+    "his_spoken": "said solid",
+    "his_score": 42.8,
+    "his_top10_bonus": 0,
+    "players_score": 52.8,
+    "critics_score": 42.0,
+    "critics_avg": 79.0,
+    "overall": 46.1,
+    "labels": [
+      "luck_builder"
+    ],
+    "primary_label": "luck_builder"
+  }
+}

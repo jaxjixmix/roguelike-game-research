@@ -1,0 +1,281 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "shovel knight dig",
+    "name": "Shovel Knight Dig",
+    "display_name": "Shovel Knight Dig",
+    "appid": 1416050,
+    "img": "img/1416050.jpg",
+    "steam_url": "https://store.steampowered.com/app/1416050/",
+    "website": "https://www.yachtclubgames.com/games/shovel-knight-dig",
+    "short_description": "Meet new friends and foes, visit strange lands, and outfit yourself on a quest to keep the entire land from collapsing underfoot! Jump, slash, and dig your way down an ever-changing chasm of mystery in this standalone Shovel Knight adventure.",
+    "developers": [
+      "Nitrome",
+      "Yacht Club Games"
+    ],
+    "publishers": [
+      "Yacht Club Games"
+    ],
+    "release_date": "Sep 23, 2022",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Action-Adventure",
+      "2D",
+      "Rogue-like",
+      "Cute",
+      "Action",
+      "Funny",
+      "Linear",
+      "Story Rich",
+      "Cartoony"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 75.1,
+    "steam_total_reviews": 909,
+    "metacritic": 81,
+    "metacritic_url": "https://www.metacritic.com/game/shovel-knight-dig/",
+    "metacritic_user": 6.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "75% positive of 909 reviews (Mostly Positive)",
+        "url": "https://store.steampowered.com/app/1416050/Shovel_Knight_Dig/"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "url": "https://store.steampowered.com/app/1416050/Shovel_Knight_Dig/"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "url": "https://store.steampowered.com/app/1416050/Shovel_Knight_Dig/"
+      },
+      {
+        "source": "Hey Poor Player",
+        "score": "4.5/5",
+        "url": "https://store.steampowered.com/app/1416050/Shovel_Knight_Dig/"
+      },
+      {
+        "source": "EGM (via Metacritic)",
+        "score": "100",
+        "url": "https://www.metacritic.com/game/shovel-knight-dig/"
+      },
+      {
+        "source": "PCMag (via Metacritic)",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/shovel-knight-dig/"
+      },
+      {
+        "source": "CD-Action (via Metacritic)",
+        "score": "65",
+        "url": "https://www.metacritic.com/game/shovel-knight-dig/"
+      },
+      {
+        "source": "Metacritic Switch / iOS (per Wikipedia)",
+        "score": "85 / 79",
+        "url": "https://en.wikipedia.org/wiki/Shovel_Knight_Dig"
+      }
+    ],
+    "vgi_units": 27270,
+    "vgi_revenue": 499000,
+    "vgi_rating": 75.138,
+    "vgi_reviews": 909,
+    "vgi_url": "https://app.sensortower.com/vgi/game/shovel-knight-dig",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "367,353.00",
+    "src_net": "108,369.14",
+    "src_url": "https://steam-revenue-calculator.com/app/1416050/shovel-knight-dig",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put it as a low B tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 8620,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=8620s",
+        "year_in_title": "2022",
+        "pos": 35,
+        "row_n": 35,
+        "row_score": 0.07928571428571425,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Shovel Knight Dig is a platformer roguelike spin-off of the classic 2D platformer Shovel Knight. He thinks the developers did a good job with the hard problem of making platformer level design replayable. Visuals and audio are excellent, but platformers aren't his favorite genre and he struggled with the combat. Runs feel too similar and it became repetitive; he finished it twice and won't return. He places it in low B.",
+        "praise": [
+          "Good solution to platformer replayability: one huge single room built from randomly stitched layout chunks",
+          "Random stitching keeps levels from feeling very repetitive despite similar pieces",
+          "Amazing visuals",
+          "Amazing audio",
+          "Lots of work clearly put into it; fans of Shovel Knight will likely enjoy it",
+          "Solid core gameplay"
+        ],
+        "criticism": [
+          "Runs do not feel very different from each other; core gameplay barely changes between runs",
+          "Became fairly repetitive after a while despite the art",
+          "He struggled with the fighting/combat aspect",
+          "Platformer genre is not his favorite, and the random generation was not really for him"
+        ],
+        "unique_points": [
+          "Platformers are like puzzles, so they resist roguelite repetition; this game sidesteps that with one long room of randomly stitched layout elements",
+          "Unique passives add some variety, but variation comes mainly from level layout rather than build"
+        ],
+        "quote": "I'm gonna put it as a low B tier",
+        "comparisons": [
+          "Shovel Knight",
+          "Rogue Legacy"
+        ],
+        "design_criteria": [
+          "Level design: procedurally stitched chunks in one long room keep platforming fresh",
+          "Run variety: passives exist but core gameplay is same each run, hurting replay",
+          "Visuals/charm: amazing art",
+          "Audio: amazing",
+          "Combat feel: he struggled with fighting, personal genre fit matters",
+          "Replayability: became repetitive after two completions"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A vertical, digging-focused action roguelite spin-off of Shovel Knight, made by Nitrome with Yacht Club Games, where you dig down a collapsing well chased by an ever-rising buzzsaw.",
+      "consensus_summary": "Critics received it warmly (Metacritic PC 81 from 26 reviews, Switch reportedly 85) for tight Shovel Knight platforming, charm and Jake Kaufman's music, while Steam players are more mixed (75% of ~909 reviews, Mostly Positive) and Metacritic users land at 6.5 from only 31 ratings. The recurring split is between people who love the core movement and digging feel and people who find the roguelite layer shallow, repetitive and punishing. It is a finished, supported game rather than early access: two free DLC updates (Fate and Fortune in 2023, Wicked Wishes in 2025) plus PS5/Xbox Series ports in May 2025. Third-party estimates put Steam sales in the 20-50k owner range, which is modest, and the $24.99 price draws recurring complaints.",
+      "best_things": [
+        "Tight, responsive Shovel Knight controls; digging downward at speed feels satisfying",
+        "Procedurally generated wells still deliver handcrafted-feeling platforming challenges with hidden side rooms and Cog collectibles",
+        "Jake Kaufman's chiptune soundtrack is widely praised, as are the art style and charm of the world and characters",
+        "Fast, bite-sized runs that make 'one more run' easy; some players report 100+ hours",
+        "Variety of terrain and hazards across well regions, plus Knightmare difficulty modes and armors extend replay value",
+        "Free DLC (Fate and Fortune, Wicked Wishes) added content and quality-of-life improvements",
+        "Critics and fans call it a worthy, polished entry that adapts the series' moveset to a new structure"
+      ],
+      "worst_things": [
+        "Tiny relic/item pool and weak synergies; runs feel very similar, and you can hold only one relic",
+        "Item usefulness varies hugely; some relics are situational to a single enemy or region",
+        "Enemies constantly spawn and respawn from awkward angles, with low health and rare health upgrades, so deaths can feel cheap",
+        "Permanent progression is thin: armors carry downsides, so you rarely feel meaningfully stronger between runs",
+        "Bosses are described by some as simplified compared to the original and beatable by spamming the shovel",
+        "No mouse-button binding, and menu controls tied to gameplay rebinding, were called out as poor PC options",
+        "Price ($24.99) seen as steep for the content; several reviewers recommend buying on sale",
+        "Some reports of softlocks and unresponsive characters on Steam forums; one user reported gem-banking problems"
+      ],
+      "improvements": [
+        "Much larger item and modifier pool with real build synergies",
+        "Let players equip newly unlocked upgrades for the next run instead of requiring a lucky drop",
+        "Better permanent power progression so repeated runs feel cumulative",
+        "Options to disable relic auto-swap, difficulty settings and more accessibility options",
+        "Bindable mouse buttons and separate menu vs gameplay control rebinding on PC",
+        "Clearer or less convoluted true-ending quest and less busywork in hub quests"
+      ],
+      "unique_things": [
+        "Vertical digging roguelite where downward movement is the core verb, inspired by Downwell, Spelunky and Dig Dug",
+        "An unstoppable buzzsaw above forces constant downward momentum instead of letting you explore slowly",
+        "Retains Shovel Knight's shovel drop and platforming toolkit adapted to randomized wells",
+        "Hub camp with friendly characters, quests and unlockable areas, plus a prequel-style story set with Drill Knight and the Hexcavators",
+        "Knightmare mode and hidden fountains/secrets add optional challenge layers"
+      ],
+      "tedious_or_disliked": [
+        "Repeating the same set of actions and early sections after every death feels like insane tedium to critics of the loop",
+        "Hub-world quests and minigames seen as busywork for replayability; the multi-step true-ending quest is considered convoluted",
+        "Unlock conditions for certain achievements and unlocks described as ridiculous",
+        "The rising buzzsaw pressure forces rushing, which some find stressful rather than fun",
+        "Falling past items with no chance to backtrack, or into unseen hazards, frustrates players",
+        "Very high Knightmare difficulty (Knightmare 5 and up) is called out as infuriating by some long-time players, e.g. dying to unseen enemies right after a secret fountain"
+      ],
+      "divisive_points": [
+        "Whether the roguelite structure suits Shovel Knight: fans of the original's curated levels say it loses the magic, others say it is the best spin on the formula",
+        "Difficulty and pace: pressure and cheap-feeling enemy placement read as tense to some and unfair to others",
+        "Depth: some see a simple, fun, short-session game, others an under-built roguelike with an item pool too small",
+        "Value: worth it for Shovel Knight devotees, overpriced for everyone else"
+      ],
+      "reception_notes": "Launched Sept 23, 2022 on Windows, Switch, and iOS/tvOS (Apple Arcade); Yacht Club Games partnered with mobile studio Nitrome after franchise fatigue, four years of development. Free DLC Fate and Fortune (Mar 2023) added Knightmare mode and QoL; Wicked Wishes (May 2025) added more content alongside PS5 and Xbox Series X/S ports. PC is Windows only on Steam. Steam estimates: 20-50k owners (SteamSpy), about $367k gross / $108k net (Boxleiter-style estimate, order of magnitude only). Could not retrieve OpenCritic, Reddit, IGN or PCMag pages (blocked or unavailable) and the web search budget was exhausted, so community detail leans on Steam reviews and Metacritic user reviews.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1416050.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review counts, SteamSpy owners, revenue estimate (local file)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/shovel-knight-dig/",
+          "what": "Metascore 81 from 26 critics; outlet scores and blurbs"
+        },
+        {
+          "url": "https://www.metacritic.com/game/shovel-knight-dig/user-reviews/",
+          "what": "User score 6.5 and summary of user praise/complaints"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Shovel_Knight_Dig",
+          "what": "Development, platforms, DLC dates, reception summary"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1416050/Shovel_Knight_Dig/",
+          "what": "Steam page: 75% of 824 reviews, featured critic quotes (Nintendo Life, GameSpot, Hey Poor Player)"
+        },
+        {
+          "url": "https://www.yachtclubgames.com/games/shovel-knight-dig",
+          "what": "Official page: platforms and free DLC descriptions"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1416050/discussions/",
+          "what": "Steam forum topics: softlocks, relic auto-swap, accessibility requests"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1416050/shovel-knight-dig",
+          "what": "Estimated gross and net Steam revenue"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: PC Metascore 81 confirmed, critic count corrected 24->26, user score 6.5 confirmed (31 ratings, added to summary); Switch 85 and iOS 79 confirmed. OpenCritic left null (not checked/available). Narrowed Knightmare 5-10 claim to 5+ as only Knightmare 5 is evidenced in Steam reviews. Steam review themes (tiny item pool, repetitive runs, thin progression, tedious hub/true-ending quests, cheap enemy spawns, price) match the existing bullets; no bullets removed."
+    },
+    "his_anchor": null,
+    "his_pos": 35,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 7.9,
+    "his_top10_bonus": 0,
+    "players_score": 4.3,
+    "critics_score": 56.7,
+    "critics_avg": 81.0,
+    "overall": 16.4,
+    "labels": [
+      "action",
+      "platformer"
+    ],
+    "primary_label": "platformer"
+  }
+}

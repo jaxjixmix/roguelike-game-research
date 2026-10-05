@@ -1,0 +1,152 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "magic book autobattler",
+    "name": "Magic Book Autobattler",
+    "display_name": "Magic Book Autobattler",
+    "appid": null,
+    "img": null,
+    "steam_url": null,
+    "website": null,
+    "short_description": null,
+    "developers": null,
+    "publishers": null,
+    "release_date": null,
+    "coming_soon": null,
+    "price": null,
+    "is_free": null,
+    "genres": null,
+    "tags": null,
+    "steam_review_desc": null,
+    "steam_positive_pct": null,
+    "steam_total_reviews": null,
+    "metacritic": null,
+    "metacritic_url": null,
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [],
+    "vgi_units": null,
+    "vgi_revenue": null,
+    "vgi_rating": null,
+    "vgi_reviews": null,
+    "vgi_url": null,
+    "spy_owners": null,
+    "spy_avg_min": null,
+    "spy_median_min": null,
+    "src_gross": null,
+    "src_net": null,
+    "src_url": null,
+    "final_tier": "unplaced",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "unplaced",
+        "tier_source": "board",
+        "board_detail": "left in the image pool, never placed on the board",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "none",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 7443,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=7443s",
+        "year_in_title": null,
+        "pos": null,
+        "row_n": null,
+        "row_score": null,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "The segment only introduces the game. After noting that the previous entry (Magic Book) was delisted and rebranded on Steam, he moves on to Magicraft, an action roguelike where you use highly customizable wands instead of weapons. It is heavily inspired by Noita but uses a more traditional action-roguelike run structure. The transcript cuts off before any verdict or tier placement.",
+        "praise": [
+          "Extensive wand customization in place of fixed weapons",
+          "Noita-style spell-crafting depth carried into a more conventional run structure"
+        ],
+        "criticism": [
+          "No criticism stated in this segment"
+        ],
+        "unique_points": [
+          "Wand-building as the core gimmick, combined with a traditional action-roguelike run structure rather than Noita's continuous world"
+        ],
+        "quote": "it's Noita, but it has a much more traditional action roguelike structure",
+        "comparisons": [
+          "Noita"
+        ],
+        "design_criteria": [
+          "Customization depth: wands can be modified extensively",
+          "Run structure: traditional action-roguelike runs versus Noita's format"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A roguelike autobattler (per the ranking video's chapter title) that could not be identified as a current, buyable Steam listing; the reviewer says it was rebranded and delisted.",
+      "consensus_summary": "No community or critic consensus could be established. The local Steam dataset has no appid for this title, and Steam store searches for 'Magic Book Autobattler' and 'Magic Book' returned no matching autobattler (only unrelated titles such as Amanda's Magic Book entries, Book of Demons, Slime Rush: Leshy and the Magic Book). The only grounded information is from the ranking video (Part 3, about 2:03:57-2:04:28): the reviewer says he found the game's Steam page had been rebranded, that the game no longer exists under that name and can no longer be bought, and that viewers will not know what it is until a newer version comes out. He gave no tier or opinion on gameplay. The title may also be a rough chapter label rather than the official name. The general web search tool hit its session budget, so no reviews, Reddit threads, Metacritic or OpenCritic pages could be retrieved.",
+      "best_things": [],
+      "worst_things": [
+        "Delisted/rebranded on Steam, so it cannot currently be purchased under this name (per the ranking video)"
+      ],
+      "improvements": [],
+      "unique_things": [
+        "The reviewer called the situation unique: he said he had never seen a game vanish from its Steam page through a rebrand like this"
+      ],
+      "tedious_or_disliked": [],
+      "divisive_points": [],
+      "reception_notes": "No reception data found. Steam data file lists no appid for this title (no match candidates). The ranking video's Magic Book chapter is only about 26 seconds long and contains no verdict, so it should be shown as 'unranked / delisted, not rated' rather than given a tier. Follow-up suggestion: if the game's new name is found (the reviewer says it was rebranded), rerun research under that name. Web search was unavailable (200-call session budget exhausted); DuckDuckGo, Bing and Google fetches were blocked by captcha/consent pages and Reddit fetch is disallowed, and these blocks were not bypassed.",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=7443s",
+          "what": "Ranking The Best DESIGNED Roguelikes (Part 3), Magic Book chapter: reviewer says game was rebranded and delisted from Steam"
+        },
+        {
+          "url": "local:scratchpad/segments/p3__19__magic-book-autobattler.txt",
+          "what": "Transcript segment for the Magic Book chapter (7443s-7469s)"
+        },
+        {
+          "url": "local:scratchpad/steam_data.json",
+          "what": "Steam dataset entry for 'magic book autobattler': appid null, no candidates"
+        },
+        {
+          "url": "https://store.steampowered.com/search/?term=Magic+Book+Autobattler",
+          "what": "Steam store search: no matching autobattler found"
+        },
+        {
+          "url": "https://store.steampowered.com/search/?term=magic+book&category1=998",
+          "what": "Steam store search for 'Magic Book': only unrelated titles returned"
+        },
+        {
+          "url": "https://itch.io/search?q=magic+book+autobattler",
+          "what": "itch.io search: no matching game found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "No bullets removed, corrected or added. Re-read the transcript segment: the delisted/rebranded claim and the 'never seen that happen' remark are accurately grounded. No Steam appid or reviews exist locally, so no review-theme checks were possible. Critic scores were already null and no Metacritic/OpenCritic URLs were cited; one re-check search was attempted but the web search budget was exhausted, so nulls are kept as unverified-by-web. Also noted: the reviewer's following chapter is Maticcraft (a wand-based action roguelike), a different game that should not be confused with this entry."
+    },
+    "his_anchor": null,
+    "his_pos": null,
+    "his_row_n": null,
+    "his_spoken": null,
+    "his_score": null,
+    "his_top10_bonus": 0,
+    "players_score": null,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": null,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

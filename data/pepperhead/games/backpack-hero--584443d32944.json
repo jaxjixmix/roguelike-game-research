@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "backpack hero",
+    "name": "Backpack Hero",
+    "display_name": "Backpack Hero",
+    "appid": 1970580,
+    "img": "img/1970580.jpg",
+    "steam_url": "https://store.steampowered.com/app/1970580/",
+    "website": null,
+    "short_description": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+    "developers": [
+      "Jaspel"
+    ],
+    "publishers": [
+      "Pretty Soon",
+      "IndieArk"
+    ],
+    "release_date": "Nov 14, 2023",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Replay Value",
+      "Turn-Based",
+      "Inventory Management",
+      "Roguelike Deckbuilder",
+      "Deckbuilding",
+      "2D",
+      "Fantasy",
+      "Rogue-like",
+      "Strategy",
+      "Building"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 86.4,
+    "steam_total_reviews": 8532,
+    "metacritic": 76,
+    "metacritic_url": "https://www.metacritic.com/game/pc/backpack-hero?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.0,
+    "opencritic": 71,
+    "opencritic_url": "https://opencritic.com/game/15870/-",
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 86.4% positive of 8,532 reviews",
+        "url": "https://store.steampowered.com/app/1970580/Backpack_Hero/"
+      },
+      {
+        "source": "OpenCritic critics recommend",
+        "score": "63%",
+        "url": "https://opencritic.com/game/15870/-"
+      },
+      {
+        "source": "TheSixthAxis",
+        "score": "9/10",
+        "url": "https://opencritic.com/game/15870/-/reviews"
+      },
+      {
+        "source": "Destructoid",
+        "score": "8/10",
+        "url": "https://opencritic.com/game/15870/-/reviews"
+      },
+      {
+        "source": "PC Invasion",
+        "score": "6/10",
+        "url": "https://opencritic.com/game/15870/-/reviews"
+      },
+      {
+        "source": "PlayStation Universe",
+        "score": "5.5/10",
+        "url": "https://opencritic.com/game/15870/-/reviews"
+      },
+      {
+        "source": "Estimated Steam gross revenue (Boxleiter-style estimate, not audited)",
+        "score": "about $4.58M gross, owners 500k-1M",
+        "url": "https://steam-revenue-calculator.com/app/1970580/backpack-hero"
+      }
+    ],
+    "vgi_units": 256000,
+    "vgi_revenue": 3400000,
+    "vgi_rating": 86.379,
+    "vgi_reviews": 8531,
+    "vgi_url": "https://app.sensortower.com/vgi/game/backpack-hero",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "4,581,228.24",
+    "src_net": "1,351,462.33",
+    "src_url": "https://steam-revenue-calculator.com/app/1970580/backpack-hero",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "I would put it as a c",
+        "video_id": "5k_-k4X90ao",
+        "t": 471,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=471s",
+        "year_in_title": "2023",
+        "pos": 11,
+        "row_n": 14,
+        "row_score": 0.25,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Backpack Hero is a turn-based item-management roguelike where the placement of items in your backpack grid determines their effects in combat. You pick from several characters, explore a dungeon, collect loot, and fight through to a final boss. He loves the concept and the effort behind the character variety, but the more he played the more he was bothered by how many found items are useless to your current build. He keeps enjoying it but struggles to return to it, and places it in C tier as a niche game that is not for everyone.",
+        "praise": [
+          "Backpack placement creates unique item effects and combinations between runs",
+          "Each character plays drastically differently, almost like a new game",
+          "Builds are fun and it is easy to feel overpowered when they come together",
+          "Large amount of effort and content across characters",
+          "Gameplay is the focus, with the concept itself being an idea he loves"
+        ],
+        "criticism": [
+          "Many items are specific to other builds and useless for yours, which is frustrating",
+          "Some builds are broken, and without the right items you are weak (all-in-or-nothing feel)",
+          "Dungeon exploration is minimalistic and he is not a fan of it",
+          "Hard to come back to despite enjoying his sessions",
+          "Niche appeal, not for everybody"
+        ],
+        "unique_points": [
+          "Spatial inventory placement as the core combat system",
+          "Characters so different each feels like a separate game"
+        ],
+        "quote": "it's not for everybody uh some people love it",
+        "comparisons": [],
+        "design_criteria": [
+          "Synergies/builds: fun but items are often irrelevant to your build",
+          "Character diversity: praised as drastically different playstyles",
+          "Balance/power variance: broken builds and all-or-nothing runs",
+          "Exploration/level design: minimalistic and not his favorite",
+          "Replayability/return appeal: struggles to come back to it"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based dungeon-crawling roguelike by Jaspel where you play a rat named Purse and win fights by arranging items in a limited grid backpack, with a town-rebuilding meta layer.",
+      "consensus_summary": "Backpack Hero is liked by players (Steam Very Positive, about 86% of roughly 8.5k reviews) and received mixed-to-favorable critic scores (Metacritic 76 from 6 reviews, OpenCritic 71 with 63% recommending). The grid-based inventory puzzle is widely called inventive and addictive, and the five characters play differently. Criticism centers on a clunky interface, a slow and grindy story-mode unlock loop, a half-baked town, bugs and repetition. The game left early access in Nov 2023 and reached consoles in mid 2024, but recent Steam reviews say it has had no updates since roughly Dec 2024, so many recent negatives are about abandonment, unfixed bugs and a game that feels unfinished. A modding scene partly fills the gap.",
+      "best_things": [
+        "The backpack-as-inventory mechanic: fitting items, synergies and adjacency into a grid works like a Tetris-style puzzle and is described as surprisingly addictive",
+        "Five characters (Purse, Tote, Satchel, Pochette, CR-8) with distinct playstyles; Satchel's charm builds and Pochette's pet builds are singled out as strong",
+        "Hundreds of items and lots of build variety, giving a strong 'one more run' pull",
+        "Easy to understand yet deep enough for veterans; challenge modifiers welcome both masochists and players wanting easier runs",
+        "Charming pixel art and friendly characters, noted by Eurogamer and other critics",
+        "Good value in raw playtime: 100 percent completion takes roughly 35-60 hours and some players have sunk hundreds or over a thousand hours",
+        "Active modding community and Steam Workshop support",
+        "Seen by fans as having set the template for later 'backpack battler' games"
+      ],
+      "worst_things": [
+        "Many bugs, including game-breaking softlocks, and reports of an NPC or building (e.g. the temple) that can never be unlocked",
+        "Feels unfinished: players say it should still be labelled early access or beta",
+        "Interface is clunky; critics at PC Invasion and others cite a persistently irritating UI, and Switch controls are described as unwieldy",
+        "Story mode and meta progression are slow and padded, forcing repeated runs to unlock items, heroes and deeper dungeons",
+        "Shallow story and forgettable NPCs; a bland soundtrack per some reviewers",
+        "Heavy RNG and slow levelling make builds depend on luck",
+        "Developers appear to have stopped patching, leaving balance issues and bugs unresolved",
+        "Controller support is wonky, including on Steam Deck, with cursor and menu problems",
+        "Short and ramps up too fast per some reviewers: difficulty escalates quickly while leveling is slow, so runs can feel unwinnable without lucky rolls"
+      ],
+      "improvements": [
+        "Bug fixes and stability patches, plus clearer developer communication about the game's status",
+        "A way to lock or ban unwanted items from the reward pool so it does not get clogged, for example after the Wizard School or Archery Lessons runs",
+        "A balance pass so more builds and heroes are viable, especially weaker ones like Tote and the mana or archery styles",
+        "Streamlined town and meta progression with less menu-hopping, and better in-game explanation of systems like the settlement",
+        "Run seeding and better modding support, including mods working in story mode",
+        "Better controller and Steam Deck support and improved translations"
+      ],
+      "unique_things": [
+        "Inventory management is itself the core combat mechanic, often compared to the briefcase in Resident Evil 4, rather than a side system",
+        "Functions like a deckbuilder where the backpack replaces the deck; critics call it one of the most inventive deckbuilders",
+        "Positioning and adjacency of items in the grid determine synergies, so space itself is a resource (for example empty room reserved for arrows)",
+        "Pet-based, charm-based and mana-based playstyles each change how you pack the bag",
+        "Mix of Slay the Spire-style runs with a Moonlighter-like town rebuilt from loot"
+      ],
+      "tedious_or_disliked": [
+        "Story mode grind: repeating easy early runs, often on the same character and build, to unlock deeper dungeons and gear",
+        "Town building and navigating many buildings and menus, plus tracking which items to bring for research",
+        "Early-game rewards feel stingy and the first hours can feel slow",
+        "Gameplay stays essentially the same across the game, so repetition sets in after the first runs",
+        "Archery and magic styles impose extra space or mana restrictions that some find irritating",
+        "Chasing all achievements, including the RNG-gated unlock of CR-8 late in story mode"
+      ],
+      "divisive_points": [
+        "Whether the story mode is a good tutorial and progression path or unnecessary padding",
+        "Whether the core loop is deep and endlessly replayable or repetitive after a few runs",
+        "Whether the game deserves a recommendation at full price given abandonment, with many suggesting buying on sale",
+        "Whether bugs are tolerable roughness or deal-breakers; some players report none while others hit softlocks"
+      ],
+      "reception_notes": "Started as a game jam project, raised about $224k on Kickstarter against a $20k goal, entered early access in Aug 2022 and launched 1.0 on Nov 14, 2023 for PC, Mac and Linux, with Switch, PlayStation and Xbox versions in 2024. Critics on Metacritic (PC and Switch both 76) praised the novelty and charm; a few (PlayStation Universe, PC Invasion, Video Chums) flagged unclear explanations, UI and repetitive dungeons. Wikipedia says updates have continued, but Steam reviewers in 2026 say the last update was around December 2024 and call the game abandoned, which has driven a wave of critical recent reviews. Sources conflict on this point, so treat the abandonment claim as player-reported. Steam price is $19.99 with the store listing Pretty Soon and IndieArk as publishers while Metacritic lists Different Tales.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1970580.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app data: review counts, Metacritic 76, owners estimate, revenue estimate"
+        },
+        {
+          "url": "https://opencritic.com/game/15870/-",
+          "what": "OpenCritic rating 71, 63% recommend, 16 reviews and outlet scores"
+        },
+        {
+          "url": "https://www.metacritic.com/game/backpack-hero/",
+          "what": "Metascore 76 from 6 critics, user score 7.0 from 24 ratings"
+        },
+        {
+          "url": "https://vaporlens.app/app/1970580/backpack_hero",
+          "what": "Aggregated Steam review themes: abandonment, bugs, tedious story mode"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Backpack_Hero",
+          "what": "Development history, Kickstarter, platforms, critic quotes"
+        },
+        {
+          "url": "https://primagames.com/gaming/backpack-hero-review-room-to-improve",
+          "what": "Critic review: room to improve"
+        },
+        {
+          "url": "https://www.startmenu.co.uk/home/review-backpack-hero",
+          "what": "Critic review"
+        },
+        {
+          "url": "https://www.playstationcountry.com/?p=23707",
+          "what": "PS5 review"
+        },
+        {
+          "url": "https://siliconera.com/?p=998540",
+          "what": "Switch review"
+        },
+        {
+          "url": "https://www.pcinvasion.com/?p=405700",
+          "what": "PC Invasion review mentioning interface irritations and grind"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1970580/backpack-hero",
+          "what": "Estimated revenue figures"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (Metascore 76, 6 critics, user 7.0) and OpenCritic (71, 63% recommend, 16 reviews): all match, no change. Checked bullets against top Steam reviews; abandonment, bugs, unlockable temple/NPC bug, story-mode grind, RNG, no item locking all confirmed. Added one worst_things theme (short, steep difficulty ramp, slow leveling) from a top positive review. Wikipedia-vs-Steam update conflict already flagged in reception_notes."
+    },
+    "his_anchor": null,
+    "his_pos": 11,
+    "his_row_n": 14,
+    "his_spoken": null,
+    "his_score": 25.0,
+    "his_top10_bonus": 0,
+    "players_score": 35.6,
+    "critics_score": 13.0,
+    "critics_avg": 73.5,
+    "overall": 26.3,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

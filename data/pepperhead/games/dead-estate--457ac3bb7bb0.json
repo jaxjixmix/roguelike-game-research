@@ -1,0 +1,269 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dead estate",
+    "name": "Dead Estate",
+    "display_name": "Dead Estate",
+    "appid": 1484720,
+    "img": "img/1484720.jpg",
+    "steam_url": "https://store.steampowered.com/app/1484720/",
+    "website": "https://2leftthumbs.manakeep.com/dead-estate",
+    "short_description": "Cornered with nowhere else to turn, can you escape the monster-filled mansion? Dead Estate is a gory, fast-paced, challenging roguelike shooter with a heavy emphasis on horror.",
+    "developers": [
+      "Milkbar Lads"
+    ],
+    "publishers": [
+      "2 Left Thumbs"
+    ],
+    "release_date": "Oct 19, 2021",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Twin Stick Shooter",
+      "Horror",
+      "Shoot 'Em Up",
+      "Replay Value",
+      "Rogue-like",
+      "Difficult",
+      "Dungeon Crawler",
+      "Perma Death",
+      "Action"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 94.6,
+    "steam_total_reviews": 6662,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/dead-estate/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": "https://opencritic.com/game/20975/dead-estate",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive)",
+        "score": "94.6% positive of 6,662 reviews",
+        "url": "https://store.steampowered.com/app/1484720/Dead_Estate/"
+      },
+      {
+        "source": "Video Chums (via OpenCritic/Metacritic)",
+        "score": "4/5 (80)",
+        "url": "https://opencritic.com/game/20975/dead-estate"
+      },
+      {
+        "source": "Nindie Spotlight (via OpenCritic/Metacritic)",
+        "score": "7.9/10 (79)",
+        "url": "https://opencritic.com/game/20975/dead-estate"
+      },
+      {
+        "source": "Horror Geek Life (as cited by Notebookcheck)",
+        "score": "4.5/5",
+        "url": "https://www.notebookcheck.com/Zum-ersten-Mal-fuer-rund-4-20-Euro-auf-Steam-Roguelike-Shooter-ist-komplett-Skill-based-und-hat-94-positive-Bewertungen.1142464.0.html"
+      },
+      {
+        "source": "IGDB (as cited by search snippet)",
+        "score": "69/100 from 14 ratings",
+        "url": "https://www.igdb.com/games/dead-estate"
+      }
+    ],
+    "vgi_units": 200000,
+    "vgi_revenue": 2100000,
+    "vgi_rating": 94.582,
+    "vgi_reviews": 6663,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dead-estate",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,645,854.92",
+    "src_net": "780,527.20",
+    "src_url": "https://steam-revenue-calculator.com/app/1484720/dead-estate",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "even though it's in C tier it's just when my game I'm likely to play again",
+        "video_id": "5k_-k4X90ao",
+        "t": 2457,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=2457s",
+        "year_in_title": "2021",
+        "pos": 7,
+        "row_n": 14,
+        "row_score": 0.5817857142857144,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "A goofy, deliberately Flash-game-styled action roguelike inspired by old Newgrounds animation and art, with a third-person 3D view where you can jump. He finds it fun, cute and full of secrets, and respects that it does not take itself seriously. The jumping in 3D feels awkward even after 10+ hours, the weapons feel random, and he dislikes its pixel art. He places it in C tier, stressing that C is not bad, just a game he is less likely to replay. Note: the transcript description does not clearly match the chapter title, so the identification relies on the chapter label.",
+        "praise": [
+          "Flash/Newgrounds-inspired art style and vibe executed on purpose",
+          "Does not take itself seriously; fun, goofy tone",
+          "Lots of secrets, so constant discovery across random play sessions",
+          "Cute and fun overall; the developers did exactly what they set out to do",
+          "Wide variety of different weapons"
+        ],
+        "criticism": [
+          "Jumping in the 3D environment feels awkward even after 10+ hours",
+          "Gameplay is very minimalistic and he struggles with it",
+          "Weapons feel random and you can only hold one or two",
+          "Not a fan of the pixel art element",
+          "Low replay pull compared with his favorites"
+        ],
+        "unique_points": [
+          "Flash-game / Newgrounds animation aesthetic as a deliberate identity",
+          "Secret-heavy design that rewards random experimentation"
+        ],
+        "quote": "even though it's in C tier it's just when my game I'm likely to play again",
+        "comparisons": [],
+        "design_criteria": [
+          "Charm/visuals: loves the Flash-style look but dislikes the pixel art",
+          "Controls/feel: awkward jumping in a 3D space hurts it",
+          "Weapon variety: many weapons but they feel random and limited to one or two held",
+          "Secrets/discovery: many secrets encourage playing and finding new things",
+          "Tone: goofy, not self-serious, which he respects",
+          "Replayability: tier reflects how likely he is to return to it"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A gory, horror-themed isometric twin-stick roguelike shooter by Milkbar Lads (published by 2 Left Thumbs) where you climb the floors of a monster-filled mansion with no persistent stat upgrades, so progress is pure skill.",
+      "consensus_summary": "Dead Estate is a cult-favourite indie on Steam (Very Positive, about 94.6% of roughly 6,660 reviews) and is widely described as a hidden gem with huge replay value, strong art and music, and a large pile of unlockables (200 achievements, 10 characters, hundreds of items and weapons). Players who click with it play dozens or even 100+ hours. Detractors, often with short playtimes, bounce off the isometric perspective (hard-to-read projectiles and flying enemies), visual clutter, RNG-heavy runs and, for some, crashes. Professional coverage is very thin: only two critic reviews exist (Video Chums 4/5, Nindie Spotlight 7.9/10), both positive, from the Switch release. It is not early access; the original 2020 itch.io build was relaunched on Steam in Oct 2021 and has received large free content updates since, including a Halloween 2024 update that players credit for a big content expansion. Its Steam popularity is partly fuelled by the playable witch Cordelia and the character art, which many reviews joke about.",
+      "best_things": [
+        "Playable-character appeal: the most-upvoted positive reviews are overwhelmingly about Cordelia the witch and the rest of the cast (Jeff, Jules), with many buyers saying they came for the characters and stayed for the gameplay",
+        "Distinctive art style, strong character design and a well-liked soundtrack, frequently called out as the top strengths",
+        "Huge amount of content for a small indie: 10 playable characters each with their own ending and playstyle, hundreds of items and weapons, run modifiers, curses and a separate challenge mode",
+        "Hunting the roughly 200 medals/achievements is called addictive, with many unlocking 15 in a single run",
+        "Skill-based design: no persistent power upgrades, so every run tests you equally and you feel yourself improving",
+        "Run modifiers, curses and challenges add variety; one critical reviewer says the modifiers are the one thing it does better than Enter the Gungeon",
+        "Items can be busted and build-defining, giving satisfying power-fantasy runs",
+        "Assignment Anya, a separate Resident Evil-style survival-horror campaign, is praised as a cool bonus game by critics and many players",
+        "Quirky characters, lore and humor; bite-sized runs that are easy to pick up",
+        "Hidden and secret content (shrines, alternate floors) reportedly goes far beyond what a small indie would be expected to have"
+      ],
+      "worst_things": [
+        "Isometric 3D-in-2D perspective makes lobbed projectiles, flying enemies and verticality hard to judge; the most common complaint, with players saying they die without knowing what hit them",
+        "Visual clutter and screen effects (one reviewer wrote about it emphatically) make fights hard to read in busy rooms",
+        "Hitboxes described as janky or inconsistent, and enemies can hit you right on room entry",
+        "Crashes, freezes and lag in some setups; multiple recent Steam reviews report crashes mid-run, plus Steam Deck issues such as cloud save and playtime problems per a review aggregator summary",
+        "Heavy RNG dependence: bad weapon or item rolls can snowball into a failure spiral",
+        "Menu and UI complaints: oversized text that grows on hover, no accessibility options, shop layout shifting",
+        "Some rooms feel samey and cramped, with enemies lacking distinct movement patterns in the eyes of critical players"
+      ],
+      "improvements": [
+        "Better readability of projectiles and verticality (clearer shadows, indicators, or reduced effect clutter)",
+        "Ability to discard or sell items that do not fit a build, and a confirmation prompt to avoid accidentally swapping the single secondary weapon",
+        "Rebalancing of a few unfair challenges (one reviewer singles out Fuji's challenges, especially Bulking Up, and Death from Above in the shrine with the jetpack)",
+        "Stability and performance fixes, including Steam Deck support and crash/mouse-capture problems after recent updates",
+        "Menu and UI redesign with scalable text and accessibility settings",
+        "More distinct room layouts and enemy behaviours to reduce sameness"
+      ],
+      "unique_things": [
+        "Time-pressure mechanic: lingering too long in an area summons a strong creature that hunts you, pushing a fast pace",
+        "No dedicated dodge button and no persistent upgrades; only a jump to avoid projectiles, making it purely skill-based",
+        "Horror and Halloween theming with a cartoonish Scott Pilgrim meets Invader Zim look",
+        "Assignment Anya, a fixed-camera survival-horror mode in the style of old Resident Evil, bundled inside a roguelike shooter",
+        "Each of the 10 characters has a distinct playstyle and ending, plus curses and run modifiers layered on top",
+        "No gun reloads, which keeps the action continuous (a pro for some, a source of dullness for others)"
+      ],
+      "tedious_or_disliked": [
+        "Perspective and projectile-reading problems that make the core fights frustrating for some players",
+        "Early difficulty wall: several positive reviewers almost quit before something clicked, and one took a year to get past floor one",
+        "Completionist grind: 200 achievements and some punishing challenges are seen as a slog by some, though others love it",
+        "Special floors, UFO pickups, looped runs and fire-rate-lowering items reported as infuriating by a 43-hour player",
+        "Sameness of rooms and enemy patterns in the eyes of critical reviewers, who call it generic versus Enter the Gungeon",
+        "RNG-heavy item and weapon drops that can doom a run early"
+      ],
+      "divisive_points": [
+        "Isometric perspective: some find it charming and readable after practice, others call it fundamentally bad for a bullet-dodging game",
+        "Difficulty and skill-based design: praised as fair and rewarding by fans, called unforgiving and impossible to parse by others; difficulty tiers are felt by one reviewer to barely differ",
+        "Comparison with Enter the Gungeon: some call it more bite-sized and charming, others say there is no reason to pick it over EtG at similar price",
+        "Character art and fan service: a big draw for many buyers, dismissed by others as the only reason the game is hyped",
+        "Assignment Anya mode: seen as a great bonus by critics and fans, while at least one 59-hour reviewer did not care for it"
+      ],
+      "reception_notes": "Originally a free/pay-what-you-want itch.io game (Dead Estate Classic, with a 2020 Halloween update) that was relaunched with much more content on Steam on 19 Oct 2021 at $14.99; it is regularly discounted deeply (around 4 euros at times). Steam-revenue-calculator estimates roughly $2.6M gross and $0.78M net, and SteamSpy gives 200k to 500k owners (estimates only, not audited). Steam sentiment has stayed Very Positive while recent reviews from 2025-2026 remain active, with some reporting crashes after latest updates. Metacritic lists PC, Nintendo Switch and PS5 (release date July 10, 2026) with only two critic reviews so far, so no Metascore or user score is shown yet (needs 4 of each); OpenCritic shows just two reviews and no average. Windows only on PC; Steam Deck verified per Notebookcheck.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1484720.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: appid 1484720, review counts, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://opencritic.com/game/20975/dead-estate",
+          "what": "OpenCritic page: 2 critic reviews (Video Chums 4/5, Nindie Spotlight 7.9/10), no average"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dead-estate/",
+          "what": "Metacritic page: PC/Switch/PS5 listing, score pending (2 of 4 needed reviews)"
+        },
+        {
+          "url": "https://www.dreadcentral.com/reviews/485084/dead-estate-review-learn-to-love-the-curve/",
+          "what": "Dread Central review: skill-based design, no dodge button, verticality frustration"
+        },
+        {
+          "url": "https://vaporlens.app/app/1484720/dead_estate",
+          "what": "Aggregated Steam review summary: praise, perspective/hitbox complaints, crashes, Steam Deck issues, value"
+        },
+        {
+          "url": "https://www.notebookcheck.com/Zum-ersten-Mal-fuer-rund-4-20-Euro-auf-Steam-Roguelike-Shooter-ist-komplett-Skill-based-und-hat-94-positive-Bewertungen.1142464.0.html",
+          "what": "Notebookcheck article: time-pressure creature mechanic, content counts, Horror Geek Life 4.5/5, sale pricing"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1484720/dead-estate",
+          "what": "Estimated gross/net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://milkbar-lads.itch.io/dead-estate-classic",
+          "what": "Original itch.io version and devlog (Halloween update)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1484720/Dead_Estate/",
+          "what": "Steam store page: 10 characters, tags, release date, price"
+        },
+        {
+          "url": "https://www.nintendolife.com/eshop/dead_estate",
+          "what": "Switch eShop listing confirming console release and Assignment Anya/feature description"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched OpenCritic (2 reviews: Video Chums 4/5, Nindie Spotlight 7.9/10, no average) and Metacritic (no Metascore/user score yet; 2 of 4 reviews; platforms PC, Switch, PS5): critic_scores confirmed, nulls kept. Steam reviews match the file (Cordelia appeal, isometric readability, EtG comparison, crashes). Added one best_things theme (character appeal, top upvoted). Corrected Metacritic platform/release wording in reception_notes and sources."
+    },
+    "his_anchor": null,
+    "his_pos": 7,
+    "his_row_n": 14,
+    "his_spoken": null,
+    "his_score": 58.2,
+    "his_top10_bonus": 0,
+    "players_score": 75.0,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 65.5,
+    "labels": [
+      "shooter",
+      "action"
+    ],
+    "primary_label": "shooter"
+  }
+}

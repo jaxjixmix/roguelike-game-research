@@ -1,0 +1,267 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "necrosmith 2",
+    "name": "Necrosmith 2",
+    "display_name": "Necrosmith 2",
+    "appid": 2277320,
+    "img": "img/2277320.jpg",
+    "steam_url": "https://store.steampowered.com/app/2277320/",
+    "website": "https://alawar.com/games/necrosmith-2",
+    "short_description": "Like a dead man reanimated by dark sorcery, the necromancer simulator is back! Give the undead the ability to fly over mountains and swim across rivers, explore a fully generated world at night and fend off enemy hordes during the day. Start a new, uhm, life.",
+    "developers": [
+      "Alawar"
+    ],
+    "publishers": [
+      "Alawar"
+    ],
+    "release_date": "Mar 27, 2024",
+    "coming_soon": false,
+    "price": "$7.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Strategy",
+      "Rogue-lite",
+      "Bullet Hell",
+      "Real-Time",
+      "Management",
+      "Simulation",
+      "Action",
+      "Top-Down",
+      "Exploration"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 78.1,
+    "steam_total_reviews": 1531,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/necrosmith-2/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "GameGrin (Chris Wootton), listed on Metacritic",
+        "score": "8/10 (80)",
+        "url": "https://www.gamegrin.com/reviews/necrosmith-2-review/"
+      },
+      {
+        "source": "Movies Games and Tech, listed on Metacritic",
+        "score": "7/10 (70)",
+        "url": "https://moviesgamesandtech.com/2024/03/31/review-necrosmith-2/"
+      },
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "Mostly Positive, about 78% of ~1,531 reviews (1,195 positive / 336 negative)",
+        "url": "https://store.steampowered.com/app/2277320/Necrosmith_2/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "200,000 .. 500,000 owners (rough)",
+        "url": "https://steamspy.com/app/2277320"
+      },
+      {
+        "source": "steam-revenue-calculator.com (Boxleiter-method estimate)",
+        "score": "est. gross ~$100,302, net ~$29,589 (order-of-magnitude only; looks low relative to SteamSpy owners, likely heavy discounting/bundles)",
+        "url": "https://steam-revenue-calculator.com/app/2277320/necrosmith-2"
+      }
+    ],
+    "vgi_units": 153000,
+    "vgi_revenue": 694000,
+    "vgi_rating": 78.076,
+    "vgi_reviews": 1528,
+    "vgi_url": "https://app.sensortower.com/vgi/game/necrosmith-2",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "100,301.76",
+    "src_net": "29,589.02",
+    "src_url": "https://steam-revenue-calculator.com/app/2277320/necrosmith-2",
+    "final_tier": "C",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "\"this one's going to be a high SE tier for me\" (ASR, likely 'high C tier')",
+        "video_id": "zKosjx7EpKA",
+        "t": 5808,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=5808s",
+        "year_in_title": "2024",
+        "pos": 3,
+        "row_n": 7,
+        "row_score": 0.6978571428571427,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Necrosmith 2 is the sequel to an auto-battling undead-army roguelite where you craft minions and let them fight on their own. He was looking forward to it because the first game had obvious quality-of-life fixes to make, and it does deliver better visuals, better AI and more mechanics such as the Titan. Overall he finds it a step down from the original. The separate small worlds and the overpowered Titan strip out the exploration, adventure and strategy he loved, and he beat the game far faster than the first one.",
+        "praise": [
+          "Visuals are improved over the first game",
+          "Better minion AI and more quality-of-life improvements",
+          "More mechanics and more things to do with the different undead",
+          "Titan creation (assembling collected pieces into a huge unit) is cool and awesome to have"
+        ],
+        "criticism": [
+          "Lost the sense of adventure: multiple separate worlds (only three) replace one big world to push through",
+          "Each world is beaten quickly; he finished the whole game in a handful of runs, about four times faster than the original",
+          "Starting later worlds with powerful minions makes them feel less impactful",
+          "Map is small and its outline is revealed very fast, so there is little exploration",
+          "Titans are overpowered and trivialize base defense; park one at base and ignore it for ~20 minutes, reducing strategy",
+          "Overall feels less free and loses the charm of the original"
+        ],
+        "unique_points": [
+          "The Titan mechanic: collect pieces to build a huge unit, limited to one or two",
+          "Design lesson: more systems and better AI do not compensate for removing exploration and strategic tension",
+          "Separate selectable worlds per run change the pacing versus one continuous expedition"
+        ],
+        "quote": "I personally have a more fun experience from the original than this one",
+        "comparisons": [
+          "Necrosmith (the original)"
+        ],
+        "design_criteria": [
+          "Exploration and adventure: the original's single expanding world is valued over small separate maps",
+          "Strategy and decision-making: overpowered Titans remove the need to manage the base",
+          "Power curve and pacing: starting with strong minions dulls progression impact",
+          "Run and game length: beating the game very quickly is disappointing",
+          "Visuals and quality of life: improved, but does not offset the lost charm",
+          "AI and mechanics depth: more mechanics and better AI are noted as positives"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A real-time necromancer tower-defense/auto-battler roguelite from Alawar/Amber Jam where you stitch undead minions from monster body parts, send them out to explore a procedurally generated map, and fend off enemy hordes and bosses on a timer.",
+      "consensus_summary": "Steam players rate it Mostly Positive (about 78% of roughly 1,500 reviews, steady in recent reviews too), and most positive reviewers frame it as a cheap, chill, silly minion-builder that is worth buying on sale for 10-25 hours. The two critic reviews on Metacritic (GameGrin 8/10, Movies Games and Tech 7/10) are friendly and stress humor, Steam Deck suitability and the fun of combining parts. Negative reviews focus on a grindy meta-progression, a steep jump in difficulty between the three maps, Titans that make normal units irrelevant, weak inventory/recipe UI, no mid-run save, and late-map FPS collapse and memory problems. Many players see it as an incremental upgrade that could almost have been a big update or DLC for Necrosmith 1. It is a released 1.0 game (Mar 27, 2024, Windows/Mac) with a developer bug-report form on Steam, but several reviewers say known bugs and performance issues have gone unfixed for months.",
+      "best_things": [
+        "Build-a-minion loop: mixing body parts from different fantasy races and discovering secret recipes is the hook most reviewers enjoy",
+        "Humor and style: sarcastic cat narrator, pop-culture/other-universe creature references, nice pixel visuals",
+        "Improvements over Necrosmith 1: manual control of a single unit, pause to think mid-battle, better part sorting, area-defense orders for minions, more maps/biomes",
+        "Controllable Titans are a fun, pretty power fantasy and a big new mechanic",
+        "Artifacts and body-part variety allow different builds and keep runs interesting",
+        "Chill, low-stress pacing and low PC demands; good on Steam Deck according to critics",
+        "Great value: cheap base price ($7.99) and frequent deep discounts; completionists report around 17-20 hours for 100%"
+      ],
+      "worst_things": [
+        "Severe performance problems in big maps: once most of a map is explored, FPS can fall to single digits or near zero and memory use balloons, sometimes making runs unplayable",
+        "No save during a run; long runs mean leaving the game open, and several players report softlocks that erase ~30 minutes of progress",
+        "Difficulty and upgrade costs spike hard from map 1 to map 2 and 3, forcing repeated grinding (upgrades cited at 15,000-45,000 gold versus ~10,000 gold earned per run)",
+        "Balance: Titans trivialise or dominate fights while normal units are weak against bosses, so unit design matters less than having a Titan",
+        "Recipe/inventory UI is poor: no search, filter or species sorting, constantly shifting part list, and scrolling hundreds of recipes",
+        "Bugs and unfinished details, e.g. mislabeled abilities (two different weapons named Steam Saw), reported unfixed for months",
+        "Audio: units spam loud ability sounds, with several Pharaohs making the game unbearable without muting"
+      ],
+      "improvements": [
+        "Add a mid-run save or resume, or suspend feature",
+        "Optimise performance and memory for large explored maps",
+        "Add search, filters and sorting for body parts and recipes (including show only craftable recipes)",
+        "Rebalance map-to-map difficulty and upgrade costs to reduce forced grinding; add a game-speed-up option",
+        "Rebalance Titans versus normal units and make unit composition and recipes matter more than artifact stat stacking",
+        "More maps, challenges/handicap modes, new buildings and upgrades, and more story content; some players want a sequel with more variation or multiplayer",
+        "Fix sound spam and mislabeled items"
+      ],
+      "unique_things": [
+        "Necromancer-simulator framing: you play the villain, reanimating monsters from parts to conquer the land",
+        "Five-part minion crafting with set bonuses across fantasy races and 300+ hidden recipes, discovered by experimentation",
+        "Hybrid of tower defense, auto-battler, resource gathering and light management/idle elements, with a countdown timer that ends in a boss fight",
+        "Direct control of one unit at a time plus area defense orders, with giant Titan units as elite constructs",
+        "Day/night style exploration of a fully generated world with lairs to attack and areas to defend; three mini-worlds with story"
+      ],
+      "tedious_or_disliked": [
+        "Mandatory meta-progression grind, described as mobile-game style, with very expensive upgrades before world 3",
+        "Long stretches of waiting while minions gather resources; the game can turn into an idle/clicker game",
+        "Crafting becomes repetitive: pick five parts and go, and random picks work nearly as well as careful builds",
+        "Secret recipes are hard to discover by trial and error and often feel underwhelming or pointless compared to artifacts; many players just look recipes up",
+        "Being one part short of a desired recipe (also noted by critics)",
+        "Runs take long and cannot be paused by saving, so casual play is hard",
+        "Game feels small and repetitive across its few maps"
+      ],
+      "divisive_points": [
+        "Difficulty: some players find it much more challenging than the relaxed first game and like it, others find the map-to-map jump unfair",
+        "Value and scope: many call it a great cheap game, others say it should have been DLC or an update to Necrosmith 1 and that Necrosmith 1 was better",
+        "Titans: praised as fun and controllable, criticised as overtuned and making normal minion crafting irrelevant",
+        "Length: some like that it does not overstay its welcome (about 10 hours), others want far more content and replayability"
+      ],
+      "reception_notes": "Launched Mar 27, 2024 (Windows, Mac) at $7.99 with a free demo and a separate soundtrack. Early critic coverage (Mar-Jul 2024) was positive. Steam reception settled at Mostly Positive and has stayed there, with recent 30-day reviews around 78% too. Steam reviews posted through late 2025 and 2026 still complain about FPS drops, memory leaks, lack of saving and unfixed bugs; the community forum (about 284 topics) has threads on late-game lag, OBS issues, unreliable saves, and a pinned developer bug-report form from Amber Jam, plus a fan thread asking about Necrosmith 3. Metacritic has only 2 critic reviews and 2 user ratings, so no official Metascore or user score is shown yet (needs 4). No OpenCritic entry was found. Note: the WebSearch budget was exhausted in this session, so research relied on Steam data, Steam reviews, Metacritic, the two critic reviews, the Steam store and community pages; Reddit could not be fetched.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2277320.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid, release date, review counts, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2277320/Necrosmith_2/",
+          "what": "Steam store page: description, review summary, tags, demo"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2277320/discussions/",
+          "what": "Steam community forum: performance/save complaints, bug report form, Necrosmith 3 thread"
+        },
+        {
+          "url": "https://www.metacritic.com/game/necrosmith-2/",
+          "what": "Metacritic page: only 2 critic reviews and 2 user ratings, no score yet"
+        },
+        {
+          "url": "https://www.metacritic.com/game/necrosmith-2/critic-reviews/",
+          "what": "Metacritic critic review list (GameGrin, Movies Games and Tech)"
+        },
+        {
+          "url": "https://www.gamegrin.com/reviews/necrosmith-2-review/",
+          "what": "GameGrin review, 8/10"
+        },
+        {
+          "url": "https://moviesgamesandtech.com/2024/03/31/review-necrosmith-2/",
+          "what": "Movies Games and Tech review, 7/10"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2277320/necrosmith-2",
+          "what": "Revenue estimate (Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/search?q=necrosmith",
+          "what": "OpenCritic search attempted; no Necrosmith 2 entry found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore/user score yet (needs 4 reviews); only GameGrin 80 and Movies Games and Tech 70, so critic_scores confirmed unchanged (nulls correct). Checked bullets against the top Steam reviews; themes (grind, repetitiveness/idle, Titans balance, sound spam, mislabeled items, memory/FPS, no save, 'should be DLC') are supported. Removed 2 bullets I could not corroborate from reviews (meta-progression visuals praise; broken bug reporting). Nothing added."
+    },
+    "his_anchor": null,
+    "his_pos": 3,
+    "his_row_n": 7,
+    "his_spoken": "said high",
+    "his_score": 69.8,
+    "his_top10_bonus": 0,
+    "players_score": 8.3,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 42.9,
+    "labels": [
+      "strategy",
+      "survivors_like"
+    ],
+    "primary_label": "strategy"
+  }
+}

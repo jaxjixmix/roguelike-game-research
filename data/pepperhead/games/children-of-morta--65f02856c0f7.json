@@ -1,0 +1,259 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "children of morta",
+    "name": "Children of Morta",
+    "display_name": "Children of Morta",
+    "appid": 330020,
+    "img": "img/330020.jpg",
+    "steam_url": "https://store.steampowered.com/app/330020/",
+    "website": "http://www.childrenofmorta.com/",
+    "short_description": "Children of Morta is a story-driven action RPG game about an extraordinary family of heroes. Lead the Bergsons, with all their flaws and virtues, against the forthcoming Corruption. Will you be able to sacrifice everything to save the ones you care for?",
+    "developers": [
+      "Dead Mage"
+    ],
+    "publishers": [
+      "11 bit studios"
+    ],
+    "release_date": "Sep 3, 2019",
+    "coming_soon": false,
+    "price": "$21.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Rogue-like",
+      "Pixel Graphics",
+      "Online Co-Op",
+      "Hack and Slash",
+      "Action Roguelike",
+      "RPG",
+      "Rogue-lite",
+      "Local Co-Op",
+      "Dungeon Crawler"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 88.4,
+    "steam_total_reviews": 23453,
+    "metacritic": 82,
+    "metacritic_url": "https://www.metacritic.com/game/pc/children-of-morta?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.9,
+    "opencritic": 83,
+    "opencritic_url": "https://opencritic.com/game/8217/children-of-morta",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, about 88.4% positive of 23,453)",
+        "score": "88.4%",
+        "url": "https://store.steampowered.com/app/330020/Children_of_Morta/"
+      },
+      {
+        "source": "Metacritic PS4 / Switch / Xbox One critic scores",
+        "score": "80 each",
+        "url": "https://www.metacritic.com/game/pc/children-of-morta"
+      },
+      {
+        "source": "Game Critics (Jeff Ortloff)",
+        "score": "7/10",
+        "url": "https://gamecritics.com/jeff-ortloff/children-of-morta-review/"
+      },
+      {
+        "source": "OpenCritic critics recommend",
+        "score": "about 90% (107 reviews)",
+        "url": "https://opencritic.com/game/8217/children-of-morta"
+      }
+    ],
+    "vgi_units": 849000,
+    "vgi_revenue": 10900000,
+    "vgi_rating": 88.383,
+    "vgi_reviews": 23439,
+    "vgi_url": "https://app.sensortower.com/vgi/game/children-of-morta",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,757,658.26",
+    "src_net": "813,509.19",
+    "src_url": "https://steam-revenue-calculator.com/app/330020/children-of-morta",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'll put it as uh yeah it's a b game",
+        "video_id": "5k_-k4X90ao",
+        "t": 1275,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=1275s",
+        "year_in_title": "2019",
+        "pos": 19,
+        "row_n": 35,
+        "row_score": 0.4714285714285714,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Children of Morta is a pixel-art action roguelite where you play a whole family, picking one member per run as you delve dungeons to save the world. He loved the family relationships, the story between runs, and the cute art. The gameplay felt only okay and got repetitive, with grinding needed to unlock the abilities to progress. Levels became boring and effects were hard to read. He thinks it is a good game that he experienced once, and he places it in B tier.",
+        "praise": [
+          "Family of playable characters with a lot of care in characters and plot",
+          "Returning to the family between runs to see their reactions is charming",
+          "Cute, nice pixel art style",
+          "Story aspects feel brought to life",
+          "Overall a pretty good game and a nice first experience"
+        ],
+        "criticism": [
+          "Gameplay felt fairly repetitive",
+          "Heavily roguelite: requires grinding character upgrades to progress and reach the next area",
+          "Fire and other effects blend into the environment, making combat with many enemies confusing",
+          "Level designs became boring after a while",
+          "Feels like a one-time experience he would not replay"
+        ],
+        "unique_points": [
+          "Playing as an entire family, choosing one member each run",
+          "Narrative and relationship vibe between runs drives motivation to keep going"
+        ],
+        "quote": "I think it's a pretty good game... it's a b game",
+        "comparisons": [],
+        "design_criteria": [
+          "Characters/story: strong family narrative and charm",
+          "Visuals/art: lovely pixel art but effects reduce readability",
+          "Meta-progression: heavy, forces grinding to progress",
+          "Level design: repetitive and boring over time",
+          "Replayability: feels like a one-and-done experience",
+          "Combat clarity: effects blend with environment"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A story-driven pixel-art action RPG roguelite by Dead Mage (published by 11 bit studios) in which you rotate through the members of the Bergson family, each with a distinct playstyle, through procedurally generated dungeons on Mount Morta, with optional local or online co-op.",
+      "consensus_summary": "Children of Morta is received as a polished, warm, well-presented indie: Steam is Very Positive (about 88% of roughly 23,000 reviews), Metacritic sits at 82 from critics with a 7.9 user score, and OpenCritic at 83 with about 90% of critics recommending it. Praise centres on the family narrative, the narrator, the pixel art and music, and the variety from multiple playable characters. Complaints are about repetitive dungeons and enemies, a grindy meta-progression, kiting-heavy combat, pacing and difficulty inconsistencies, and buggy or unstable co-op. The game is finished and released on PC, consoles and mobile, with DLC (Ancient Spirits, Paws and Claws, Family Fireside Fables), so it is not early access or abandoned. Many players say it plays best in co-op and is weaker solo.",
+      "best_things": [
+        "The Bergson family story and the narrator: the narration gives warmth and emotional weight to runs and cutscenes, and the family theme is repeatedly called the heart of the game",
+        "Pixel art and animation are widely called gorgeous, with atmospheric music and audio design also praised",
+        "Each of the playable family members feels different (archer Linda, melee, caster and others), which encourages rotating characters and lets players find a favourite",
+        "Fast, snappy action combat that critics describe as satisfying, with a steady stream of buffs and powers stacking up over a run",
+        "Co-op, local and online, is described by many players as the best way to play and a joy with friends",
+        "Dying does not lose gold or XP (you are sent back to the family home), and story events fire between runs, so the loop rarely feels purely punitive",
+        "Approachable difficulty for newcomers to the genre; reviewers call it a good entry-level roguelite and several players report it plays well on Steam Deck"
+      ],
+      "worst_things": [
+        "Combat often collapses into hit-and-run kiting; several negative Steam reviewers say fights lack depth beyond attack, retreat, repeat",
+        "Repetitive environments and limited enemy and location variety, with the mid-game described as tedious in the Game Critics review and elsewhere",
+        "Grinding for permanent upgrades and for levelling all characters is a frequent complaint, and the early dungeons can feel punishing until you have upgrades",
+        "Uneven difficulty and pacing: the Corruption fatigue system is seen by some as artificial padding; some characters (tanky melee, Lucy's rooted casting) feel weaker or clunkier than ranged ones like Linda",
+        "Late-game escort and timed missions were singled out by a critic as ill-advised",
+        "Bugs, co-op instability and controller issues are noted by reviewers and players; long load times also appear in critic complaints",
+        "Story progression is tied to deaths and run ends, so skilled players who rarely die can skip or scramble dialogue and quests, per a highly upvoted negative Steam review",
+        "Gameplay loop goes stale late in the campaign, and several positive reviewers say the story and replayability are not strong enough to keep them coming back"
+      ],
+      "improvements": [
+        "More variety in enemies, biomes and dungeon layouts so later runs differ more from earlier ones",
+        "Deeper combat with more reasons to stand and fight rather than kite, including better balance across family members",
+        "Less grindy, more meaningful meta-progression, and more run-to-run build variety so power-ups change how you play",
+        "Progression and story pacing that adapts to players who advance faster than the designed skill curve, plus an option to go back and power up before hard boss fights",
+        "Better co-op stability and sync, clearer UI, and more reliable controller support",
+        "Clearer enemy attack telegraphs and more forgiving dodge and ability queuing, raised by struggling new players"
+      ],
+      "unique_things": [
+        "A family-drama narrative wrapper with a narrator, unusual for a roguelite, where the cast develops across runs",
+        "A rotating roster where the whole family gets bonus traits from levelling every member, pushing you to play them all rather than main one class",
+        "Death returns you to the family home with no loss of gold or XP, so the home hub and between-run story events drive the pacing",
+        "Story told boss by boss with scripted beats between procedurally generated dungeon runs",
+        "Hand-crafted pixel art presentation and cinematic cutscenes that stand out among action roguelites",
+        "Native local and online co-op built into an ARPG roguelite structure"
+      ],
+      "tedious_or_disliked": [
+        "Replaying the same early dungeons to buy upgrades before you can progress",
+        "Constant kiting against damage-sponge enemies and elites that resist stagger and crowd control",
+        "Corruption fatigue system, which limits playing one character and forces rotation",
+        "Escort and timed missions in the late game",
+        "Narrator commentary becoming tiresome for some players, and a clunky UI for some",
+        "Long load times and buggy co-op sessions"
+      ],
+      "divisive_points": [
+        "Solo versus co-op: fans say it shines in co-op, while many negative reviews say it is mediocre or grindy when played alone",
+        "Difficulty: some find it gentle and ideal for beginners, others hit early difficulty spikes or sudden hard bosses",
+        "Forced character rotation: praised for variety by some, resented as grind and padding by others",
+        "Replay value: several positive reviewers finished the campaign and felt no urge to replay, while others sink 30 to 50 hours into it"
+      ],
+      "reception_notes": "Launched September 3, 2019 on PC to strong critical reception (Metacritic 82, OpenCritic 83) and later came to PS4, Xbox One, Switch, PS5, Xbox Series X/S and mobile. Steam shows roughly 1 to 2 million owners by SteamSpy estimates and estimated gross revenue of about 2.76 million dollars (net about 0.81 million) on a Boxleiter-method calculator, which is order-of-magnitude only and covers Steam only. DLC includes Ancient Spirits, Paws and Claws and Family Fireside Fables. Developer is Dead Mage, an Iran-based studio. Recent Steam reviews mostly repeat the same co-op, kiting and narrator themes, and some mention Steam Deck as a good fit. No major controversies found.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/330020.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/330020/Children_of_Morta/",
+          "what": "Steam store data: Very Positive, 23,453 reviews, release date, DLC (via local steam_data.json)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/children-of-morta",
+          "what": "Metacritic critic score 82 (48 reviews) and user score 7.9 (412 ratings); console scores 80"
+        },
+        {
+          "url": "https://opencritic.com/game/8217/children-of-morta",
+          "what": "OpenCritic score 83, 107 reviews, about 90% recommend, critic consensus"
+        },
+        {
+          "url": "https://gamecritics.com/jeff-ortloff/children-of-morta-review/",
+          "what": "Game Critics 7/10 review: tedious mid-game, balance issues, escort and timed missions"
+        },
+        {
+          "url": "https://vaporlens.app/app/330020/children_of_morta.md",
+          "what": "Aggregated Steam review themes: grind, bugs, co-op, story and narrator praise, controller issues"
+        },
+        {
+          "url": "https://steamcommunity.com/app/330020/discussions/0/2247804520117995657",
+          "what": "Steam discussion on early difficulty and dying a lot; community advice on upgrades and Linda"
+        },
+        {
+          "url": "https://windowscentral.com/children-morta-pc-review-roguelike-dungeon-crawling-done-right",
+          "what": "Windows Central review (search result summary): praise for dungeon crawling and presentation"
+        },
+        {
+          "url": "https://www.highgroundgaming.com/?p=8294",
+          "what": "High Ground Gaming review (search summary): pixel art, co-op stability issues, narrative"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/330020/children-of-morta",
+          "what": "Estimated Steam gross and net revenue (Boxleiter method, order of magnitude only)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (82, 48 critics; user 7.9, 412 ratings) and OpenCritic (83, ~90% recommend, 107 reviews): all match, unchanged. Removed Mac/Steam Deck performance complaint (Steam Deck reviews are positive) and unsupported low-end hardware claim; added late-game loop staleness/replayability theme to worst_things; softened undated 'recent reviews' wording."
+    },
+    "his_anchor": null,
+    "his_pos": 19,
+    "his_row_n": 35,
+    "his_spoken": null,
+    "his_score": 47.1,
+    "his_top10_bonus": 0,
+    "players_score": 44.7,
+    "critics_score": 66.0,
+    "critics_avg": 82.5,
+    "overall": 50.1,
+    "labels": [
+      "action",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

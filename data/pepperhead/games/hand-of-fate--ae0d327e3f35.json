@@ -1,0 +1,257 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "hand of fate",
+    "name": "Hand of Fate",
+    "display_name": "Hand of Fate",
+    "appid": 266510,
+    "img": "img/266510.jpg",
+    "steam_url": "https://store.steampowered.com/app/266510/",
+    "website": "http://www.defiantdev.com/hof1.html",
+    "short_description": "Deckbuilding comes to life in Hand of Fate! An infinitely replayable series of quests - earn new cards, build your deck, then try to defeat it! In a cabin at the end of the world, the game of life and death is played. Draw your cards, play your hand, and discover your fate.",
+    "developers": [
+      "Defiant Development"
+    ],
+    "publishers": [
+      "Defiant Development"
+    ],
+    "release_date": "Feb 17, 2015",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Rogue-like",
+      "Deckbuilding",
+      "Card Game",
+      "Action Roguelike",
+      "RPG",
+      "Singleplayer",
+      "Action",
+      "Fantasy",
+      "Indie"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 89.2,
+    "steam_total_reviews": 10689,
+    "metacritic": 78,
+    "metacritic_url": "https://www.metacritic.com/game/pc/hand-of-fate?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.9,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic PS4",
+        "score": "79 (15 reviews)",
+        "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)"
+      },
+      {
+        "source": "Metacritic Xbox One",
+        "score": "80 (11 reviews)",
+        "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.75/10",
+        "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7/10",
+        "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 89.2% of 10,689",
+        "url": "https://store.steampowered.com/app/266510/Hand_of_Fate/"
+      }
+    ],
+    "vgi_units": 725000,
+    "vgi_revenue": 10100000,
+    "vgi_rating": 89.157,
+    "vgi_reviews": 10689,
+    "vgi_url": "https://app.sensortower.com/vgi/game/hand-of-fate",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "5,703,147.00",
+    "src_net": "1,682,428.36",
+    "src_url": "https://steam-revenue-calculator.com/app/266510/hand-of-fate",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "I like the idea so I'll put this as a like a like a mid C",
+        "video_id": "5k_-k4X90ao",
+        "t": 4270,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=4270s",
+        "year_in_title": "2015",
+        "pos": 10,
+        "row_n": 14,
+        "row_score": 0.3839285714285714,
+        "spoken": "said mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Hand of Fate (2015) is a deck-building roguelite that mixes a tabletop card-and-dealer layer with real-time 3D action combat. He likes the concept and especially the narrator, but feels the two halves clash. The card sections are slow and low on visual information, while the action part feels like a generic 3D brawler. He finds the fighting underwhelming and places it in the middle of C tier.",
+        "praise": [
+          "The narrator/dealer voice and how he verbally explains everything is really cool",
+          "The concept of combining deck building with 3D action is appealing",
+          "He respects what the developers were going for",
+          "Some players could reasonably enjoy the contrast between the two styles"
+        ],
+        "criticism": [
+          "The card section is very slow paced",
+          "You see little on screen during the card part since the dealer just explains verbally",
+          "The action portion is a traditional 3D action game that feels like stock Unity-store assets",
+          "The two halves are drastically different from each other and do not blend well",
+          "The combat is underwhelming"
+        ],
+        "unique_points": [
+          "Card layer is presented as you sitting at a table with a narrating dealer rather than a UI of cards",
+          "Design lesson: games that fuse deck building with action often fall short because the two modes feel disconnected"
+        ],
+        "quote": "I like the idea so I'll put this as a like a like a mid C",
+        "comparisons": [
+          "Other deck-building roguelites that combine card play with action"
+        ],
+        "design_criteria": [
+          "Genre fusion: whether deck building and action combine coherently",
+          "Pacing: card sections feel very slow",
+          "Combat feel: action fighting is underwhelming and generic",
+          "Presentation/charm: the narrator voice is a highlight, but assets feel stock",
+          "Information clarity: little visible on screen during card phases"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2015 hybrid from Defiant Development in which you play through randomly dealt card-based dungeon quests against a talking Dealer, with real-time third-person action combat whenever a fight card turns up.",
+      "consensus_summary": "Hand of Fate is widely regarded as a distinctive, charming genre mash-up that predates Slay the Spire and helped seed the roguelike deckbuilder space. Steam players rate it Very Positive (about 89% of roughly 10,700 reviews), and critics landed at a Metacritic 78 on PC (79 PS4, 80 Xbox One), with user score 7.9. The Dealer, the card-driven storytelling and the unlock loop are loved; the simple Arkham-style combat, heavy RNG, repetition and a harsh final boss are the standing complaints. Many current players recommend it mainly on sale and say the sequel is the better entry, though some prefer the original's looser deckbuilding and flavor. It is a finished game (studio closed in 2019) and is not early access.",
+      "best_things": [
+        "The Dealer: a menacing, talkative, witty narrator whose voice acting and banter are the glue of the game and the most-praised element",
+        "Original concept: a physical-feeling card table that generates the dungeon, events and shops, with the cards acting as the storytelling layer",
+        "Unlock loop: completing encounters awards tokens that unlock new equipment and encounter cards, so each run feels like it grows your deck and gives a sense of progress",
+        "Risk/reward encounters, where choices, dice, and gambles on the board can pay off or punish, and failure still yields unlocks",
+        "Atmosphere and presentation: beautiful card art, dark-fantasy tone, and a thematic soundtrack that reviewers called strong for an indie budget",
+        "Over-the-top, satisfying combat effects and slow-motion finishers for players who like a simple action layer",
+        "Accessible deckbuilding that lets you stuff in newly found cards and experiment without heavy optimization",
+        "Good value and a long tail for completionists (users report 20-190 hours chasing unlocks, endless mode and achievements)"
+      ],
+      "worst_things": [
+        "Combat is simplistic, Arkham-style button mashing with little depth, and many reviewers called it clunky, floaty or repetitive",
+        "Camera control is restrictive; players can be stuck with an angle that hides off-screen attacks and traps, both in combat and on the board",
+        "Heavy RNG: whether you assemble a workable kit before the boss can feel out of your control, and one reviewer alleges failed quests resurface more often",
+        "The final boss and final level are a sharp difficulty spike, described as a boss rush and unfair by several reviewers, and some never finished",
+        "Limited variety of encounters and enemies means the same fights and events repeat quickly",
+        "Jank and unpolished balance: unfixed bugs, inconsistent mouse/controller handling, endless-mode glitches, and uninterruptible attacks not clearly telegraphed",
+        "The Dealer's long lines and the slow card dealing animation grate on repeat runs",
+        "Marketing mismatch: several reviewers say it is an action game with cards as a storytelling layer, not a real card game or deckbuilder, so the roguelike-deckbuilder label disappoints"
+      ],
+      "improvements": [
+        "Make combat deeper with better telegraphs and readable distinction between interruptible and non-interruptible attacks",
+        "Add camera control, or at least a better fixed angle in combat and on the board",
+        "Give the player more agency over builds and RNG, with a smoother difficulty curve into the final boss",
+        "Allow skipping or speeding up the initial deal and repeated Dealer dialogue",
+        "More encounter and enemy variety, and a more meaningful post-campaign/endless mode beyond repeating runs for score",
+        "Clean up the achievement list, which players say is bloated with build-specific or pure-luck entries"
+      ],
+      "unique_things": [
+        "Two decks: one for equipment and one for the encounters that define the dungeon, so you literally choose the events you might face",
+        "A fusion of tabletop-style board progression with real-time action RPG combat, rare in its period",
+        "A personified adversary Dealer who narrates, taunts and reacts to your luck as the game master",
+        "Cards that both unlock and chain into follow-up encounters, weaving side quests into the main campaign through the deck",
+        "Predates Slay the Spire by about two years yet plays very differently from later roguelike deckbuilders, since cards are narrative and loadout rather than a combat hand",
+        "Spawned a physical companion board game (Hand of Fate: Ordeals) and a stronger sequel, and a new spin-off in the same universe is reported in development"
+      ],
+      "tedious_or_disliked": [
+        "Repeating the same encounters several times, sometimes with specific choices, to unlock certain upgrades",
+        "Early-game slog: several reviewers found the first half slow before it becomes engaging",
+        "Mashing through waves of swarming enemies, which feels repetitive and mindless to some",
+        "Endless mode after unlocking everything reduces to replaying similar runs for a better score",
+        "Long Dealer monologues and slow dealing animations that cannot be skipped easily",
+        "Grinding through RNG-dependent runs to land a viable build and non-crippling curses before the final boss"
+      ],
+      "divisive_points": [
+        "Combat: some enjoy the flashy, simple brawling as a fun counterpoint to the cards, while others call it the weakest part and overshadowing everything else",
+        "Dealer: loved by most as a charismatic villain, but a vocal minority find him an annoying over-talker",
+        "Deckbuilding: fans like its freedom and low barrier versus sequel's stricter approach, while critics call it too limited; some also object that it is not really a card game despite the marketing",
+        "Original vs sequel: many say Hand of Fate 2 is strictly better, others argue the first has more flavor and an easier, more brainless style they prefer"
+      ],
+      "reception_notes": "Launched February 2015 to generally favorable reviews (Metacritic PC 78 from 28 critics; user score 7.9 from 213 ratings) praising the concept and Dealer while noting slow pacing, repetitive combat and a hard final level. Wikipedia cites about 400,000 copies sold across platforms plus over 1.5 million downloads from an Xbox Live giveaway; SteamSpy lists 500k-1M Steam owners and the steam-revenue-calculator Boxleiter-style estimate is about $5.7M gross and $1.7M net on Steam (order-of-magnitude only; no copies figure given). Released on Windows, macOS, Linux, PS4 and Xbox One; a Vita version was cancelled. Hand of Fate 2 (Nov 2017) improved on it and outsold it over comparable periods. Defiant Development ceased operations in July 2019. Today the game has a low player count on Steam (single-digit concurrent players in our data) but remains well regarded; recent reviews commonly say to buy it on sale. OpenCritic score could not be retrieved (search budget and site fetch failures), so it is left null.",
+      "sources": [
+        {
+          "url": "local: scratchpad/steam_data.json (Steam appid 266510)",
+          "what": "Steam app details: developer, release date, Very Positive 89.2%, Metacritic 78, SteamSpy owners 500k-1M, revenue estimate"
+        },
+        {
+          "url": "local: scratchpad/reviews/266510.json",
+          "what": "Top helpful positive and negative English Steam reviews (praise for Dealer/unlocks; complaints about combat, camera, RNG, final boss)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hand-of-fate/",
+          "what": "Metacritic PC critic score 78 (28 reviews), user score 7.9 and critic consensus"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hand-of-fate/user-reviews/",
+          "what": "Metacritic user review counts and themes (combat, RNG, repetition, Dealer)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_(video_game)",
+          "what": "Reception, platform scores, sales (~400k plus 1.5M Xbox giveaway downloads), studio closure 2019, sequel"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/266510/hand-of-fate",
+          "what": "Estimated Steam gross (~$5.7M) and net (~$1.7M) revenue; Boxleiter-method caveat"
+        },
+        {
+          "url": "https://store.steampowered.com/app/266510/Hand_of_Fate/",
+          "what": "Steam store page / user review totals (via local data)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (PC 78 from 28 critics, user 7.9 from 213 ratings) - matches, no score changes; OpenCritic left null. Removed single-anecdote GPU performance bullet from worst_things. Softened the failed-quests-resurface claim to a single reviewer's allegation. Added recurring 'not really a card game' theme to worst_things (appears in negative reviews and divisive_points). Other bullets checked against Steam top reviews and kept."
+    },
+    "his_anchor": null,
+    "his_pos": 10,
+    "his_row_n": 14,
+    "his_spoken": "said mid",
+    "his_score": 38.4,
+    "his_top10_bonus": 0,
+    "players_score": 48.2,
+    "critics_score": 36.1,
+    "critics_avg": 78.0,
+    "overall": 41.4,
+    "labels": [
+      "deckbuilder",
+      "action"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

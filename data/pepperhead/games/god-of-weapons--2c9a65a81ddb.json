@@ -1,0 +1,281 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "god of weapons",
+    "name": "God Of Weapons",
+    "display_name": "God of Weapons",
+    "appid": 2342950,
+    "img": "img/2342950.jpg",
+    "steam_url": "https://store.steampowered.com/app/2342950/",
+    "website": null,
+    "short_description": "Embark on a thrilling journey in God of Weapons, an action roguelike where you must ascend the tower of Zhor to reclaim the last light for the world. To survive the monster onslaught on each tower's level, you'll need to obtain and carefully organize weapons and accessories in your inventory.",
+    "developers": [
+      "Imagine Games"
+    ],
+    "publishers": [
+      "Imagine Games"
+    ],
+    "release_date": "Sep 12, 2023",
+    "coming_soon": false,
+    "price": "$5.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Inventory Management",
+      "RPG",
+      "Rogue-lite",
+      "Arena Shooter",
+      "Bullet Hell",
+      "Survival",
+      "Replay Value",
+      "Procedural Generation",
+      "Casual"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 84.0,
+    "steam_total_reviews": 5255,
+    "metacritic": 74,
+    "metacritic_url": "https://www.metacritic.com/game/god-of-weapons/",
+    "metacritic_user": 5.1,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (local data)",
+        "score": "Very Positive, 84% positive of 5,255 reviews",
+        "url": "https://store.steampowered.com/app/2342950/God_Of_Weapons/"
+      },
+      {
+        "source": "TheXboxHub",
+        "score": "90/100 (4.5/5)",
+        "url": "https://www.thexboxhub.com/god-of-weapons-review/"
+      },
+      {
+        "source": "Xbox Tavern",
+        "score": "80/100 (8/10)",
+        "url": "https://www.xboxtavern.com/god-of-weapons-review/"
+      },
+      {
+        "source": "Tech-Gaming",
+        "score": "65/100",
+        "url": "https://www.tech-gaming.com/god-of-weapons/"
+      },
+      {
+        "source": "Video Chums",
+        "score": "60/100",
+        "url": "https://videochums.com/article/6-adventure-games-and-puzzlers-for-console#god-of-weapons"
+      },
+      {
+        "source": "Steam Revenue Calculator (estimate)",
+        "score": "approx $477k gross / $141k net",
+        "url": "https://steam-revenue-calculator.com/app/2342950/god-of-weapons"
+      }
+    ],
+    "vgi_units": 158000,
+    "vgi_revenue": 683000,
+    "vgi_rating": 84.009,
+    "vgi_reviews": 5253,
+    "vgi_url": "https://app.sensortower.com/vgi/game/god-of-weapons",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "477,275.76",
+    "src_net": "140,796.35",
+    "src_url": "https://steam-revenue-calculator.com/app/2342950/god-of-weapons",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "\"this is one of the better ones so I'm going to put it probably right under Death Must Die\" (implied A; no letter stated in this segment)",
+        "video_id": "zKosjx7EpKA",
+        "t": 4934,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=4934s",
+        "year_in_title": "2023",
+        "pos": 6,
+        "row_n": 13,
+        "row_score": 0.5769230769230769,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "God of Weapons is a single-level horde/bullet-heaven game that adds a shop and inventory-management layer between rounds, where item placement changes what items do. He likes how well the inventory system fits the bullet-heaven gameplay and the variety of builds. His main complaint is that a huge amount of content is locked behind slow meta-progression that competes with character power upgrades. Once things are unlocked he finds it very replayable and satisfying. He ranks it among the better games of its kind, placing it just under Death Must Die.",
+        "praise": [
+          "Combines bullet-heaven with inventory-management, a pairing that fits well",
+          "Item placement in the inventory changes what items do, which is fun",
+          "Many different builds are possible",
+          "Great replayability once enough characters and items are unlocked",
+          "Full of content, with hundreds of unlockable items",
+          "Very satisfying when unlocks come quickly"
+        ],
+        "criticism": [
+          "Massive amount of content locked behind meta-progression",
+          "First few runs feel repetitive because the same items show up every time",
+          "Unlocking items takes too long",
+          "Unlock currency is the same one needed to upgrade the character, forcing a choice between being stronger and unlocking variety",
+          "Takes a long time before the game gets interesting"
+        ],
+        "unique_points": [
+          "Merges vampire-survivors-style bullet heaven with backpack-style inventory management in the shop between rounds",
+          "Item positioning in the inventory affects item behavior, giving build depth",
+          "Design lesson: separate character power upgrades from content unlocks, possibly with a second currency despite his usual dislike of multiple currencies"
+        ],
+        "quote": "this is one of the better ones so I'm going to put it probably right under Death Must Die",
+        "comparisons": [
+          "Vampire Survivors",
+          "Backpack Hero",
+          "Death Must Die",
+          "Backpack Potato"
+        ],
+        "design_criteria": [
+          "Uniqueness within the crowded horde-survivor genre: needs a hook to stand apart",
+          "Inventory-management synergy: placement-based item effects fit the gameplay",
+          "Build diversity: many different builds available",
+          "Meta-progression: content locked behind too much grind and shared currency with power upgrades",
+          "Replayability: great once content is unlocked",
+          "Early-run variety: repetitive items in the first runs hurt first impressions",
+          "Pacing of unlocks: takes too long to become interesting"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "An isometric bullet-heaven / survivors-like action roguelite by Imagine Games where weapons auto-attack and you build by fitting shaped weapons and accessories into a limited grid backpack between waves while climbing the tower of Zhor.",
+      "consensus_summary": "Steam players rate it Very Positive (about 84 percent positive across roughly 5,250 reviews in the local Steam data), and the common verdict is a cheap, addictive Brotato-meets-Backpack-Battles hybrid whose inventory puzzle carries it. Critics are fewer and more split: Metacritic shows a 74 Metascore from just 4 Xbox Series X reviews (ranging 60 to 90) and a 5.1 user score from 7 ratings. The praise is for the inventory twist, class variety and value; the complaints are repetitive arenas, weak balance, poor readability and clunky UI and controller support. It is not abandoned: a large free update plus the Eternal Nightmare DLC shipped in May 2025, Xbox arrived in June 2025 (PS5 announced), and 1.5.x patches continued through mid 2025, with recent Steam reviews still positive.",
+      "best_things": [
+        "The grid-inventory puzzle (rotate and place weapons, gems and accessories, adjacency bonuses) is the standout hook and is often described as more important than the combat itself",
+        "Low price and high value: many reviewers say it is easily worth around 6 dollars, and several 100-plus-hour players say it has held up",
+        "Wide roster: around 8-10 classes with 3 subclasses each, and 250-plus items, giving build variety and lots of unlocks/achievements to chase",
+        "Dodge/dash movement gives more skill expression than Vampire Survivors-style games, and it is easy to learn and addictive in 30-60 minute sessions",
+        "Being able to swap gear mid-run softens bad RNG compared with other survivors-likes",
+        "Satisfying audio/visual feedback once a synergistic build comes online; reviewers also praise character designs and the soundtrack",
+        "Post-launch support: auto-save/resume, Endless Mode, Favour/Banish system, training dummy, extra enemies, bosses and weapons were added in free updates"
+      ],
+      "worst_things": [
+        "Maps and runs feel monotonous: small, samey arenas with little to do beyond core combat, and uninteresting bosses",
+        "Readability is poor: dark, muddy brown/grey palette, enemies and projectiles blend into the map, and screens get cluttered with swarms; some players report getting stuck on unseen obstacles",
+        "Balance is uneven: a few dominant builds (lifesteal, lightning staff, stand-still reroll strategies) trivialise the game while most items, classes and melee weapons feel ignorable; difficulty tiers barely change the experience for some",
+        "UI and inventory handling is clunky: sell/use/combine buttons sit close together with no undo, combining cost is revealed late, limited put-aside slots, dragging restrictions, and lingering screens",
+        "Controller support is widely reported as incomplete or broken despite the store claiming full support (fixed dash/aim bindings, cannot preview shop items with a pad)",
+        "Bugs: crashes, UI freezes when using upgrade items, bugged achievements that some players say were unfixed for years",
+        "Thin meta-progression and little story or world-building, so there is not much reason to stay invested outside of runs",
+        "Hitbox and camera angle complaints: weapons (especially melee) miss, and enemies are hard to judge positionally",
+        "Pre-run character select / walk-around hub and general menus are called clunky and poorly designed by several negative reviewers"
+      ],
+      "improvements": [
+        "Fundamental rebalancing of items, classes and weapons rather than more content, so more than a handful of builds are viable",
+        "Better onboarding: tutorials and explanations for inventory rules, weapon placement restrictions and currencies (Tech-Gaming scored accessibility lowest for this)",
+        "Improve visual clarity with a brighter palette, stronger enemy/projectile contrast and a bigger roll-ready indicator",
+        "Inventory QoL: undo for accidental sells, drag-and-drop over items, more stash slots, combine-cost preview, clearer selection state",
+        "Proper controller support with rebinding and full shop/inventory navigation",
+        "More varied stage layouts and more distinct classes; deeper, more imaginative item interactions than simple adjacency bonuses; stackable/upgradable duplicates were also asked for"
+      ],
+      "unique_things": [
+        "Combines a survivors-like/bullet heaven loop with a Resident Evil or Backpack Battles style tetromino grid inventory where placement drives stats",
+        "Isometric action roguelike with an active dodge/dash rather than purely static movement",
+        "Run-specific risk/reward modifiers: e.g. more XP but tougher enemies, or extra inventory slots at the cost of elite spawns",
+        "Subclass system (ten classes, three variants each) plus gems, anvil upgrades, weapon combining and, in the DLC, summon item types and an Infinity Mode",
+        "A large item pool (250-plus) with a Favour/Banish system to steer drops"
+      ],
+      "tedious_or_disliked": [
+        "Spending long stretches optimising the grid for marginal gains, then dying quickly; reviewers joke the game is 95 percent shop menu",
+        "RNG-heavy item offers with few banishes (5 per run) and a currency for tweaking odds that is only reliably farmed on the top difficulties",
+        "Long runs and repetitive single-room arenas; several players felt they had seen everything in around 2 hours",
+        "Late-game degenerates into an idle loop of standing still and rerolling the shop for known strong items",
+        "Achievement completion needs the paid DLC and some achievements are bugged, which frustrates completionists",
+        "Multiple clicks and fiddly menu steps to move, sell or upgrade items, plus easy misclicks"
+      ],
+      "divisive_points": [
+        "Inventory management is either the best part or the most tiresome part; engagement with it decides whether people like the game",
+        "Class distinctiveness: some find each class plays in its own enjoyable way, others say classes and gameplay blend together",
+        "Difficulty: some runs are frustratingly hard at first and then game-breakingly easy, while high difficulty tiers are praised by a few as the real challenge",
+        "The DLC is seen by some as adding good value and new systems, by others as unneeded complexity"
+      ],
+      "reception_notes": "Launched on PC Sep 12, 2023 at a low price (about 5.99 USD currently) and built a steady audience; SteamSpy-style data estimates 200k-500k owners and a peak around 300 concurrent players at the time of capture. Steam lists no Metacritic score; the Metacritic page exists only for the Xbox Series X version (4 critic reviews, 7 user ratings, so very low sample size). No OpenCritic entry was found. The free May 11, 2025 update added auto-save, Favour/Banish, Endless Mode, a training dummy, and status-effect redesign, and the paid Eternal Nightmare DLC (new character, mechanics, weapons, Infinity Mode) released the same day. Xbox release came Jun 12, 2025 with PS5 announced. Patches 1.5.62 to 1.5.65 (May-Jun 2025) fixed controller dashing, FPS cap, freezing, Steam Deck and ultrawide issues and added quick-sell. Steam thread lists still show controller, inventory-lock and achievement bugs, and a locked God of Weapons 2 discussion. Note: my web search budget was exhausted, so community coverage relies on the Steam review file, Steam community pages and critic reviews rather than Reddit (Reddit fetch is blocked).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2342950.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 2342950, review counts, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2342950/God_Of_Weapons/",
+          "what": "Steam store page: release, DLC, tags, review summary, language support"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2342950/announcements/",
+          "what": "Developer announcements and patch notes (DLC, free update, Xbox/PS5, 1.5.6x patches)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2342950/discussions/",
+          "what": "Community thread titles: controller issues, inventory lock bug, achievement bugs, GoW2 request"
+        },
+        {
+          "url": "https://www.metacritic.com/game/god-of-weapons/",
+          "what": "Metacritic Xbox Series X: Metascore 74 (4 reviews), user score 5.1 (7 ratings)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/god-of-weapons/critic-reviews/?platform=xbox-series-x",
+          "what": "List of the four critic reviews and scores"
+        },
+        {
+          "url": "https://www.thexboxhub.com/god-of-weapons-review/",
+          "what": "TheXboxHub review (90/100): Vampire Survivors alternative, inventory twist praised, repetitiveness noted"
+        },
+        {
+          "url": "https://www.xboxtavern.com/god-of-weapons-review/",
+          "what": "Xbox Tavern review (8/10): class variety, grid inventory, no quick resume, monotony risk"
+        },
+        {
+          "url": "https://www.tech-gaming.com/god-of-weapons/",
+          "what": "Tech-Gaming review (65): unique inventory system but almost no tutorials, repetitive design"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2342950/god-of-weapons",
+          "what": "Boxleiter-based revenue estimate (about 477k gross, 141k net)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic page: Metascore 74 from 4 Xbox Series X critic reviews (90, 80, 65, 60) and user score 5.1 from 7 ratings confirmed; OpenCritic null kept. Cross-checked bullets against top Steam reviews (controller support, readability, repetition, balance, achievements/DLC, clunky inventory UI all supported); no bullets removed. Added one worst_things theme (hub/menu design). Note: Metacritic score is Xbox-only with a tiny sample."
+    },
+    "his_anchor": null,
+    "his_pos": 6,
+    "his_row_n": 13,
+    "his_spoken": null,
+    "his_score": 57.7,
+    "his_top10_bonus": 0,
+    "players_score": 27.0,
+    "critics_score": 16.8,
+    "critics_avg": 74.0,
+    "overall": 38.8,
+    "labels": [
+      "action",
+      "survivors_like"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dandy ace",
+    "name": "Dandy Ace",
+    "display_name": "Dandy Ace",
+    "appid": 1037130,
+    "img": "img/1037130.jpg",
+    "steam_url": "https://store.steampowered.com/app/1037130/",
+    "website": "https://www.madmimic.com",
+    "short_description": "Dandy Ace is an over the top action game that follows this fabulous magician seeking to combine and use his magical cards, fighting and looting his way to defeat the Green-Eyed Illusionist and free himself from a cursed mirror.",
+    "developers": [
+      "Mad Mimic"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "release_date": "Mar 25, 2021",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "Rogue-lite",
+      "Isometric",
+      "Rogue-like",
+      "Dungeon Crawler",
+      "Difficult",
+      "Magic",
+      "Singleplayer",
+      "Procedural Generation"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 87.3,
+    "steam_total_reviews": 1322,
+    "metacritic": 80,
+    "metacritic_url": "https://www.metacritic.com/game/pc/dandy-ace?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time, about 1,322 reviews)",
+        "score": "Very Positive, 87.3%",
+        "url": "https://store.steampowered.com/app/1037130/Dandy_Ace/"
+      },
+      {
+        "source": "Metacritic Xbox One (per Wikipedia)",
+        "score": "75",
+        "url": "https://en.wikipedia.org/wiki/Dandy_Ace"
+      },
+      {
+        "source": "OpenCritic (per Wikipedia; numeric average not retrieved)",
+        "score": "100% critics recommend",
+        "url": "https://en.wikipedia.org/wiki/Dandy_Ace"
+      },
+      {
+        "source": "GameSpace",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/pc/dandy-ace"
+      },
+      {
+        "source": "PC Invasion",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/pc/dandy-ace"
+      },
+      {
+        "source": "Shacknews",
+        "score": "80",
+        "url": "https://en.wikipedia.org/wiki/Dandy_Ace"
+      },
+      {
+        "source": "Cultured Vultures",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/pc/dandy-ace"
+      },
+      {
+        "source": "DarkZero",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/pc/dandy-ace"
+      },
+      {
+        "source": "Eurogamer Italy",
+        "score": "70",
+        "url": "https://en.wikipedia.org/wiki/Dandy_Ace"
+      }
+    ],
+    "vgi_units": 39720,
+    "vgi_revenue": 485000,
+    "vgi_rating": 87.282,
+    "vgi_reviews": 1321,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dandy-ace",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "393,003.40",
+    "src_net": "115,936.00",
+    "src_url": "https://steam-revenue-calculator.com/app/1037130/dandy-ace",
+    "final_tier": "B",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "So, I'm just going to put this as a a B tier.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 2903,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=2903s",
+        "year_in_title": null,
+        "pos": 10,
+        "row_n": 10,
+        "row_score": 0.050000000000000044,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Dandy Ace is a top-down action roguelike that is essentially Dead Cells with a magician theme, where you escape imprisonment by a jealous rival magician. Its one distinctive hook is card fusion, letting you slot a spare ability as a passive on another piece of equipment. He feels it copied the surface elements of Dead Cells without the depth that makes that game work. Combat is okay but clunky and repetitive, biomes look alike, and there is little left to do after the first win. He still had a good time, beat it on his third attempt, and recommends it to people wanting a different Dead Cells-style experience, placing it in B tier.",
+        "praise": [
+          "Card fusion mechanic (using an ability as a passive on another) allows customization and is the game's unique twist",
+          "Enjoyable and satisfying once you get comfortable with dashing and learning enemy movesets",
+          "Funny story and opening cinematic with a magician antagonist narrating",
+          "Strong meta-progression with gems given to NPCs for permanent unlocks and a sense of growing stronger",
+          "Distinct biomes with different bosses and a fitting magician theme with magic references"
+        ],
+        "criticism": [
+          "Copied most of Dead Cells' elements without doing much new with them",
+          "Fusion passives are too simple, static, and do not improve during the run; abilities lack randomized passives, only level differences",
+          "Gameplay is clunky, slower than Dead Cells, and stiff animation; basic attack gets spammed with no combos",
+          "Biomes look too similar and rooms are all just enemy-filled rooms; little sense of adventure",
+          "Metroidvania gating is shallow (coloured keys and gates opening similar-looking areas)",
+          "Narrator voice lines in every room get to be too much; little content or secrets after first win; off-screen projectiles in late game feel unfair"
+        ],
+        "unique_points": [
+          "Card fusion: slot an equipped ability as a passive onto a new item instead of discarding it",
+          "Magician theme could have been pushed further into distinct environments like a circus or Las Vegas world",
+          "Design lesson: cloning a successful game's parts fails without the blend that makes the original work"
+        ],
+        "quote": "they're just trying to copy something and I think they copied kind of all the wrong things",
+        "comparisons": [
+          "Dead Cells",
+          "Hades"
+        ],
+        "design_criteria": [
+          "Build customization and synergies: fusion system is interesting but too shallow",
+          "Item/ability variety: abilities lack randomized passives, reducing loot excitement",
+          "Combat feel: clunky, slower, repetitive basic attack",
+          "Level and biome design: biomes and rooms too samey, lacking adventure",
+          "Visual theme and charm: magic theme underused, biomes not differentiated",
+          "Meta-progression: gem-for-unlocks system is solid",
+          "Post-game content and secrets: little to do after first win",
+          "Difficulty: challenging, with unseen off-screen projectiles late",
+          "Narrative/tone: funny narrator but overused"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A stylish isometric action roguelite from Brazilian studio Mad Mimic in which a flamboyant magician trapped in a cursed mirror palace fights through branching runs using a deck of stackable magic cards as his moves.",
+      "consensus_summary": "Dandy Ace is a well-liked but modestly sized indie roguelite: Steam shows Very Positive (about 87% of roughly 1,300 reviews) and Metacritic PC is 80 from 12 critics, with no negative critic reviews. Critics and players praise the art direction, humor, and the card-slot combat system, and compare it to Hades and Dead Cells while noting it lacks their depth. The recurring complaints are low enemy, boss and room variety, a repetitive narrator, and cooldown-heavy, sometimes clunky combat. It is a released (not Early Access) game, launched on PC/Mac in March 2021 and on Switch, Xbox One and PS4 late 2021; a recent Steam review mentions a late update adding an earlier healing flask to soften difficulty, so it still seems to receive some support. Players who bounce often do so within the first 1-2 hours.",
+      "best_things": [
+        "Card-slot combat: cards fill dash, main attack and special slots in any combination, and each card also grants a secondary modifier effect, which produces a large number of build options",
+        "Art style and colour use are the most consistently praised element (Shacknews, Steam reviewers, Metacritic critics)",
+        "Fast, responsive movement and fluid action feel once a build comes together",
+        "Humour, personality and a memorable cast of characters (Cultured Vultures, PC Invasion)",
+        "Branching palace routes lead to different boss fights so runs are not identical",
+        "Short runs plus three extra difficulty tiers above Normal give replay value for those who like a challenge",
+        "Full voice acting and stylish music that add charm for many players",
+        "Good value when discounted; several players say it is worth picking up on sale"
+      ],
+      "worst_things": [
+        "Low enemy variety, with many recolors and variations, and only around four bosses in total",
+        "Rooms and scenarios feel samey; route choices make little practical difference",
+        "Narrator has a small pool of voice lines, repeats often, and some find the delivery grating (many mute him)",
+        "Combat can feel underwhelming or clunky: ability cooldowns make chaining moves hard and enemy density in small arenas is high",
+        "Some cards, trinkets and skills are weak or trap picks, so experimenting feels stale and poisons the unlock pool",
+        "Progression pacing: players can finish the game before unlocking half the cards and trinkets",
+        "Mac release problems reported: poor controller support on an M1 Mac and a generic OS cursor instead of the in-game cursor",
+        "Reviewers compare it unfavourably to Hades for depth, variety and presentation polish",
+        "Active skills and passives are unevenly balanced, with some players saying most of them are not worth using and enemies feel strong for the balance"
+      ],
+      "improvements": [
+        "Make dash a baseline ability instead of consuming a card slot",
+        "Let players keep shards between runs, or otherwise speed up unlocks, so progression is not lost on death",
+        "Add more enemy types, bosses and distinct room/scenario types; make path choices more meaningful",
+        "Rebalance weak cards and trinkets and reduce cooldown friction so combos chain more easily",
+        "Widen the narrator's line pool or make him less intrusive; better voice direction for secondary characters",
+        "Improve controller support and cursor handling on macOS; Steam forum threads also mention achievement bugs and crashes"
+      ],
+      "unique_things": [
+        "Weapons are replaced by a four-slot card system where any card can go in any slot and each slot also takes a secondary modifier, rather than a fixed weapon plus upgrades",
+        "Even movement (dash) is a card you equip, so you can build around unusual kit such as all dashes",
+        "Bright, colourful, comedic magician theatre aesthetic, lighter in tone than typical dark roguelites",
+        "A live narrator comments on your performance, which is a Supergiant-style device with a comedic bent"
+      ],
+      "tedious_or_disliked": [
+        "Repetitive narrator lines wear out quickly, with multiple reviewers muting him",
+        "Clearing near-identical rooms of the same small enemy roster becomes a slog, with some levels feeling like a dash to the boss",
+        "Losing shards on death makes unlocking cards and trinkets feel slow, while weak unlocks dilute the random pool",
+        "Cooldown-gated abilities make crowded fights feel restrictive",
+        "Normal difficulty is seen as tough by some, with new players needing several attempts for a first win (about 10 runs for one reviewer), though a later update eased the early game"
+      ],
+      "divisive_points": [
+        "Difficulty: some call it brutally hard even on Normal, others find it fair and like the higher tiers",
+        "Voice acting and narration: praised as charming and fully voiced by some, described as stiff, nasal or cringe by others",
+        "Hades comparison: seen as a solid budget alternative by some and a weaker, shallower copy by others",
+        "Build depth: some find limitless card combinations, others find no real strategy beyond making initial cards' numbers bigger"
+      ],
+      "reception_notes": "Launched March 25, 2021 on Windows and macOS, then Switch and Xbox One (Sept 28, 2021) and PS4 (Nov 15, 2021). Critics were generally favorable: 9 of 12 Metacritic critic reviews positive, 3 mixed, none negative, with scores between 70 and 90. Metacritic user score is only 7.3 from about 25 ratings, so the sample is small. SteamSpy-style estimates put owners at 50k-100k; revenue estimates are around $393k gross (Boxleiter method, rough). Recent Steam reviews (2025-2026) show it is still played and that a late update added an earlier health flask; the Steam forum had open threads about gamepad support, achievement bugs and crashes. A Mac-specific negative review cites controller and cursor problems. OpenCritic numeric score could not be retrieved; the OpenCritic page fetch returned a different game, and web search was unavailable (quota exhausted), so Reddit and deeper outlet text could not be read.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1037130.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appdata: review totals, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/dandy-ace",
+          "what": "Metascore 80 (12 critics), user score 7.3 (25 ratings), outlet scores and verdicts"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1037130/Dandy_Ace/",
+          "what": "Steam store page: description, features, critic quotes, review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1037130/discussions/",
+          "what": "Steam discussions: gamepad support, achievement bugs, crashes, FAQ"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dandy_Ace",
+          "what": "Release timeline, platforms, reception table (Shacknews, Eurogamer Italy, Multiplayer.it, CD-Action)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1037130/dandy-ace",
+          "what": "Revenue estimate (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic PC: Metascore 80 (12 critics), user 7.3 (25 ratings) confirmed; no change to scores. Steam 87.3% / 1,322 reviews matches local data. Removed unsupported 'card stacking of status effects (burn, poison, bleed)' unique-thing bullet (not found in reviews). Added one worst_things theme (weak/unbalanced skills, recurring in reviews). OpenCritic '100% recommend' and forum claims could not be re-verified; left as sourced."
+    },
+    "his_anchor": null,
+    "his_pos": 10,
+    "his_row_n": 10,
+    "his_spoken": null,
+    "his_score": 5.0,
+    "his_top10_bonus": 0,
+    "players_score": 33.1,
+    "critics_score": 49.6,
+    "critics_avg": 80.0,
+    "overall": 23.7,
+    "labels": [
+      "action",
+      "hades_like"
+    ],
+    "primary_label": "action"
+  }
+}

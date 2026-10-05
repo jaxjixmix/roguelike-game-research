@@ -1,0 +1,1594 @@
+[
+  {
+    "key": "20 minutes till dawn",
+    "name": "20 Minutes Till Dawn",
+    "tier": "B",
+    "json": "games/20-minutes-till-dawn--1dab9a2109c5.json",
+    "markdown": "games/20-minutes-till-dawn--1dab9a2109c5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1966900.jpg"
+  },
+  {
+    "key": "a robot named fight",
+    "name": "A Robot Named Fight!",
+    "tier": "B",
+    "json": "games/a-robot-named-fight--b93efbabcf86.json",
+    "markdown": "games/a-robot-named-fight--b93efbabcf86.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/603530.jpg"
+  },
+  {
+    "key": "absolum",
+    "name": "Absolum",
+    "tier": "A",
+    "json": "games/absolum--d375a1b24bc6.json",
+    "markdown": "games/absolum--d375a1b24bc6.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1904480.jpg"
+  },
+  {
+    "key": "across the obelisk",
+    "name": "Across the Obelisk",
+    "tier": "A",
+    "json": "games/across-the-obelisk--b54e13d916ee.json",
+    "markdown": "games/across-the-obelisk--b54e13d916ee.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1385380.jpg"
+  },
+  {
+    "key": "alina of the arena",
+    "name": "Alina of the Arena",
+    "tier": "A",
+    "json": "games/alina-of-the-arena--37aec5f05572.json",
+    "markdown": "games/alina-of-the-arena--37aec5f05572.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1668690.jpg"
+  },
+  {
+    "key": "arcanium",
+    "name": "Arcanium: Rise of Akhan",
+    "tier": "A",
+    "json": "games/arcanium--18861affe960.json",
+    "markdown": "games/arcanium--18861affe960.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1056840.jpg"
+  },
+  {
+    "key": "archons",
+    "name": "Archons",
+    "tier": "A",
+    "json": "games/archons--b59740c88dee.json",
+    "markdown": "games/archons--b59740c88dee.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2779570.jpg"
+  },
+  {
+    "key": "astral ascent",
+    "name": "Astral Ascent",
+    "tier": "A",
+    "json": "games/astral-ascent--8d8f0b667d54.json",
+    "markdown": "games/astral-ascent--8d8f0b667d54.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1280930.jpg"
+  },
+  {
+    "key": "astrea: six-sided oracles",
+    "name": "Astrea: Six-Sided Oracles",
+    "tier": "A",
+    "json": "games/astrea-six-sided-oracles--79b115099663.json",
+    "markdown": "games/astrea-six-sided-oracles--79b115099663.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1755830.jpg"
+  },
+  {
+    "key": "atomicrops",
+    "name": "Atomicrops",
+    "tier": "A",
+    "json": "games/atomicrops--c41cd8f4a80a.json",
+    "markdown": "games/atomicrops--c41cd8f4a80a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/757320.jpg"
+  },
+  {
+    "key": "backpack hero",
+    "name": "Backpack Hero",
+    "tier": "C",
+    "json": "games/backpack-hero--584443d32944.json",
+    "markdown": "games/backpack-hero--584443d32944.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1970580.jpg"
+  },
+  {
+    "key": "bad north",
+    "name": "Bad North: Jotunn Edition",
+    "tier": "C",
+    "json": "games/bad-north--da7731bb8f6d.json",
+    "markdown": "games/bad-north--da7731bb8f6d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/688420.jpg"
+  },
+  {
+    "key": "balatro",
+    "name": "Balatro",
+    "tier": "S",
+    "json": "games/balatro--9722f86f45c4.json",
+    "markdown": "games/balatro--9722f86f45c4.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2379780.jpg"
+  },
+  {
+    "key": "ball x pitt",
+    "name": "BALL x PIT",
+    "tier": "B",
+    "json": "games/ball-x-pitt--7b50b2df8a16.json",
+    "markdown": "games/ball-x-pitt--7b50b2df8a16.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2062430.jpg"
+  },
+  {
+    "key": "ballionaire",
+    "name": "Ballionaire",
+    "tier": "B",
+    "json": "games/ballionaire--da4b5b082283.json",
+    "markdown": "games/ballionaire--da4b5b082283.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2667120.jpg"
+  },
+  {
+    "key": "barony",
+    "name": "Barony",
+    "tier": "B",
+    "json": "games/barony--96eaf23dcfbe.json",
+    "markdown": "games/barony--96eaf23dcfbe.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/371970.jpg"
+  },
+  {
+    "key": "below the crown",
+    "name": "Below the Crown",
+    "tier": "B",
+    "json": "games/below-the-crown--d47c45580411.json",
+    "markdown": "games/below-the-crown--d47c45580411.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1883920.jpg"
+  },
+  {
+    "key": "below the stone",
+    "name": "Below the Stone",
+    "tier": "C",
+    "json": "games/below-the-stone--c1c9d9e2d002.json",
+    "markdown": "games/below-the-stone--c1c9d9e2d002.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1170230.jpg"
+  },
+  {
+    "key": "binding of isaac",
+    "name": "The Binding of Isaac: Rebirth",
+    "tier": "S",
+    "json": "games/binding-of-isaac--4093fa9611e3.json",
+    "markdown": "games/binding-of-isaac--4093fa9611e3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/250900.jpg"
+  },
+  {
+    "key": "bing in wonderland",
+    "name": "Bing in Wonderland",
+    "tier": "B",
+    "json": "games/bing-in-wonderland--99a9e88acd05.json",
+    "markdown": "games/bing-in-wonderland--99a9e88acd05.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1710100.jpg"
+  },
+  {
+    "key": "blazblue entropy effect",
+    "name": "BlazBlue Entropy Effect",
+    "tier": "A",
+    "json": "games/blazblue-entropy-effect--6a0235781fd3.json",
+    "markdown": "games/blazblue-entropy-effect--6a0235781fd3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2273430.jpg"
+  },
+  {
+    "key": "blazing beaks",
+    "name": "Blazing Beaks",
+    "tier": "D",
+    "json": "games/blazing-beaks--24daeb2ccec6.json",
+    "markdown": "games/blazing-beaks--24daeb2ccec6.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/585710.jpg"
+  },
+  {
+    "key": "blooddome99",
+    "name": "BloodDome99",
+    "tier": "B",
+    "json": "games/blooddome99--f119de4a55b9.json",
+    "markdown": "games/blooddome99--f119de4a55b9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2351890.jpg"
+  },
+  {
+    "key": "blue prince",
+    "name": "Blue Prince",
+    "tier": "S",
+    "json": "games/blue-prince--7f5bf92f1884.json",
+    "markdown": "games/blue-prince--7f5bf92f1884.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1569580.jpg"
+  },
+  {
+    "key": "boneraiser minions",
+    "name": "Boneraiser Minions",
+    "tier": "B",
+    "json": "games/boneraiser-minions--b16f270951e3.json",
+    "markdown": "games/boneraiser-minions--b16f270951e3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1944570.jpg"
+  },
+  {
+    "key": "breachway",
+    "name": "Breachway",
+    "tier": "C",
+    "json": "games/breachway--af1058a70779.json",
+    "markdown": "games/breachway--af1058a70779.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2118810.jpg"
+  },
+  {
+    "key": "brotato",
+    "name": "Brotato",
+    "tier": "A",
+    "json": "games/brotato--fd65e8f57f65.json",
+    "markdown": "games/brotato--fd65e8f57f65.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1942280.jpg"
+  },
+  {
+    "key": "brutal orchestra",
+    "name": "Brutal Orchestra",
+    "tier": "A",
+    "json": "games/brutal-orchestra--f5468b6a4f8d.json",
+    "markdown": "games/brutal-orchestra--f5468b6a4f8d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1734320.jpg"
+  },
+  {
+    "key": "captain forever remix",
+    "name": "Captain Forever Remix",
+    "tier": "D",
+    "json": "games/captain-forever-remix--e8bc50f6604a.json",
+    "markdown": "games/captain-forever-remix--e8bc50f6604a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/298560.jpg"
+  },
+  {
+    "key": "caves of qud",
+    "name": "Caves of Qud",
+    "tier": "A",
+    "json": "games/caves-of-qud--11930ffdc0ee.json",
+    "markdown": "games/caves-of-qud--11930ffdc0ee.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/333640.jpg"
+  },
+  {
+    "key": "cavity busters",
+    "name": "Cavity Busters",
+    "tier": "C",
+    "json": "games/cavity-busters--0d04ef59fea6.json",
+    "markdown": "games/cavity-busters--0d04ef59fea6.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1084220.jpg"
+  },
+  {
+    "key": "children of morta",
+    "name": "Children of Morta",
+    "tier": "B",
+    "json": "games/children-of-morta--65f02856c0f7.json",
+    "markdown": "games/children-of-morta--65f02856c0f7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/330020.jpg"
+  },
+  {
+    "key": "clover pit",
+    "name": "CloverPit",
+    "tier": "A",
+    "json": "games/clover-pit--10189391aad2.json",
+    "markdown": "games/clover-pit--10189391aad2.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3314790.jpg"
+  },
+  {
+    "key": "cobalt core",
+    "name": "Cobalt Core",
+    "tier": "A",
+    "json": "games/cobalt-core--a04e899aded9.json",
+    "markdown": "games/cobalt-core--a04e899aded9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2179850.jpg"
+  },
+  {
+    "key": "convoy",
+    "name": "Convoy",
+    "tier": "C",
+    "json": "games/convoy--56dc1a011eb4.json",
+    "markdown": "games/convoy--56dc1a011eb4.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/318230.jpg"
+  },
+  {
+    "key": "crab champions",
+    "name": "Crab Champions",
+    "tier": "C",
+    "json": "games/crab-champions--a79f645a35fb.json",
+    "markdown": "games/crab-champions--a79f645a35fb.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/774801.jpg"
+  },
+  {
+    "key": "crown trick",
+    "name": "Crown Trick",
+    "tier": "B",
+    "json": "games/crown-trick--1bfd3b3b0109.json",
+    "markdown": "games/crown-trick--1bfd3b3b0109.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1000010.jpg"
+  },
+  {
+    "key": "crypt of the necrodancer",
+    "name": "Crypt of the NecroDancer",
+    "tier": "B",
+    "json": "games/crypt-of-the-necrodancer--54d287ce72eb.json",
+    "markdown": "games/crypt-of-the-necrodancer--54d287ce72eb.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/247080.jpg"
+  },
+  {
+    "key": "cubic cosmos",
+    "name": "Cubic Cosmos",
+    "tier": "C",
+    "json": "games/cubic-cosmos--75229742afb5.json",
+    "markdown": "games/cubic-cosmos--75229742afb5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3332600.jpg"
+  },
+  {
+    "key": "cult of the lamb",
+    "name": "Cult of the Lamb",
+    "tier": "B",
+    "json": "games/cult-of-the-lamb--6631777b7373.json",
+    "markdown": "games/cult-of-the-lamb--6631777b7373.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1313140.jpg"
+  },
+  {
+    "key": "curse of the dead gods",
+    "name": "Curse of the Dead Gods",
+    "tier": "A",
+    "json": "games/curse-of-the-dead-gods--f444936993b3.json",
+    "markdown": "games/curse-of-the-dead-gods--f444936993b3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1123770.jpg"
+  },
+  {
+    "key": "cursorblade",
+    "name": "Cursorblade",
+    "tier": "C",
+    "json": "games/cursorblade--2aa649d2f73c.json",
+    "markdown": "games/cursorblade--2aa649d2f73c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2449040.jpg"
+  },
+  {
+    "key": "dandy ace",
+    "name": "Dandy Ace",
+    "tier": "B",
+    "json": "games/dandy-ace--fea2a6df64a8.json",
+    "markdown": "games/dandy-ace--fea2a6df64a8.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1037130.jpg"
+  },
+  {
+    "key": "darkest dungeon",
+    "name": "Darkest Dungeon®",
+    "tier": "A",
+    "json": "games/darkest-dungeon--2517a4b77e99.json",
+    "markdown": "games/darkest-dungeon--2517a4b77e99.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/262060.jpg"
+  },
+  {
+    "key": "darkest dungeon 2",
+    "name": "Darkest Dungeon® II",
+    "tier": "A",
+    "json": "games/darkest-dungeon-2--2ba2cc9547f1.json",
+    "markdown": "games/darkest-dungeon-2--2ba2cc9547f1.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1940340.jpg"
+  },
+  {
+    "key": "dead cells",
+    "name": "Dead Cells",
+    "tier": "S",
+    "json": "games/dead-cells--9aa6bac70dc1.json",
+    "markdown": "games/dead-cells--9aa6bac70dc1.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/588650.jpg"
+  },
+  {
+    "key": "dead estate",
+    "name": "Dead Estate",
+    "tier": "C",
+    "json": "games/dead-estate--457ac3bb7bb0.json",
+    "markdown": "games/dead-estate--457ac3bb7bb0.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1484720.jpg"
+  },
+  {
+    "key": "death must die",
+    "name": "Death Must Die",
+    "tier": "B",
+    "json": "games/death-must-die--7fb38a0cab28.json",
+    "markdown": "games/death-must-die--7fb38a0cab28.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2334730.jpg"
+  },
+  {
+    "key": "deck of ashes",
+    "name": "Deck of Ashes",
+    "tier": "D",
+    "json": "games/deck-of-ashes--7751c6862326.json",
+    "markdown": "games/deck-of-ashes--7751c6862326.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1016730.jpg"
+  },
+  {
+    "key": "decktamer",
+    "name": "Decktamer",
+    "tier": "A",
+    "json": "games/decktamer--2a0250c8f0ef.json",
+    "markdown": "games/decktamer--2a0250c8f0ef.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2870340.jpg"
+  },
+  {
+    "key": "deep rock galactic survivor",
+    "name": "Deep Rock Galactic: Survivor",
+    "tier": "B",
+    "json": "games/deep-rock-galactic-survivor--b19500a3d88c.json",
+    "markdown": "games/deep-rock-galactic-survivor--b19500a3d88c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2321470.jpg"
+  },
+  {
+    "key": "deflector",
+    "name": "Deflector",
+    "tier": "B",
+    "json": "games/deflector--bf52825b465f.json",
+    "markdown": "games/deflector--bf52825b465f.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1736550.jpg"
+  },
+  {
+    "key": "despot's game: dystopian army builder",
+    "name": "Despot's Game: Dystopian Battle Simulator",
+    "tier": "B",
+    "json": "games/despot-s-game-dystopian-army-builder--36aeb2144c33.json",
+    "markdown": "games/despot-s-game-dystopian-army-builder--36aeb2144c33.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1227280.jpg"
+  },
+  {
+    "key": "dicefolk",
+    "name": "Dicefolk",
+    "tier": "B",
+    "json": "games/dicefolk--dc75c032150c.json",
+    "markdown": "games/dicefolk--dc75c032150c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1996430.jpg"
+  },
+  {
+    "key": "diceomancer",
+    "name": "DICEOMANCER",
+    "tier": "A",
+    "json": "games/diceomancer--4bf4a06c5383.json",
+    "markdown": "games/diceomancer--4bf4a06c5383.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2501600.jpg"
+  },
+  {
+    "key": "dicey dungeons",
+    "name": "Dicey Dungeons",
+    "tier": "B",
+    "json": "games/dicey-dungeons--697899e19499.json",
+    "markdown": "games/dicey-dungeons--697899e19499.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/861540.jpg"
+  },
+  {
+    "key": "die in the dungeon",
+    "name": "Die in the Dungeon",
+    "tier": "B",
+    "json": "games/die-in-the-dungeon--1bda4d53fe92.json",
+    "markdown": "games/die-in-the-dungeon--1bda4d53fe92.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2026820.jpg"
+  },
+  {
+    "key": "dome keeper",
+    "name": "Dome Keeper",
+    "tier": "A",
+    "json": "games/dome-keeper--97f065e191eb.json",
+    "markdown": "games/dome-keeper--97f065e191eb.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1637320.jpg"
+  },
+  {
+    "key": "don’t starve",
+    "name": "Don't Starve",
+    "tier": "B",
+    "json": "games/dont-starve--8163026821c9.json",
+    "markdown": "games/dont-starve--8163026821c9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/219740.jpg"
+  },
+  {
+    "key": "doomspire",
+    "name": "Doomspire",
+    "tier": "D",
+    "json": "games/doomspire--974c23815595.json",
+    "markdown": "games/doomspire--974c23815595.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3621050.jpg"
+  },
+  {
+    "key": "downwell",
+    "name": "Downwell",
+    "tier": "D",
+    "json": "games/downwell--0e0451bf26e1.json",
+    "markdown": "games/downwell--0e0451bf26e1.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/360740.jpg"
+  },
+  {
+    "key": "dreamscaper",
+    "name": "Dreamscaper",
+    "tier": "B",
+    "json": "games/dreamscaper--69defcd25043.json",
+    "markdown": "games/dreamscaper--69defcd25043.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1040420.jpg"
+  },
+  {
+    "key": "drop duchy",
+    "name": "Drop Duchy",
+    "tier": "A",
+    "json": "games/drop-duchy--25ea33dc68f0.json",
+    "markdown": "games/drop-duchy--25ea33dc68f0.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2525310.jpg"
+  },
+  {
+    "key": "dungeon clawer",
+    "name": "Dungeon Clawler",
+    "tier": "B",
+    "json": "games/dungeon-clawer--26bb31748a44.json",
+    "markdown": "games/dungeon-clawer--26bb31748a44.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2356780.jpg"
+  },
+  {
+    "key": "dungeon souls",
+    "name": "Dungeon Souls",
+    "tier": "B",
+    "json": "games/dungeon-souls--14c732bc6723.json",
+    "markdown": "games/dungeon-souls--14c732bc6723.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/383230.jpg"
+  },
+  {
+    "key": "dungeonmans",
+    "name": "Dungeonmans",
+    "tier": "C",
+    "json": "games/dungeonmans--4db19cebd58a.json",
+    "markdown": "games/dungeonmans--4db19cebd58a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/288120.jpg"
+  },
+  {
+    "key": "dungreed",
+    "name": "Dungreed",
+    "tier": "A",
+    "json": "games/dungreed--4aa2e87a1a3f.json",
+    "markdown": "games/dungreed--4aa2e87a1a3f.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/753420.jpg"
+  },
+  {
+    "key": "elden ring nightreign",
+    "name": "ELDEN RING NIGHTREIGN",
+    "tier": "S",
+    "json": "games/elden-ring-nightreign--8450e82c7da0.json",
+    "markdown": "games/elden-ring-nightreign--8450e82c7da0.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2622380.jpg"
+  },
+  {
+    "key": "ember knights",
+    "name": "Ember Knights",
+    "tier": "A",
+    "json": "games/ember-knights--04f2b023146a.json",
+    "markdown": "games/ember-knights--04f2b023146a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1135230.jpg"
+  },
+  {
+    "key": "emberward",
+    "name": "Emberward",
+    "tier": "B",
+    "json": "games/emberward--43c2a42e95b3.json",
+    "markdown": "games/emberward--43c2a42e95b3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2459550.jpg"
+  },
+  {
+    "key": "enter the gungeon",
+    "name": "Enter the Gungeon",
+    "tier": "S",
+    "json": "games/enter-the-gungeon--db4e6085204e.json",
+    "markdown": "games/enter-the-gungeon--db4e6085204e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/311690.jpg"
+  },
+  {
+    "key": "everything is crab",
+    "name": "Everything is Crab: The Animal Evolution Roguelite",
+    "tier": "B",
+    "json": "games/everything-is-crab--1c0210c40502.json",
+    "markdown": "games/everything-is-crab--1c0210c40502.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3526710.jpg"
+  },
+  {
+    "key": "exit the gungeon",
+    "name": "Exit the Gungeon",
+    "tier": "C",
+    "json": "games/exit-the-gungeon--d29fc00b5a4b.json",
+    "markdown": "games/exit-the-gungeon--d29fc00b5a4b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1209490.jpg"
+  },
+  {
+    "key": "ftl",
+    "name": "FTL: Faster Than Light",
+    "tier": "A",
+    "json": "games/ftl--f9394510528c.json",
+    "markdown": "games/ftl--f9394510528c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/212680.jpg"
+  },
+  {
+    "key": "fury unleashed",
+    "name": "Fury Unleashed",
+    "tier": "B",
+    "json": "games/fury-unleashed--300963cf0367.json",
+    "markdown": "games/fury-unleashed--300963cf0367.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/465200.jpg"
+  },
+  {
+    "key": "galactic glitch",
+    "name": "Galactic Glitch",
+    "tier": "B",
+    "json": "games/galactic-glitch--b2f03464efd9.json",
+    "markdown": "games/galactic-glitch--b2f03464efd9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1536620.jpg"
+  },
+  {
+    "key": "gambonanza",
+    "name": "Gambonanza",
+    "tier": "B",
+    "json": "games/gambonanza--e712d47c0f22.json",
+    "markdown": "games/gambonanza--e712d47c0f22.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3509230.jpg"
+  },
+  {
+    "key": "gnomes",
+    "name": "Gnomes",
+    "tier": "B",
+    "json": "games/gnomes--9443a5460610.json",
+    "markdown": "games/gnomes--9443a5460610.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3133060.jpg"
+  },
+  {
+    "key": "go mecha ball",
+    "name": "Go Mecha Ball",
+    "tier": "C",
+    "json": "games/go-mecha-ball--18e7718806f0.json",
+    "markdown": "games/go-mecha-ball--18e7718806f0.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2008510.jpg"
+  },
+  {
+    "key": "god of weapons",
+    "name": "God Of Weapons",
+    "tier": "B",
+    "json": "games/god-of-weapons--2c9a65a81ddb.json",
+    "markdown": "games/god-of-weapons--2c9a65a81ddb.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2342950.jpg"
+  },
+  {
+    "key": "going under",
+    "name": "Going Under",
+    "tier": "B",
+    "json": "games/going-under--744ee0714f5e.json",
+    "markdown": "games/going-under--744ee0714f5e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1154810.jpg"
+  },
+  {
+    "key": "goobies",
+    "name": "Goobies",
+    "tier": "B",
+    "json": "games/goobies--a90bc49f9747.json",
+    "markdown": "games/goobies--a90bc49f9747.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2294130.jpg"
+  },
+  {
+    "key": "gunfire reborn",
+    "name": "Gunfire Reborn",
+    "tier": "A",
+    "json": "games/gunfire-reborn--85223fa48cb6.json",
+    "markdown": "games/gunfire-reborn--85223fa48cb6.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1217060.jpg"
+  },
+  {
+    "key": "hades",
+    "name": "Hades",
+    "tier": "S",
+    "json": "games/hades--915320dfdd5b.json",
+    "markdown": "games/hades--915320dfdd5b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1145360.jpg"
+  },
+  {
+    "key": "hades 2",
+    "name": "Hades II",
+    "tier": "S",
+    "json": "games/hades-2--6df6d8afdcf7.json",
+    "markdown": "games/hades-2--6df6d8afdcf7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1145350.jpg"
+  },
+  {
+    "key": "halls of torment",
+    "name": "Halls of Torment",
+    "tier": "A",
+    "json": "games/halls-of-torment--5adcfa8bcd70.json",
+    "markdown": "games/halls-of-torment--5adcfa8bcd70.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2218750.jpg"
+  },
+  {
+    "key": "hand of fate",
+    "name": "Hand of Fate",
+    "tier": "C",
+    "json": "games/hand-of-fate--ae0d327e3f35.json",
+    "markdown": "games/hand-of-fate--ae0d327e3f35.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/266510.jpg"
+  },
+  {
+    "key": "hand of fate 2",
+    "name": "Hand of Fate 2",
+    "tier": "B",
+    "json": "games/hand-of-fate-2--bca2bbab04c5.json",
+    "markdown": "games/hand-of-fate-2--bca2bbab04c5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/456670.jpg"
+  },
+  {
+    "key": "haste",
+    "name": "Haste",
+    "tier": "A",
+    "json": "games/haste--49fa6d753c7a.json",
+    "markdown": "games/haste--49fa6d753c7a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1796470.jpg"
+  },
+  {
+    "key": "have a nice death",
+    "name": "Have a Nice Death",
+    "tier": "A",
+    "json": "games/have-a-nice-death--1d400e28328c.json",
+    "markdown": "games/have-a-nice-death--1d400e28328c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1740720.jpg"
+  },
+  {
+    "key": "he is coming",
+    "name": "He is Coming",
+    "tier": "A",
+    "json": "games/he-is-coming--6f469318dcc7.json",
+    "markdown": "games/he-is-coming--6f469318dcc7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2824490.jpg"
+  },
+  {
+    "key": "heroes of hammerwatch",
+    "name": "Heroes of Hammerwatch",
+    "tier": "B",
+    "json": "games/heroes-of-hammerwatch--c054929f654e.json",
+    "markdown": "games/heroes-of-hammerwatch--c054929f654e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/677120.jpg"
+  },
+  {
+    "key": "heroes of hammerwatch 2",
+    "name": "Heroes of Hammerwatch II",
+    "tier": "B",
+    "json": "games/heroes-of-hammerwatch-2--262611c10039.json",
+    "markdown": "games/heroes-of-hammerwatch-2--262611c10039.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/619820.jpg"
+  },
+  {
+    "key": "hollow survivors",
+    "name": "Hollow Survivors",
+    "tier": "B",
+    "json": "games/hollow-survivors--229282bf11f7.json",
+    "markdown": "games/hollow-survivors--229282bf11f7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2285940.jpg"
+  },
+  {
+    "key": "inkshade",
+    "name": "Inkshade",
+    "tier": "C",
+    "json": "games/inkshade--a3c6f3065cf1.json",
+    "markdown": "games/inkshade--a3c6f3065cf1.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3141310.jpg"
+  },
+  {
+    "key": "inscryption",
+    "name": "Inscryption",
+    "tier": "S",
+    "json": "games/inscryption--6fabd2813431.json",
+    "markdown": "games/inscryption--6fabd2813431.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1092790.jpg"
+  },
+  {
+    "key": "into the breach",
+    "name": "Into the Breach",
+    "tier": "S",
+    "json": "games/into-the-breach--af51d1fcb00b.json",
+    "markdown": "games/into-the-breach--af51d1fcb00b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/590380.jpg"
+  },
+  {
+    "key": "jotunnslayer hordes of hel",
+    "name": "Jotunnslayer: Hordes of Hel",
+    "tier": "B",
+    "json": "games/jotunnslayer-hordes-of-hel--373418436b6c.json",
+    "markdown": "games/jotunnslayer-hordes-of-hel--373418436b6c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2820820.jpg"
+  },
+  {
+    "key": "keeper's toll",
+    "name": "Keeper's Toll",
+    "tier": "B",
+    "json": "games/keeper-s-toll--631b6cb7bd44.json",
+    "markdown": "games/keeper-s-toll--631b6cb7bd44.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2002220.jpg"
+  },
+  {
+    "key": "let him cook",
+    "name": "Let Him Cook",
+    "tier": "B",
+    "json": "games/let-him-cook--5d23e970e416.json",
+    "markdown": "games/let-him-cook--5d23e970e416.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2570710.jpg"
+  },
+  {
+    "key": "loop hero",
+    "name": "Loop Hero",
+    "tier": "B",
+    "json": "games/loop-hero--ccccb3287227.json",
+    "markdown": "games/loop-hero--ccccb3287227.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1282730.jpg"
+  },
+  {
+    "key": "loot river",
+    "name": "Loot River",
+    "tier": "C",
+    "json": "games/loot-river--46cd3fd582aa.json",
+    "markdown": "games/loot-river--46cd3fd582aa.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1494260.jpg"
+  },
+  {
+    "key": "luck be a landlord",
+    "name": "Luck be a Landlord",
+    "tier": "B",
+    "json": "games/luck-be-a-landlord--771756ee7271.json",
+    "markdown": "games/luck-be-a-landlord--771756ee7271.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1404850.jpg"
+  },
+  {
+    "key": "magic book autobattler",
+    "name": "Magic Book Autobattler",
+    "tier": "unplaced",
+    "json": "games/magic-book-autobattler--481afc1bd1c4.json",
+    "markdown": "games/magic-book-autobattler--481afc1bd1c4.md",
+    "image_url": null
+  },
+  {
+    "key": "magicite",
+    "name": "Magicite",
+    "tier": "C",
+    "json": "games/magicite--05c2be3e39e6.json",
+    "markdown": "games/magicite--05c2be3e39e6.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/268750.jpg"
+  },
+  {
+    "key": "magicraft",
+    "name": "Magicraft",
+    "tier": "A",
+    "json": "games/magicraft--5d4fd3d63a70.json",
+    "markdown": "games/magicraft--5d4fd3d63a70.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2103140.jpg"
+  },
+  {
+    "key": "megabonk",
+    "name": "Megabonk",
+    "tier": "A",
+    "json": "games/megabonk--f4ddaef09b4b.json",
+    "markdown": "games/megabonk--f4ddaef09b4b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3405340.jpg"
+  },
+  {
+    "key": "mewgenics",
+    "name": "Mewgenics",
+    "tier": "S",
+    "json": "games/mewgenics--0070df03bd73.json",
+    "markdown": "games/mewgenics--0070df03bd73.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/686060.jpg"
+  },
+  {
+    "key": "monster train",
+    "name": "Monster Train",
+    "tier": "A",
+    "json": "games/monster-train--55cebf56cb59.json",
+    "markdown": "games/monster-train--55cebf56cb59.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1102190.jpg"
+  },
+  {
+    "key": "monster train 2",
+    "name": "Monster Train 2",
+    "tier": "S",
+    "json": "games/monster-train-2--0e5544ebacd3.json",
+    "markdown": "games/monster-train-2--0e5544ebacd3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2742830.jpg"
+  },
+  {
+    "key": "moon watch",
+    "name": "Moon Watch",
+    "tier": "C",
+    "json": "games/moon-watch--2cb95fb46cc5.json",
+    "markdown": "games/moon-watch--2cb95fb46cc5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2878030.jpg"
+  },
+  {
+    "key": "moonlighter",
+    "name": "Moonlighter",
+    "tier": "B",
+    "json": "games/moonlighter--9fd8759ff044.json",
+    "markdown": "games/moonlighter--9fd8759ff044.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/606150.jpg"
+  },
+  {
+    "key": "moonlighter 2",
+    "name": "Moonlighter 2: The Endless Vault",
+    "tier": "A",
+    "json": "games/moonlighter-2--e0e924b420f7.json",
+    "markdown": "games/moonlighter-2--e0e924b420f7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2350790.jpg"
+  },
+  {
+    "key": "mortal sin",
+    "name": "Mortal Sin",
+    "tier": "A",
+    "json": "games/mortal-sin--7b9e5ad9e891.json",
+    "markdown": "games/mortal-sin--7b9e5ad9e891.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1494810.jpg"
+  },
+  {
+    "key": "necrosmith",
+    "name": "Necrosmith",
+    "tier": "B",
+    "json": "games/necrosmith--dcffdf3a0cf9.json",
+    "markdown": "games/necrosmith--dcffdf3a0cf9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1949190.jpg"
+  },
+  {
+    "key": "necrosmith 2",
+    "name": "Necrosmith 2",
+    "tier": "C",
+    "json": "games/necrosmith-2--09bbf5a23a06.json",
+    "markdown": "games/necrosmith-2--09bbf5a23a06.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2277320.jpg"
+  },
+  {
+    "key": "neon abyss",
+    "name": "Neon Abyss",
+    "tier": "B",
+    "json": "games/neon-abyss--2d986d1b1240.json",
+    "markdown": "games/neon-abyss--2d986d1b1240.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/788100.jpg"
+  },
+  {
+    "key": "noita",
+    "name": "Noita",
+    "tier": "A",
+    "json": "games/noita--5d6d39a10aac.json",
+    "markdown": "games/noita--5d6d39a10aac.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/881100.jpg"
+  },
+  {
+    "key": "nordic ashes",
+    "name": "Nordic Ashes: Survivors of Ragnarok",
+    "tier": "A",
+    "json": "games/nordic-ashes--81dacb77620d.json",
+    "markdown": "games/nordic-ashes--81dacb77620d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2068280.jpg"
+  },
+  {
+    "key": "nova drift",
+    "name": "Nova Drift",
+    "tier": "B",
+    "json": "games/nova-drift--bdd16aa74b4c.json",
+    "markdown": "games/nova-drift--bdd16aa74b4c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/858210.jpg"
+  },
+  {
+    "key": "nuclear throne",
+    "name": "Nuclear Throne",
+    "tier": "A",
+    "json": "games/nuclear-throne--539f4c8c957c.json",
+    "markdown": "games/nuclear-throne--539f4c8c957c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/242680.jpg"
+  },
+  {
+    "key": "one step from eden",
+    "name": "One Step From Eden",
+    "tier": "B",
+    "json": "games/one-step-from-eden--40929ebfe495.json",
+    "markdown": "games/one-step-from-eden--40929ebfe495.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/960690.jpg"
+  },
+  {
+    "key": "paper planet",
+    "name": "Paper Planet",
+    "tier": "B",
+    "json": "games/paper-planet--9a1d5b98bbb5.json",
+    "markdown": "games/paper-planet--9a1d5b98bbb5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1504250.jpg"
+  },
+  {
+    "key": "patch quest",
+    "name": "Patch Quest",
+    "tier": "B",
+    "json": "games/patch-quest--42ce808a3a28.json",
+    "markdown": "games/patch-quest--42ce808a3a28.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1347970.jpg"
+  },
+  {
+    "key": "peglin",
+    "name": "Peglin",
+    "tier": "S",
+    "json": "games/peglin--fbdcc4c0f1a5.json",
+    "markdown": "games/peglin--fbdcc4c0f1a5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1296610.jpg"
+  },
+  {
+    "key": "picayune dreams",
+    "name": "Picayune Dreams",
+    "tier": "A",
+    "json": "games/picayune-dreams--084c919b0b4e.json",
+    "markdown": "games/picayune-dreams--084c919b0b4e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2088840.jpg"
+  },
+  {
+    "key": "pogo rogue",
+    "name": "Pogo Rogue",
+    "tier": "B",
+    "json": "games/pogo-rogue--29c7d1fd402e.json",
+    "markdown": "games/pogo-rogue--29c7d1fd402e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2870280.jpg"
+  },
+  {
+    "key": "r.e.p.o",
+    "name": "R.E.P.O.",
+    "tier": "B",
+    "json": "games/r-e-p-o--94b40125415b.json",
+    "markdown": "games/r-e-p-o--94b40125415b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3241660.jpg"
+  },
+  {
+    "key": "ram: random access mayhem",
+    "name": "RAM: Random Access Mayhem",
+    "tier": "A",
+    "json": "games/ram-random-access-mayhem--ad99ea4afaa7.json",
+    "markdown": "games/ram-random-access-mayhem--ad99ea4afaa7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2256450.jpg"
+  },
+  {
+    "key": "ravenswatch",
+    "name": "Ravenswatch",
+    "tier": "B",
+    "json": "games/ravenswatch--6c66e9c9fb4d.json",
+    "markdown": "games/ravenswatch--6c66e9c9fb4d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2071280.jpg"
+  },
+  {
+    "key": "redacted",
+    "name": "[REDACTED]",
+    "tier": "B",
+    "json": "games/redacted--b68919aff001.json",
+    "markdown": "games/redacted--b68919aff001.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2229940.jpg"
+  },
+  {
+    "key": "repetendium",
+    "name": "Repetendium",
+    "tier": "C",
+    "json": "games/repetendium--45d0ea21d1e4.json",
+    "markdown": "games/repetendium--45d0ea21d1e4.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2055500.jpg"
+  },
+  {
+    "key": "returnal",
+    "name": "Returnal™",
+    "tier": "A",
+    "json": "games/returnal--6273add34650.json",
+    "markdown": "games/returnal--6273add34650.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1649240.jpg"
+  },
+  {
+    "key": "revita",
+    "name": "Revita",
+    "tier": "S",
+    "json": "games/revita--e49a35e380fe.json",
+    "markdown": "games/revita--e49a35e380fe.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1175460.jpg"
+  },
+  {
+    "key": "ring of pain",
+    "name": "Ring of Pain",
+    "tier": "B",
+    "json": "games/ring-of-pain--2ccc7326f871.json",
+    "markdown": "games/ring-of-pain--2ccc7326f871.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/998740.jpg"
+  },
+  {
+    "key": "risk of rain",
+    "name": "Risk of Rain (2013)",
+    "tier": "B",
+    "json": "games/risk-of-rain--a5789895db1f.json",
+    "markdown": "games/risk-of-rain--a5789895db1f.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/248820.jpg"
+  },
+  {
+    "key": "risk of rain 2",
+    "name": "Risk of Rain 2",
+    "tier": "S",
+    "json": "games/risk-of-rain-2--4cababe842ad.json",
+    "markdown": "games/risk-of-rain-2--4cababe842ad.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/632360.jpg"
+  },
+  {
+    "key": "risk of rain returns",
+    "name": "Risk of Rain Returns",
+    "tier": "A",
+    "json": "games/risk-of-rain-returns--22d280b601ac.json",
+    "markdown": "games/risk-of-rain-returns--22d280b601ac.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1337520.jpg"
+  },
+  {
+    "key": "roboquest",
+    "name": "Roboquest",
+    "tier": "A",
+    "json": "games/roboquest--17b05e96efae.json",
+    "markdown": "games/roboquest--17b05e96efae.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/692890.jpg"
+  },
+  {
+    "key": "rogue legacy",
+    "name": "Rogue Legacy",
+    "tier": "C",
+    "json": "games/rogue-legacy--dad54893c259.json",
+    "markdown": "games/rogue-legacy--dad54893c259.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/241600.jpg"
+  },
+  {
+    "key": "rogue legacy 2",
+    "name": "Rogue Legacy 2",
+    "tier": "B",
+    "json": "games/rogue-legacy-2--99b2ab2897b8.json",
+    "markdown": "games/rogue-legacy-2--99b2ab2897b8.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1253920.jpg"
+  },
+  {
+    "key": "rogue tower",
+    "name": "Rogue Tower",
+    "tier": "B",
+    "json": "games/rogue-tower--c1da3ca82c2b.json",
+    "markdown": "games/rogue-tower--c1da3ca82c2b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1843760.jpg"
+  },
+  {
+    "key": "roguebook",
+    "name": "Roguebook",
+    "tier": "A",
+    "json": "games/roguebook--e6a2afa647d3.json",
+    "markdown": "games/roguebook--e6a2afa647d3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1076200.jpg"
+  },
+  {
+    "key": "roguelands",
+    "name": "Roguelands",
+    "tier": "B",
+    "json": "games/roguelands--bdfdf848cdac.json",
+    "markdown": "games/roguelands--bdfdf848cdac.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/364420.jpg"
+  },
+  {
+    "key": "scourge bringer",
+    "name": "ScourgeBringer",
+    "tier": "C",
+    "json": "games/scourge-bringer--c9c109a15aa1.json",
+    "markdown": "games/scourge-bringer--c9c109a15aa1.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1037020.jpg"
+  },
+  {
+    "key": "sculplings",
+    "name": "Sculplings",
+    "tier": "A",
+    "json": "games/sculplings--4a8c27b7300f.json",
+    "markdown": "games/sculplings--4a8c27b7300f.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3062680.jpg"
+  },
+  {
+    "key": "sephiria",
+    "name": "Sephiria",
+    "tier": "A",
+    "json": "games/sephiria--6f66f5693e50.json",
+    "markdown": "games/sephiria--6f66f5693e50.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2436940.jpg"
+  },
+  {
+    "key": "shape shifter formations",
+    "name": "Shape Shifter: Formations",
+    "tier": "A",
+    "json": "games/shape-shifter-formations--55525d44b504.json",
+    "markdown": "games/shape-shifter-formations--55525d44b504.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2202590.jpg"
+  },
+  {
+    "key": "ship of fools",
+    "name": "Ship of Fools",
+    "tier": "B",
+    "json": "games/ship-of-fools--895f23289982.json",
+    "markdown": "games/ship-of-fools--895f23289982.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1286580.jpg"
+  },
+  {
+    "key": "shotgun king",
+    "name": "Shotgun King: The Final Checkmate",
+    "tier": "C",
+    "json": "games/shotgun-king--81f6b430acd0.json",
+    "markdown": "games/shotgun-king--81f6b430acd0.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1972440.jpg"
+  },
+  {
+    "key": "shovel knight dig",
+    "name": "Shovel Knight Dig",
+    "tier": "B",
+    "json": "games/shovel-knight-dig--69f1c4d940ce.json",
+    "markdown": "games/shovel-knight-dig--69f1c4d940ce.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1416050.jpg"
+  },
+  {
+    "key": "skul the hero slayer",
+    "name": "Skul: The Hero Slayer",
+    "tier": "A",
+    "json": "games/skul-the-hero-slayer--d560e51b4c56.json",
+    "markdown": "games/skul-the-hero-slayer--d560e51b4c56.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1147560.jpg"
+  },
+  {
+    "key": "slay the spire",
+    "name": "Slay the Spire",
+    "tier": "S",
+    "json": "games/slay-the-spire--e8836cff3775.json",
+    "markdown": "games/slay-the-spire--e8836cff3775.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/646570.jpg"
+  },
+  {
+    "key": "slay the spire 2",
+    "name": "Slay the Spire 2",
+    "tier": "S",
+    "json": "games/slay-the-spire-2--d8fcc89132c3.json",
+    "markdown": "games/slay-the-spire-2--d8fcc89132c3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2868840.jpg"
+  },
+  {
+    "key": "slice and dice",
+    "name": "Slice & Dice",
+    "tier": "A",
+    "json": "games/slice-and-dice--26374578d73e.json",
+    "markdown": "games/slice-and-dice--26374578d73e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1775490.jpg"
+  },
+  {
+    "key": "slime 3k",
+    "name": "Slime 3K: Rise Against Despot",
+    "tier": "C",
+    "json": "games/slime-3k--b8161aec40a4.json",
+    "markdown": "games/slime-3k--b8161aec40a4.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2348610.jpg"
+  },
+  {
+    "key": "slots and daggers",
+    "name": "Slots & Daggers",
+    "tier": "B",
+    "json": "games/slots-and-daggers--90f0b87f747a.json",
+    "markdown": "games/slots-and-daggers--90f0b87f747a.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3631290.jpg"
+  },
+  {
+    "key": "sol cesto",
+    "name": "Sol Cesto",
+    "tier": "A",
+    "json": "games/sol-cesto--3863e31d664c.json",
+    "markdown": "games/sol-cesto--3863e31d664c.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2738490.jpg"
+  },
+  {
+    "key": "solitairica",
+    "name": "Solitairica",
+    "tier": "B",
+    "json": "games/solitairica--431960f26049.json",
+    "markdown": "games/solitairica--431960f26049.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/463980.jpg"
+  },
+  {
+    "key": "soulstone survivors",
+    "name": "Soulstone Survivors",
+    "tier": "B",
+    "json": "games/soulstone-survivors--cc33ee6d58a5.json",
+    "markdown": "games/soulstone-survivors--cc33ee6d58a5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2066020.jpg"
+  },
+  {
+    "key": "space gladiators",
+    "name": "Space Gladiators",
+    "tier": "B",
+    "json": "games/space-gladiators--af03c699fcb9.json",
+    "markdown": "games/space-gladiators--af03c699fcb9.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1144910.jpg"
+  },
+  {
+    "key": "spellrogue",
+    "name": "SpellRogue",
+    "tier": "C",
+    "json": "games/spellrogue--ec9aab4a5eff.json",
+    "markdown": "games/spellrogue--ec9aab4a5eff.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1990110.jpg"
+  },
+  {
+    "key": "spelunky",
+    "name": "Spelunky",
+    "tier": "C",
+    "json": "games/spelunky--a0daa970e524.json",
+    "markdown": "games/spelunky--a0daa970e524.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/239350.jpg"
+  },
+  {
+    "key": "spelunky 2",
+    "name": "Spelunky 2",
+    "tier": "B",
+    "json": "games/spelunky-2--d681209688c5.json",
+    "markdown": "games/spelunky-2--d681209688c5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/418530.jpg"
+  },
+  {
+    "key": "spiritfall",
+    "name": "Spiritfall",
+    "tier": "S",
+    "json": "games/spiritfall--4a8d901bddbc.json",
+    "markdown": "games/spiritfall--4a8d901bddbc.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1835240.jpg"
+  },
+  {
+    "key": "star of providence",
+    "name": "Star of Providence",
+    "tier": "C",
+    "json": "games/star-of-providence--27ea73515e2d.json",
+    "markdown": "games/star-of-providence--27ea73515e2d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/603960.jpg"
+  },
+  {
+    "key": "star renegades",
+    "name": "Star Renegades",
+    "tier": "B",
+    "json": "games/star-renegades--d697d5ba5adb.json",
+    "markdown": "games/star-renegades--d697d5ba5adb.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/651670.jpg"
+  },
+  {
+    "key": "streets of rogue",
+    "name": "Streets of Rogue",
+    "tier": "A",
+    "json": "games/streets-of-rogue--327dc3a8b7cc.json",
+    "markdown": "games/streets-of-rogue--327dc3a8b7cc.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/512900.jpg"
+  },
+  {
+    "key": "sulfur",
+    "name": "SULFUR",
+    "tier": "A",
+    "json": "games/sulfur--7e6da33aec66.json",
+    "markdown": "games/sulfur--7e6da33aec66.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2124120.jpg"
+  },
+  {
+    "key": "sundered",
+    "name": "Sundered®: Eldritch Edition",
+    "tier": "B",
+    "json": "games/sundered--016b5cf811f3.json",
+    "markdown": "games/sundered--016b5cf811f3.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/535480.jpg"
+  },
+  {
+    "key": "sworn",
+    "name": "SWORN",
+    "tier": "A",
+    "json": "games/sworn--7eed750be358.json",
+    "markdown": "games/sworn--7eed750be358.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1763250.jpg"
+  },
+  {
+    "key": "synthetik",
+    "name": "SYNTHETIK: Legion Rising",
+    "tier": "B",
+    "json": "games/synthetik--284b32b66dd5.json",
+    "markdown": "games/synthetik--284b32b66dd5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/528230.jpg"
+  },
+  {
+    "key": "tales of maj'eyal",
+    "name": "Tales of Maj'Eyal",
+    "tier": "A",
+    "json": "games/tales-of-maj-eyal--4c06caa1d052.json",
+    "markdown": "games/tales-of-maj-eyal--4c06caa1d052.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/259680.jpg"
+  },
+  {
+    "key": "tangledeep",
+    "name": "Tangledeep",
+    "tier": "B",
+    "json": "games/tangledeep--46ddfae7e7af.json",
+    "markdown": "games/tangledeep--46ddfae7e7af.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/628770.jpg"
+  },
+  {
+    "key": "the legend of bumbo",
+    "name": "The Legend of Bum-Bo",
+    "tier": "B",
+    "json": "games/the-legend-of-bumbo--6758fe3addd5.json",
+    "markdown": "games/the-legend-of-bumbo--6758fe3addd5.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1148650.jpg"
+  },
+  {
+    "key": "the royal writ",
+    "name": "The Royal Writ",
+    "tier": "B",
+    "json": "games/the-royal-writ--7b749a72b7ab.json",
+    "markdown": "games/the-royal-writ--7b749a72b7ab.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3333700.jpg"
+  },
+  {
+    "key": "the spell brigade",
+    "name": "The Spell Brigade",
+    "tier": "B",
+    "json": "games/the-spell-brigade--349e9adc6618.json",
+    "markdown": "games/the-spell-brigade--349e9adc6618.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2904000.jpg"
+  },
+  {
+    "key": "the void rains upon her heart",
+    "name": "The Void Rains Upon Her Heart",
+    "tier": "S",
+    "json": "games/the-void-rains-upon-her-heart--9b57a8d69289.json",
+    "markdown": "games/the-void-rains-upon-her-heart--9b57a8d69289.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/790060.jpg"
+  },
+  {
+    "key": "tiny rogues",
+    "name": "Tiny Rogues",
+    "tier": "A",
+    "json": "games/tiny-rogues--d492cf65af42.json",
+    "markdown": "games/tiny-rogues--d492cf65af42.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2088570.jpg"
+  },
+  {
+    "key": "tower factory",
+    "name": "Tower Factory",
+    "tier": "A",
+    "json": "games/tower-factory--afa76b1e6828.json",
+    "markdown": "games/tower-factory--afa76b1e6828.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2707490.jpg"
+  },
+  {
+    "key": "undermine",
+    "name": "UnderMine",
+    "tier": "A",
+    "json": "games/undermine--5d13e04fd93b.json",
+    "markdown": "games/undermine--5d13e04fd93b.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/656350.jpg"
+  },
+  {
+    "key": "vagante",
+    "name": "Vagante",
+    "tier": "B",
+    "json": "games/vagante--8994f5f62779.json",
+    "markdown": "games/vagante--8994f5f62779.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/323220.jpg"
+  },
+  {
+    "key": "vampire crawlers",
+    "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "tier": "B",
+    "json": "games/vampire-crawlers--8c0be8d2c0c2.json",
+    "markdown": "games/vampire-crawlers--8c0be8d2c0c2.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3265700.jpg"
+  },
+  {
+    "key": "vampire hunters",
+    "name": "Vampire Hunters",
+    "tier": "B",
+    "json": "games/vampire-hunters--e6b56996196d.json",
+    "markdown": "games/vampire-hunters--e6b56996196d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2206270.jpg"
+  },
+  {
+    "key": "vampire survivor",
+    "name": "Vampire Survivors",
+    "tier": "A",
+    "json": "games/vampire-survivor--b402da1dd75d.json",
+    "markdown": "games/vampire-survivor--b402da1dd75d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1794680.jpg"
+  },
+  {
+    "key": "vault of the void",
+    "name": "Vault of the Void",
+    "tier": "A",
+    "json": "games/vault-of-the-void--4ecbdb389ce7.json",
+    "markdown": "games/vault-of-the-void--4ecbdb389ce7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1135810.jpg"
+  },
+  {
+    "key": "void crew",
+    "name": "Void Crew",
+    "tier": "B",
+    "json": "games/void-crew--ea48ef6663a7.json",
+    "markdown": "games/void-crew--ea48ef6663a7.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1063420.jpg"
+  },
+  {
+    "key": "voidigo",
+    "name": "Voidigo",
+    "tier": "A",
+    "json": "games/voidigo--f79e1526e162.json",
+    "markdown": "games/voidigo--f79e1526e162.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1304680.jpg"
+  },
+  {
+    "key": "warm snow",
+    "name": "暖雪 Warm Snow",
+    "tier": "B",
+    "json": "games/warm-snow--bc61c50a5c2e.json",
+    "markdown": "games/warm-snow--bc61c50a5c2e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1296830.jpg"
+  },
+  {
+    "key": "watchword",
+    "name": "Watchword",
+    "tier": "B",
+    "json": "games/watchword--87781a6af42e.json",
+    "markdown": "games/watchword--87781a6af42e.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2906730.jpg"
+  },
+  {
+    "key": "white knuckle",
+    "name": "White Knuckle",
+    "tier": "A",
+    "json": "games/white-knuckle--0df6c001d78f.json",
+    "markdown": "games/white-knuckle--0df6c001d78f.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/3195790.jpg"
+  },
+  {
+    "key": "wildermyth",
+    "name": "Wildermyth",
+    "tier": "B",
+    "json": "games/wildermyth--4ec8376364cf.json",
+    "markdown": "games/wildermyth--4ec8376364cf.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/763890.jpg"
+  },
+  {
+    "key": "wildfrost",
+    "name": "Wildfrost",
+    "tier": "A",
+    "json": "games/wildfrost--87539afa0100.json",
+    "markdown": "games/wildfrost--87539afa0100.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1811990.jpg"
+  },
+  {
+    "key": "windblown",
+    "name": "Windblown",
+    "tier": "A",
+    "json": "games/windblown--e601fc796741.json",
+    "markdown": "games/windblown--e601fc796741.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1911610.jpg"
+  },
+  {
+    "key": "withering rooms",
+    "name": "Withering Rooms",
+    "tier": null,
+    "json": "games/withering-rooms--6c3e6e974c6d.json",
+    "markdown": "games/withering-rooms--6c3e6e974c6d.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2006140.jpg"
+  },
+  {
+    "key": "wizard chess",
+    "name": "WizardChess",
+    "tier": "B",
+    "json": "games/wizard-chess--d9ab9e6d0409.json",
+    "markdown": "games/wizard-chess--d9ab9e6d0409.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1274210.jpg"
+  },
+  {
+    "key": "wizard of legend",
+    "name": "Wizard of Legend",
+    "tier": "A",
+    "json": "games/wizard-of-legend--2976167e3fec.json",
+    "markdown": "games/wizard-of-legend--2976167e3fec.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/445980.jpg"
+  },
+  {
+    "key": "wizard of legend 2",
+    "name": "Wizard of Legend 2",
+    "tier": "C",
+    "json": "games/wizard-of-legend-2--d9ad950bd2e4.json",
+    "markdown": "games/wizard-of-legend-2--d9ad950bd2e4.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/2193540.jpg"
+  },
+  {
+    "key": "wizard with a gun",
+    "name": "Wizard with a Gun",
+    "tier": "B",
+    "json": "games/wizard-with-a-gun--7e0135a32691.json",
+    "markdown": "games/wizard-with-a-gun--7e0135a32691.md",
+    "image_url": "https://pepperhead-tier-list.vercel.app/img/1150530.jpg"
+  }
+]

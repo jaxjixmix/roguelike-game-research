@@ -1,0 +1,239 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "doomspire",
+    "name": "Doomspire",
+    "display_name": "Doomspire",
+    "appid": 3621050,
+    "img": "img/3621050.jpg",
+    "steam_url": "https://store.steampowered.com/app/3621050/",
+    "website": null,
+    "short_description": "Descend into the Doomspire, a fast-paced roguelike deckbuilder where every run is different. Build wild synergies, battle unique bosses, and push deeper into the tower. Easy to pick up, endlessly replayable, and built for players who love strategy with chaos.",
+    "developers": [
+      "Crater Studios"
+    ],
+    "publishers": [
+      "Crater Studios"
+    ],
+    "release_date": "Sep 19, 2025",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [],
+    "steam_review_desc": "Mixed",
+    "steam_positive_pct": 56.2,
+    "steam_total_reviews": 160,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/doomspire/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Gamesurf (via Metacritic critic page, single review)",
+        "score": "70/100",
+        "url": "https://www.metacritic.com/game/doomspire/critic-reviews/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Mixed, about 56% positive (90 up / 70 down in our data; store page showed 54% of 139)",
+        "url": "https://store.steampowered.com/app/3621050/Doomspire/"
+      },
+      {
+        "source": "Steam-revenue-calculator estimate (Boxleiter method)",
+        "score": "about $32k est. gross revenue, about $9.6k net",
+        "url": "https://steam-revenue-calculator.com/app/3621050/doomspire"
+      }
+    ],
+    "vgi_units": 3769,
+    "vgi_revenue": 38681,
+    "vgi_rating": 56.25,
+    "vgi_reviews": 160,
+    "vgi_url": "https://app.sensortower.com/vgi/game/doomspire",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "32,378.40",
+    "src_net": "9,551.63",
+    "src_url": "https://steam-revenue-calculator.com/app/3621050/doomspire",
+    "final_tier": "D",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "D",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "D",
+        "verbal_evidence": "I'm just going to put D and D for Doomspire. You know, that's only fair.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 4080,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=4080s",
+        "year_in_title": null,
+        "pos": 1,
+        "row_n": 1,
+        "row_score": 0.5,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Doomspire is a Hearthstone-style deck-building roguelike that tries to recapture Hearthstone's PvE modes such as Catacombs. Between fights you pick cards, passives and removals, but the game pushes only a few builds and is badly unbalanced. He describes infinite loops, ramping so strong a turn-one full board is routine, and thin enemy and content variety. He thinks the developers did not play enough Hearthstone or deckbuilders. He creates a D tier just for it, the only game placed there.",
+        "praise": [
+          "Respects the amount of work that went into it",
+          "Hearthstone-like core (mana, trading minions, hero damage) is straightforward and readable",
+          "Generous reward choices between fights: cards, passives, card removal",
+          "Premise of reviving beloved Hearthstone PvE/Catacombs-style play is appealing"
+        ],
+        "criticism": [
+          "Extremely unbalanced; builds like plants are broken and can go infinite",
+          "Very few viable builds, with only a handful of good cards per archetype",
+          "Ramping is even stronger than in Hearthstone and duplicating passives breaks the game",
+          "Few enemies with repetitive decks; needs roughly three times the content",
+          "Each enemy has many passives that are tedious to read, unlike Hearthstone's single impactful hero power",
+          "No real events; rewards feel like the same shop every time",
+          "Visuals are weak and generic standard fantasy"
+        ],
+        "unique_points": [
+          "Lets you duplicate passives, which he finds absurdly exploitable (stacking extra starting mana)",
+          "Design lesson: one big, readable passive per enemy (as in Hearthstone PvE) gives fights identity and strategy"
+        ],
+        "quote": "I'm just going to put D and D for Doomspire.",
+        "comparisons": [
+          "Hearthstone (PvE modes, Catacombs)",
+          "Cupid Cosmos",
+          "Bridgeway"
+        ],
+        "design_criteria": [
+          "Balance: core mechanics are easily broken and ramping is overpowered",
+          "Build variety: only a few builds and few worthwhile cards per build",
+          "Enemy design: few enemies, many passives, lacks a single defining mechanic",
+          "Content volume: needs roughly three times as much for this genre",
+          "Run structure: no events, rewards feel like repetitive shop",
+          "Visuals/charm: generic fantasy, lacks Hearthstone's personality",
+          "Card design expertise: developers seem inexperienced with deckbuilders"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A casual single-player roguelike deckbuilder by Crater Studios, heavily modeled on Hearthstone's Dungeon Run/Solo Adventure, where you pick a faction (allegiance) and climb an endless tower of ever-harder boss fights.",
+      "consensus_summary": "Doomspire has Mixed Steam reviews (about 56% positive of roughly 160 in our data; the store page showed 54% of 139). Launch (Sep 19, 2025) was poorly received: players called it a demo-like product with a bloated random card pool, too few bosses and enemies, and an unfair difficulty wall after around floor 15. Sentiment among reviewers improved after the v1.1 Allegiance patch, which let players pick a faction with its own starting deck, and later patches; several reviews are flipped or edited from negative to positive. It is still viewed as thin on content, repetitive at depth and overpriced at $14.99 (some paid more at launch). Critic coverage is almost nonexistent: Metacritic shows a single 70 from Gamesurf, who felt it should have launched in Early Access, and no OpenCritic entry was found. It is a full release, not labeled Early Access, but it plays like one.",
+      "best_things": [
+        "Hearthstone Dungeon Run-style loop is fun and low-stress; several reviewers say it is a good chill game after a long day",
+        "Allegiance (faction) system added in v1.1 gives focused starting decks and clear archetypes, widely credited as the patch that fixed the worst of launch",
+        "Fun to discover synergies and find what is overpowered; one reviewer likes that it favors fun over balance",
+        "Good visuals, animations and sound for an indie; 3D heroes and blocky minions are liked by some",
+        "Developers ship frequent patches (balance, 60+ new cards, deck reshuffling, faster progression) and are seen as listening to feedback",
+        "Progression unlocks passives, hero skins, card backs and powers; some players sink 70 to 270+ hours",
+        "Easy to pick up with no city building or meta-management, just cards and depth"
+      ],
+      "worst_things": [
+        "Very small content pool: only around 9 bosses, few enemy types and roughly 8 cards per faction, so runs feel samey quickly",
+        "Endless-run is the only mode; there is no real ending, and deep runs (depth 40+) become long, same-feeling fights against boss HP in the thousands",
+        "Difficulty spikes and feels rigged after roughly floor 15; AI enemies get strong stacked passives and multiplicative buffs while players get additive ones",
+        "Heavy RNG in offers: reviewers complain of being offered off-synergy cards and passives that dilute decks, and of clunky power cards that clog the deck",
+        "Enemy AI is simple (trade 1 for 1, otherwise go face) and enemies have no special mechanics, just more passives",
+        "Missing basic quality-of-life: no tutorial, no glossary, cannot inspect your deck or opposing passives when choosing fights, no animation speed-up",
+        "Technical issues: Windows only, runs poorly on Steam Deck (about 20 fps, no controller support), a reported GPU renderer-timeout hang, and odd bugs such as a huge negative floor number",
+        "Reports that updates wipe saved runs"
+      ],
+      "improvements": [
+        "More bosses, enemy types and cards per faction (the most repeated request, even in positive reviews)",
+        "Ability to buff or upgrade specific cards outside combat (items on cards, like Monster Train or Legends of Runeterra) and more ways to customize or thin a deck",
+        "Percentage-based or more plentiful healing, since flat heals are useless at deep floors with very large max HP",
+        "Starting-deck and build variety, plus a real run structure or ending, not just endless scaling",
+        "Animation speed options, tutorial, glossary and deck/passive viewing during route selection",
+        "Steam Deck and controller support, and saves that survive updates"
+      ],
+      "unique_things": [
+        "Essentially an entire game built around the Hearthstone Dungeon Run / Tavern Brawl idea, with minion-board combat instead of hand-management card play",
+        "Faction (allegiance) identities such as dragons, thorns/silverthorn, undead/death knight, poison and archers, each with leveled unlocks",
+        "Enemies and bosses use the same passives the player can unlock, so the passives you see bosses use are what you later collect",
+        "Infinite depth scaling where bosses get increasingly silly stats",
+        "Deck reshuffling so a run does not end when your deck empties (added in a late patch)"
+      ],
+      "tedious_or_disliked": [
+        "Long deep runs where every fight looks the same but bigger, with no animation speed-up; several players quit around depth 40 to 50 from boredom",
+        "Starting over with the same weak starting cards each run in earlier versions; progression that mostly unlocks things you already saw a boss use",
+        "Switching faction requires abandoning a run",
+        "Grinding to unlock key passives and factions before higher floors feel manageable; about 30 achievements seen as grindy",
+        "Constantly having to skip offered cards because the growing unlocked pool is off-synergy"
+      ],
+      "divisive_points": [
+        "Post-allegiance-patch quality: many say it is now good or decent and recommended, while others still say it feels like a demo or early access",
+        "Difficulty: some find it too easy once a broken combo is found (ramp bundle, silverthorn plus taunt), while others find it brutally unfair after floor 15",
+        "Price: some say it is fine at current price for the content, others call $15 (or more at launch) too steep",
+        "Marketing: complaints that the developer spent on streamer sponsorships while the game lacked basics"
+      ],
+      "reception_notes": "Launched Sep 19, 2025 to Mixed reviews after a demo that many thought was more fun than the release. Patches per the Steam news page: v1.0.2 (Sep 22, 2025) sped progression by 37% and nerfed a passive; v1.0.3 (Oct 1) cost/undead fixes; v1.1 The Allegiance (Nov 28, 2025, per the page) added allegiances and 60+ cards and removed a boss passive; v1.1.2 (Dec 18) did a boss balance pass and added deck reshuffling; later a v1.2 (Jan 26) restoring allegiance unlocks and UI polish and a v1.3 Fire & Ice (May 4) with shared passives, scaled boss difficulty and a new arena. The fetched page's years for the later entries were garbled and likely refer to 2026. Some reviews note an earlier month-long gap without updates. Windows only; Steam Deck not supported well. Metacritic has only 1 critic and 2 user ratings so no score is shown. The Steam ratio is unlikely to move much because many reviewers update after patches but the overall total is small (about 160).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3621050.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appdata: developer, release date, price, review summary"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3621050/Doomspire/",
+          "what": "Steam store page: description, Mixed rating, release info"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3621050/allnews/",
+          "what": "Steam news/patch notes listing (version history)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/doomspire/",
+          "what": "Metacritic page: no score yet, 1 critic review, 2 user ratings"
+        },
+        {
+          "url": "https://www.metacritic.com/game/doomspire/critic-reviews/",
+          "what": "Metacritic critic reviews: Gamesurf 70"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3621050/doomspire",
+          "what": "Revenue estimate (Boxleiter method, order of magnitude only)"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=doomspire",
+          "what": "Checked for an OpenCritic entry; nothing usable found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore or user score (1 critic review, Gamesurf 70; 2 user ratings), so metacritic_critic/user stay null and OpenCritic stays null. Checked top Steam reviews: bullets on thin content, no animation speed-up, repeated weak starts, unlock-only-seen-passives, endless-only mode, easy after finding synergies and post-allegiance-patch improvement all match. No bullets removed or changed; nothing added since the main themes were already covered."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 1,
+    "his_spoken": null,
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 0.3,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 28.2,
+    "labels": [
+      "deckbuilder",
+      "turn_based"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

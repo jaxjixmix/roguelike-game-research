@@ -1,0 +1,289 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "the void rains upon her heart",
+    "name": "The Void Rains Upon Her Heart",
+    "display_name": "The Void Rains Upon Her Heart",
+    "appid": 790060,
+    "img": "img/790060.jpg",
+    "steam_url": "https://store.steampowered.com/app/790060/",
+    "website": "http://veyeralgames.com/",
+    "short_description": "Help her heart battle tough bosses in this Boss Rush, Bullet-hell with rogue-like elements. Fight through several randomly chosen boss battles leading up to a final battle. Each defeated monster will give her random gifts that power up her heart. Don't let her heart break!",
+    "developers": [
+      "Veyeral Games"
+    ],
+    "publishers": [
+      "The Hidden Levels"
+    ],
+    "release_date": "Feb 14, 2018",
+    "coming_soon": false,
+    "price": "$12.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Indie",
+      "Shoot 'Em Up",
+      "Action",
+      "Boss Rush",
+      "Rogue-lite",
+      "Early Access",
+      "Great Soundtrack",
+      "Female Protagonist"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 99.1,
+    "steam_total_reviews": 2012,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/the-void-rains-upon-her-heart/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all time)",
+        "score": "99.1% positive (1,993 of 2,012), Overwhelmingly Positive",
+        "url": "https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/"
+      },
+      {
+        "source": "Steam Revenue Calculator estimate (Boxleiter method, unaudited)",
+        "score": "about $661,711 gross, about $195,205 developer net; copies not stated",
+        "url": "https://steam-revenue-calculator.com/app/790060/the-void-rains-upon-her-heart"
+      },
+      {
+        "source": "SteamSpy owner estimate (from local steam_data.json)",
+        "score": "50,000 to 100,000 owners",
+        "url": "https://steamspy.com/app/790060"
+      }
+    ],
+    "vgi_units": 4384,
+    "vgi_revenue": 40685,
+    "vgi_rating": 99.056,
+    "vgi_reviews": 2012,
+    "vgi_url": "https://app.sensortower.com/vgi/game/the-void-rains-upon-her-heart",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "661,710.60",
+    "src_net": "195,204.63",
+    "src_url": "https://steam-revenue-calculator.com/app/790060/the-void-rains-upon-her-heart",
+    "final_tier": "S",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "this is going to be an stier for me",
+        "video_id": "zKosjx7EpKA",
+        "t": 8859,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=8859s",
+        "year_in_title": "2018",
+        "pos": 3,
+        "row_n": 4,
+        "row_score": 0.375,
+        "spoken": null
+      }
+    ],
+    "top10": [
+      {
+        "year": "2024",
+        "rank": 2,
+        "video_id": "pKh9Soutfj8",
+        "t": 1215,
+        "url": "https://www.youtube.com/watch?v=pKh9Soutfj8&t=1215s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "The Void Rains Upon Her Heart is a story-heavy 2D bullet hell boss rush roguelike built around the idea of loving your enemies. He calls it possibly the most interesting of the 130+ roguelikes he has played and is considering a dedicated video on it. He loves the slow-bullet, precision-based gameplay, the enormous amount of boss content and the discovery-driven unlock structure. His main gripe is that panic attacks can be stockpiled to trivialise final bosses. He places it in S tier and says it deserves more love than any other game on the list.",
+        "praise": [
+          "Bullet hell feel is among the best he has played: slower bullets, readable screen, precision over reflex, not punishing",
+          "Huge content volume: roughly 100 monsters/bosses, each with unique move sets that change by difficulty level",
+          "Bosses scale per level in bullet speed, health, damage and also attack patterns",
+          "Unlocks are informational (revealing monster and ability info) rather than stat upgrades, giving a two-phase game of discovery then planning builds",
+          "Abilities gained from each boss can meaningfully change how you play",
+          "Dark, gloomy visuals and a love-themed story contrast deliberately; strong story emphasis with cutscenes and characters",
+          "Final bosses are awesome, and he keeps finding new bosses, abilities, modes and events after ~20 hours"
+        ],
+        "criticism": [
+          "Panic attack system (bullet-clearing resource) can be stacked, e.g. ~18 saved for the final boss, making it too easy",
+          "Final bosses were easy for him even on higher difficulty because of hoarded panic attacks",
+          "Many abilities are fairly unimpactful and just trigger automatically",
+          "Roguelike elements take a back seat to core gameplay",
+          "Early hours are all question marks, which may feel odd when you want to build toward something"
+        ],
+        "unique_points": [
+          "Love-your-enemies gimmick and heavy narrative in a bullet hell boss rush",
+          "Unlockables reveal information instead of upgrading the character, so progression is knowledge-based",
+          "Two-stage structure: long discovery phase, then deliberate build planning once abilities are identified; he says he has not seen another game do this successfully",
+          "Boss move sets change per difficulty level, multiplying content"
+        ],
+        "quote": "this game deserves more love than any other game on this list",
+        "comparisons": [
+          "Star of Providence",
+          "Enter the Gungeon"
+        ],
+        "design_criteria": [
+          "Core gameplay feel: bullet speed and readability give fair, precision-based dodging",
+          "Content volume: ~100 bosses with level-dependent move sets",
+          "Meta-progression: unlocks reveal information rather than power",
+          "Discovery vs planning: unknown items early, strategic builds later",
+          "Ability impact: some abilities change play, many are automatic and minor",
+          "Balance/difficulty: stackable panic attacks undermine final boss challenge",
+          "Story and visuals: dark tone contrasting love theme, heavy cutscenes",
+          "Uniqueness: rare concept and execution among roguelikes"
+        ],
+        "rerank_note": ""
+      },
+      {
+        "part": "top10-2024",
+        "label": "Top 10 of 2024 (#2)",
+        "summary": "The Void Reigns Upon Her Heart is a 2D shoot-'em-up boss rush roguelike that he ranks second in his 2024 list. He has already made a full video essay on its design, so he gives only a quick recap. He calls it one of his favorite roguelike experiences ever, driven by fun core gameplay and an enormous amount of content. He strongly recommends it as a hidden gem.",
+        "praise": [
+          "Core gameplay is super fun and simple yet enjoyable",
+          "Roguelike elements are well designed, making every run feel different",
+          "Each boss is unique, with over 100 bosses",
+          "Absurd amount of content: 700 achievements, six modes that each feel like a new experience, countless events",
+          "Constantly adds new content and keeps rewarding the player, so he never got bored over tens of hours"
+        ],
+        "criticism": [
+          "No real criticisms voiced in this segment; he only frames it as an under-the-radar hidden gem"
+        ],
+        "unique_points": [
+          "Boss rush structure with 100+ distinct bosses",
+          "Six modes that each feel like a brand new experience",
+          "Sheer volume of content and achievements sustains long-term play"
+        ],
+        "quote": "this game was one of my favorite Rog like experiences ever",
+        "comparisons": [],
+        "design_criteria": [
+          "Core gameplay feel: simple, enjoyable mechanic that stays fun",
+          "Run variety: roguelike elements make every run feel different",
+          "Boss design: each boss is unique across 100+ bosses",
+          "Content volume: bosses, achievements, modes and events",
+          "Modes: six modes each feeling fresh",
+          "Reward loop and longevity: constant rewards and new content prevent boredom"
+        ],
+        "rerank_note": "He references a separate video essay he made about this game's design; no re-ranking mentioned here."
+      }
+    ],
+    "community": {
+      "one_liner": "A solo-developed bullet-hell boss-rush roguelite where you play an alien girl who befriends randomly chosen monsters, each giving gifts that power up her heart, leading up to a final battle.",
+      "consensus_summary": "Steam players treat it as a hidden gem: about 99% positive across roughly 2,000 reviews (Overwhelmingly Positive), with very high playtimes in the top reviews (many 80-400 hours). It is still in Early Access since Feb 2018, but the developer says about 90% of content is done and ships near-monthly patches (v8.37h landed Sep 26, 2026), so it is actively maintained, not abandoned. Reviewers say it has more content than many finished games, with Isaac-style unlock depth. The main friction is the art style and nudity, plus a long-standing wish for the unfinished story content. Mainstream critic coverage is essentially absent: the Metacritic page exists but has no scores, and I could not locate an OpenCritic entry. Note: web search quota was exhausted during this task, so community detail comes mainly from Steam reviews and store data rather than Reddit or outlet reviews.",
+      "best_things": [
+        "Huge content depth for the price ($12.99): about 110 boss battles, 600+ gifts, 80+ events, 4 playable characters, 5 modes and 750+ achievements per the store page",
+        "Isaac-style unlock loop: the more you unlock, the more there is to unlock; reviewers compare the volume to Binding of Isaac's Dead God save",
+        "Gentle difficulty ramp with lots of player control over difficulty, so newcomers to bullet hell can learn patterns and eventually beat bosses that once seemed impossible",
+        "Short runs, easy resets and a satisfying feedback loop make the game feel meditative and very replayable",
+        "Only around 8 monsters and a similar number of gifts appear per run, yielding varied builds; gifts are described as well balanced and interlocking without needing a wiki",
+        "Strong music and varied, charming enemy/boss designs",
+        "Solo developer with visible passion and frequent updates, responsive to feedback (e.g. added options to invert the victory and heartbreak flash colours after a player reported headaches)",
+        "Emotional story themes of persevering when you want to give up resonate with players"
+      ],
+      "worst_things": [
+        "Nudity and sexualised-looking monster girl art make some players uncomfortable; even with the nudity blur option, one negative reviewer said it was still unpleasant, and fans admit they cannot recommend it to friends",
+        "Bright white flashes on heartbreak and victory caused headaches for at least one player before an invert option was added",
+        "Still Early Access after years; some abilities and story entries carry placeholder or coming-soon text",
+        "Controls and camera described as a bit slippery or wonky by an otherwise enthusiastic reviewer",
+        "Some characters are less fun; the charge-beam twin character is called tiring to hold and low damage by one long-time player",
+        "Items skew toward passive stat upgrades rather than functionality-changing effects, per a 113-hour reviewer",
+        "Very low player counts (often about 30 or fewer concurrent) limit community and discoverability"
+      ],
+      "improvements": [
+        "Finish the story content and story-related boss battles, which the developer names as the main missing piece",
+        "Add more accessibility options for flashes and effects (partly addressed with inverted flash colours), and possibly an option to reduce small victory flashes",
+        "Rebalance weaker characters such as the charge-beam twin and make charge input less tiring",
+        "Add more items that change how you play rather than plain stat boosts",
+        "Polish controls and camera feel, and complete placeholder text or abilities before a 1.0 release",
+        "Make lore and story reachable without requiring extremely high difficulty"
+      ],
+      "unique_things": [
+        "Boss-rush structure with a roguelite gift-progression layer, combining bullet hell with Isaac-like meta-unlocks",
+        "Love and befriending framing: you calm cursed monsters instead of just killing them, and they reward you with gifts",
+        "Scale of about 750 achievements that unlock further content in an Early Access game built by one person",
+        "Flexible difficulty and practice tools so the same game works for casual and hardcore bullet-hell players",
+        "Mental-health-driven narrative (anxiety, depression, suicide themes, with a content warning) inside a bright, cute aesthetic",
+        "Nearly all-female cast of alien monster girls with distinctive art direction"
+      ],
+      "tedious_or_disliked": [
+        "Holding the charge button for the twin character's attack is tiring (settings exist to change input style or auto-fire)",
+        "Early hours are hard for players new to bullet hell, before patterns are learned",
+        "Grinding the meta-progression currency (tetrid) and chasing 700+ achievements can become a long commitment, though fans mostly enjoy it",
+        "Screen flashes at heartbreak and victory are unpleasant for light-sensitive players"
+      ],
+      "divisive_points": [
+        "Art style and nudity: some call it the only thing keeping the game from being considered one of the best bullet hells, others say the aesthetics are adorable or simply do not matter",
+        "Difficulty: fans praise its approachability while others find early bosses seem impossible at first",
+        "Early Access: some see it as effectively complete with more content than finished games, while a few highlight unfinished story and placeholder text"
+      ],
+      "reception_notes": "Released into Steam Early Access Feb 14, 2018 by Veyeral Games (publisher The Hidden Levels) and has stayed there, with the developer stating about 90% of content is complete and roughly monthly updates; the newest patch notes seen are v8.37h on Sep 26, 2026 (crash fixes), following v8.37f (Sep 24) that added elemental reactions to Shanx forms and gift duration display. Recent Steam reviews were 100% positive in the sample shown, and several 2025-2026 reviews mention discovering it through a streamer (Olexa) and a winter sale, suggesting a recent visibility bump. The Steam page carries a content warning for anxiety, depression and suicide themes and optional non-sexual nudity. Windows only on Steam (no Mac or Linux); the Metacritic page lists PC and Nintendo Switch but has no reviews yet. No notable controversies found beyond one negative review calling the developer a scam over a requirements change and another over nudity. Only 2 negative reviews were in the local sample (19 negative out of 2,012 total). Limitation: web search was out of budget, so no Reddit threads or editorial reviews were read.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/790060.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam metadata: appid 790060, review totals, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/",
+          "what": "Steam store page: Early Access status, developer notes, content counts, content warnings"
+        },
+        {
+          "url": "https://store.steampowered.com/feeds/news/app/790060/",
+          "what": "Steam news feed with recent patch notes v8.37d to v8.37h (Aug-Sep 2026)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-void-rains-upon-her-heart/",
+          "what": "Metacritic page exists for PC/Switch but shows no critic or user scores"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/790060/the-void-rains-upon-her-heart",
+          "what": "Boxleiter-method revenue estimate (gross and net)"
+        },
+        {
+          "url": "https://opencritic.com/",
+          "what": "Attempted OpenCritic lookup; no entry could be confirmed"
+        },
+        {
+          "url": "https://steamspy.com/app/790060",
+          "what": "SteamSpy owner range (via steam_data.json)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic page: still shows tbd for critic and user scores, so nulls confirmed; OpenCritic could not be rechecked (web search budget exhausted), left null. Steam totals (1,993 positive / 19 negative of 2,012) match local data. Removed one redundant tedious bullet (nudity blur friction, duplicates worst_things). Clarified negative-review count. Other bullets match top Steam reviews; no added themes."
+    },
+    "his_anchor": null,
+    "his_pos": 3,
+    "his_row_n": 4,
+    "his_spoken": null,
+    "his_score": 37.5,
+    "his_top10_bonus": 0,
+    "players_score": 99.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 64.7,
+    "labels": [
+      "shooter"
+    ],
+    "primary_label": "shooter"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "tangledeep",
+    "name": "Tangledeep",
+    "display_name": "Tangledeep",
+    "appid": 628770,
+    "img": "img/628770.jpg",
+    "steam_url": "https://store.steampowered.com/app/628770/",
+    "website": "http://www.tangledeep.com/",
+    "short_description": "Enter the magical world of Tangledeep, a beautifully polished dungeon crawler inspired by classic 16-bit RPGs! Colorful characters, a unique job system, tons of skills, items, and diverse environments with deep, turn-based roguelike gameplay. A different adventure every time you play!",
+    "developers": [
+      "Impact Gameworks"
+    ],
+    "publishers": [
+      "Impact Gameworks",
+      "Doyoyo Games"
+    ],
+    "release_date": "Feb 1, 2018",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Traditional Roguelike",
+      "Turn-Based Tactics",
+      "Mystery Dungeon",
+      "Dungeon Crawler",
+      "Difficult",
+      "Turn-Based",
+      "Rogue-like",
+      "Female Protagonist",
+      "RPG",
+      "Turn-Based Strategy"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 82.0,
+    "steam_total_reviews": 1486,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/tangledeep/",
+    "metacritic_user": 7.4,
+    "opencritic": 78,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Gaming Nexus (Metacritic, Switch)",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/tangledeep/critic-reviews/"
+      },
+      {
+        "source": "GameCritics",
+        "score": "8.5/10",
+        "url": "https://www.gamecritics.com/review/tangledeep/"
+      },
+      {
+        "source": "Nintendo Life (Metacritic, Switch)",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/tangledeep/critic-reviews/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "82% positive (Very Positive), 1,218 positive / 268 negative",
+        "url": "https://store.steampowered.com/app/628770/Tangledeep/"
+      },
+      {
+        "source": "GOG user rating",
+        "score": "4.1/5 (47 reviews)",
+        "url": "https://www.gog.com/en/game/tangledeep"
+      },
+      {
+        "source": "SteamSpy/Steam Revenue Calculator estimate",
+        "score": "20k-50k owners; ~$570k gross, ~$168k net est.",
+        "url": "https://steam-revenue-calculator.com/app/628770/tangledeep"
+      }
+    ],
+    "vgi_units": 109000,
+    "vgi_revenue": 1200000,
+    "vgi_rating": 81.953,
+    "vgi_reviews": 1485,
+    "vgi_url": "https://app.sensortower.com/vgi/game/tangledeep",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "569,859.84",
+    "src_net": "168,108.65",
+    "src_url": "https://steam-revenue-calculator.com/app/628770/tangledeep",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put this as like a low beat here",
+        "video_id": "5k_-k4X90ao",
+        "t": 9920,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=9920s",
+        "year_in_title": "2017",
+        "pos": 34,
+        "row_n": 35,
+        "row_score": 0.09785714285714282,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Tangledeep is a turn-based, top-down strategy roguelike with a huge amount of systems and information. PepperHead played about 20 hours and enjoyed it early on, but found that returning to it felt impossible because of how overwhelming it is. He would only recommend it to a narrow audience who like heavy systems. He places it in low B tier.",
+        "praise": [
+          "Enjoyed his time with it and was really invested early on",
+          "Enormous depth of systems and content",
+          "Players who master the rules likely feel fully in control, which he thinks must feel great",
+          "Dedicated fans clearly love it"
+        ],
+        "criticism": [
+          "Overwhelming amount of information spread over many screens",
+          "Barely any tutorial; throws the player in with everything at once",
+          "Hard to return to after a break; too much to relearn",
+          "Story and dungeon are the same every run, with the same text and bosses, which feels odd for a roguelike"
+        ],
+        "unique_points": [
+          "Traditional-style roguelike with a fixed plot that replays identically each run, which clashes with roguelike replayability",
+          "Depth and complexity are both its appeal for veterans and its barrier for everyone else"
+        ],
+        "quote": "it was just too much",
+        "comparisons": [
+          "Baldur's Gate",
+          "D&D (as a tabletop reference point)"
+        ],
+        "design_criteria": [
+          "Onboarding/tutorial: nearly absent, leaving the player overwhelmed",
+          "Complexity/information load: too many systems and screens",
+          "Replayability: same story, dungeon and bosses every run hurts it",
+          "Depth/mastery: rewarding for players who learn every rule",
+          "Accessibility: recommendable only to a niche of strategy fans"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 16-bit-styled, turn-based traditional roguelike/dungeon crawler by Impact Gameworks with a job system, pet taming and a town hub, with an optional no-permadeath Adventure Mode.",
+      "consensus_summary": "Tangledeep is well regarded: Steam shows Very Positive (about 82% of ~1,490 reviews positive), Metacritic critics average 79 from 7 Switch reviews, and GOG lists about 78 on OpenCritic with 100% critic recommend. Players and critics praise the pixel art, Andrew Aversa soundtrack, mix-and-match job system and flexible difficulty, and often call it a hidden gem and a friendly entry to traditional roguelikes. Detractors find it shallow, easy or a grind for veterans, and find the controls, tutorial and run length rough. Metacritic user score is a middling 7.4 on only 25 ratings. It is a full release (Feb 2018) with paid expansions (Legend of Shara, Dawn of Dragons) and Steam reviews are still arriving in 2026, so it still has an audience; I did not find evidence of it being abandoned, but did not verify current patch cadence.",
+      "best_things": [
+        "Polished SNES-era pixel art and an acclaimed soundtrack (composer Andrew Aversa with guest composers) that reviewers repeatedly call captivating",
+        "Job/class system with about 12 base jobs where you can mix and match abilities and passives via multiclassing, giving lots of build freedom",
+        "Very customizable difficulty: four difficulty tiers including a no-permadeath Adventure Mode plus 10+ optional modifiers; praised by GameCritics as something more games should copy",
+        "Approachable for roguelike newcomers while still offering depth; several players call it a cozy, chill traditional roguelike",
+        "Large amount of content: side areas, quests, item dreams (mini-dungeons to upgrade gear), a town hub, farming, pet taming and breeding; one player logged 192 hours without seeing everything",
+        "Good controller support plus fully rebindable keyboard controls; players say it plays well on gamepad and the Switch version gets long playtime"
+      ],
+      "worst_things": [
+        "Top-voted negative review (12 votes): beautiful art and good music but 'a whole lot of unmemorable stuff in between'; never reaches its potential",
+        "Combat and build depth felt shallow to veterans: few enemy types, skills maxed out early so tactics stop changing, equipment rarely changes how you play",
+        "Generally too easy for experienced roguelike players, who say a no-death clear in one attempt is plausible (while Nintendo Life cautioned difficulty spikes for newcomers)",
+        "Clunky interface and controls per several players: unhelpful default keymapping, menus described as convoluted, and movement described as clunky",
+        "Tutorial is thin and mostly leaves players to figure mechanics out",
+        "Late-game gear selection becomes a slog, with strategies dictated by RNG loot and lots of unusable drops for your class",
+        "Some feel it does nothing better than its genre predecessors and lacks the creativity and humor of games like Dungeons of Dredmor",
+        "Music cannot be turned off until after character creation, cited as a UX annoyance",
+        "No character customization beyond class choice (4 votes)"
+      ],
+      "improvements": [
+        "A better, more informative tutorial and clearer default control/keymap labelling (controller Start/Select confusion, WASD vs arrow keys mismatch reported)",
+        "More enemy variety and skills/equipment that change tactics rather than giving flat passive boosts",
+        "Cleaner menus and inventory UI; Steam reviewers called the interface clunky despite an unlimited text inventory",
+        "Fewer rough edges for ranged/melee play such as automatic weapon switching back to melee (one reviewer complaint)",
+        "Mitigations for run length and RNG punishment, since full runs are reported at 6-14 hours and a late death is demoralizing",
+        "More build-defining synergies so the multiclass system feels necessary rather than optional"
+      ],
+      "unique_things": [
+        "Capture-and-breed pet system: catch monsters, keep one fighting beside you and breed them in a Monster Corral",
+        "Job system with free class switching (for a fee or free) and cross-class ability mixing, reminiscent of JRPGs",
+        "Item Dreams: random mini-dungeons you enter inside an item to strengthen it, a Disgaea-like idea",
+        "SNES/JRPG-flavored presentation with town hub, farming, banking and shared progression between characters, blending roguelike with Mystery Dungeon and classic RPG feel",
+        "Adventure Mode without permadeath alongside a hardcore mode, plus a heavy modifier menu and challenge leaderboards"
+      ],
+      "tedious_or_disliked": [
+        "Full runs are very long (one player reported 6-7 hours at best, up to 9-14 hours), so a late death feels painful",
+        "Catching pets is called a drag (GameCritics) and pets feel almost necessary for some players",
+        "Grinding for gear upgrades and sifting through lots of junk loot late in the game",
+        "Some players say winning favors patient defensive play rather than tactical skill, making long runs feel repetitive",
+        "Turn-based movement and menu navigation felt slow or unintuitive to some new players"
+      ],
+      "divisive_points": [
+        "Difficulty: newcomers and some critics report spikes, while veterans find it easy and never close to dying",
+        "Depth: fans see great build freedom via multiclassing, detractors say abilities are basic and multiclassing is unnecessary",
+        "JRPG-adjacent style and pet/farming features read as charming to some and as distraction from a pure roguelike to others",
+        "Permadeath pacing: long hardcore runs are praised for stakes by some and called unfulfilling by others"
+      ],
+      "reception_notes": "Launched on Steam Feb 1, 2018 at $14.99 (PC/Mac/Linux) and later reached Switch, where Metacritic's 7 critic reviews range from 70 to 90. Steam holds at Very Positive (82%); Metacritic user score is lower (7.4, 25 ratings) but the sample is tiny. The OpenCritic figure (78, 100% recommend) comes from the GOG store page, and I could not load the OpenCritic page itself. Expansions Legend of Shara and Dawn of Dragons add classes and content; the Steam store also sells two soundtrack packages. Reddit and Nintendo Life pages were blocked, and my web search quota was exhausted, so community themes rely on Steam reviews, the Steam community forum, GOG and critic pages. The Steam forum shows typical support threads (job trials, New Game+ bug, requests for GOG updates, Russian localization). Estimated copies: Steam owner range 20k-50k per SteamSpy data in the local file; the revenue calculator gave no copies figure.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/628770.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, tags, review counts, SteamSpy owner range (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/628770/Tangledeep/",
+          "what": "Steam store page: features, DLC, review summary, soundtrack credits"
+        },
+        {
+          "url": "https://www.metacritic.com/game/tangledeep/",
+          "what": "Metacritic critic score 79 (7 reviews) and user score 7.4 (25 ratings)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/tangledeep/critic-reviews/",
+          "what": "Individual critic scores: Gaming Nexus 90, GameCritics 85, Screen Rant 80, NWR 80, Video Chums 80, Nintendo Life 70, Digitally Downloaded 70"
+        },
+        {
+          "url": "https://www.gamecritics.com/review/tangledeep/",
+          "what": "GameCritics review 8.5/10: praise for classes and customization, criticism of pet catching and difficulty spikes"
+        },
+        {
+          "url": "https://www.gog.com/en/game/tangledeep",
+          "what": "GOG page: 4.1/5 user rating, OpenCritic 78 with 100% recommend, grind complaint"
+        },
+        {
+          "url": "https://steamcommunity.com/app/628770/discussions/",
+          "what": "Steam community forum topics (job trials, bugs, feature requests)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/628770/tangledeep",
+          "what": "Estimated gross/net revenue breakdown using the Boxleiter method"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=tangledeep",
+          "what": "Attempted OpenCritic lookup; page returned no usable data"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: Metascore 79 (7 reviews), user 7.4 (25 ratings), Gaming Nexus 90, GameCritics 85, Nintendo Life 70 confirmed. OpenCritic 78 could not be confirmed (guessed OpenCritic URL was a different game; search quota exhausted), so it remains sourced only from the GOG page claim. Removed unsupported 'loot is plentiful' best-thing; rewrote Steam Deck claim (reviews only mention gamepad and Switch); added top-voted 'unmemorable/never meets potential' and 'no character customization' worst-things from Steam reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 34,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 9.8,
+    "his_top10_bonus": 0,
+    "players_score": 15.9,
+    "critics_score": 38.7,
+    "critics_avg": 78.5,
+    "overall": 17.7,
+    "labels": [
+      "traditional",
+      "turn_based"
+    ],
+    "primary_label": "traditional"
+  }
+}

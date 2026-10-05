@@ -1,0 +1,244 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "hades",
+    "name": "Hades",
+    "display_name": "Hades",
+    "appid": 1145360,
+    "img": "img/1145360.jpg",
+    "steam_url": "https://store.steampowered.com/app/1145360/",
+    "website": "http://www.supergiantgames.com",
+    "short_description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+    "developers": [
+      "Supergiant Games"
+    ],
+    "publishers": [
+      "Supergiant Games"
+    ],
+    "release_date": "Sep 17, 2020",
+    "coming_soon": false,
+    "price": "$6.24",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-lite",
+      "Hack and Slash",
+      "Indie",
+      "Mythology",
+      "Action",
+      "Rogue-like",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Story Rich"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 98.0,
+    "steam_total_reviews": 309032,
+    "metacritic": 93,
+    "metacritic_url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Overwhelmingly Positive, about 98% of 309,032 reviews",
+        "url": "https://store.steampowered.com/app/1145360/Hades/"
+      },
+      {
+        "source": "OpenCritic critics recommend (per Wikipedia)",
+        "score": "99% recommend",
+        "url": "https://en.wikipedia.org/wiki/Hades_(video_game)"
+      },
+      {
+        "source": "Steam-revenue-calculator (Boxleiter estimate)",
+        "score": "about $304M gross / about $89.7M net; SteamSpy owners 5M-10M",
+        "url": "https://steam-revenue-calculator.com/app/1145360/hades"
+      }
+    ],
+    "vgi_units": 8500000,
+    "vgi_revenue": 142200000,
+    "vgi_rating": 98.002,
+    "vgi_reviews": 308915,
+    "vgi_url": "https://app.sensortower.com/vgi/game/hades",
+    "spy_owners": "5,000,000 .. 10,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "304,144,293.60",
+    "src_net": "89,722,566.61",
+    "src_url": "https://steam-revenue-calculator.com/app/1145360/hades",
+    "final_tier": "S",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "this game definitely deserves to be S tier it's an absolute Masterpiece",
+        "video_id": "5k_-k4X90ao",
+        "t": 4170,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=4170s",
+        "year_in_title": "2018",
+        "pos": 2,
+        "row_n": 9,
+        "row_score": 0.8333333333333334,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Hades is Supergiant's 2018 early-access-era roguelite that surprised everyone and, in his view, deserves all its hype. He has speedrun it and once placed in the top 100 of a run category. He calls it a masterpiece and probably the best roguelike on the board so far, and he places it in S tier without hesitation.",
+        "praise": [
+          "Huge run-start customization: many boons/passes, weapons with unique abilities, keepsakes/charms, companions",
+          "Adjustable per-run difficulty options",
+          "Replayability: never gets old, he can always come back to it",
+          "Art style and visual effects are amazing",
+          "Characters are memorable",
+          "Every line of text is voice acted, with a great volume of dialogue",
+          "Speedrunning scene gives it lasting depth"
+        ],
+        "criticism": [
+          "No real criticisms; he says he wishes he could put games in S tier that are not truly S, implying Hades clearly earns it"
+        ],
+        "unique_points": [
+          "Fully voiced narrative integrated into a roguelite at massive scale",
+          "Per-run difficulty customization and starting-loadout variety keep runs fresh",
+          "Strong enough for competitive speedrunning"
+        ],
+        "quote": "it's an absolute Masterpiece this is uh honestly probably the best roguelike so far",
+        "comparisons": [],
+        "design_criteria": [
+          "Customization/build variety: weapons, boons, keepsakes, companions give differing starts",
+          "Replayability: never gets old",
+          "Difficulty options: adjustable per run",
+          "Charm/visuals: art style and effects",
+          "Characters and writing: memorable cast",
+          "Audio: full voice acting on every line",
+          "Mastery ceiling: speedrunning depth"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "Supergiant Games' isometric action roguelite in which Zagreus, son of Hades, fights out of the Greek Underworld, with story and dialogue woven into the run-and-die loop.",
+      "consensus_summary": "Hades is treated as a landmark of the genre by both critics and players: Metacritic 93 from 58 critic reviews with no mixed or negative ones, Steam 'Overwhelmingly Positive' at about 98% of roughly 309k reviews, and Wikipedia reports 99% of critics recommending it on OpenCritic. It swept Game of the Year at BAFTA, DICE, GDC and other ceremonies and became the first video game to win a Hugo. It spent almost two years in early access (from Dec 2018) and then launched in full in Sept 2020 to very strong sales. The main dissent comes from players who bounce off the roguelite structure itself (repetition, fixed biomes and bosses, RNG, meta-grind), not from the craft. Metacritic user score is lower than critics at 8.5, with Metacritic's summary citing RNG frustration and repetitive restarts.",
+      "best_things": [
+        "Story is delivered through the run loop: each death brings new hub dialogue, so failure advances the narrative and feels rewarding rather than punishing",
+        "Fast, fluid, responsive combat with six distinct weapons and several aspects each, praised as weighty and satisfying",
+        "Boon system from the Olympian gods gives build variety and synergies (duo boons) while staying compact enough to understand",
+        "Writing, voice acting and characterisation are repeatedly singled out, including Zagreus's politeness and the gods' interplay and relationships",
+        "Art direction by Jen Zee and the soundtrack are near-universal praise",
+        "Accessible for roguelike newcomers: God Mode quietly boosts you after each death, and the hub and mirror upgrades soften early losses",
+        "Heat / Pact of Punishment gives scalable endgame difficulty and long replay value",
+        "Many reviewers who dislike the genre say this was the one that hooked them"
+      ],
+      "worst_things": [
+        "Only four biomes and a fixed set of bosses, so runs feel samey after a few dozen hours",
+        "Final boss fight against Hades is a big difficulty spike, frustrating to some players on the True Ending route",
+        "RNG in boon and reward offers can make runs feel unfair or throttle progress",
+        "Reviewers who want Binding of Isaac style emergent builds find boons mostly stat bonuses and percentages with few memorable or wild builds",
+        "Reaching full narrative closure (epilogue) takes very many clears; only a small share of players get there",
+        "Some players find the combat button-mashy, with heavy area damage, projectile spam and particle clutter (the lava biome and its bombers are a named pain point)"
+      ],
+      "improvements": [
+        "More biomes, bosses and enemy variety to reduce repetition (partly answered by Hades II)",
+        "Stronger, more game-changing boons or build-defining items for wilder synergies",
+        "A less grindy route to the epilogue and to late resources such as Titan Blood",
+        "Heat system that adds new mechanics rather than mostly limiting options or raising numbers",
+        "Clearer tracking of upgrade shop contents and rewards; several negative reviewers complain that remembering every god's offerings is hard",
+        "Finer-grained difficulty and assist options than God Mode's fixed ramp; one reviewer wanted an initial armour setting like Hades II"
+      ],
+      "unique_things": [
+        "Narrative-first roguelite: dialogue, relationships and plot progress are the meta-progression alongside stat unlocks",
+        "Greek mythology cast reinterpreted with personality-driven, sympathetic gods",
+        "Protagonist who is meant to die: death returns you to a living hub home with characters who react to how you died",
+        "God Mode accessibility that scales up with each failure, so the story is reachable for anyone",
+        "Pact of Punishment and heat let you tailor difficulty with many modifiers and unlock cosmetic rewards",
+        "Release-quality polish from a two-year early access that shipped with full voice acting and music"
+      ],
+      "tedious_or_disliked": [
+        "Running the same four regions and bosses many times to reach the story's ending",
+        "Grinding for meta resources such as Titan Blood and diamonds late in the game, described as a chore",
+        "Dodging heavy AoE and projectile spam in the later rooms, called monotonous by some",
+        "Heat-stacking runs where the added difficulty feels like restricted options rather than fresh play",
+        "Story interruptions and hub trips feel like hurdles to players who just want to start the next run; some later realise they are the point",
+        "Some users compare the loop to habit-forming or gambling-style design"
+      ],
+      "divisive_points": [
+        "Roguelite meta-progression: many find it a gentle learning curve, purists feel it hides whether they are actually improving",
+        "Story gating and repetition: praised as integrated and rewarding by most, but a slog by others (e.g. 70+ hours with little left to see)",
+        "Boon depth: fans praise clear synergies, critics say few builds are memorable compared with Isaac or Slay the Spire",
+        "Difficulty: hard at first, then manageable for most players, but the final boss and high heat frustrate some"
+      ],
+      "reception_notes": "Early access began 6 Dec 2018 after a Game Awards reveal; Wikipedia cites about 700k copies during nearly two years of early access and another 300k in three days after the 17 Sept 2020 full release (over 1M total then; later third-party estimates are far higher). Launch on PC (Windows, macOS) and Switch; PS4/PS5 and Xbox arrived 13 Aug 2021; a Netflix Games mobile version ran from March 2024 until it was removed in July 2025. Cross-save between Windows and Switch came via a Dec 2020 patch. Won GOTY at BAFTA, DICE, GDC, New York Game Awards and SXSW, plus a Hugo. Current Steam reviews are still highly positive, with the sequel Hades II drawing players back to the original. Note: OpenCritic's exact average was not retrievable in this session (WebSearch budget exhausted and the game page could not be located), so it is left null.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1145360.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam data: app 1145360, 98% positive, Metacritic 93, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades/",
+          "what": "Metascore 93 from 58 reviews, user score 8.5 from 5,372 ratings, critic consensus"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades/critic-reviews/",
+          "what": "Critic review listing and paraphrased praise"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades/user-reviews/",
+          "what": "User review themes: variety, repetition, grind complaints"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hades_(video_game)",
+          "what": "Reception, awards, sales, release history, God Mode and Pact of Punishment"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1145360/Hades/",
+          "what": "Steam store page and review summary"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1145360/hades",
+          "what": "Estimated revenue (Boxleiter method, order of magnitude)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 93 (58 reviews), user 8.5 (5,372 ratings) confirmed. OpenCritic score could not be verified (page fetch returned wrong game, search budget exhausted), left null. Removed 'cringey voice acting' worst-thing bullet because Steam reviews (positive and negative) call voice acting top-notch. Nulled unverifiable OpenCritic URL. Other bullets match Steam review themes (repetition, four biomes, grind/RNG gating of epilogue, few memorable builds, story interruptions)."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 9,
+    "his_spoken": null,
+    "his_score": 83.3,
+    "his_top10_bonus": 0,
+    "players_score": 98.2,
+    "critics_score": 98.7,
+    "critics_avg": 93.0,
+    "overall": 91.6,
+    "labels": [
+      "action",
+      "hades_like"
+    ],
+    "primary_label": "hades_like"
+  }
+}

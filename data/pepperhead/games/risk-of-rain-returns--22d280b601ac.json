@@ -1,0 +1,277 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "risk of rain returns",
+    "name": "Risk of Rain Returns",
+    "display_name": "Risk of Rain Returns",
+    "appid": 1337520,
+    "img": "img/1337520.jpg",
+    "steam_url": "https://store.steampowered.com/app/1337520/",
+    "website": null,
+    "short_description": "Carefully designed, beautifully remastered, and loaded with new ways to play—Risk of Rain is back and better than ever! Dive into the iconic roguelike full of unique loot combinations, enhanced with new Survivors, overhauled multiplayer, fan favorite content from Risk of Rain 2, and more!",
+    "developers": [
+      "Hopoo Games"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ],
+    "release_date": "Nov 8, 2023",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Online Co-Op",
+      "Multiplayer",
+      "2D",
+      "PvE",
+      "Local Co-Op",
+      "Looter Shooter",
+      "Sci-fi",
+      "Action",
+      "Controller"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.0,
+    "steam_total_reviews": 28738,
+    "metacritic": 84,
+    "metacritic_url": "https://www.metacritic.com/game/risk-of-rain-returns/",
+    "metacritic_user": 7.9,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Attack of the Fanboy (via Metacritic)",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "GamingBolt (via Metacritic)",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "TheSixthAxis (via Metacritic)",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "The Games Machine (via Metacritic)",
+        "score": "87",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "God is a Geek (via Metacritic)",
+        "score": "85",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "Twinfinite (via Metacritic)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, about 90% of 28,738 (25,875 positive / 2,863 negative)",
+        "url": "https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/"
+      },
+      {
+        "source": "Steam Spy / steam-revenue-calculator (estimates)",
+        "score": "1M to 2M owners; est. gross revenue about $13.4M, net about $3.9M (Boxleiter-style estimate)",
+        "url": "https://steam-revenue-calculator.com/app/1337520/risk-of-rain-returns"
+      }
+    ],
+    "vgi_units": 862000,
+    "vgi_revenue": 9300000,
+    "vgi_rating": 90.037,
+    "vgi_reviews": 28737,
+    "vgi_url": "https://app.sensortower.com/vgi/game/risk-of-rain-returns",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "13,371,351.28",
+    "src_net": "3,944,548.63",
+    "src_url": "https://steam-revenue-calculator.com/app/1337520/risk-of-rain-returns",
+    "final_tier": "A",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "a solid s sl8 tier H I'm going to put as a very high a tier",
+        "video_id": "zKosjx7EpKA",
+        "t": 6937,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=6937s",
+        "year_in_title": "2023",
+        "pos": 1,
+        "row_n": 13,
+        "row_score": 0.9470000000000001,
+        "spoken": "said very high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Risk of Rain Returns is the 2023 remake of the original 2D action roguelike Risk of Rain. PepperHead played 80+ hours of the original and sees this as simply the better version: same core game and art style, cleaner, with more content, characters and items. He places it in a very high A tier, saying it is only below S because he personally prefers two other games, and that it could be an easy S for many people.",
+        "praise": [
+          "Faithful remake that keeps the core of the original while improving nearly everything",
+          "Same art style, just cleaner",
+          "More content: characters, items, and unique challenges",
+          "Great diversity between characters, with fun core gameplay mechanics as the focus",
+          "Constant item pickups keep runs rewarding and pacing fast",
+          "Removed the need to clear the whole map after the boss (toggleable in options for fans of the old way)",
+          "New challenges offer an easier alternative way to unlock alternate skill sets"
+        ],
+        "criticism": [
+          "Items and abilities do not change how you play a run, usually a weak sign, though it works here",
+          "Some may find the unlock challenges make alternate skills too easy to get, though he disagrees",
+          "Placed below S mainly due to personal preference for other games rather than flaws"
+        ],
+        "unique_points": [
+          "Original was among the first action-based roguelikes, so a modern remake benefits from years of genre learning",
+          "Options let players choose original or faster post-boss pacing, so both old and new fans are served",
+          "Low-impact items still work because the core gameplay is the fun and loot flow is constant"
+        ],
+        "quote": "it's just the better risk of rain one",
+        "comparisons": [
+          "Risk of Rain (original)",
+          "Risk of Rain 2",
+          "Wizard of Legend"
+        ],
+        "design_criteria": [
+          "Core gameplay feel: the fun comes mostly from the core mechanics",
+          "Character diversity: great variety between characters",
+          "Item/ability impact: items do not change run style, yet it works",
+          "Pacing: fast, constant item rewards, no forced map clearing",
+          "Content quantity: more characters and items than the original",
+          "Unlock systems: challenges make alternate skills easier to unlock",
+          "Visuals: same art style as the original, cleaner",
+          "Accessibility/options: options cater to both old and new fans"
+        ],
+        "rerank_note": "Remake of Risk of Rain 1, which he reviewed on his original tier list; this game was not out then. He notes the slow post-boss pacing issue he raised there is now fixed."
+      }
+    ],
+    "community": {
+      "one_liner": "A ground-up 2D remake of the 2013 co-op action roguelike Risk of Rain: pick a survivor, loot stacking items across timed stages while difficulty climbs with the clock, and fight your way to the final boss, rebuilt with new survivors, items, artifacts, and overhauled multiplayer.",
+      "consensus_summary": "Critics and players largely see it as a model remake: Metacritic sits at 84 from 13 critics and Steam at about 90% positive across roughly 28.7k reviews (Very Positive). Reviewers highlight the extra survivors and items, polished pixel art, music, and much better multiplayer, while noting it stays conservative and still feels dated next to modern roguelites and to Risk of Rain 2. It is not early access and is a finished game with no DLC beyond the soundtrack. Steam reviewers wish for more post-launch updates, and a vocal minority find the core loop, hit feedback and Providence Trial unlock gating frustrating.",
+      "best_things": [
+        "Faithful but much more polished remake: sharper pixel art that keeps the original's look, plus quality-of-life options that can mostly be toggled individually.",
+        "Soundtrack and atmosphere repeatedly called out by critics and Metacritic users as a highlight.",
+        "Large new content layer: new survivors (for example the Drifter, a scrap-gathering brawler), extra items and Risk of Rain 2 fan-favorite content alongside the classic roster (about 15 survivors on the store page).",
+        "Item-stacking power fantasy: players like growing from weak to screen-clearing god and learning which items and survivors combine best.",
+        "Overhauled multiplayer with up to four players online and local split-screen, which critics (GameSkinny, for one) single out as the best way to play.",
+        "Short-ish, replayable runs and no-DLC completeness, which Steam reviewers appreciate compared with the sequel.",
+        "Accessible to some newcomers and a clear upgrade for returning fans: several reviewers call it the right way to do a remake, while others say the original felt too hard or dated to them.",
+        "Feels distinct from RoR2 in a positive way: a 2D, more arcade-like cousin that some players prefer for its aesthetics and pacing.",
+        "Co-op is the emotional hook in the most-upvoted reviews: couples and parents play it with partners and kids, and the chaotic item-grabbing and frequent deaths are treated as part of the fun."
+      ],
+      "worst_things": [
+        "Combat readability: late-game hordes overlap, enemy attacks have little telegraphing, and players say it is hard to tell when they have been hit.",
+        "Flying enemies and magma worms are widely described as oppressive, since 2D aiming and movement limit how you answer them.",
+        "Core loop feels repetitive to some: walk away from the crowd and spam skills, little positioning depth or macro play compared with RoR2.",
+        "Providence Trials are required for some unlocks, and reviewers call the challenge design punishing rather than teaching.",
+        "Technical rough edges in reviews: crashes, freezes when the screen fills up, sticky controller input, and controller deadzone or menu issues.",
+        "Multiplayer connection problems reported (disconnected from host errors) and local co-op camera or scale issues on TVs.",
+        "No mid-run save, which The Games Machine flagged, and some players lose a run after force closing."
+      ],
+      "improvements": [
+        "More post-launch updates and content; 'lack of updates' is a repeated complaint even among positive reviews.",
+        "Better feedback and telegraphing of enemy attacks and hits, and clearer screen readability in late-game chaos.",
+        "Mid-run saving and more robust stability and performance when many objects are on screen.",
+        "Fix multiplayer connection reliability and improve split-screen camera behavior for local co-op.",
+        "Rework unlock gating so that Providence Trials are not needed for core item and ability unlocks, and improve controller handling and remapping."
+      ],
+      "unique_things": [
+        "Difficulty scales with elapsed time rather than stage count, forcing a tradeoff between looting thoroughly and moving on.",
+        "Huge roster of stackable items whose interactions are unpredictable, producing build variety that players call esoteric and satisfying.",
+        "Survivors with very distinct kits plus alternate skill unlocks, and Artifacts that mutate a run.",
+        "Providence Trials, a set of skill challenges that double as unlock content.",
+        "A 2D side-scrolling co-op format with online and local play, unusual next to the 3D Risk of Rain 2.",
+        "Reviewers frame it as remake-plus-superset: it keeps the original's feel while folding in RoR2 content."
+      ],
+      "tedious_or_disliked": [
+        "Very short, sparse item availability per map makes scavenging feel slow while enemies outscale you, per a critical review.",
+        "Randomness of drops (especially the active item) means many runs feel alike to some players, and progression for new survivors can feel slow.",
+        "Providence Trial unlocks and some achievement hunts are described as gatekeeping and sadistic.",
+        "Runs can drag at around an hour, and long late-game hordes get repetitive for some.",
+        "Heavy difficulty for newcomers: several reviewers bounced off even after hours."
+      ],
+      "divisive_points": [
+        "Returns vs Risk of Rain 2: many prefer the remake's look and feel, while others say it lacks RoR2's movement and skill expression and is overshadowed by it.",
+        "Difficulty: fans see earned power growth, critics call it unfair, sponge-like enemies and scaling.",
+        "Art update: most love the added detail, some prefer the simpler original pixel art.",
+        "Conservative remake: some say it changes too little, others call it the right way to do a remaster."
+      ],
+      "reception_notes": "Launched Nov 8, 2023 on PC (Steam) and Nintendo Switch, developed by Hopoo Games and published by Gearbox/2K at $14.99. Critic reception was strongly positive (Metacritic 84 from 13 reviews; 80-90 range for most outlets). Steam has held Very Positive with about 90% of roughly 28.7k reviews. OpenCritic could not be retrieved (web search budget was exhausted and guessed OpenCritic URLs resolved to unrelated games), so the score is null. Steam forum threads and negative reviews show continued bug reports around controller input, achievements and multiplayer connections, plus mild disappointment threads; positive reviewers wish for further updates. Steam lists a Windows-only build; the only add-on is the soundtrack.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1337520.json",
+          "what": "Top helpful positive and negative English Steam reviews (primary source for player praise and complaints)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid, release date, price, 90% positive of 28,738, owners estimate"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1337520/risk-of-rain-returns",
+          "what": "Estimated gross and net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/risk-of-rain-returns/",
+          "what": "Metascore 84 (13 critics), user score 7.9 (79 ratings), critic summary"
+        },
+        {
+          "url": "https://www.metacritic.com/game/risk-of-rain-returns/critic-reviews/",
+          "what": "Per-outlet critic scores and verdicts (Attack of the Fanboy, GamingBolt, TheSixthAxis, The Games Machine, etc.)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/risk-of-rain-returns/user-reviews/",
+          "what": "Themes in Metacritic user reviews (music praise, controls and difficulty complaints)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/",
+          "what": "Steam store page: features, survivors, artifacts, co-op modes, soundtrack-only DLC"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1337520/discussions/",
+          "what": "Steam discussion thread topics: controller bugs, achievements, multiplayer, Providence Trials difficulty"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 84 from 13 critics and user score 7.9 from 79 ratings confirmed; OpenCritic left null (not retrieved). Removed 1 filler improvement (Windows-only note, not a review theme). Rewrote 1 best_things bullet (accessible entry point) that overstated 'several reviewers' and conflicted with reviews calling the game too hard. Added 1 best_things theme (co-op with partners/kids) from the top-voted Steam reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 13,
+    "his_spoken": "said very high",
+    "his_score": 94.7,
+    "his_top10_bonus": 0,
+    "players_score": 51.8,
+    "critics_score": 71.4,
+    "critics_avg": 84.0,
+    "overall": 75.0,
+    "labels": [
+      "shooter",
+      "platformer",
+      "coop",
+      "action"
+    ],
+    "primary_label": "shooter"
+  }
+}

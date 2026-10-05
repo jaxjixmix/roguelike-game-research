@@ -1,0 +1,264 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "don’t starve",
+    "name": "Don't Starve",
+    "display_name": "Don’t Starve",
+    "appid": 219740,
+    "img": "img/219740.jpg",
+    "steam_url": "https://store.steampowered.com/app/219740/",
+    "website": "https://www.dontstarvegame.com",
+    "short_description": "Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style.",
+    "developers": [
+      "Klei Entertainment"
+    ],
+    "publishers": [
+      "Klei Entertainment"
+    ],
+    "release_date": "Apr 23, 2013",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Survival",
+      "Open World Survival Craft",
+      "Crafting",
+      "Adventure",
+      "Indie",
+      "Sandbox",
+      "Singleplayer",
+      "Perma Death",
+      "Multiplayer",
+      "Open World"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 96.5,
+    "steam_total_reviews": 113517,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/pc/dont-starve?ftag=MCD-06-10aaa1f",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": "https://opencritic.com/game/5895/don-t-starve-nintendo-switch-edition",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (96.5% positive, ~113.5k reviews, Overwhelmingly Positive)",
+        "score": "96.5%",
+        "url": "https://store.steampowered.com/app/219740/"
+      },
+      {
+        "source": "Metacritic PS4 edition (36 critics, 510 user ratings)",
+        "score": "78 critic / 7.1 user",
+        "url": "https://www.metacritic.com/game/dont-starve/"
+      },
+      {
+        "source": "OpenCritic Nintendo Switch Edition (6 reviews, 83% recommend)",
+        "score": "80",
+        "url": "https://opencritic.com/game/5895/don-t-starve-nintendo-switch-edition"
+      },
+      {
+        "source": "PopMatters review",
+        "score": "7/10",
+        "url": "https://popmatters.com/170743-dont-starve-2495761965.html"
+      },
+      {
+        "source": "Steam Spy owners estimate",
+        "score": "2M-5M owners",
+        "url": "https://steam-revenue-calculator.com/app/219740/don-t-starve"
+      }
+    ],
+    "vgi_units": 5500000,
+    "vgi_revenue": 43800000,
+    "vgi_rating": 96.541,
+    "vgi_reviews": 113510,
+    "vgi_url": "https://app.sensortower.com/vgi/game/don-t-starve",
+    "spy_owners": "2,000,000 .. 5,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "13,915,168.29",
+    "src_net": "4,104,974.65",
+    "src_url": "https://steam-revenue-calculator.com/app/219740/don-t-starve",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "unfortunately I'm gonna have to put it as a b tier ... I'm going to leave it as a mid mid B",
+        "video_id": "5k_-k4X90ao",
+        "t": 2640,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=2640s",
+        "year_in_title": "2013",
+        "pos": 17,
+        "row_n": 35,
+        "row_score": 0.5185714285714286,
+        "spoken": "said mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Don't Starve is a well-known survival game with roguelike elements where you build a camp and try to survive a hostile world. PepperHead admits it is the one game on the list he has barely played and says he probably should not have included it. From his limited time it was fun and challenging, though it did not grab him right away. He parks it in the middle of B tier for lack of enough experience to judge it fairly, acknowledging it could rank higher.",
+        "praise": [
+          "Fun and very challenging from what he played",
+          "Large, grand world full of things trying to kill you",
+          "Slowly building a camp and surviving with different weapons and tools",
+          "Clearly beloved by many players and seems to have lots of depth"
+        ],
+        "criticism": [
+          "Combat is not especially interesting, though he says that is not the point",
+          "Needs a lot of playtime to grasp, and it did not hook him immediately",
+          "He lacks the experience to say much about it"
+        ],
+        "unique_points": [
+          "Survival-focused loop where the constant goal is simply staying alive rather than combat depth",
+          "Depth that only reveals itself after many hours of play"
+        ],
+        "quote": "I'm going to leave it as a mid mid B",
+        "comparisons": [
+          "Stardew Valley (loosely, 'on fire')"
+        ],
+        "design_criteria": [
+          "Difficulty: constant survival pressure makes it very challenging",
+          "World design: large world with many threats and resources",
+          "Combat: deliberately not the focus, so not especially interesting",
+          "Depth/learning curve: requires a lot of playtime to appreciate",
+          "Progression: incremental camp building for survival"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "Klei Entertainment's hand-drawn, Tim Burton-flavoured wilderness survival game with permadeath, procedurally generated worlds, and no tutorial.",
+      "consensus_summary": "Don't Starve is regarded as a modern survival classic: Steam shows 'Overwhelmingly Positive' at about 96.5% across roughly 113k reviews, and critics landed in the high 70s (Metacritic 79 on PC, Generally Favorable). Praise centres on the gothic art style, the discovery-driven learning loop and the tension of permadeath. Both players and critics flag the lack of guidance and punishing early hours as the main barrier, and several say the loop turns tedious once survival is mastered. The original single-player game is effectively in maintenance mode, since Klei's content updates moved to the multiplayer Don't Starve Together. Many recent Steam reviewers, even positive ones, tell newcomers to buy DST instead, even for solo play. It is not early access; it released in full in April 2013 after an alpha/beta period.",
+      "best_things": [
+        "Distinctive hand-drawn, Burton-esque gothic art with fluid animation, plus a gramophone-style soundtrack and strong atmosphere",
+        "Permadeath loop where every death teaches something specific (bees, darkness, hunger), making learning itself the reward",
+        "Survival systems that interlock: hunger, sanity, health, seasons, day/night cycle and creature behaviour create emergent stories",
+        "No hand-holding; players respect that Klei kept a cohesive identity instead of chasing mainstream accessibility",
+        "Huge replayability from randomly generated worlds, many unlockable characters with different perks, and adjustable world settings",
+        "Everything has multiple uses (monsters can be turned against each other, even death can be exploited), which rewards experimentation",
+        "Strong value, often very cheap on sale; expansions like Reign of Giants, Shipwrecked and Hamlet are described as near full games"
+      ],
+      "worst_things": [
+        "Almost no tutorial or in-game explanation; many mechanics (bird cage for food, bunnymen hostility to meat carriers, final Adventure level in darkness) are only learnable via the wiki or trial and error",
+        "Early hours are brutal and feel unfair because death often comes from not knowing rules rather than player error",
+        "Losing a long run to a hidden mechanic feels especially demoralising after dozens of hours",
+        "Adventure mode is seen as poorly designed: fetch-quest errands across levels, then a surprise difficulty spike",
+        "Once you can survive indefinitely the game loses purpose and becomes chores; a common critique is weak long-term goals",
+        "Clunky real-time combat, especially clicking on moving targets with mouse and keyboard",
+        "Some reports of crashes (e.g. loading worlds with caves via DST) and a black-screen lockup bug in recent negative Steam reviews",
+        "Some players feel abandoned: the single-player game receives no new content while DST keeps being updated",
+        "Base game feels dated next to Don't Starve Together (e.g. weaker crafting menu and quality of life), per reviewers who played both"
+      ],
+      "improvements": [
+        "Better in-game teaching or hinting (food values, creature behaviour) so players do not need a wiki or mods like craft pot and minimap",
+        "Clearer feedback on why a run ended so failure teaches specific lessons instead of feeling like repetition",
+        "New content and updates for the original game instead of leaving it behind DST",
+        "More mid and late-game goals beyond surviving longer, and a redesigned Adventure mode",
+        "Quality-of-life features built into the base game that players currently get via mods (geometric placement, minimap, displayed food values)",
+        "Stability fixes for crashes and the black-screen bug"
+      ],
+      "unique_things": [
+        "Survival-crafting game with roguelike permadeath and procedural worlds but no levelling meta-progression; the only thing you carry over is knowledge",
+        "Sanity as a third resource alongside health and hunger, with hallucinated monsters and shifting behaviour",
+        "Darkness is lethal: night without light means death, which defines the pacing of every day",
+        "Seasonal cycle (autumn, winter, spring, summer) each with its own threats, forcing long-term planning",
+        "Art direction of a storybook with gothic undertones, with a cast of oddly distinct playable characters",
+        "Emergent, systemic monster ecosystem where hostile creatures can be baited to fight each other"
+      ],
+      "tedious_or_disliked": [
+        "Constant resource gathering and base upkeep (chopping, mining, food, fuel) that becomes chores once mastered",
+        "Learning by dying repeatedly with little carried over between runs, which some find repetitive rather than empowering",
+        "Needing a second monitor with a wiki open to progress efficiently",
+        "Adventure mode fetch-quest grind across multiple levels",
+        "Solo play can feel repetitive and unstructured; several reviewers say the game works better in multiplayer"
+      ],
+      "divisive_points": [
+        "Deliberate obtuseness: fans call it rewarding discovery, detractors call it artificial difficulty (even a 7/10 PopMatters-style review called the learning process laborious)",
+        "Original vs Don't Starve Together: some prefer the simpler, less bloated original, while many recommend DST even for solo play because of more content and ongoing updates",
+        "Whether it is really a roguelike: permadeath and procedural worlds say yes, but the open-ended sandbox survival structure says otherwise",
+        "Punishing permadeath: thrilling for some, demoralising for others as runs get longer"
+      ],
+      "reception_notes": "Launched to Generally Favorable reviews (Metacritic high 70s), with critics praising the art and addictive loop and criticising the steep, poorly explained learning curve. It became a long-running Steam hit (about 96.5% positive, Steam Spy owners 2-5M, a revenue estimate of roughly 13.9M USD gross, which is a modeled figure and not audited). Klei focused later development on Don't Starve Together and released the Reign of Giants, Shipwrecked and Hamlet expansions for the original, but the base game now gets little or no new content, which feeds recent negative reviews complaining of abandonment. It is on PC, Mac, Linux, consoles, Switch and iOS. The Metacritic figures conflict between sources: Steam lists 79 for PC, while the fetched Metacritic page showed 78 and user 7.1, apparently for the PS4 edition; a PC user score could not be verified and is left null. the base-game OpenCritic figure could not be verified and is left null; the OpenCritic page fetched was for the Switch edition (80).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/219740.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: 96.5% positive, Metacritic 79, Steam Spy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/219740/",
+          "what": "Steam store page (review summary and metadata)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/dont-starve",
+          "what": "Metacritic page, which showed 78 critic / 7.1 user for PS4 edition and critic consensus"
+        },
+        {
+          "url": "https://opencritic.com/game/5895/don-t-starve-nintendo-switch-edition",
+          "what": "OpenCritic Switch edition score 80, 83% recommend"
+        },
+        {
+          "url": "https://popmatters.com/170743-dont-starve-2495761965.html",
+          "what": "PopMatters review, 7/10, learning curve as artificial difficulty"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/219740/don-t-starve",
+          "what": "Estimated gross/net revenue via Boxleiter method"
+        },
+        {
+          "url": "https://www.gamesradar.com/dont-starve-review",
+          "what": "GamesRadar review (surfaced in search; page text not retrievable)"
+        },
+        {
+          "url": "https://destructoid.com/reviews/review-dont-starve",
+          "what": "Destructoid review (surfaced in search; fetch returned 403)"
+        },
+        {
+          "url": "https://kleiforums.com/forums/topic/40916-some-feedback-and-criticism-after-143-hours-of-not-starving/",
+          "what": "Klei forum player criticism thread (surfaced in search; fetch returned 403)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/219740/discussions/0/1768133742951128251",
+          "what": "Steam community discussion (surfaced in search)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Removed generic 'ambient lore' best-thing and unsupported raiders/hounds tedium bullet. Reworded crash bullet to match reviews. Added DST-vs-original QoL worst-thing and solo-repetitive tedium theme from Steam reviews. Re-fetched Metacritic (PS4 page: 78/7.1) and OpenCritic (Switch: 80, 83%); PC Metacritic 79 retained from Steam data; nulled unverifiable Metacritic user 8.2 and OpenCritic 76 (web search budget exhausted)."
+    },
+    "his_anchor": null,
+    "his_pos": 17,
+    "his_row_n": 35,
+    "his_spoken": "said mid",
+    "his_score": 51.9,
+    "his_top10_bonus": 0,
+    "players_score": 92.7,
+    "critics_score": 42.0,
+    "critics_avg": 79.0,
+    "overall": 64.2,
+    "labels": [
+      "action"
+    ],
+    "primary_label": "action"
+  }
+}

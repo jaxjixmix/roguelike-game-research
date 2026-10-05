@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dicefolk",
+    "name": "Dicefolk",
+    "display_name": "Dicefolk",
+    "appid": 1996430,
+    "img": "img/1996430.jpg",
+    "steam_url": "https://store.steampowered.com/app/1996430/",
+    "website": null,
+    "short_description": "Wield magical dice and build a team of powerful Chimeras to stop a mysterious evil in this tactical roguelite adventure. As a Chimera Summoner, recruit and create your perfect team of mythical beasts and command them to victory using unique dice mechanics.",
+    "developers": [
+      "LEAP Game Studios",
+      "Tiny Ghoul"
+    ],
+    "publishers": [
+      "Good Shepherd Entertainment"
+    ],
+    "release_date": "Feb 27, 2024",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Turn-Based Combat",
+      "Rogue-like",
+      "Turn-Based Strategy",
+      "Rogue-lite",
+      "Strategy",
+      "Creature Collector",
+      "Strategy RPG",
+      "Singleplayer",
+      "Casual"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 88.8,
+    "steam_total_reviews": 1132,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/dicefolk/",
+    "metacritic_user": 6.9,
+    "opencritic": 78,
+    "opencritic_url": "https://opencritic.com/game/16335/dicefolk",
+    "other_scores": [
+      {
+        "source": "OpenCritic Top Critic Average",
+        "score": "78 (25 reviews, 80% recommend)",
+        "url": "https://opencritic.com/game/16335/dicefolk"
+      },
+      {
+        "source": "Metacritic Switch (5 reviews)",
+        "score": "81",
+        "url": "https://legacy.prod.metacritic.com/game/switch/dicefolk"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "88.8% positive (1,132 reviews, Very Positive)",
+        "url": "https://store.steampowered.com/app/1996430/Dicefolk/"
+      },
+      {
+        "source": "God is a Geek",
+        "score": "9.5/10",
+        "url": "https://godisageek.com/reviews/dicefolk-review/"
+      },
+      {
+        "source": "MP1st",
+        "score": "8.5/10",
+        "url": "https://mp1st.com/reviews/dicefolk-review-a-spin-of-the-dice"
+      },
+      {
+        "source": "Metro GameCentral",
+        "score": "7/10",
+        "url": "https://opencritic.com/game/16335/dicefolk"
+      },
+      {
+        "source": "Pure Nintendo",
+        "score": "6/10",
+        "url": "https://purenintendo.com/review-dicefolk-nintendo-switch/"
+      }
+    ],
+    "vgi_units": 33900,
+    "vgi_revenue": 374000,
+    "vgi_rating": 88.84,
+    "vgi_reviews": 1129,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dicefolk",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "236,542.20",
+    "src_net": "69,779.95",
+    "src_url": "https://steam-revenue-calculator.com/app/1996430/dicefolk",
+    "final_tier": "B",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to give this one a a uh a B tier.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 3926,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=3926s",
+        "year_in_title": null,
+        "pos": 12,
+        "row_n": 17,
+        "row_score": 0.32352941176470584,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Dicefolk is a turn-based deckbuilding-style roguelike where you run a team of three creatures (chimeras) and roll dice each turn to decide actions and positioning. He likes its cute-but-serious art style and its distinct gameplay, and finds the synergy-building satisfying. He finds it forgiving and fairly easy once the mechanics click. The main faults are a slow start with throwaway temporary creatures and a repetitive back half once a winning trio is locked in. Overall he calls it really solid and rates it B tier.",
+        "praise": [
+          "Cute art style and vibe that still takes its story and characters fairly seriously",
+          "Unique dice-driven gameplay that feels different from the very start",
+          "Positioning of the three chimeras affects abilities, so switching and manipulating ally/enemy positions is strategic",
+          "Most dice faces give some benefit, so you rarely get screwed by a bad roll",
+          "Chimera abilities and item pairings allow very different builds; great feeling when a synergy comes together",
+          "Strong replayability because each run's creature lineup feels different",
+          "Plenty of content: events, berries, equipment, shops, new dice"
+        ],
+        "criticism": [
+          "Slow start: you begin with temporary creatures you do not care about until you find your first real chimera",
+          "Once you find your three-creature synergy (often by the second biome) there is no reason to change strategy, so the rest of the run is repetitive",
+          "Somewhat easy and forgiving once you understand the mechanics, with weak enemy dice",
+          "The enjoyable sweet spot in the middle feels too narrow; he wishes it were expanded"
+        ],
+        "unique_points": [
+          "Dice faces determine your available actions each turn, and you can choose which die to use, including the enemy's dice",
+          "Three-creature team with front-line positioning that interacts with abilities",
+          "Builds revolve around chimera synergies, such as movement-triggered buffs or damage-triggered effects"
+        ],
+        "quote": "it's just the game play being slow at the start and repetitive at the end",
+        "comparisons": [],
+        "design_criteria": [
+          "Visuals/charm: cute art and vibe weigh heavily in his appreciation",
+          "Gameplay uniqueness: dice-based turn system feels distinct from other deckbuilders",
+          "Synergies/build diversity: chimera and item combos create different strategies per run",
+          "Randomness/luck: dice luck is present but softened since most faces are useful",
+          "Difficulty: forgiving and easy once mastered",
+          "Pacing: slow opening and repetitive late game hurt it",
+          "Replayability: every run feels different due to varied chimeras",
+          "Content variety: events, shops, equipment, berries and new dice"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A tactical roguelite where you command a team of three Chimeras with dice-driven actions and, uniquely, also play out the enemy's dice each turn.",
+      "consensus_summary": "Dicefolk is well received: Steam shows Very Positive (about 89% of roughly 1,130 reviews), critics land around 78-79 on OpenCritic/Metacritic (generally favourable), and the Switch version scores slightly higher on Metacritic. Praise centres on the clever 'you control both sides' dice combat, charming hand-drawn art and deep Chimera/equipment synergies. The recurring complaints are that runs feel samey, the game leans simplistic and RNG-heavy, and unlocking the large Chimera roster is slow. It is not early access; it released 27 Feb 2024 and kept receiving content (a paid Will Chimeras DLC and a large free update), and Steam reviews from 2026 show an active player base.",
+      "best_things": [
+        "Signature combat twist: you roll and resolve the enemy's dice too, choosing order, targets and who rotates in, so fights feel like a puzzle where mistakes are your own fault",
+        "Synergy building between Chimeras, equipment and dice upgrades; 'busted' builds and one-turn boss kills feel great",
+        "Hand-drawn art, animations, clear UI with hover text and relaxed music get consistent praise",
+        "Large content pool: 100+ Chimeras (one review counts 129 with DLC), 100+ artifacts, 6 Tribes/classes, multiple challenge modes and difficulty tiers",
+        "Ascension-style difficulty adds buffs as well as challenge, so progression feels less punishing than Slay the Spire for some players",
+        "Less frustrating RNG than typical roguelikes: map always shows shops/upgrade nodes and the dice are manipulable",
+        "Good controller and Steam Deck support; accessible entry point for deckbuilder newcomers",
+        "Meta-goals like tracking which Chimeras you have won with and a compendium drive long play sessions (reviewers report 50-120 hours)"
+      ],
+      "worst_things": [
+        "Runs feel too similar; several reviewers quit after 3-10 runs because biomes, encounters and starting Chimeras vary little",
+        "Chimeras feel disposable: you keep swapping earlier ones for later finds and they do not grow in a meaningful way, which undercuts the creature-collector fantasy",
+        "Balance problems: some Chimeras and items are far stronger than others, and at high difficulty/modifiers some fights can become effectively unwinnable through bad random modifier combinations",
+        "Heavy RNG and thin decisions for some players: synergies are luck-dependent, and 'safe common synergies' become the default strategy",
+        "Battles can drag: long stretches of neutral actions and high Guard-dice uptime make many turns slow attrition",
+        "Narrative and world-building are thin; critics (Hardcore Gamer, Softpedia) note the lack of a compelling story",
+        "Some call it derivative or simplistic, with mediocre monster design compared with Pokemon or top deckbuilders",
+        "Price ($14.99) seen as steep by several negative and even positive reviewers (who suggest $7-9 or wait for sale)"
+      ],
+      "improvements": [
+        "Make runs more varied: more distinct biomes/encounter types and more differentiated starting teams",
+        "Let Chimeras grow or be invested in during a run (training/upgrading, or a catching mechanic) so attachment is not lost",
+        "Speed up the unlock curve for Chimeras so experimenting with only three per run is not so slow",
+        "Rebalance weak items/Chimeras and guard against unwinnable modifier rolls at higher difficulties",
+        "Shorten combat (cut neutral-action padding, tune Guard/healing stacking) and add a faster animation option",
+        "Fix map pathing annoyance (cannot change route once a destination is clicked), noted by MP1st, and add PC-specific options like rebindable controls (raised by one negative Steam review)"
+      ],
+      "unique_things": [
+        "You play both sides of each turn: the enemy's dice actions must all be used, so you choose how to minimize damage to yourself",
+        "Dice replace cards as the core resource; you upgrade and modify dice faces rather than build a deck",
+        "Three Chimeras rotate in a circular formation with leader position mattering",
+        "Creature-collector theming (shiny variants, shrines, compendium) fused with a Slay the Spire-style roguelite map",
+        "Items that carry downsides or curses, including one-time items that hurt now for permanent buffs, plus ascensions that grant buffs",
+        "Pokemon-adjacent cute aesthetic with non-pixel hand-drawn art"
+      ],
+      "tedious_or_disliked": [
+        "Grinding to unlock all Chimeras (one reviewer needed 10+ hours for the last compendium entry)",
+        "Long fights from repeated Guard/neutral actions and the amount of healing across artifacts",
+        "Repetition after the first handful of runs: same starting creatures and similar map flow",
+        "Losing earlier Chimeras as stronger ones replace them, making early-game picks feel meaningless",
+        "Randomly generated enemy modifiers and boss effects that can invalidate a build at high difficulty",
+        "Some players feel the core loop becomes number-crunching 'math micromanagement'"
+      ],
+      "divisive_points": [
+        "Controlling the enemy's turn: praised as a fresh tactical puzzle by most, but a few compare it to 'playing chess against yourself' and find it laborious",
+        "Difficulty: some find it forgiving and refreshing (winning early), others find it too easy to beat on the first try and less replayable",
+        "Replayability: 'endless' synergy experimentation and 100+ hour playtimes versus 'runs all feel the same'",
+        "Value: great at a sale or bundle price, too expensive at $14.99 for some"
+      ],
+      "reception_notes": "Released 27 Feb 2024 on PC (Steam, Windows only) and later on Switch; store listings also show iOS/Android. Critics were generally favourable at launch (OpenCritic 78, 80% recommend, ~24-25 reviews), with top scores from God is a Geek, Nintendo Life, TheSixthAxis and Gaming Nexus, and lower ones from Metro GameCentral and Pure Nintendo citing randomness and shortcomings. Metacritic user score is based on only 7 ratings (6.9), so it is not meaningful. The Will Chimeras Pack DLC (21 spellcasting Chimeras, 10 equipment) launched on Switch 24 Oct 2024 at $6.99 alongside a large free update (13-challenge special mode, 70+ equipment, four bosses, Fortune Talisman). Steam reviews through 2026 include 100+ hour players, and the store page shows ongoing art refreshes. Revenue estimates are rough (steam-revenue-calculator: about $237k gross, about $70k net; SteamSpy owners 50k-100k), not audited. A few negative Steam reviews call it a mobile port 'dumped' on PC and complain of missing PC settings.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1996430.json",
+          "what": "Local Steam top helpful positive and negative English reviews (appid 1996430)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store/review summary, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1996430/Dicefolk/",
+          "what": "Steam store page (Very Positive, $14.99, developer LEAP Game Studios / Tiny Ghoul, publisher Good Shepherd)"
+        },
+        {
+          "url": "https://opencritic.com/game/16335/dicefolk",
+          "what": "OpenCritic score 78, 80% recommend, outlet scores and verdicts"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dicefolk/",
+          "what": "Metacritic PC Metascore 79 from 16 reviews, user score 6.9 from 7 ratings, critic complaint summaries"
+        },
+        {
+          "url": "https://legacy.prod.metacritic.com/game/switch/dicefolk",
+          "what": "Metacritic Switch listing (81, 5 reviews per search snippet)"
+        },
+        {
+          "url": "https://mp1st.com/reviews/dicefolk-review-a-spin-of-the-dice",
+          "what": "MP1st 8.5/10 review: both-sides dice combat, map pathing complaint"
+        },
+        {
+          "url": "https://www.techradar.com/gaming/dicefolk-review",
+          "what": "TechRadar review (search snippet): repetitive content, good in small doses, Steam Deck verified"
+        },
+        {
+          "url": "https://godisageek.com/reviews/dicefolk-review/",
+          "what": "God is a Geek review (search snippet; page blocked on fetch); 9.5/10 per OpenCritic"
+        },
+        {
+          "url": "https://gonintendo.com/contents/41948-dicefolk-s-will-chimeras-pack-paid-dlc-free-update-now-available",
+          "what": "Will Chimeras Pack DLC and free update details on Switch"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1996430/dicefolk",
+          "what": "Revenue estimate (Boxleiter-based, approximate)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched OpenCritic (78, 80% recommend, 25 reviews) and Metacritic (PC 79 from 16 reviews, user 6.9 from 7 ratings): top-level scores confirmed. Corrected the 'OpenCritic Top Critic Average' entry from 79 to 78. Bullets checked against Steam top reviews (samey runs, unlock grind, RNG/balance, long fights, price, both-sides combat, art/UI) and consistent; no bullets removed. Metacritic Switch 81 and individual outlet scores not re-verified."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 17,
+    "his_spoken": null,
+    "his_score": 32.4,
+    "his_top10_bonus": 0,
+    "players_score": 39.1,
+    "critics_score": 38.7,
+    "critics_avg": 78.5,
+    "overall": 36.0,
+    "labels": [
+      "turn_based",
+      "strategy",
+      "luck_builder",
+      "deckbuilder"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

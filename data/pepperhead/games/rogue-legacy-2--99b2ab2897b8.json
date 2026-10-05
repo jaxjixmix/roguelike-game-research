@@ -1,0 +1,284 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "rogue legacy 2",
+    "name": "Rogue Legacy 2",
+    "display_name": "Rogue Legacy 2",
+    "appid": 1253920,
+    "img": "img/1253920.jpg",
+    "steam_url": "https://store.steampowered.com/app/1253920/",
+    "website": "https://www.roguelegacy2.com/",
+    "short_description": "Rogue Legacy 2 is what you'd get if you mashed Rogue Legacy and a sequel together. Every time you die, your children will succeed you, and each child is unique. Your daughter might be a Colourblind Archer, and your son could be a Pacifistic Chef. Either way, one of them is getting conscripted.",
+    "developers": [
+      "Cellar Door Games"
+    ],
+    "publishers": [
+      "Cellar Door Games"
+    ],
+    "release_date": "Apr 28, 2022",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Arcade",
+      "Metroidvania",
+      "Platformer",
+      "Action",
+      "Indie",
+      "Adventure",
+      "RPG",
+      "Rogue-lite",
+      "Difficult",
+      "Singleplayer"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.8,
+    "steam_total_reviews": 15154,
+    "metacritic": 88,
+    "metacritic_url": "https://www.metacritic.com/game/pc/rogue-legacy-2?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 90.8% positive of 15,154 reviews",
+        "url": "https://store.steampowered.com/app/1253920/Rogue_Legacy_2/"
+      },
+      {
+        "source": "Metacritic (Xbox Series X/S and PS5)",
+        "score": "90",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "Metacritic (Switch)",
+        "score": "87",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "Destructoid",
+        "score": "9.5/10",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "88/100",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2"
+      },
+      {
+        "source": "steam-revenue-calculator (Boxleiter estimate)",
+        "score": "about $16.9M gross / $5.0M net; SteamSpy owners 1M-2M",
+        "url": "https://steam-revenue-calculator.com/app/1253920/rogue-legacy-2"
+      }
+    ],
+    "vgi_units": 455000,
+    "vgi_revenue": 7700000,
+    "vgi_rating": 90.833,
+    "vgi_reviews": 15153,
+    "vgi_url": "https://app.sensortower.com/vgi/game/rogue-legacy-2",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "16,867,625.25",
+    "src_net": "4,975,949.45",
+    "src_url": "https://steam-revenue-calculator.com/app/1253920/rogue-legacy-2",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "none",
+        "video_id": "5k_-k4X90ao",
+        "t": 8152,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=8152s",
+        "year_in_title": "2020",
+        "pos": 20,
+        "row_n": 35,
+        "row_score": 0.44285714285714284,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Rogue Legacy 2 is the modern sequel to the generational roguelite, still getting frequent updates after leaving Early Access. He recognises it as a well-made, content-rich game that many people love and that he would recommend to others. Personally he dislikes the core combat, finding it clunky and lacking weight, so he does not enjoy playing it. He says it is a 'me problem' and plans to retry it every year. No tier letter is stated in this segment.",
+        "praise": [
+          "Cleaner, nicer animation and visuals and art style than the original",
+          "Boss designs and level design are great",
+          "Large variety of builds, characters, bosses and biomes",
+          "Strong build-crafting element, even without a huge number of passives per run",
+          "Metroidvania-style ability discovery that later becomes permanently upgraded",
+          "Constant updates from the developers"
+        ],
+        "criticism": [
+          "Combat feels clunky to him",
+          "Weapons lack weight and impact when swinging",
+          "Knockback feels weird",
+          "Not many passives found within each run",
+          "He personally does not have fun playing it despite trying hard"
+        ],
+        "unique_points": [
+          "Metroidvania layer where abilities found during runs are later permanently unlocked",
+          "Heavy emphasis on build variety via many characters and classes"
+        ],
+        "quote": "I know that they're great games I just kind of have problems personally with it",
+        "comparisons": [
+          "Crypt of the NecroDancer",
+          "Rogue Legacy (original)"
+        ],
+        "design_criteria": [
+          "Combat feel: weapon weight, impact and knockback are his main problem",
+          "Boss design: praised as great",
+          "Level design: praised as great",
+          "Visuals/animation: praised as cleaner and nicer",
+          "Build variety: many characters, builds and biomes",
+          "Meta-progression: metroidvania ability unlocks made permanent",
+          "In-run passives: fewer than he would like"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D action-platformer roguelite from Cellar Door Games where each death passes the torch to a new heir with random traits and class, and gold spent at a persistent castle provides permanent upgrades.",
+      "consensus_summary": "Rogue Legacy 2 is very well received: Metacritic critic score is 88 (PC, 34 reviews) with 97% positive critic reviews, and Steam sits at Very Positive (about 90.8% of roughly 15,150 reviews). Critics and fans praise its fluid combat, the big pool of classes and weapons, the trait system and the addictive always-earning progression loop. The main complaints are the grindy stat upgrades, bullet-heavy late bosses and off-screen attackers, the large character hitbox that makes platforming feel clumsy, and some controller aiming quirks. It began in Early Access in 2020, hit 1.0 on April 28, 2022, reached Switch in November 2022 and PlayStation in June 2023, and was still getting content updates afterward (a pinned Steam post references the v1.2.0 Swan Song update). Metacritic user score (7.3) is noticeably lower than the critic score.",
+      "best_things": [
+        "Fluid, tight movement and combat; reviewers describe it as much smoother than the original",
+        "Large variety of classes (around 15) and weapons (around 30), each with a different attack style, encouraging experimentation instead of locking into one build",
+        "Heir trait system (up to two traits per character, from cosmetic quirks to drastic gameplay changes) keeps every run feeling different; negative traits grant extra gold",
+        "Addictive 'you are always earning' progression: even failed runs add to the castle, so critics and players say it avoids wasted runs",
+        "Heirloom system praised as a better design than the first game's rune system",
+        "House Rules and accessibility options let players tailor difficulty, which critics consider a big plus",
+        "Charming art and small NPC side stories/lore that do not overstay their welcome (one reviewer still prefers the first game's art style)",
+        "Strong replayability: a true ending, New Game Plus tiers (some players report NG+100) and secrets; native Linux build",
+        "Developer support during Early Access was praised for timely updates, detailed patch notes and listening to feedback"
+      ],
+      "worst_things": [
+        "Meta progression is grindy: large gold costs for small percentage upgrades to health/damage, compared by some reviewers to an idle game",
+        "Difficulty scaling is seen as outpacing the power the player gains, with hard spikes at specific bosses or challenge rooms",
+        "Bosses and enemies spam projectiles and overlapping AOE attacks; off-screen and through-wall projectiles draw frequent complaints",
+        "Large character hitbox and floaty feel make platforming and hazard-dodging clumsy for some players (no i-frame dodge was also cited)",
+        "The two newer biomes are called very linear and wear out their welcome quickly by one negative reviewer",
+        "Controller aiming bug: turning the stick quickly can make the character backslide or face the wrong way, which was reportedly also present in the first game",
+        "Certain mechanics such as the boogie board scar/ability are disliked for awkward controls",
+        "Slow or rough opening hours: several reviewers say the early game is the weakest part and some bounce off before the loop clicks",
+        "The generational premise is undercut by an unchanging castle hub: NPCs and blacksmith treat every heir as the same person, which one reviewer says breaks immersion"
+      ],
+      "improvements": [
+        "Fix controller aiming/turn-around behavior",
+        "Rebalance late-game bosses and the new harder modes so they rely less on projectile spam and unavoidable overlap",
+        "Make meta upgrades more interesting and less frontloaded; one reviewer says all class and facility unlocks come within about an hour, leaving only small stat bumps to save for",
+        "Reduce grind or make upgrade scaling less incremental",
+        "Return players to the last cleared room instead of the last teleporter after leaving a run (one reviewer's wish)",
+        "Improve the early-game learning experience, since some players bounce off before their first clear"
+      ],
+      "unique_things": [
+        "Generational heir premise: each run is a new descendant with a random class and traits (colour blindness, pacifist, vertigo, tiny view radius and so on)",
+        "Persistent, upgradeable castle hub where gold is reinvested between every run, even fruitless ones",
+        "Traits that can drastically change how the game plays, with more rewarding negative traits",
+        "Semi-open, hand-crafted-then-shuffled Metroidvania-style world with biomes and bosses instead of pure procedural levels",
+        "House Rules that let you scale difficulty and assist options without a separate easy mode",
+        "Class mastery/leveling bonuses and heirlooms that reward playing many styles"
+      ],
+      "tedious_or_disliked": [
+        "Farming gold for tiny stat increases, especially when progress stalls before a boss wall",
+        "Having to grind to make the mid/late biomes survivable; some players turned on House Rules just to finish",
+        "Repeating bosses and biomes for the first clear before the game opens up",
+        "Enemy projectile density and off-screen attacks described as constant barrage",
+        "Meta upgrades after the first hour are mostly small stat bumps (+armor, +health), leaving little interesting to save for"
+      ],
+      "divisive_points": [
+        "Grind and incremental upgrades: some love the 'numbers go up' loop and playing in short bursts, others call it cookie-clicker padding",
+        "Difficulty: fans praise the challenge and mastery; detractors call late bosses and hazards unfair or punishing",
+        "Character size and movement: praised as fluid and tight by many, called floaty or brick-like by others",
+        "Whether it beats the original and other genre leaders such as Dead Cells: several reviewers call it far better than the first, others find it the same or worse"
+      ],
+      "reception_notes": "Early Access began in 2020 and the game reached 1.0 on April 28, 2022 on Windows and Xbox, then Switch on November 9, 2022 and PlayStation on June 20, 2023 (per Wikipedia). Critics scored it in the high 80s to 90s; IGN called it a transformative sequel that rebuilds the influential original as a modern roguelite, and Destructoid stressed that you are always earning. Steam reviews remain Very Positive years later, with recent long-playtime reviewers (hundreds of hours, NG+100) calling it a favourite game, and a minority of negative reviews focusing on grind, projectile-heavy bosses and hitbox size. One negative review complains that the developers responded to feedback on a harder new mode by suggesting players enable House Rules. The Steam community pinned thread references the v1.2.0 Swan Song update, so the game has been supported well beyond launch. Sales figures are third-party estimates only (1M-2M owners on Steam per SteamSpy; revenue figures are Boxleiter-method estimates, not audited). OpenCritic score could not be retrieved (WebSearch budget was exhausted and direct page fetch found no result).",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1253920.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: review summary, Metacritic 88, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1253920/Rogue_Legacy_2/",
+          "what": "Steam store page (release date, price, tags, review counts via local data)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/rogue-legacy-2/",
+          "what": "Metacritic: 88 critic score from 34 reviews, 7.3 user score from 290 ratings, critic and user consensus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Rogue_Legacy_2",
+          "what": "Reception section: platform Metacritic scores, outlet scores, IGN and Destructoid takeaways, release dates"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1253920/discussions/",
+          "what": "Steam community discussions: class balance, difficulty ratings, Linux issues, pinned v1.2.0 Swan Song update"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1253920/rogue-legacy-2",
+          "what": "Estimated gross and net revenue (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic 88 (34 critics) / user 7.3 (290) re-confirmed via fetch; OpenCritic left null (search budget exhausted, unverifiable). Removed unsupported 'backtracking/overwhelming options' and 'Hollow Knight-like' / 'Steam Deck' claims (rewrote), replaced unsupported 'thin story' bullet with frontloaded-upgrades theme from top negative review; added slow early game and unchanging hub/immersion themes from reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 20,
+    "his_row_n": 35,
+    "his_spoken": null,
+    "his_score": 44.3,
+    "his_top10_bonus": 0,
+    "players_score": 56.8,
+    "critics_score": 88.2,
+    "critics_avg": 88.0,
+    "overall": 57.5,
+    "labels": [
+      "action",
+      "platformer"
+    ],
+    "primary_label": "action"
+  }
+}

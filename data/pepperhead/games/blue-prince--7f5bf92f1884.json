@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "blue prince",
+    "name": "Blue Prince",
+    "display_name": "Blue Prince",
+    "appid": 1569580,
+    "img": "img/1569580.jpg",
+    "steam_url": "https://store.steampowered.com/app/1569580/",
+    "website": "http://blueprincegame.com/",
+    "short_description": "Welcome to Mt. Holly, where every dawn unveils a new mystery. Navigate through shifting corridors and ever-changing chambers in this genre-defying strategy puzzle adventure. But will your unpredictable path lead you to the rumored Room 46?",
+    "developers": [
+      "Dogubomb"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "release_date": "Apr 10, 2025",
+    "coming_soon": false,
+    "price": "$29.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Puzzle",
+      "Exploration",
+      "Mystery",
+      "Investigation",
+      "Singleplayer",
+      "Story Rich",
+      "Rogue-lite",
+      "Indie",
+      "First-Person",
+      "Adventure"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 86.3,
+    "steam_total_reviews": 20259,
+    "metacritic": 92,
+    "metacritic_url": "https://www.metacritic.com/game/pc/blue-prince?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.7,
+    "opencritic": 89,
+    "opencritic_url": "https://opencritic.com/game/18352/blue-prince",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, ~20.3k reviews)",
+        "score": "86% positive",
+        "url": "https://store.steampowered.com/app/1569580/Blue_Prince/"
+      },
+      {
+        "source": "OpenCritic critics recommend",
+        "score": "96%",
+        "url": "https://opencritic.com/game/18352/blue-prince"
+      },
+      {
+        "source": "OpenCritic player rating",
+        "score": "80",
+        "url": "https://opencritic.com/game/18352/blue-prince"
+      },
+      {
+        "source": "Steam-revenue-calculator estimate (gross, Boxleiter method, not audited)",
+        "score": "about $14.7M gross / about $4.3M net",
+        "url": "https://steam-revenue-calculator.com/app/1569580/blue-prince"
+      },
+      {
+        "source": "SteamSpy owner estimate",
+        "score": "200k-500k owners (Steam only)",
+        "url": "https://steamspy.com/app/1569580"
+      }
+    ],
+    "vgi_units": 779000,
+    "vgi_revenue": 16100000,
+    "vgi_rating": 86.316,
+    "vgi_reviews": 20242,
+    "vgi_url": "https://app.sensortower.com/vgi/game/blue-prince",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "14,695,100.00",
+    "src_net": "4,335,054.50",
+    "src_url": "https://steam-revenue-calculator.com/app/1569580/blue-prince",
+    "final_tier": "S",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "Blueprints is a pretty obvious S tier game.",
+        "video_id": "kTg56_oKfGY",
+        "t": 348,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=348s",
+        "year_in_title": null,
+        "pos": 2,
+        "row_n": 3,
+        "row_score": 0.5,
+        "spoken": null
+      }
+    ],
+    "top10": [
+      {
+        "year": "2025",
+        "rank": 3,
+        "video_id": "BlodPuxYUwk",
+        "t": 640,
+        "url": "https://www.youtube.com/watch?v=BlodPuxYUwk&t=640s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Blue Prince is a first-person puzzle roguelike where you draft rooms to build a new mansion each day, hunting for hints to hundreds of persistent, knowledge-based puzzles. He was initially skeptical that puzzles and roguelikes could mix, but thinks the game blends the two counterintuitive genres into something unique and amazing. He calls it kind of a masterpiece and an 'escape room roguelike', and names it an obvious S tier knowledge-based progression game. He has a few wishes: a save feature, an in-game camera, clearer signalling of puzzle solvability, and less punishing handling of RNG and of the room 46 ending.",
+        "praise": [
+          "Room drafting gives a fresh house every run, with secrets and hints in every room",
+          "Hundreds of puzzles with huge depth; still not all uncovered, and solutions persist once solved",
+          "Design pushes players to chase many mysteries at once rather than fixate on one",
+          "Roguelike structure actually improves the game for patient players",
+          "Accessible to non-gamers, puzzle fans and roguelike fans alike",
+          "Skilled players can manipulate the draft, so there is real skill despite RNG",
+          "Amazing community of puzzle solvers, lore channels and challenge runs"
+        ],
+        "criticism": [
+          "No save feature, and a day can last 10 minutes or 90 minutes",
+          "Players must photograph puzzles on their phone to track everything; an in-game camera would be better",
+          "Late-game puzzles are so obscure that they are nearly impossible without looking them up, and there is no hint which are doable",
+          "RNG can block you from reaching the room a hint points to, which frustrates some",
+          "Reaching room 46 the first time ends the run, and a follow-up quest there is easy to miss, which soured his late game",
+          "Game does not reassure players that ending a day early or a bad day is fine"
+        ],
+        "unique_points": [
+          "Fuses roguelike repetition with puzzle aha moments via persistent knowledge that carries between runs",
+          "He calls this genre knowledge-based progression and says few games manage it because it is so hard",
+          "Randomly generated minor puzzles coexist with large fixed puzzles requiring knowledge",
+          "Design lesson: tell players that information gained matters more than a single day's RNG outcome"
+        ],
+        "quote": "Blueprints is a pretty obvious S tier game.",
+        "comparisons": [
+          "Outer Wilds",
+          "Nita"
+        ],
+        "design_criteria": [
+          "Puzzle and roguelike blend: how well repeated runs coexist with aha moments",
+          "Knowledge-based progression: persistent discoveries rather than stat unlocks",
+          "Depth and mystery: layers of puzzles and lore that keep going deeper",
+          "RNG handling: room draft randomness versus player agency and communication",
+          "Quality of life: no save, phone-photo note-taking, and puzzle solvability signalling",
+          "Run length: unpredictable day length",
+          "Accessibility: appeals to non-gamers and gamers",
+          "Community and longevity: ongoing discoveries and challenge runs"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A first-person puzzle-mystery game by Dogubomb (published by Raw Fury) in which you draft a shifting 45-room manor each day, roguelite-style, hunting for the hidden Room 46 and the estate's many secrets.",
+      "consensus_summary": "Blue Prince is one of the best-reviewed games of 2025: Metacritic 92 (critics), OpenCritic about 89 with roughly 96% of critics recommending it, and a Steam rating of Very Positive (about 86% of roughly 20,000 reviews). Critics and fans praise the puzzle depth, atmosphere, environmental storytelling and the feeling of obsessive note-taking discovery. Player opinion is noticeably cooler than critic opinion, though: Metacritic user score is 7.7 and the Steam negatives cluster around RNG-gated puzzle testing, lack of mid-run saves, and diminishing returns in the long endgame. It is a finished, released game (PC April 10 2025, PS5/Xbox, Switch 2 in March 2026), not early access.",
+      "best_things": [
+        "Deep, layered puzzle design where nearly every room hides clues connecting to other puzzles across the manor",
+        "Addictive draft-a-room core loop: choosing from three room options and planning routes through the grid feels strategic and fresh",
+        "Atmosphere, art direction and music; Mt. Holly has a distinct early-20th-century fictional-world identity",
+        "Environmental storytelling told through notes, photos and letters that players piece together themselves",
+        "Rewards curiosity and obsessive note-taking; players report spreadsheets, notebooks and screenshot folders and sharing it with a partner or community",
+        "Easy to start but hundreds of hours deep; many Steam reviewers report 100-270 hours and call it a favorite game ever",
+        "Randomness is woven into the fiction (e.g. frequently-seen family members show up more in the house) and into tactical decisions"
+      ],
+      "worst_things": [
+        "RNG gates testing of solved puzzles: you can know the answer yet wait many runs/days for the needed rooms or items to be offered",
+        "No real mid-run save; 'Save and Quit' effectively abandons the run, and runs can take an hour or more, which drives refunds and negative reviews",
+        "Diminishing returns: the early game feels great, the late game narrows toward one big endgame goal where luck dominates",
+        "Little permanent meta-progression compared with Hades, Isaac or Balatro; upgrades are sparse and many purchases vanish at day's end",
+        "Quality-of-life friction: unskippable animations, slow walking speed, intro and day-start sequences, slow item pickup, and reports of crashes or softlocks",
+        "Some late puzzles are very cryptic or contrived, and word-play or pronunciation-based clues disadvantage non-native English speakers",
+        "Story payoff / cliffhanger ending leaves some players unsatisfied after very long playtimes"
+      ],
+      "improvements": [
+        "Add a true suspend-and-resume save, possibly as an accessibility option",
+        "Give more ways to manipulate or influence room RNG earlier, or let players lock in already-achieved progress",
+        "Speed up or allow skipping animations, intros and traversal, and raise baseline movement speed",
+        "Reduce reliance on luck in the endgame so players who know the solution can execute it without waiting for lucky runs",
+        "Add more lasting between-run upgrades so repeated days feel cumulative",
+        "Better in-game notes or hint-tracking tools to reduce reliance on external notebooks"
+      ],
+      "unique_things": [
+        "Combines a roguelite room-drafting loop (drafting rooms onto a grid) with a 3D first-person Myst/Outer Wilds-style mystery",
+        "Meta-progression is knowledge, not stats: the real unlock is what the player learns and writes down",
+        "Every day the manor layout is reshuffled, and puzzles often span multiple rooms and multiple runs",
+        "Room 46 goal framed by a will whose rules (take nothing in, take nothing out, leave by night) define the mechanics",
+        "Puzzle design that expects the player to keep external notes, photos and even math"
+      ],
+      "tedious_or_disliked": [
+        "Repeating known steps over many runs just to get the rooms needed to execute one solved puzzle",
+        "Post-game and endgame grinding for coins, crafting and filling the room gallery, which feels luck-dependent",
+        "Long unskippable animations and slow movement that compound across hundreds of days",
+        "Needing one-hour-plus uninterrupted sessions because of the no-save design",
+        "Bad-luck streaks where the draft offers dead ends or none of the rooms you need"
+      ],
+      "divisive_points": [
+        "RNG: one camp says it is strategy and planning you can learn to manage, the other says it is an unfair barrier; experience tracks luck and playstyle",
+        "The roguelite + puzzle fusion: praised as innovative by critics but, per many players, the two genres pull against each other (aha moment vs. waiting to implement it)",
+        "Note-taking requirement: delightful for some, homework for others",
+        "Endgame and ending: rewarding obsession for completionists, anticlimactic or cliffhanger-ish for others"
+      ],
+      "reception_notes": "Launched April 10 2025 to near-universal critical acclaim and strong Steam sales; it was nominated/awarded across major 2025 awards (The Game Awards, DICE, Game Developers Choice, Golden Joystick and others). The Steam audience rating has drifted down to about 86% positive as long-term players reported RNG fatigue, missing saves and endgame diminishing returns, and Metacritic user score (7.7, about 66% positive) is much lower than the critic score. Ports followed on PS5 and Xbox Series X|S and on Nintendo Switch 2 (shadow-dropped March 3 2026 after an Indie World showcase); a physical edition via iam8bit is listed for October 2026. Steam price is $29.99. No credible official copies-sold figure was found; revenue and owner numbers are third-party estimates.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1569580.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app data: review counts, Metacritic 92, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/blue-prince/",
+          "what": "Metascore 92 (57 reviews) and user score 7.7 (1,039 ratings)"
+        },
+        {
+          "url": "https://opencritic.com/game/18352/blue-prince",
+          "what": "OpenCritic average about 89, 96% recommend, about 122 reviews"
+        },
+        {
+          "url": "https://opencritic.com/game/18352/-/reviews",
+          "what": "Critic reviews list and blurbs (e.g. Tom Marks 9/10, TheGamer comparison to Outer Wilds)"
+        },
+        {
+          "url": "https://spectrecollie.com/2025/05/11/more-blue-prince-or-home-on-the-rng/",
+          "what": "Blog critique of endgame RNG and vanishing purchases, praise for storytelling"
+        },
+        {
+          "url": "https://lemmy.4d2.org/post/1942471",
+          "what": "Community thread on RNG frustration, lack of meta-progression, post-game tedium"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1569580/discussions/0/830459135855235475/?l=english",
+          "what": "Steam community discussion on RNG and progression"
+        },
+        {
+          "url": "https://www.theouterhaven.net/blue-prince-review-xsx-round-in-circles-to-progress",
+          "what": "Console review of Blue Prince"
+        },
+        {
+          "url": "https://www.gematsu.com/2026/03/blue-prince-now-available-for-switch-2",
+          "what": "Switch 2 release March 2026"
+        },
+        {
+          "url": "https://rawfury.com/blue-prince-out-now-on-switch-2/",
+          "what": "Publisher announcement of Switch 2 launch"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1569580/blue-prince",
+          "what": "Third-party revenue estimate (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (92 from 57 critics, user 7.7 from 1,039 ratings) and OpenCritic (89 avg, 96% recommend, 122 reviews, player rating 80); all match. Checked best/worst/tedious bullets against top Steam reviews: RNG-gated testing, no mid-run save/refunds, unskippable animations, note-taking joy and 100-250h obsession are all the top-voted themes. Only edit: rewrote a vague 'Dungeon-crawler grid placement' aside in unique_things. Nothing removed or added."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 3,
+    "his_spoken": null,
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 36.6,
+    "critics_score": 95.0,
+    "critics_avg": 90.5,
+    "overall": 54.3,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

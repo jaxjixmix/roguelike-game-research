@@ -1,0 +1,261 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "wizard chess",
+    "name": "WizardChess",
+    "display_name": "Wizard Chess",
+    "appid": 1274210,
+    "img": "img/1274210.jpg",
+    "steam_url": "https://store.steampowered.com/app/1274210/",
+    "website": "https://twopm.studio/wizardchess",
+    "short_description": "What if chess was invented by silly cosmic wizards? WizardChess is a turnbased roguelite where all the pieces have insane abilities that came to us in a shamanic vision. Fight chaotic-yet-tactical encounters with magic powers out of a fever dream! Defeat the FaeQueen and Claim Your Wish!",
+    "developers": [
+      "TwoPM Studios"
+    ],
+    "publishers": [
+      "2 Left Thumbs"
+    ],
+    "release_date": "Dec 14, 2024",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Pixel Graphics",
+      "Board Game",
+      "Chess",
+      "Fantasy",
+      "Tactical",
+      "Rogue-like",
+      "Singleplayer",
+      "Early Access",
+      "Roguelike Deckbuilder",
+      "Turn-Based Tactics"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 75.5,
+    "steam_total_reviews": 94,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/wizardchess/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (local snapshot)",
+        "score": "Mostly Positive, 75.5% of 94 reviews",
+        "url": "https://store.steampowered.com/app/1274210/WizardChess/"
+      },
+      {
+        "source": "Steam (store page fetched)",
+        "score": "Very Positive, 83% of 56 reviews",
+        "url": "https://store.steampowered.com/app/1274210/WizardChess/"
+      },
+      {
+        "source": "itch.io",
+        "score": "4.5 stars from 4 ratings",
+        "url": "https://twopm.itch.io/wizardchess"
+      },
+      {
+        "source": "Steam Revenue Calculator",
+        "score": "Steam owners est. 0-20,000 (SteamSpy); calculator shows $0 revenue estimate, not reliable",
+        "url": "https://steam-revenue-calculator.com/app/1274210/wizardchess"
+      }
+    ],
+    "vgi_units": 2820,
+    "vgi_revenue": 24911,
+    "vgi_rating": 75.532,
+    "vgi_reviews": 94,
+    "vgi_url": "https://app.sensortower.com/vgi/game/wizardchess",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "0.00",
+    "src_net": "0.00",
+    "src_url": "https://steam-revenue-calculator.com/app/1274210/wizardchess",
+    "final_tier": "B",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put it as a, uh, as a pretty fun B tier.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 13137,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=13137s",
+        "year_in_title": null,
+        "pos": 9,
+        "row_n": 17,
+        "row_score": 0.5,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Wizard Chess is a turn-based, board-centric roguelike strategy game loosely inspired by chess, made by a small team and now out of early access. You pick a world, build a squad of minions around a king-like player character, and fight through boards. He loves the huge roster of very different units, the big-band jazz soundtrack and the 2D-sprites-in-3D look. The main drawback is pace: one action at a time makes larger boards and some boss fights slow. He calls it a pretty fun B tier and the last game placed in the video.",
+        "praise": [
+          "Huge roster of unlockable minions that each play drastically differently, giving strong replayability",
+          "Every run feels different because of unit variety",
+          "Big-band jazz music is a standout, and characters' idle animations feel like dancing to it",
+          "2D sprites in a 3D environment look unique and fitting",
+          "Higher difficulty on replayed worlds introduces new mechanics rather than just bigger numbers",
+          "Fast team-building mode with limited moves or time is a fun, low-commitment extra that still unlocks things",
+          "Elemental traits and stat upgrades on units meaningfully change how they play"
+        ],
+        "criticism": [
+          "Strictly one-action-at-a-time turns make the game very slow, especially on big boards",
+          "Endgame situations can turn into back-and-forth shuffling with a single enemy",
+          "Boss fights can be trivial with the right team, or stall for several turns with nothing to do",
+          "Cannot choose which units from the roster are present in a fight or where they spawn; it seems random to him",
+          "Roguelike elements and run events (shops, events, side quests) are not very deep"
+        ],
+        "unique_points": [
+          "Chess-like movement and attack patterns turned into many distinct minion designs, with the player acting as a king-like piece",
+          "Higher-difficulty replays add new mechanics rather than stat inflation",
+          "Timed/move-limited team-building mode as an alternative to full runs"
+        ],
+        "quote": "I'm going to put it as a pretty fun B tier.",
+        "comparisons": [
+          "Chess"
+        ],
+        "design_criteria": [
+          "Unit/minion variety: the core strength, each piece plays very differently",
+          "Replayability: driven by roster size and differing runs",
+          "Pacing/turn structure: one action per turn feels slow on large boards",
+          "Player control: cannot choose fielded units or spawn positions",
+          "Roguelike depth: elemental traits and stat upgrades exist but stay shallow",
+          "Difficulty scaling: higher tiers add new mechanics",
+          "Boss design: can be trivial or stall depending on the team",
+          "Audio: big-band jazz soundtrack is highlighted",
+          "Visuals/charm: 2D sprites in 3D world with lively idle animations",
+          "Run structure/variety: side quests, shops, events and an alternate fast mode"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based tactical roguelite from Australian studio TwoPM Studios where you recruit, upgrade and sacrifice 50+ odd 'chess-like' units on a grid to beat the FaeQueen.",
+      "consensus_summary": "WizardChess is a small, niche indie with a Mostly Positive Steam rating (about 75% of 94 reviews in the local snapshot; the store page fetched showed a higher, Very Positive figure from a smaller sample). Players who like it enjoy the silly tone, jazzy music and the wide variety of weird units. Critics have not covered it: Metacritic shows 'tbd' for both critic and user scores and no OpenCritic entry was found. It left Early Access on Dec 14, 2024 (1.0), and some recent reviewers believe it is no longer being updated. The most common complaint is hidden information and lopsided balance, plus the name, since it has little to do with real chess. Evidence is limited to the Steam review file, Steam store, forum thread titles, dev site, itch.io and Metacritic; sample sizes are small.",
+      "best_things": [
+        "Charming, silly tone and writing, with a fever-dream wizard theme",
+        "Unexpectedly jazzy, lighthearted soundtrack that reviewers singled out",
+        "Large roster of 50+ distinct units with their own stats and abilities, so encounters feel varied",
+        "Distinct, readable pixel units and an easy-to-control camera",
+        "Procedurally generated rooms, enemies and rewards vary each run; runs are fairly short (~30 min sessions per the dev's itch.io page)",
+        "Recruit/upgrade/sacrifice/trade loop lets players experiment with odd combinations",
+        "Steam Deck and full controller support, Steam Cloud and achievements"
+      ],
+      "worst_things": [
+        "Much information is hidden: many piece rules and permanent buffs can't be seen until accepted, and temporary buffs/debuffs are not clearly shown",
+        "Balance: stacking every buff on one or two mobile units creates an unstoppable mega-unit, making strategy shallow",
+        "Runs can start in apparent no-win situations because you don't choose which units enter a round and can be handed weak units (e.g. 0-attack chickens)",
+        "Reports of frequent bugs and crashes, including one just before a first final-boss win",
+        "UI is clunky; the in-game selector lags behind the mouse cursor, so clicks can land on the wrong square with no misclick protection",
+        "Content feels thin to some (one reviewer noted only 3 bosses)",
+        "Rewards cannot be rejected, so weaker forced pieces enter the army",
+        "Reviewers say it is not meaningfully chess, so the title feels misleading"
+      ],
+      "improvements": [
+        "Let players reject or choose rewards (a Steam thread asks this directly)",
+        "Show all rules, buffs and temporary effects in tooltips, and keep a visible log of permanent buffs",
+        "Cap or rebalance stacking onto a single unit",
+        "Add mid-run save and exit (requested in reviews and a Steam thread)",
+        "Add misclick protection and fix cursor/selector lag; fix bugs and crashes",
+        "Improve the tutorial and make it skippable; clarify vague achievement descriptions; add more bosses; Linux support was also requested"
+      ],
+      "unique_things": [
+        "Chess-flavored grid tactics (moving orthogonally/diagonally) but with bizarre wizard units rather than standard pieces",
+        "Cards/units are bought and recruited like a deckbuilder, yet play is pure tactics, not a card game",
+        "Unit sacrifice and trading as a core progression mechanic",
+        "Three stats (ATK, DEF, SKL) with 50+ unit classes and elemental interactions",
+        "Whimsical shamanic-vision framing and a light jazzy score, unlike most grim roguelikes",
+        "Arcade (quick run) and Story (exploration) modes"
+      ],
+      "tedious_or_disliked": [
+        "Writing buffs down externally because the game doesn't track them",
+        "Required tutorial parts that players say many never finish (one reviewer cited low tutorial completion stats)",
+        "Early encounters some feel unwinnable, making runs feel unfair and swingy",
+        "Being unable to save and exit mid-run, and the diagnostics prompt reappearing on every return to the title screen",
+        "Too many units in Arcade mode was raised as a forum complaint"
+      ],
+      "divisive_points": [
+        "Whether the name and chess framing is misleading clickbait or just loose inspiration for a fun tactics game",
+        "Whether the chaos and randomness is a feature (experimentation, unpredictability) or simply bad balance and hidden info",
+        "Difficulty: some find it frustrating and unfair, others rate it around 4/5 and 'feels good' even without liking strategy games"
+      ],
+      "reception_notes": "Launched in Early Access in October 2021 and reached 1.0 on Dec 14, 2024 at $14.99 (Windows and macOS; no Linux). Review volume is small, and recent reviews in 2026 are a mix with a noticeable negative thread on balance and hidden info, with at least one reviewer believing development has stopped. No mainstream critic coverage found; Metacritic page shows 'tbd'. Sales data is unreliable; SteamSpy puts owners at 0-20k. Limitation: web search budget was exhausted, Reddit was not fetchable, and OpenCritic search returned nothing, so community evidence is mostly Steam reviews and thread titles.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1274210.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 1274210, price, review counts, SteamSpy owners"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1274210/WizardChess/",
+          "what": "Steam store page: release status, features, review summary, curator blurb"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1274210/discussions/",
+          "what": "Steam discussion thread titles (reject rewards, saving runs, too many units, bugs, Linux)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/wizardchess/",
+          "what": "Metacritic page: critic and user scores 'tbd', none available"
+        },
+        {
+          "url": "https://opencritic.com/search?q=wizardchess",
+          "what": "OpenCritic search: no WizardChess entry found"
+        },
+        {
+          "url": "https://twopm.studio/wizardchess",
+          "what": "Developer site: features, modes, platforms, team"
+        },
+        {
+          "url": "https://twopm.itch.io/wizardchess",
+          "what": "itch.io page: 4.5 stars from 4 ratings, 1.0 on Dec 14 2024, ~30 min sessions"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1274210/wizardchess",
+          "what": "Third-party revenue estimate (shows $0, unreliable)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no critic reviews, user score needs 4 ratings, so nulls are correct. Rewrote 2 best_things bullets (removed unverified curator claim; sourced the 30-min session length), clarified the '3 bosses' bullet as a single reviewer's note, and trimmed a stale search-budget caveat in the summary. Steam reviews (hidden info, mega-unit balance, no-win starts, bugs, clunky selector, chess misnomer, no mid-run save) already match the worst/tedious lists; nothing added."
+    },
+    "his_anchor": null,
+    "his_pos": 9,
+    "his_row_n": 17,
+    "his_spoken": null,
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 2.8,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 29.3,
+    "labels": [
+      "turn_based",
+      "deckbuilder",
+      "strategy"
+    ],
+    "primary_label": "turn_based"
+  }
+}

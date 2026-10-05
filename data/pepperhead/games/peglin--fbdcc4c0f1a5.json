@@ -1,0 +1,244 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "peglin",
+    "name": "Peglin",
+    "display_name": "Peglin",
+    "appid": 1296610,
+    "img": "img/1296610.jpg",
+    "steam_url": "https://store.steampowered.com/app/1296610/",
+    "website": "https://rednexus.games/",
+    "short_description": "Peglin is a Pachinko Roguelike - Fight enemies by collecting special orbs and popping pegs to deal damage. Acquire special relics that radically change the game and ensure no two runs are the same. Aim carefully to survive in this unique turn-based RPG!",
+    "developers": [
+      "Red Nexus Games Inc."
+    ],
+    "publishers": [
+      "Red Nexus Games Inc.",
+      "IndieArk"
+    ],
+    "release_date": "Aug 27, 2024",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Deckbuilding",
+      "Rogue-lite",
+      "Rogue-like",
+      "Pinball",
+      "Turn-Based",
+      "Strategy",
+      "Perma Death",
+      "Pixel Graphics",
+      "Cute",
+      "2D"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 83.7,
+    "steam_total_reviews": 17720,
+    "metacritic": 76,
+    "metacritic_url": "https://www.metacritic.com/game/peglin/",
+    "metacritic_user": 6.9,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic platform note",
+        "score": "Scores apply to the Nintendo Switch version only",
+        "url": "https://www.metacritic.com/game/peglin/"
+      },
+      {
+        "source": "Steam user reviews (all languages)",
+        "score": "83.7% positive of 17,720 (Very Positive)",
+        "url": "https://store.steampowered.com/app/1296610/Peglin/"
+      },
+      {
+        "source": "TouchArcade (Early Access mobile, via Wikipedia)",
+        "score": "4.5/5",
+        "url": "https://en.wikipedia.org/wiki/Peglin"
+      }
+    ],
+    "vgi_units": 712000,
+    "vgi_revenue": 10200000,
+    "vgi_rating": 83.665,
+    "vgi_reviews": 17717,
+    "vgi_url": "https://app.sensortower.com/vgi/game/peglin",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "14,858,187.19",
+    "src_net": "4,383,165.22",
+    "src_url": "https://steam-revenue-calculator.com/app/1296610/peglin",
+    "final_tier": "S",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "it is an absolute s tier for me ... so yeah this is an S tier for me",
+        "video_id": "5k_-k4X90ao",
+        "t": 6492,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=6492s",
+        "year_in_title": "2022",
+        "pos": 8,
+        "row_n": 9,
+        "row_score": 0.16666666666666663,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Peglin is a Peggle-style roguelike where you launch a ball at pegs and the result damages enemies. He calls it a great example of someone taking a unique idea and making it a roguelike. He has put hundreds of hours into it over several years and keeps returning as it gets regular updates. He places it in S tier, while saying it is not quite the masterpiece of the other S tier games.",
+        "praise": [
+          "Every run feels very different thanks to varied builds, characters and relics",
+          "Many unique orbs and events keep fights fun and engaging",
+          "Strong blend of RNG and skill, with deserved broken runs now and then",
+          "Continuous updates add new characters and orbs roughly monthly",
+          "Good pacing, helped by an option to speed up the game",
+          "Well-executed roguelike design overall"
+        ],
+        "criticism": [
+          "Gameplay looks a bit old or slow at first glance, though speed-up mitigates it",
+          "Not quite as masterful as the top S tier games",
+          "Needs more attention and visibility"
+        ],
+        "unique_points": [
+          "Fuses Peggle-style ball physics with roguelike build-crafting",
+          "Player skill matters alongside RNG, unusual for a luck-based genre"
+        ],
+        "quote": "it has no right being this good it is an absolute s tier for me",
+        "comparisons": [
+          "Peggle"
+        ],
+        "design_criteria": [
+          "Run variety: builds, characters, relics make each run distinct",
+          "Synergies and broken runs: rare overpowered runs feel earned",
+          "Skill vs RNG: a balanced blend",
+          "Content and support: frequent updates with new characters and orbs",
+          "Pacing: speed-up option keeps runs moving",
+          "Event and orb diversity: many unique options keep fights engaging"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A Peggle-style pachinko roguelite from Red Nexus Games where you launch orbs at pegs to damage enemies while collecting relics and upgrading orbs across a run.",
+      "consensus_summary": "Peglin is well liked by players (Steam 'Very Positive', about 84% of roughly 17.7k reviews) and mixed-to-favorable among the few critics who covered it (Metacritic 76 from 8 reviews on Switch, user score 6.9 from 29 ratings). The core loop of bouncing orbs around a peg board and building synergies with relics is widely called addictive and great for short sessions, including on Steam Deck, Switch and mobile. The recurring complaints are heavy RNG, only three acts for most of the game's life, steep late-game (Cruciball) difficulty and repetition. It launched in Early Access in April 2022, hit 1.0 and Switch on Aug 27, 2024, and is still being updated; a 2.0 update in March 2026 reportedly added a fourth act, new items, enemies and music.",
+      "best_things": [
+        "The Peggle-meets-Slay-the-Spire premise is fresh and the core loop of aiming, bouncing and watching damage numbers climb is described as satisfying and dopamine-heavy",
+        "Easy to learn and pick up; runs are short (one reviewer averages about 50 minutes) and the game can be saved and resumed, which suits casual or chill play",
+        "Build variety through orbs and relics; finding a combination that clicks and improvising around what you are offered is a common highlight",
+        "Multiple characters and the Cruciball difficulty ladder give replay value and let players choose between relaxed and punishing runs",
+        "Charming pixel art and music, and a developer team that keeps patching and is praised for listening to feedback",
+        "Works well on handheld and mobile (Steam Deck, Switch); Metacritic critics singled out the Switch version",
+        "Very high playtimes among fans (several reviewers report 250 to over 2,000 hours)"
+      ],
+      "worst_things": [
+        "Heavy RNG: orb trajectories are hard to control, so luck can outweigh skill, which critics and many negative Steam reviews cite",
+        "Limited content for a long stretch: only three acts plus a final boss, so runs feel samey and players can see everything quickly (the 2026 fourth act is meant to address this)",
+        "Uneven option balance: some relics and orbs are seen as near-useless while others are mandatory at higher difficulty",
+        "Cruciball levels add nerfs and tougher enemies rather than new mechanics, which some see as lazy difficulty scaling",
+        "Some enemy types and encounters (long-range damage you cannot avoid, the Wall boss, lines of exploding goblins) are cited as run-ending regardless of build",
+        "Unlocking characters and the true ending relies on grinding large counters such as debuffs applied or coins spent",
+        "Synergy traps: boss orbs with negative damage can silently break builds if you do not know how items interact",
+        "Price ($19.99) is questioned by some given the amount of content; many recommend buying on sale"
+      ],
+      "improvements": [
+        "More acts, areas, enemies, characters, orbs and relics; a recurring request even from positive reviewers",
+        "An endless or post-final-boss mode so players can keep testing builds and see new orbs without risking them early in a run",
+        "Let players choose map routes instead of having to shoot a ball and hope it lands on the desired path",
+        "Rework the late-game difficulty so it comes from interesting enemy design rather than stat nerfs and unavoidable damage",
+        "Better balance and clearer communication of item interactions and effect names for new players",
+        "Revisit the anti-save-scum behavior added in late Oct 2025 that, per a top negative review, counts quitting and resuming after a short session as save scumming and can ruin the run"
+      ],
+      "unique_things": [
+        "Pachinko/Peggle physics as the combat system in a turn-based roguelite, where you aim at enemies and pegs rather than play cards",
+        "Orbs act as the deck: you add and upgrade orbs, and relics modify how pegs and damage behave",
+        "Board layout and peg interaction matter more than a typical deckbuilder, yet the goal is damage accumulation rather than clearing the board like Peggle",
+        "Cruciball difficulty system for scaling challenge after winning",
+        "Began as a 48-hour game jam prototype ('Goblin Drop') and later won Best Design at the 2022 Taipei Game Show per Wikipedia"
+      ],
+      "tedious_or_disliked": [
+        "Grinding character unlocks and the true ending via large cumulative counters",
+        "Repetition of the same three biomes and similar boss encounters across many runs",
+        "Navigating the map by shooting a ball and hoping it lands on the path you want",
+        "Late-game frustration at Cruciball 5+, where reviewers report physics feeling erratic, refresh orbs in awkward spots, and enemies that counter common builds",
+        "Runs that go badly snowball with little chance to recover, which some find miserable",
+        "Anti-save-scum rule after Oct 2025 interfering with short stop-and-resume sessions"
+      ],
+      "divisive_points": [
+        "RNG: fans see it as part of the fun and improvisation, detractors see gambling-like luck that undermines build planning",
+        "Difficulty: patches are said by some to make the game easier while others say higher Cruciball levels are unfairly stacked",
+        "Value: some call it one of the best games for the price, others say it is only worth it on sale due to limited content",
+        "Whether it plays like Peggle: some love the nostalgia, others note it plays quite differently and do not get the Peggle feel"
+      ],
+      "reception_notes": "Early Access on PC began April 25, 2022; mobile followed April 11, 2023; 1.0 and the Nintendo Switch release came Aug 27, 2024 (Steam lists this date). Wikipedia says it sold about 400,000 copies in its first year in Early Access. Steam-revenue-calculator estimates about $14.9M gross and $4.4M net revenue, and SteamSpy-style data gives 500k to 1M owners; both are estimates, not audited. Version 2.0 (March 16, 2026) reportedly added a fourth act, items, enemies and music. Steam reviews from late 2025 include a controversy over anti-save-scum changes, and recent reviews remain mostly positive with ongoing developer support. Metacritic has few scores (8 critic, 29 user) so they are a weak signal. Steam lists Windows and Mac only; Switch and mobile exist separately. No OpenCritic listing could be confirmed; the web search budget was exhausted, so Reddit and outlet reviews could not be fetched (Reddit fetch was blocked).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1296610.json",
+          "what": "Top helpful positive and negative English Steam reviews for Peglin (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store metadata: release date, price, review counts, tags, SteamSpy owners"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1296610/Peglin/",
+          "what": "Steam store page (appid 1296610) for score, tags and price"
+        },
+        {
+          "url": "https://www.metacritic.com/game/peglin/",
+          "what": "Metacritic: Metascore 76 from 8 critics, user score 6.9 from 29; critic summary on RNG and Switch version"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Peglin",
+          "what": "Development history, release dates, first-year sales, awards, 2.0 update"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1296610/peglin",
+          "what": "Estimated gross and net revenue (Boxleiter-based estimate)"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=peglin",
+          "what": "Attempted OpenCritic lookup; no Peglin listing could be confirmed"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 76 (8 critics) and user 6.9 (29 ratings) confirmed, but they are for the Nintendo Switch version; added that note. Steam figures match local data (83.7% of 17,720). Top Steam reviews (anti-save-scum 90 votes, only 3 acts, RNG, Cruciball nerfs) are already covered in worst/tedious lists; no bullets removed. OpenCritic left null (unconfirmed)."
+    },
+    "his_anchor": null,
+    "his_pos": 8,
+    "his_row_n": 9,
+    "his_spoken": null,
+    "his_score": 16.7,
+    "his_top10_bonus": 0,
+    "players_score": 28.0,
+    "critics_score": 25.6,
+    "critics_avg": 76.0,
+    "overall": 22.4,
+    "labels": [
+      "luck_builder",
+      "turn_based",
+      "deckbuilder"
+    ],
+    "primary_label": "luck_builder"
+  }
+}

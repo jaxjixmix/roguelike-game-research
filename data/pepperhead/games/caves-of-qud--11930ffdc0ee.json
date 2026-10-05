@@ -1,0 +1,290 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "caves of qud",
+    "name": "Caves of Qud",
+    "display_name": "Caves of Qud",
+    "appid": 333640,
+    "img": "img/333640.jpg",
+    "steam_url": "https://store.steampowered.com/app/333640/",
+    "website": "http://www.cavesofqud.com",
+    "short_description": "Inhabit a deeply-simulated science fantasy world and chisel through layers of thousand-year-old civilizations. Build a character from over a hundred mutations and cybernetics. The award-winning sandbox roguelike &amp; RPG full of robots, deep lore, and sentient plants.",
+    "developers": [
+      "Freehold Games"
+    ],
+    "publishers": [
+      "Kitfox Games"
+    ],
+    "release_date": "Dec 5, 2024",
+    "coming_soon": false,
+    "price": "$29.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Procedural Generation",
+      "Turn-Based Combat",
+      "Open World",
+      "Turn-Based",
+      "Transhumanism",
+      "Sci-fi",
+      "Replay Value",
+      "Traditional Roguelike",
+      "Rogue-like",
+      "Story Rich"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.0,
+    "steam_total_reviews": 12680,
+    "metacritic": 91,
+    "metacritic_url": "https://www.metacritic.com/game/pc/caves-of-qud?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.1,
+    "opencritic": 90,
+    "opencritic_url": "https://opencritic.com/game/17907/caves-of-qud",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Overwhelmingly Positive, ~95% of 12,680)",
+        "score": "95%",
+        "url": "https://store.steampowered.com/app/333640/Caves_of_Qud/"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "5/5 (100 on Metacritic)",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "94/100",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "Multiplayer.it",
+        "score": "9.5/10",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "GamingTrend",
+        "score": "90/100",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "RPG Fan",
+        "score": "90/100",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "Metro GameCentral",
+        "score": "4.5/5",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "Nintendo Life (Switch)",
+        "score": "8/10",
+        "url": "https://opencritic.com/game/17907/caves-of-qud"
+      },
+      {
+        "source": "GOG user rating",
+        "score": "4/5 (143 reviews)",
+        "url": "https://www.gog.com/en/game/caves_of_qud"
+      }
+    ],
+    "vgi_units": 576000,
+    "vgi_revenue": 9300000,
+    "vgi_rating": 95.038,
+    "vgi_reviews": 12677,
+    "vgi_url": "https://app.sensortower.com/vgi/game/caves-of-qud",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "12,094,822.39",
+    "src_net": "3,567,972.61",
+    "src_url": "https://steam-revenue-calculator.com/app/333640/caves-of-qud",
+    "final_tier": "A",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm going to put this as a low A myself because I've only starting to discover the true genius of this game.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 2306,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=2306s",
+        "year_in_title": null,
+        "pos": 6,
+        "row_n": 9,
+        "row_score": 0.3227777777777778,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Caves of Qud is a turn-based traditional roguelike with a huge, freeform RPG campaign and deep lore, often compared to D&D and Dwarf Fortress. He says it demands patience and commitment, the text-style visuals will repel some players, and it is hard, with the advice to use the non-permadeath storyteller mode. He has only put in a small fraction of the hours fans recommend, so he finds it hard to judge. Many would put it in S, but he places it in low A for now, with a possible re-evaluation once he finishes the main quest.",
+        "praise": [
+          "Massive, open-ended RPG adventure with many ways to approach everything",
+          "Very long main quest campaign",
+          "Strong replayability from drastically different classes and races",
+          "Deep lore and strong world-building focus",
+          "Rewards experimentation and mastering its mechanics; could be a 'one game for a year' pick",
+          "Considered by many one of the best traditional roguelikes"
+        ],
+        "criticism": [
+          "Visuals are limited and hard to grasp, and can put many players off",
+          "Needs lots of patience and commitment to learn",
+          "Tutorial is small relative to the game's depth and it does not hold your hand",
+          "Hard, with easy deaths from experimenting; default hardcore permadeath is punishing",
+          "Heavy reading and freedom can feel intimidating"
+        ],
+        "unique_points": [
+          "Extreme freedom: no single way to do anything, closer to tabletop D&D than most roguelikes",
+          "Storyteller mode lets players avoid permadeath while experimenting",
+          "Character classes and races differ drastically, driving replay value",
+          "Limited visuals lean on player imagination, which is part of the charm for fans"
+        ],
+        "quote": "I'm going to put this as a low A myself",
+        "comparisons": [
+          "Dwarf Fortress",
+          "Tangledeep",
+          "Tales of Maj'Eyal",
+          "Rogue",
+          "D&D"
+        ],
+        "design_criteria": [
+          "Depth and freedom: many approaches to any problem, no hand-holding",
+          "Replayability: drastically different classes and races",
+          "Accessibility: limited visuals and steep learning curve count against it",
+          "World-building and lore: deep lore supports the setting",
+          "Difficulty: hard and punishing, mitigated by storyteller mode",
+          "Run/campaign length: very long main quest",
+          "Experimentation: rewards trying random things even at the cost of death"
+        ],
+        "rerank_note": "Provisional placement: he says many would put it in S and he may re-evaluate after beating the game; he is only about halfway through the main adventure."
+      }
+    ],
+    "community": {
+      "one_liner": "A deeply systemic, turn-based science-fantasy sandbox roguelike/RPG from Freehold Games (published by Kitfox), set in a strange post-apocalyptic world with mutations, cybernetics, factions and a handcrafted main quest inside a procedurally generated map.",
+      "consensus_summary": "Caves of Qud is received as a landmark of the genre: Steam shows Overwhelmingly Positive (about 95% of roughly 12.7k reviews), Metacritic is 91 from 8 critics, and OpenCritic has a top critic average of 90 with 90% recommending. It left early access on 5 Dec 2024 (Kitfox became publisher in 2023) after roughly nine years of weekly updates, and adds a new graphical UI, the final stretch of the main quest, and later a Switch port (Feb 2026). It won the 2025 IGF Excellence in Narrative award and the 2025 Hugo for Best Game or Interactive Work. Praise centres on writing, worldbuilding and freedom of build and play; the recurring complaints are a steep learning curve, unclear interface and information, unfair-feeling deaths and debuffs, and the claim that its 'depth' is more build variety than true simulation. Players who bounce off it tend to bounce hard.",
+      "best_things": [
+        "Worldbuilding and prose: item, place and creature descriptions are poetic and strange, with heavy Gene Wolfe (Book of the New Sun) flavour, and make the world feel ancient and mysterious",
+        "Huge build variety: over a hundred mutations and cybernetics, true-kin vs mutant castes, and many playstyles (psychic, tinker, sniper, multi-armed brawler, etc.)",
+        "Emergent, absurd stories: befriending or recruiting hostile creatures, turning into odd things, making a serial killer a companion, all through interacting systems",
+        "Everything can be talked to and belongs to a faction, so reputation and relationships feel consequential and the world feels inhabited",
+        "Handcrafted main quest and lore woven into a procedurally generated map, plus nearly a million explorable maps",
+        "Distinctive pixel-art and eerie soundtrack identity; the 1.0 graphical UI and controller support (runs well on Steam Deck) improved accessibility",
+        "Tons of content and replay value, with players logging hundreds of hours; classic vs roleplay (save-friendly) modes and Steam Workshop mods",
+        "Critics call it a genre-defining achievement in roleplaying freedom and flexibility"
+      ],
+      "worst_things": [
+        "Steep, vertical learning curve: barebones tutorial, many systems and keys to learn, and players often need the wiki to progress",
+        "UI/UX legibility problems: low-contrast tiles, hard to tell actors from items, message-log spam, fluid splatter obscuring the map, clunky keybind and settings menus and a weak mouse interface",
+        "Deaths can feel unfair or opaque: one-shots from off-screen enemies, unreliable threat information, rest not interrupting when attacked, autoexplore walking into harm",
+        "Crippling permanent and temporary debuffs (diseases, fungal infections, limb loss) that the game explains poorly, often pushing players to reload saves",
+        "Procedural generation sometimes yields incoherent or blocked spaces, enclosed rooms, teleport-plant traps, and a 'getting lost' overland mechanic some find punishing",
+        "Faction reputation rules can produce arbitrary-feeling penalties, such as killing a hostile legendary creature angering a friendly town",
+        "Some critics of the 'depth' hype say NPCs are flavour-text cardboard cutouts and the simulation is shallower than Dwarf Fortress-style comparisons suggest",
+        "Prose can turn word-salad or over-pretentious to some readers and hinder clarity of ability descriptions"
+      ],
+      "improvements": [
+        "Better onboarding: fuller tutorial, in-game explanations of debuffs, diseases and how to cure them, and labelled controls",
+        "Improve visual clarity: contrast, distinguishing items and merchants, reducing message spam and fluid clutter, more accurate ability descriptions and damage numbers",
+        "Better keybinding and settings UX and more capable mouse support (comparison made to Tales of Maj'Eyal)",
+        "Improve map generation validation so interiors connect and the player is not trapped, and reduce movement- and sight-blocking clutter",
+        "Rebalance character options: tinker and some mutations or classes seen as weak, psychic powers as strong, true-kin vs mutant imbalance and the ease of breaking the game late",
+        "Make the faction reputation system and legendary-creature rules more coherent and less grind-dependent, and add more variety to the main quest across runs"
+      ],
+      "unique_things": [
+        "A science-fantasy post-apocalypse setting with a literary, Wolfe-inspired voice rather than generic fantasy or dungeon-crawl tropes",
+        "Deep simulation sandbox rules: nearly any object or creature can be interacted with, recruited, dismantled, or converted (memed 'you can become a chair')",
+        "Mutations plus cybernetics character creation with true-kin and mutant paths, unmatched in breadth among traditional roguelikes",
+        "Procedurally generated world history and sultan legends that feed into a fixed main story",
+        "Faction and reputation system that governs who is hostile or friendly across the entire map",
+        "Classic (permadeath) and roleplay (saveable) modes letting one game serve both hardcore and story-focused players"
+      ],
+      "tedious_or_disliked": [
+        "Reputation grinding and hunting random legendaries or villages to befriend or slay is described as un-fun but effectively required for endgame survivability",
+        "Cloning shopkeepers and scouring for loot is called boring intended cheese in one long-time player's review",
+        "Autoexplore and bumping weak enemies early, then slogging across big empty overland regions, feels repetitive to some",
+        "Dealing with diseases and permanent injuries by reloading or consulting the wiki",
+        "Combat that some say becomes shallow or boring after the first 10-15 hours, plus an extremely long time investment before the game clicks"
+      ],
+      "divisive_points": [
+        "Whether 'depth' means systemic simulation (critics say it is mostly build variety and scripted weirdness) or rich, interconnected worldbuilding (fans say it is unmatched)",
+        "Difficulty and permadeath: loved as consequential and funny by fans, called opaque and hostile by detractors, with many preferring the roleplay mode",
+        "Writing style: hailed as the best prose in games by some, labelled pretentious or word-salad by others",
+        "Graphics and UI: the minimalist pixel look is praised as distinctive, but readability complaints are common even among positive reviewers"
+      ],
+      "reception_notes": "Development began in 2007, a public beta came in 2010, and Steam early access in 2015 with consistent weekly updates for about nine years. Early access reviewers praised depth but found the interface confusing; Kitfox Games became publisher in July 2023 and the 1.0 release on 5 Dec 2024 added a new fully graphical UI and the last leg of the main quest, then drew universal acclaim (Metacritic 91). A Nintendo Switch port followed on 16 Feb 2026 (Nintendo Life 8/10). Awards: 2025 IGF Excellence in Narrative, 2025 Hugo for Best Game or Interactive Work; nominated for 2025 Golden Joysticks Best Indie Game and a D.I.C.E. Strategy/Simulation nomination. Platforms: Windows, macOS, Linux (Steam, GOG), Switch; Steam price $29.99 with Workshop mod support (GOG reviewers note mod restrictions vs Steam). Steam recent reviews (~94% positive over 30 days) remain strong as of late Sep 2026. Steam-side estimates (SteamSpy owners 200k-500k; steam-revenue-calculator gross about $12.1M, net to developer about $3.6M) are rough Boxleiter-style estimates, not audited. Note: the WebSearch budget was exhausted in this session, so no Reddit threads were read directly (Reddit and Eurogamer fetches were blocked); community detail comes from 18 negative and top positive Steam reviews plus Metacritic, OpenCritic, Wikipedia, GOG and Steam pages.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/333640.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: app id 333640, review counts, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/caves-of-qud/",
+          "what": "Metascore 91 from 8 critics, user score 8.1 from 49 ratings, per-outlet scores"
+        },
+        {
+          "url": "https://opencritic.com/game/17907/caves-of-qud",
+          "what": "Top critic average 90, 90% recommend, 11 reviews, outlet scores"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Caves_of_Qud",
+          "what": "Development history, awards (IGF, Hugo), Switch port, reception notes"
+        },
+        {
+          "url": "https://store.steampowered.com/app/333640/Caves_of_Qud/",
+          "what": "Steam page: Overwhelmingly Positive, 1.0 release notes, tags"
+        },
+        {
+          "url": "https://steamcommunity.com/app/333640/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Steam community top-rated reviews summary: atmosphere, emergent stories, balance and difficulty gripes"
+        },
+        {
+          "url": "https://www.gog.com/en/game/caves_of_qud",
+          "what": "GOG page: price, 4/5 user rating, critic quotes, modding note"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/333640/caves-of-qud",
+          "what": "Estimated gross revenue about $12.09M and net about $3.57M (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (91 from 8 critics, user 8.1 from 49) and OpenCritic (90 avg, 90% recommend, 11 reviews): numbers correct. Removed Vandal 85 and Edge 8/10 from other scores (not confirmable on the cited pages). Corrected Eurogamer/PC Gamer URLs to the OpenCritic page they were verified on. Removed the price-resentment bullet (weak, not a recurring top-review theme). Steam top reviews support the existing best/worst/tedious themes (Wolfe-style prose, emergent stories, vertical learning curve, hostile onboarding, RNG-unfair deaths); nothing added."
+    },
+    "his_anchor": null,
+    "his_pos": 6,
+    "his_row_n": 9,
+    "his_spoken": "said low",
+    "his_score": 32.3,
+    "his_top10_bonus": 0,
+    "players_score": 78.5,
+    "critics_score": 95.0,
+    "critics_avg": 90.5,
+    "overall": 61.0,
+    "labels": [
+      "turn_based",
+      "traditional"
+    ],
+    "primary_label": "traditional"
+  }
+}

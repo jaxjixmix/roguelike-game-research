@@ -1,0 +1,255 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "ftl",
+    "name": "FTL: Faster Than Light",
+    "display_name": "FTL",
+    "appid": 212680,
+    "img": "img/212680.jpg",
+    "steam_url": "https://store.steampowered.com/app/212680/",
+    "website": "https://subsetgames.com/ftl.html",
+    "short_description": "This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+    "developers": [
+      "Subset Games"
+    ],
+    "publishers": [
+      "Subset Games"
+    ],
+    "release_date": "Sep 14, 2012",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Space",
+      "Strategy",
+      "Sci-fi",
+      "Indie",
+      "Singleplayer",
+      "Perma Death",
+      "Difficult",
+      "Replay Value",
+      "Real-Time with Pause"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.1,
+    "steam_total_reviews": 78873,
+    "metacritic": 84,
+    "metacritic_url": "https://www.metacritic.com/game/pc/ftl-faster-than-light?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "95.1% positive (74,992 positive, 3,881 negative) - Overwhelmingly Positive",
+        "url": "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/"
+      },
+      {
+        "source": "Metacritic iOS version critics (17 reviews)",
+        "score": "88",
+        "url": "https://www.metacritic.com/game/ftl-faster-than-light/"
+      },
+      {
+        "source": "PC Gamer (via Metacritic)",
+        "score": "89",
+        "url": "https://www.metacritic.com/game/ftl-faster-than-light/"
+      },
+      {
+        "source": "GameSpot (via Metacritic)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/ftl-faster-than-light/"
+      },
+      {
+        "source": "Edge (via Metacritic)",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/ftl-faster-than-light/"
+      }
+    ],
+    "vgi_units": 3900000,
+    "vgi_revenue": 23400000,
+    "vgi_rating": 95.079,
+    "vgi_reviews": 78860,
+    "vgi_url": "https://app.sensortower.com/vgi/game/ftl-faster-than-light",
+    "spy_owners": "2,000,000 .. 5,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "10,629,055.32",
+    "src_net": "3,135,571.32",
+    "src_url": "https://steam-revenue-calculator.com/app/212680/ftl-faster-than-light",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "so I'm gonna put this as a uh as a low a tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 3535,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=3535s",
+        "year_in_title": "2012",
+        "pos": 15,
+        "row_n": 18,
+        "row_score": 0.1963888888888889,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "FTL is an older real-time-with-pause strategy roguelike where you crew a spaceship and jump through a galaxy of random events toward the end. He sees it as what Convoy is trying to be, but done much better. He replayed it the day before the ranking and his opinion rose. He places it at the low end of A, acknowledging it could easily be S for many people, but he personally reaches for newer roguelikes more often.",
+        "praise": [
+          "Strategic, engaging combat from the very start, with crew management and targeting specific enemy ship systems",
+          "Each ship part is distinct and adds unique aspects to battles",
+          "Node-to-node exploration with random events is faster and more interesting than Convoy's empty-space movement",
+          "Pause at any time and repair whenever you want, so the player sets the pace",
+          "Each run feels unique thanks to different weapons, crews and events",
+          "Hugely influential, a game that helped revive roguelikes"
+        ],
+        "criticism": [
+          "Showing its age",
+          "Little roguelite meta-progression beyond unlocking new ships",
+          "He wasn't there early enough to feel the nostalgia, so it is less of a personal favorite",
+          "He now plays newer games like Across the Obelisk or Brotato more often"
+        ],
+        "unique_points": [
+          "Real-time strategy with pause applied to a roguelike structure with a clear win condition at the end of the galaxy",
+          "Clicking between map points to trigger random events keeps pacing fast compared with free-movement exploration",
+          "Run ends are self-contained; a completed run is the reward, with new ships as the only unlock"
+        ],
+        "quote": "it is really really well designed and each run will feel pretty unique",
+        "comparisons": [
+          "Convoy",
+          "Across the Obelisk",
+          "Brotato"
+        ],
+        "design_criteria": [
+          "Strategic depth of combat: crew management and targeting enemy ship parts",
+          "Variety and uniqueness of ship systems and upgrades",
+          "Exploration design: fast node-based events versus aimless movement",
+          "Player control of pacing via pause and repair",
+          "Run variety: weapons, crews, events differ each run",
+          "Meta-progression: minimal, just unlockable ships",
+          "Historical influence and age"
+        ],
+        "rerank_note": "He replayed it the day before this tier list and says his opinion went up from an initial lukewarm view."
+      }
+    ],
+    "community": {
+      "one_liner": "A real-time-with-pause spaceship management roguelike-like where you run a Federation cruiser and its crew through eight procedurally generated sectors, fleeing a rebel fleet to deliver intel to the fleet before permadeath ends the run.",
+      "consensus_summary": "FTL is widely regarded as a genre-defining indie classic: Steam shows about 95% positive across roughly 78.9k reviews (Overwhelmingly Positive), Metacritic critics score it 84 and users 8.3. Critics praised the way it makes players feel like starship captains, the tense system and crew juggling, and the ten-dollar value; the main critical knock (for example Edge at 70) is how much survival depends on random loot and dice rolls. Players who love it talk about hundreds or thousands of hours and the Multiverse mod, while the most common negative Steam reviews are from people who bounced off the RNG and the difficulty, including on Easy. It is a finished game (Advanced Edition free update in 2014), not early access, and Steam reviewers still describe it as beloved 14 years on.",
+      "best_things": [
+        "Tense real-time-with-pause combat where you manage power between weapons, shields, engines, oxygen and other subsystems, and can pause to plan frame by frame",
+        "Crew micromanagement creates emotional stories: losing a favourite crew member to fire, boarders or vacuum stings and drives 'one more run'",
+        "Deep build variety from weapons, drones, augments and ship layouts (ten ships plus unlockable alternate layouts) with tactics that reward learning enemy and weapon matchups",
+        "Skill-based progression rather than power unlocks: reviewers note runs get easier because the player improves, not because of meta upgrades",
+        "Atmospheric soundtrack and lonely, vast space mood that many reviewers single out",
+        "Strong random-event writing and choose-your-own-adventure style text encounters that make each run feel like a new story",
+        "Tiny footprint, cheap price and runs on very low-end hardware (Mac, Windows, Linux)",
+        "Huge replay value and mod scene, especially the Multiverse mod, which reviewers describe as an enormous expansion in the spirit of the original"
+      ],
+      "worst_things": [
+        "RNG-heavy evasion and hit chances: bad streaks of misses or enemy volleys on key systems can end a run no matter how well you play (the most common complaint in negative Steam reviews)",
+        "Early game snowballing: a weak scrap or weapon start, or a bad early sector, compounds and dooms later sectors",
+        "Final boss (the Rebel flagship) is seen as a sharp difficulty and mechanic spike; several reviewers say it demands specific builds plus luck after hours of runs",
+        "Boarding and fire mechanics can feel like harsh pass/fail minigames, and fires can snowball quickly and kill crew",
+        "Difficulty labels feel misleading: multiple reviewers say 'Easy' is still very hard, and one cited only about a quarter of players having beaten the game on Easy",
+        "Crew and click handling in the heat of combat can feel fiddly, with crew reaction and pathing occasionally frustrating",
+        "Some weapon classes and droids feel weak or poorly balanced versus others, per reviewers"
+      ],
+      "improvements": [
+        "Rename or rebalance difficulty modes so Easy is truly approachable for casual players, as many negative reviews request",
+        "Reduce reliance on evasion dice and punishing streaks, or give players more tools to mitigate bad luck, especially in the final sector",
+        "Better teaching of hazards so players understand why a run collapsed early (one reviewer wanted clearer feedback on what went wrong)",
+        "Better balance for droids, anti-personnel options and weaker weapons, and smoother crew task handling (auto-repair priority ideas appeared in reviews)",
+        "Smoother final boss ramp: a reviewer said the flagship introduces multi-stage mechanics not seen earlier, and wanted a more refined successor or second version",
+        "More official content or a sequel beyond Advanced Edition: fans say they want more from Subset Games"
+      ],
+      "unique_things": [
+        "You fly no ship directly; you run its systems and crew as a bridge-level commander, blending roguelike structure with real-time tactics and ship management",
+        "Permadeath runs with no persistent power upgrades, only unlocked ships and layouts, so player knowledge is the progression",
+        "Star Trek and Firefly flavour with six alien crew races whose traits (rock, mantis, engi, slug, zoltan, crystal) change tactics",
+        "Designed explicitly as a 'suicide mission' with the developers reportedly targeting roughly a 10% win rate",
+        "Pause-anytime, frame-by-frame spatial planning of fires, breaches, boarders and oxygen across a cutaway ship layout",
+        "Tiny two-person team (Matthew Davis and Jay Ma) that turned a Kickstarter ask of $10,000 into over $200,000 and helped kick off the indie roguelike wave"
+      ],
+      "tedious_or_disliked": [
+        "Long runs, often 2-3 hours by reviewers' accounts, so a loss in the last sector feels costly",
+        "Early-game scrap scrounging and node-by-node exploration when a start is weak can feel grindy and repetitive",
+        "Repeated restarts when a run is crippled early by bad luck, without meta progression to soften it",
+        "Fire and boarding micromanagement in crises can feel stressful rather than fun",
+        "Guessing where the rebel fleet advance will catch you can create dead-end paths that feel unfair",
+        "Constant vigilance: one reviewer called it both slow and the most stressful strategy roguelike they had played"
+      ],
+      "divisive_points": [
+        "RNG versus skill: fans say losses teach you and truly unwinnable runs are rare, while critics and many players say luck decides too many runs",
+        "Difficulty: celebrated 'suicide mission' design for some, unfair and mislabeled difficulty modes for others",
+        "Whether it still holds up against modern roguelites with meta progression; one long-time completionist gave it 7.5/10 for this reason"
+      ],
+      "reception_notes": "Launched September 2012 after a Kickstarter that raised over $200,000 against a $10,000 goal, and was immediately a critical and commercial breakout for a two-person studio; it won IGF Excellence in Design and Audience awards, the GDC Best Debut award for 2013 and PC Gamer's Short-form Game of the Year 2012. The free Advanced Edition (April 3, 2014) added races, weapons, ships, drones, music and events, and a Hard difficulty; it also launched on iPad the same year to strong reviews. Estimated Steam gross revenue is about $10.6M (net about $3.1M to the developer) per the Steam Revenue Calculator, which is a Boxleiter-style estimate and SteamSpy puts owners at 2-5 million. OpenCritic has no FTL entry that I could find (the game predates the site), so OpenCritic is null. Available on Windows, Mac and Linux, with iPad and Steam Remote Play noted.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/212680.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid 212680 metadata: developer, release date, review totals, Metacritic 84, SteamSpy owner range, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ftl-faster-than-light/",
+          "what": "Metascore 84 from 42 critics, user score 8.3 from 1,636 ratings, notable critic snippets (PC Gamer 89, GameSpot 80, NZGamer 95, AtomicGamer 90, Edge 70)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ftl-faster-than-light/user-reviews/",
+          "what": "Recurring user review themes: strategic depth and replay appeal versus punishing RNG, difficulty spikes and final boss imbalance"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/FTL:_Faster_Than_Light",
+          "what": "Gameplay, development and reception: Kickstarter, 10% win-rate design intent, Advanced Edition April 2014, awards, iPad 88 Metacritic"
+        },
+        {
+          "url": "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/",
+          "what": "Steam store page: review sentiment, tags, Advanced Edition description"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/212680/ftl-faster-than-light",
+          "what": "Estimated gross revenue about $10.6M and net about $3.1M (Boxleiter-method estimate)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: PC Metascore 84 (42 critics), user 8.3 (1,636 ratings), iOS 88 (17) confirmed; OpenCritic left null. Removed unsupported 'recent 89%' Steam figure (not in local data); removed single-review unverified 2026 update complaint from reception_notes; removed 'Advanced Edition bloat' divisive point (unsupported by reviews); relabeled iPad score as iOS with Metacritic URL. RNG/difficulty/boarding/Multiverse themes confirmed by top Steam reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 15,
+    "his_row_n": 18,
+    "his_spoken": "said low",
+    "his_score": 19.6,
+    "his_top10_bonus": 0,
+    "players_score": 79.5,
+    "critics_score": 71.4,
+    "critics_avg": 84.0,
+    "overall": 51.0,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

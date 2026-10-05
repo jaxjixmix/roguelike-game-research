@@ -1,0 +1,249 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "space gladiators",
+    "name": "Space Gladiators",
+    "display_name": "Space Gladiators",
+    "appid": 1144910,
+    "img": "img/1144910.jpg",
+    "steam_url": "https://store.steampowered.com/app/1144910/",
+    "website": "https://spacegladiatorsgame.com",
+    "short_description": "Ever dreamt of being a space potato? Now’s your chance! Space Gladiators is a 2D hand-drawn roguelite platformer following a bunch of captives fighting their way out of a planet prison. Defeat hordes of aliens in the gladiatorial arenas and earn your freedom!",
+    "developers": [
+      "Blobfish"
+    ],
+    "publishers": [
+      "Blobfish"
+    ],
+    "release_date": "Mar 10, 2021",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "Rogue-lite",
+      "2D",
+      "2D Platformer",
+      "Hand-drawn",
+      "Action Roguelike",
+      "Difficult",
+      "Singleplayer",
+      "Perma Death"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.0,
+    "steam_total_reviews": 480,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/space-gladiators/",
+    "metacritic_user": 7.8,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "But Why Tho (via Metacritic listing)",
+        "score": "70/100",
+        "url": "https://www.metacritic.com/game/space-gladiators/"
+      },
+      {
+        "source": "Steam user reviews (all time)",
+        "score": "Very Positive, about 90% of 480 reviews",
+        "url": "https://store.steampowered.com/app/1144910/Space_Gladiators/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "20,000 to 50,000",
+        "url": "https://steam-revenue-calculator.com/app/1144910/space-gladiators"
+      },
+      {
+        "source": "steam-revenue-calculator.com",
+        "score": "about $117.8k gross, about $34.8k net (Boxleiter estimate)",
+        "url": "https://steam-revenue-calculator.com/app/1144910/space-gladiators"
+      }
+    ],
+    "vgi_units": 14460,
+    "vgi_revenue": 132000,
+    "vgi_rating": 90,
+    "vgi_reviews": 480,
+    "vgi_url": "https://app.sensortower.com/vgi/game/space-gladiators",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "117,821.40",
+    "src_net": "34,757.31",
+    "src_url": "https://steam-revenue-calculator.com/app/1144910/space-gladiators",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put like the middle of B tier",
+        "video_id": "zKosjx7EpKA",
+        "t": 7771,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=7771s",
+        "year_in_title": "2021",
+        "pos": 5,
+        "row_n": 13,
+        "row_score": 0.6538461538461539,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Space Gladiators is a 2D action dungeon-crawler roguelike from the developers of Rotato, reusing many of that game's items and characters in a new genre. The gameplay is very basic (whack, dash, jump, or cast spells from range) and can feel slightly clunky, with the real focus on a large pool of items and unlockables. He finds it cute, funny and highly replayable, and thinks many players would love it, but the minimal combat got dull for him. Overall he calls it a good game that just is not for him and places it mid-B.",
+        "praise": [
+          "Lots of content, secrets and unlockables",
+          "Items have varied abilities and make runs play very differently",
+          "Strong replayability and run-to-run variety, which he calls a massive thumbs up",
+          "Good item design",
+          "Cute, funny, flash-game-style charm",
+          "Solid for fans of classic dungeon-crawler roguelikes"
+        ],
+        "criticism": [
+          "Combat is very basic and minimalistic (whack, dash, jump)",
+          "Can feel a bit clunky",
+          "Gameplay became dull after a while",
+          "He is not a fan of the art style, which feels like a flash game"
+        ],
+        "unique_points": [
+          "Takes Rotato's items and characters and transplants them into an action dungeon-crawler genre",
+          "Prioritizes item variety over moment-to-moment gameplay depth"
+        ],
+        "quote": "it's a good game um but I'm going to put like the middle of B tier",
+        "comparisons": [
+          "Rotato",
+          "Flash games"
+        ],
+        "design_criteria": [
+          "Item diversity: many items with distinct abilities drive build variety",
+          "Replayability: runs feel very different, plus secrets and unlockables",
+          "Core gameplay/combat depth: too simple and eventually dull",
+          "Game feel: slightly clunky",
+          "Art style/charm: cute but flash-like, not to his taste",
+          "Content quantity: large amount of content"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D hand-drawn roguelite platformer by Blobfish (the studio behind Brotato) in which quirky potato-like prisoners fight through procedurally assembled gladiatorial arenas on the alien prison planet Tartarus.",
+      "consensus_summary": "Steam players rate it Very Positive (about 90% of roughly 480 reviews), and the people who stick with it praise the tight movement, the variety of characters and the tough, customisable difficulty. It is widely described as an overlooked hidden gem that never found a big audience: the SteamSpy estimate is only 20-50k owners and revenue calculators put it near $118k gross. Critic coverage is very thin. Metacritic has one critic review (But Why Tho, 70/100) and only 4 user ratings averaging 7.8, and I found no OpenCritic entry. It launched in Early Access in October 2019 and hit 1.0 on 10 March 2021, with console and mobile versions following (the Metacritic page lists a May 2023 release on PS4, Xbox One and Switch). Recent Steam reviews from 2025-26 mostly compare it to Brotato, and several ask the developer to revisit and rebalance it, mainly because of slow progression. Note: the web-search quota ran out mid-task, so this is built from Steam data, Steam store and community pages, Metacritic and a revenue estimator rather than a wide sweep of outlets and Reddit.",
+      "best_things": [
+        "Buttery-smooth movement and controls; you start with a dash that has i-frames plus a double jump, which players say makes platforming combat feel great",
+        "Each of the playable characters (eight per the store page) plays noticeably differently, with easy and hard characters",
+        "Large item pool (300+ weapons, pets and trinkets per the store page) with risk/reward unlocks",
+        "Difficulty is customisable and deep; a reviewer with dozens of hours had only cleared the second of five difficulties for most characters",
+        "Goofy, charming space-potato humour and hand-drawn art that contrast with grimdark roguelites",
+        "Strong replayability and achievement hunting (100+ achievements; some players have 70-190 hours)",
+        "Varied levels built from hundreds of hand-crafted rooms, with 50+ enemies and 10 bosses",
+        "Short-session charm: many reviewers with 70-190 hours call it a favourite and a hidden gem, with a few rating it as high as 9/10"
+      ],
+      "worst_things": [
+        "Progression is slow: you level up and collect items so gradually that runs can feel like a slog before any build comes together",
+        "Items feel sparse early in a run, so the game leans heavily on the core combat being fun, which some players find merely okay",
+        "Some players found the movement and combat unsatisfying or unhappy-making (short negative reviews)",
+        "Steam community describes it as light on content overall",
+        "Reported technical problems in the forums: the game not launching for some and progress not saving on exit",
+        "The mobile version reportedly does not feel good to play compared with PC or console"
+      ],
+      "improvements": [
+        "Rebalance or speed up levelling and item acquisition so runs reach their payoff sooner (most commonly requested in recent reviews)",
+        "A developer revisit or content update; several recent reviewers explicitly ask Blobfish to update the game",
+        "Mod support to extend content, requested in the Steam community",
+        "More content depth, since some players say it runs out of things to do",
+        "Clearer explanation of how to unlock higher difficulty (danger) modes",
+        "Fix launch and save-progress bugs reported in discussions"
+      ],
+      "unique_things": [
+        "Plays as a potato-style prisoner gladiator in a space prison, with deliberately absurd cast and tone",
+        "Mix of arena-style combat and platforming with dash i-frames and double jump, closer to Nuclear Throne or Hollow Knight than top-down arena shooters",
+        "Risk/reward item unlocks and a five-tier difficulty system with extra difficulty customisation",
+        "Comes from the same studio as Brotato, so players frequently frame it as the less famous sibling with a very different (platformer) format",
+        "Room-based levels built procedurally from many hand-crafted rooms, plus treasure rooms and merchants"
+      ],
+      "tedious_or_disliked": [
+        "Slow levelling that makes the mid-run feel grindy and not worth the time, even for players who enjoy the game",
+        "Long runs before item impact is felt, described as boring by a Brotato fan who stopped after minutes",
+        "Hard characters and upper difficulty tiers can be punishing, even on the easy characters according to one reviewer",
+        "Unlock grind for items and achievements is a long haul, though some like it",
+        "Save and launch issues mentioned by community posters"
+      ],
+      "divisive_points": [
+        "Pace of runs: fans call it addictive and balanced, while others find it a slow slog",
+        "Comparison with Brotato: some see it as underrated, others say it is only decent next to that hit",
+        "Difficulty: praised as deep and challenging by veterans, but a barrier for players who want faster payoff",
+        "Core combat feel: described as smooth and satisfying by most, unsatisfying by a few"
+      ],
+      "reception_notes": "Early Access in October 2019, full 1.0 on Steam on 10 March 2021 at $14.99. Steam reviews are consistently positive and the game has a small but loyal following; the critic record is almost empty. Metacritic lists a 2023 release on PS4, Xbox One and Switch where But Why Tho scored it 70/100, calling it simple yet satisfying, easy to start and hard to master. The developer Blobfish later became far better known for Brotato, and recent (2025-26) Steam reviews often reference that game and request a rebalance or update. Forum complaints mention launch and save issues and light content. I could not verify a recent patch history, and the Metacritic page may mainly reflect the console release.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1144910.json",
+          "what": "Local Steam reviews file: top helpful positive and negative English reviews (2025-26)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 1144910, Blobfish, Mar 10 2021, 90% of 480 reviews, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1144910/Space_Gladiators/",
+          "what": "Steam store page: features (300+ items, 8 characters, 10 bosses), tags, Early Access Oct 2019 to 1.0 Mar 2021"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1144910/discussions/",
+          "what": "Steam community discussions: launch and save issues, mod support requests, light on content, Brotato comparison"
+        },
+        {
+          "url": "https://www.metacritic.com/game/space-gladiators/",
+          "what": "Metacritic: no aggregate critic score, one critic review (But Why Tho 70), user score 7.8 from 4 ratings, May 2023 console release"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1144910/space-gladiators",
+          "what": "Revenue estimate: about $117.8k gross, about $34.8k net, roughly 7.9k copies implied"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=space%20gladiators",
+          "what": "OpenCritic search attempted; no entry could be found in the fetched content"
+        },
+        {
+          "url": "https://www.reddit.com/search/?q=%22Space%20Gladiators%22%20blobfish",
+          "what": "Reddit fetch attempted but blocked, so no Reddit threads were read"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore pending (1 critic review, But Why Tho 70), user 7.8 from 4 ratings, released May 4 2023 on consoles, publisher Seaven Studio; critic_scores already correct, unchanged. Removed 3 bullets (soundtrack-tags claim not supported by tags, 'very few critic reviews' and 'Windows only' are not player themes). Rewrote 2 (danger-mode/language improvement unverified Polish claim; difficulty bullet de-specified 'Danger 5'). Added 1 best-thing on long-playtime loyalty. Reviews sample is small (12 reviews) and broadly consistent with bullets; slow progression theme confirmed as top complaint."
+    },
+    "his_anchor": null,
+    "his_pos": 5,
+    "his_row_n": 13,
+    "his_spoken": null,
+    "his_score": 65.4,
+    "his_top10_bonus": 0,
+    "players_score": 40.2,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 54.3,
+    "labels": [
+      "action",
+      "platformer"
+    ],
+    "primary_label": "action"
+  }
+}

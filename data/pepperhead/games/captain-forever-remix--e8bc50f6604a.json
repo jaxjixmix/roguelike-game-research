@@ -1,0 +1,241 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "captain forever remix",
+    "name": "Captain Forever Remix",
+    "display_name": "Captain Forever Remix",
+    "appid": 298560,
+    "img": "img/298560.jpg",
+    "steam_url": "https://store.steampowered.com/app/298560/",
+    "website": "http://captainforeverremix.com/",
+    "short_description": "Can you create the raddest spaceship? Captain Forever Remix is the spaceship builder roguelike. Voyage across the Solar System and blast apart randomly-generated enemies for spare parts. This is an officially-licensed re-imagining of the indie classic Captain Forever.",
+    "developers": [
+      "Pixelsaurus Games",
+      "Future Crayon"
+    ],
+    "publishers": [
+      "Pixelsaurus Games"
+    ],
+    "release_date": "Jun 3, 2016",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Space",
+      "Action Roguelike",
+      "Indie",
+      "Action",
+      "Building",
+      "Rogue-lite",
+      "Singleplayer",
+      "Female Protagonist",
+      "2D",
+      "Sci-fi"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 80.2,
+    "steam_total_reviews": 379,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/captain-forever-remix/",
+    "metacritic_user": 8.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "PC Gamer",
+        "score": "80/100 (per Metacritic listing)",
+        "url": "https://www.pcgamer.com/captain-forever-remix/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, about 80% of 379 reviews",
+        "url": "https://store.steampowered.com/app/298560"
+      }
+    ],
+    "vgi_units": 38081,
+    "vgi_revenue": 352000,
+    "vgi_rating": 80.211,
+    "vgi_reviews": 379,
+    "vgi_url": "https://app.sensortower.com/vgi/game/captain-forever-remix",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "61,738.20",
+    "src_net": "18,212.77",
+    "src_url": "https://steam-revenue-calculator.com/app/298560/captain-forever-remix",
+    "final_tier": "D",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "D",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "D",
+        "verbal_evidence": "I wasn't a huge fan so I'll put this as a as a d tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 1152,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=1152s",
+        "year_in_title": "2015",
+        "pos": 5,
+        "row_n": 5,
+        "row_score": 0.09999999999999998,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Captain Forever Remix is an older space game where you build your own ship, fight other ships, salvage their parts, and move through different universes. He found the concept unique and kept returning to it, but never got into it. Long runs, no pause, and losing parts with no way to recover made it feel bad to him as a single-player experience. He places it in D tier.",
+        "praise": [
+          "The core concept of building your own ship from salvaged parts is unique and fun",
+          "Collecting parts from defeated ships is an appealing loop",
+          "Progressing through different universes gives a sense of journey",
+          "He thinks it might be interesting as a multiplayer game"
+        ],
+        "criticism": [
+          "No pause, so you can be attacked while trying to grab dropped parts",
+          "Runs are long, up to around 45 minutes",
+          "Losing parts or a favorite weapon leaves you at a big disadvantage for the rest of the run",
+          "No real progression system within a run, so losing parts returns you to starting strength",
+          "Level layouts are basically empty space with random ship encounters, which gets tiring quickly",
+          "Pacing feels odd"
+        ],
+        "unique_points": [
+          "Building a ship out of parts taken from enemy ships is an unusual roguelike build mechanism",
+          "Design lesson: if power lives only in collectible parts, losing them with no fallback progression feels punishing"
+        ],
+        "quote": "losing Parts in this game feels terrible",
+        "comparisons": [],
+        "design_criteria": [
+          "Concept originality: the ship-building idea is the main draw",
+          "Run length: 45-minute runs are too long given the punishment of setbacks",
+          "Progression within a run: none, so losing parts resets your power",
+          "Risk vs reward: losing parts is a severe, hard-to-recover penalty",
+          "Level design: empty space with random ship encounters is tiring",
+          "Controls/pacing: no pause makes part collection stressful",
+          "Single-player fun: judged solo, where it did not hold up"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A spaceship-builder arcade roguelike (officially licensed re-imagining of the browser classic Captain Forever) where you blast randomly generated enemy ships, graft their parts onto your own, and push through the Solar System to beat King Kevin.",
+      "consensus_summary": "Critics at launch (June 2016) were warm: PC Gamer called it a stately, affectionate overhaul of the original with more structure and customization, and Rock Paper Shotgun was positive but noted the campaign can feel like a grind and suits short sessions. Steam players are Very Positive (about 80% of roughly 380 reviews), with the loudest praise for the chaotic build-as-you-fight loop and the art and music. Negative reviews cluster on the forced post-fight build timer, brutal late sectors where a stronger enemy wipes your hard-built ship, and lack of persistent progression or difficulty options. Recent Steam reviews (2025-2026) show the game is effectively static: long-time fans say it needs balancing, more content, even multiplayer, and the developer appears unlikely to add much. Not early access; a physical Collector's Edition also exists.",
+      "best_things": [
+        "Build-while-fighting ship construction feels improvisational and creative; every piece you attach changes movement, armor and firepower",
+        "Scavenging parts from randomly generated enemy ships keeps each encounter a new puzzle (PC Gamer: improvisational, gleeful and brutal; Retromation: action-FTL meets Legos)",
+        "Weapon variety (ScatterBlasters, MegaBoom rockets, RipSaw blades, lasers, a healing module) and unlockable Power Bulkheads give room to experiment",
+        "Bright 90s Saturday-morning-cartoon art style and sibling-rivalry framing (girl as Captain Forever vs little brother King Kevin) are charming",
+        "Mellow electropop soundtrack is singled out by reviewers and sold separately as an OST",
+        "Easy to pick up, strangely addictive, with a sandbox mode and Steam Workshop support for free-play ships"
+      ],
+      "worst_things": [
+        "Timed build phase after a fight: leftover parts vanish when the teleport timer ends, so you arrive at the next sector half built",
+        "Brutal difficulty spikes: a much stronger enemy can shred your ship in seconds, making effort feel pointless (reviewers describe one-tap deaths even with a shield)",
+        "Dying loses everything from the run, with no resource saving or meta progression to soften it",
+        "Combat reads as shallow: mostly orbiting an enemy with clunky controls; many weapons just get outranged by lasers",
+        "Enemy parts are always a tier above what you can build, so farming and scaling feels futile",
+        "Seen by fans of the original as more restrictive than the seamless Captain Forever; some say to buy the Trilogy or Reassembly instead",
+        "Reported as needing keyboard and mouse for best control",
+        "Builds feel pointless: after a long build, a random much stronger enemy can wreck the ship, so the creativity is rarely rewarded"
+      ],
+      "improvements": [
+        "Option to shorten, lengthen or disable the build timer",
+        "Let players store higher-tier parts or carry some resources between runs so the start is less punishing",
+        "Selectable difficulty or a balance pass on enemy tier jumps and one-shot deaths",
+        "More content and goals (quests, objectives) because killing ships and grabbing parts gets old by the time all characters are unlocked",
+        "Multiplayer, requested by a long-time player",
+        "Better controls and less obstructive dialogue"
+      ],
+      "unique_things": [
+        "Real-time modular ship building on the fly in the middle of a roguelike run, rather than menu-based upgrades",
+        "Licensed re-imagining of a cult indie classic by a different developer (Pixelsaurus with Future Crayon) than the original Farbs trilogy",
+        "Ten-sector trip across the Solar System with a sibling-rivalry story wrapper and cartoon tone",
+        "Teleport after killing the highest-tier enemy makes each sector a fight-then-scavenge-and-rebuild cycle",
+        "Steam Workshop and sandbox mode let you reuse constructed ships outside the campaign",
+        "Physical Collector's Edition on USB cartridge with manual, soundtrack CD, watch and stickers (reviewed by SLUG Magazine)"
+      ],
+      "tedious_or_disliked": [
+        "Rushing to attach parts before the timer expires, often with little time to build anything usable",
+        "Repeatedly restarting after losing a long run with nothing carried over",
+        "Fine-motor precision needed to attach parts while under fire (Common Sense Media notes this and later-level frustration)",
+        "Harvesting parts from the same kinds of enemies becomes repetitive over a long session (RPS: can feel like a grind, best in short bursts)",
+        "Devs' standard advice to find time-extension components is seen by some as not addressing the complaint"
+      ],
+      "divisive_points": [
+        "The build timer: some see it as the tension that defines the game, others call it the main flaw",
+        "Art and humor: praised as nostalgic and charming by some, criticized as plain immature by others",
+        "Remix vs the original trilogy: Remix is more structured and accessible, while purists prefer the seamless, slower original ship-building"
+      ],
+      "reception_notes": "Launched June 3, 2016 on Windows, Mac and Linux at $9.99 with quotes from PC Gamer, Rock Paper Shotgun and Retromation. Metacritic has only two critic reviews so no Metascore is shown; the user score is 8.0 from just 5 ratings. Steam Revenue Calculator estimates about $61.7k gross and about $18.2k net, and SteamSpy owner range is 50,000 to 100,000 (estimates, not audited). The negative reviews from 2024 to 2026 show the timer complaint is long-standing and unaddressed. No evidence of a major controversy or recent big patches. Steam data lists the release as 2016 even though the ranking lists 2015.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/298560.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/298560",
+          "what": "Steam store page: features, quoted critic blurbs, review summary"
+        },
+        {
+          "url": "https://www.metacritic.com/game/captain-forever-remix/",
+          "what": "Metacritic: no Metascore yet, user score 8.0 of 5 ratings, PC Gamer 80"
+        },
+        {
+          "url": "https://www.pcgamer.com/captain-forever-remix/",
+          "what": "PC Gamer review (quotes via Steam/Metacritic; page body not retrievable)"
+        },
+        {
+          "url": "https://www.slugmag.com/game-reviews/captain-forever-remix-collectors-edition/2/",
+          "what": "SLUG Magazine review of the Collector's Edition: art, soundtrack, physical contents"
+        },
+        {
+          "url": "https://www.commonsensemedia.org/game-reviews/captain-forever-remix",
+          "what": "Common Sense Media: 10 levels, pros/cons, frustrating later levels, fine motor demands"
+        },
+        {
+          "url": "https://steamcommunity.com/app/758930/discussions/0/1694920442946089036",
+          "what": "Steam discussion on Remix vs the Captain Forever Trilogy"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/298560/captain-forever-remix",
+          "what": "Revenue estimate (Boxleiter method)"
+        },
+        {
+          "url": "local steam_data.json",
+          "what": "Steam appid, SteamSpy owner range, tags, review counts"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic page: no Metascore (only 2 critic reviews, PC Gamer 80), user score 8.0 from 5 ratings - critic_scores confirmed unchanged. Removed unsupported '50-65+ hours' bullet (no playtime data in local evidence) and the dialogue-immature bullet (not seen in local reviews). Added one worst_things theme (ship destroyed by stronger enemy, recurring in reviews). Local review sample is small (9), so remaining bullets rely on cited external sources."
+    },
+    "his_anchor": null,
+    "his_pos": 5,
+    "his_row_n": 5,
+    "his_spoken": null,
+    "his_score": 10.0,
+    "his_top10_bonus": 0,
+    "players_score": 7.8,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 9.0,
+    "labels": [
+      "shooter"
+    ],
+    "primary_label": "shooter"
+  }
+}

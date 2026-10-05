@@ -1,0 +1,277 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dicey dungeons",
+    "name": "Dicey Dungeons",
+    "display_name": "Dicey Dungeons",
+    "appid": 861540,
+    "img": "img/861540.jpg",
+    "steam_url": "https://store.steampowered.com/app/861540/",
+    "website": "http://diceydungeons.com/",
+    "short_description": "Become a giant walking dice, explore dungeons and defy Lady Luck in this dice powered roguelike! Now featuring &quot;Reunion&quot;, a free DLC with six brand-new episodes!",
+    "developers": [
+      "Terry Cavanagh"
+    ],
+    "publishers": [
+      "Terry Cavanagh"
+    ],
+    "release_date": "Aug 13, 2019",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Battler",
+      "Deckbuilding",
+      "Rogue-lite",
+      "Indie",
+      "Rogue-like",
+      "Strategy",
+      "Turn-Based",
+      "Card Game",
+      "Mouse only"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 89.1,
+    "steam_total_reviews": 11892,
+    "metacritic": 80,
+    "metacritic_url": "https://www.metacritic.com/game/pc/dicey-dungeons?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.3,
+    "opencritic": 82,
+    "opencritic_url": "https://opencritic.com/game/8104/dicey-dungeons",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, 11,892 reviews)",
+        "score": "89.1% positive",
+        "url": "https://store.steampowered.com/app/861540/Dicey_Dungeons/"
+      },
+      {
+        "source": "Destructoid",
+        "score": "10/10",
+        "url": "https://opencritic.com/game/8104/dicey-dungeons/reviews"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "url": "https://opencritic.com/game/8104/dicey-dungeons/reviews"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "81/100",
+        "url": "https://www.pcgamer.com/au/dicey-dungeons-review"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7/10",
+        "url": "https://opencritic.com/game/8104/dicey-dungeons/reviews"
+      },
+      {
+        "source": "TheXboxHub (Reunion DLC)",
+        "score": "4.5/5",
+        "url": "https://www.thexboxhub.com/?p=127254"
+      }
+    ],
+    "vgi_units": 264000,
+    "vgi_revenue": 2700000,
+    "vgi_rating": 89.056,
+    "vgi_reviews": 11888,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dicey-dungeons",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "5,368,878.36",
+    "src_net": "1,583,819.12",
+    "src_url": "https://steam-revenue-calculator.com/app/861540/dicey-dungeons",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put this as a pretty high B tier",
+        "video_id": "zKosjx7EpKA",
+        "t": 4249,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=4249s",
+        "year_in_title": "2019",
+        "pos": 3,
+        "row_n": 13,
+        "row_score": 0.8049999999999999,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Dicey Dungeons is a dice-based deck-building roguelike, one of the first of its kind. He is impressed by the sheer content volume and by how differently each character plays, but the heavy RNG of dice rolls undermines the strategy for him. Long runs that end in unlucky rolls feel bad. He plans to return for occasional runs and places it in high B.",
+        "praise": [
+          "Each character plays drastically differently, with its own UI and rules, so it feels like a new game each time",
+          "Huge amount of content: many game modes, worlds and ongoing updates",
+          "Lots of strategy, and experienced players clearly do better than newcomers",
+          "Good runs feel satisfying",
+          "Could be a game he plays for a very long time given how much there is to do"
+        ],
+        "criticism": [
+          "Very RNG-heavy: dice rolls can be six times more impactful purely by chance",
+          "Enemy high rolls or perfect rolls can kill a good build and leave the player little recourse",
+          "Strategy is held back by the randomness",
+          "Few build additions such as passives or new weapons, so you mostly stick with the character's base gameplay",
+          "Runs are long, so losing to RNG is especially unfun"
+        ],
+        "unique_points": [
+          "Dice as the core mechanic of a deck-building roguelike, among the first to do so",
+          "Each character has unique rules and UI, functioning as several games in one",
+          "Design lesson: high dice variance is hard to design around"
+        ],
+        "quote": "having a run just lose to a lot of RNG is not super fun",
+        "comparisons": [
+          "Astria",
+          "Backpack Hero"
+        ],
+        "design_criteria": [
+          "RNG/randomness: dice variance too high and hurts strategy",
+          "Character diversity: each character feels like a different game",
+          "Content volume: many modes, worlds and updates",
+          "Build variety/synergies: little to add to a character during a run",
+          "Run length: long runs make RNG losses more painful",
+          "Strategy depth: present but held back by randomness"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A dice-driven roguelike deckbuilder by Terry Cavanagh in which you play a living die in Lady Luck's game show, fighting through dungeons with equipment you slot dice into.",
+      "consensus_summary": "Critics received it warmly (Metacritic 80, OpenCritic about 82 with roughly 88% recommending), and Steam sits at Very Positive (about 89% of 11.9k reviews). The praise centres on the six characters that each rewrite the rules, the puzzle-like turns, the art and Chipzel's soundtrack. The recurring complaint is luck: players on harder episodes feel the dice decide the outcome and that the enemy gets the exact rolls it needs. The Metacritic user score is only 7.3 (Mixed, 106 ratings), and the many negative Steam reviews cite short runs and little meta-progression or build variety. It is a finished, fully released game with free DLC (Halloween Special, then Reunion in July 2022) and ports to consoles and mobile.",
+      "best_things": [
+        "Each of the six characters (Warrior, Thief, Robot, Inventor, Witch, Jester) has its own rule set, so every character feels like a different game rather than a stat reskin",
+        "Every turn works like a small puzzle: you assign rolled dice to gear, and critics say losses usually felt traceable to your own choices (Destructoid's reviewer)",
+        "Charming art, funny game-show framing with Lady Luck, and a bouncy soundtrack",
+        "Chipzel's chiptune soundtrack is praised in critic and Steam reviews",
+        "Short runs suit play in bursts, and the game is easy to learn but hard to master",
+        "Large amount of content: per-character episodes with stacking handicap modes, plus the free Halloween Special and Reunion episodes",
+        "Difficulty options and a relaxed pace make it approachable; Steam reviewers report 100+ hours and replaying after finishing",
+        "No grindy meta-progression: some players count this as a strength, since skill and decisions are what improve"
+      ],
+      "worst_things": [
+        "RNG dominates at higher difficulty; many reviewers feel enemies roll exactly what they need while they fall one point short",
+        "Some characters and episodes (Robot, Thief, Witch episodes are named on Steam forums) are seen as near-impossible without a long lucky streak",
+        "Enemy statuses such as freeze, curse, blind and lock can wipe out a whole turn, and several reviews call freeze too strong",
+        "Armor is weak because it expires after your turn, and healing cards are said to be poor value",
+        "Low build variance: reviewers say most characters' runs feel alike, with few items that reshape a strategy",
+        "Gimmick rules of some episodes are not explained up front and have to be discovered by losing",
+        "Critics such as USgamer felt the game does not expand enough on its early hours, and some said runs get short and repetitive",
+        "Some find the $14.99 price high for what they consider a shallow roguelike",
+        "Top-upvoted negative review (42 votes) says lack of meta-progression makes the game feel hollow over time"
+      ],
+      "improvements": [
+        "Add meta-progression or longer-term structure, which is the top complaint from veteran deckbuilder players",
+        "Add more build options, events or relics, since upgrades are limited to learning a skill and upgrading it once",
+        "Give players more ways to mitigate RNG so bad rolls can still be turned around",
+        "Rebalance freeze, healing and armor, and episodes with punishing handicaps",
+        "Explain each character's special mechanic in-game instead of leaving it to trial and error",
+        "Community mods that cut enemy HP by about 25% and buff defences are cited as a fix for balance"
+      ],
+      "unique_things": [
+        "Dice are the core resource: you slot rolled dice into equipment with conditions (for example 'needs 4 or under' or 'needs an even number')",
+        "Each character is effectively its own rule set, for example the Witch's four slots with six spells and the Robot's cap on total dice value",
+        "Stealing enemy equipment is possible as the Thief",
+        "A rigged-game-show premise makes the unfair dice a deliberate theme",
+        "Structured as episodes per character with handicap-stacked replays rather than one open-ended run",
+        "Made by Terry Cavanagh of VVVVVV and Super Hexagon, with a soundtrack by Chipzel"
+      ],
+      "tedious_or_disliked": [
+        "Dying repeatedly to bad rolls on the same episode, with reports of ten losses in a row as Witch",
+        "Replays after the base difficulty force you to play under debuffs that feel like random punishment",
+        "Repetitive enemy attacks and sticking to the same strategy once you have seen all characters",
+        "Top-reviewed negative theme: after the first few characters runs feel repetitive, with the same enemy attacks and the same strategy (several upvoted reviews)",
+        "The 'Loud Bird' complaint: players feel the enemy's dice streaks are unfair, with enemies hitting 70%+ odds over and over"
+      ],
+      "divisive_points": [
+        "Skill versus luck: fans say you can manipulate dice and plan around variance, detractors say the game is about waiting to get lucky",
+        "Lack of meta-progression is praised by some and is the main reason others quit",
+        "Unfairness is thematic (a rigged game show) for some critics but feels cheap to some players",
+        "Whether the game suits veterans: some call it a great on-ramp for newcomers to roguelikes, others find it too simple"
+      ],
+      "reception_notes": "Released Aug 13, 2019 on PC (Steam, itch), then Switch and Xbox, with iOS/Android arriving alongside the free Reunion DLC on July 7, 2022. Launch reviews were strong, with OpenCritic placing it in roughly the 89th percentile. Halloween Special and Reunion added substantial free episodes, and Reunion reworked the identity of each character. Steam estimates: 200k-500k owners (SteamSpy) and about $5.4M gross / $1.6M net revenue (steam-revenue-calculator, an order-of-magnitude Boxleiter estimate, not audited). Recent Steam reviews show the same split as at launch: praise for content and charm, negatives about luck and lack of meta-progression. No major controversies or abandonment.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/861540.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app data: 89.1% positive, Metacritic 80, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dicey-dungeons/",
+          "what": "Metascore 80 from 16 critics, user score 7.3 from 106 ratings, review excerpts"
+        },
+        {
+          "url": "https://opencritic.com/game/8104/dicey-dungeons",
+          "what": "OpenCritic score about 82, 88% recommend, outlet scores"
+        },
+        {
+          "url": "https://www.pcgamer.com/au/dicey-dungeons-review",
+          "what": "PC Gamer review, 81/100 (via search snippet; page fetch returned no text)"
+        },
+        {
+          "url": "https://gamingtrend.com/reviews/of-dice-and-decks-dicey-dungeons-review/",
+          "what": "Gaming Trend review listed in search results (snippet only)"
+        },
+        {
+          "url": "https://gamingnexus.com/News/49572/Dicey-Dungeons-should-check-all-my-boxes2c-but-it-doesnt",
+          "what": "Critical take: unfair RNG and uneven difficulty despite appealing design"
+        },
+        {
+          "url": "https://steamcommunity.com/app/861540/discussions/0/3185654583883252126",
+          "what": "Steam forum thread on difficulty, RNG and hardest episodes, with mod suggestion"
+        },
+        {
+          "url": "https://www.thexboxhub.com/?p=127254",
+          "what": "Reunion DLC review (4.5/5) and content description"
+        },
+        {
+          "url": "https://www.nintendolife.com/news/2022/06/terry-cavanaghs-dicey-dungeons-rolls-out-huge-new-free-dlc-reunion-soon",
+          "what": "Reunion free DLC announcement and mobile launch"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/861540/dicey-dungeons",
+          "what": "Revenue estimate (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (80 critic/16 reviews, 7.3 user/106) and OpenCritic (82, 88% recommend): scores confirmed unchanged. Removed 5 bullets (giant cubic bear trivia, separate 'loud bird noise' item that misread the Loud Bird luck complaint, casual-play and play-every-character claims unsupported by reviews, redundant soundtrack bullet reworded). Corrected 4 (80-160+ hours -> 100+ hours per reviews, unverified 'about 5 hours Reunion' removed, art/soundtrack bullet, Loud Bird reframed as luck complaint). Added 3 (repetition after first characters, Loud Bird luck streaks, meta-progression hollow review)."
+    },
+    "his_anchor": null,
+    "his_pos": 3,
+    "his_row_n": 13,
+    "his_spoken": "said high",
+    "his_score": 80.5,
+    "his_top10_bonus": 0,
+    "players_score": 47.7,
+    "critics_score": 56.7,
+    "critics_avg": 81.0,
+    "overall": 64.3,
+    "labels": [
+      "luck_builder",
+      "deckbuilder",
+      "turn_based"
+    ],
+    "primary_label": "luck_builder"
+  }
+}

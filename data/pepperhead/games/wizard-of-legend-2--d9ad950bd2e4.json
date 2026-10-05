@@ -1,0 +1,276 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "wizard of legend 2",
+    "name": "Wizard of Legend 2",
+    "display_name": "Wizard of Legend 2",
+    "appid": 2193540,
+    "img": "img/2193540.jpg",
+    "steam_url": "https://store.steampowered.com/app/2193540/",
+    "website": "https://www.humblegames.com/games/wizardoflegend2/",
+    "short_description": "Face perilous magical trials in the fast-paced rogue-lite follow-up to the acclaimed original, featuring co-op and vibrant new 3D visuals. Master new Arcana and elements, experiment with spell combinations, and become the next Wizard of Legend!",
+    "developers": [
+      "Dead Mage"
+    ],
+    "publishers": [
+      "Balor Games"
+    ],
+    "release_date": "Jun 12, 2025",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Early Access",
+      "Action Roguelike",
+      "Online Co-Op",
+      "Dungeon Crawler",
+      "Hack and Slash",
+      "Rogue-like",
+      "Multiplayer",
+      "Fast-Paced",
+      "Magic",
+      "Isometric"
+    ],
+    "steam_review_desc": "Mixed",
+    "steam_positive_pct": 52.0,
+    "steam_total_reviews": 2578,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/wizard-of-legend-2/",
+    "metacritic_user": 5.2,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all time)",
+        "score": "Mixed, about 52-53% positive (1,340 positive / 1,238 negative in the dataset; Steam store page showed 53% from 1,972)",
+        "url": "https://store.steampowered.com/app/2193540/Wizard_of_Legend_2/"
+      },
+      {
+        "source": "Steam user reviews (recent)",
+        "score": "Mostly Negative, 36% positive from 11 recent reviews at time of page fetch",
+        "url": "https://store.steampowered.com/app/2193540/Wizard_of_Legend_2/"
+      },
+      {
+        "source": "BaziCenter (via Metacritic)",
+        "score": "100",
+        "url": "https://www.metacritic.com/game/wizard-of-legend-2/"
+      },
+      {
+        "source": "Try Hard Guides",
+        "score": "8/10 (80)",
+        "url": "https://tryhardguides.com/wizard-of-legend-2-review/"
+      },
+      {
+        "source": "KeenGamer",
+        "score": "6/10 (60)",
+        "url": "https://keengamer.com/articles/reviews/pc-reviews/wizard-of-legend-2-review/"
+      },
+      {
+        "source": "SteamSpy estimate",
+        "score": "50,000 to 100,000 owners",
+        "url": "https://steam-revenue-calculator.com/app/2193540/wizard-of-legend-2"
+      },
+      {
+        "source": "Steam Revenue Calculator estimate",
+        "score": "about $1.08M gross, about $318K net developer revenue (Boxleiter-style estimate, order of magnitude only)",
+        "url": "https://steam-revenue-calculator.com/app/2193540/wizard-of-legend-2"
+      }
+    ],
+    "vgi_units": 166000,
+    "vgi_revenue": 3100000,
+    "vgi_rating": 51.961,
+    "vgi_reviews": 2575,
+    "vgi_url": "https://app.sensortower.com/vgi/game/wizard-of-legend-2",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,079,202.96",
+    "src_net": "318,364.87",
+    "src_url": "https://steam-revenue-calculator.com/app/2193540/wizard-of-legend-2",
+    "final_tier": "C",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "I'm going to put it as currently a low C.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 12768,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=12768s",
+        "year_in_title": null,
+        "pos": 3,
+        "row_n": 3,
+        "row_score": 0.1783333333333333,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Wizard of Legend 2 is an early-access fast-paced hack-and-slash action roguelike where you play a wizard with a variety of elemental spells. It is a sequel, made by a different team, to a game he rated very highly. He is disappointed, feeling the new team missed what made the original special and leaned toward a Hades-like formula instead. Visuals, VFX and moment-to-moment gameplay are fine, but structure, pacing, tone, balance, clarity and meta-progression disappoint him. He places it at a low C for now, hoping updates improve it, though he doubts it will match the first game.",
+        "praise": [
+          "Visuals look pretty good to him, despite fan complaints about departing from the original style",
+          "VFX are good",
+          "Core gameplay feel is pretty good",
+          "Developers patched many of the specific issues from his earlier rant",
+          "The original Wizard of Legend is a fantastic hack-and-slash game he may rate even higher now"
+        ],
+        "criticism": [
+          "Elemental masters are reduced to mini bosses; the same biome every run with a random boss at the end, losing the original's randomized-biome hook",
+          "Pacing is much slower and enemies feel weaker/less interesting than the original's fast play",
+          "Voice-acted, overly serious characters constantly talk, making the game hard to take seriously",
+          "Unbalanced, inconsistent, unclear information, and buggy roguelike elements",
+          "Meta progression is not very interesting",
+          "Elementalist fights are less fun and interesting than the original's"
+        ],
+        "unique_points": [
+          "The original's twist: each biome was randomized based on the elemental master fought at the end, making elemental masters the core point of the game",
+          "Design lesson: a sequel that chases a more mainstream formula can lose the specific identity and speed that made the original special"
+        ],
+        "quote": "it feels like they missed the point of what made Wizard of Legend one a good game",
+        "comparisons": [
+          "Wizard of Legend 1",
+          "Hades",
+          "Darkest Dungeon 2"
+        ],
+        "design_criteria": [
+          "Identity/core hook: whether the sequel keeps the original's defining randomized-biome elemental structure",
+          "Pacing: fast and snappy versus slow and mainstream",
+          "Enemy design: enemies feel weaker than the original",
+          "Boss design: elemental master fights less fun and interesting",
+          "Meta-progression: not very interesting",
+          "Clarity and balance: unclear information, unbalanced, inconsistent behavior, bugs",
+          "Tone/narrative: heavy voice acting and serious tone undermine the charm",
+          "Visuals/VFX: good and acceptable despite differing from the original",
+          "Run variety: same biome every run reduces variety"
+        ],
+        "rerank_note": "Early-access re-evaluation: he rated the first game very highly previously and made a separate rant video on the sequel; current low C is provisional, pending updates."
+      }
+    ],
+    "community": {
+      "one_liner": "A 3D, up-to-4-player co-op action roguelite sequel to Wizard of Legend, built by a different studio (Dead Mage) in Unreal, where you mix elemental Arcana spells across runs through the Floating Lands.",
+      "consensus_summary": "Mixed on Steam (about 52-53% positive across roughly 2,000-2,600 reviews; recent reviews lean Mostly Negative). The moment-to-moment combat, spell variety and 4-player co-op are the consistent bright spots, but original-game fans see a stripped-down, less polished successor with far fewer spells and relics, plus buggy online co-op. Critic coverage is thin: Metacritic has only 3 PC reviews (scores 100, 80, 60) and no Metascore yet, and user score there is 5.2/10 from 15 ratings. It left Early Access (launched Oct 2024) and hit 1.0 on June 12, 2025, but many players say updates stopped around July 2025 and call the game abandoned, which heavily colours recent sentiment. The steady refrain is that it is fun with friends on a discount, while solo players are pointed back to the original.",
+      "best_things": [
+        "Fast, responsive combat and character control; several reviewers say it feels smooth and natural, with i-frame dashing",
+        "Large mix-and-match Arcana system across six elements (fire, water, earth, lightning, air, chaos) that supports experimental builds",
+        "4-player online co-op plus local split screen; friends describe it as chaotic fun and the best way to play it",
+        "Good-looking stylised 3D visuals, enemy variety and biomes that do not overstay their welcome",
+        "Bosses are fun and have combo-style attack sets that become manageable once learned"
+      ],
+      "worst_things": [
+        "Content cut versus the original: one detailed reviewer cites about 71 spells vs about 204 and about 145 relics vs about 315, with only 10 relic slots; many others note fewer Arcana and relics generally",
+        "Online co-op bugs and netcode: desyncs, softlocks, crashes that scale with player count, and no ability to reconnect to a run",
+        "Campaign is short (reports of about 4-9 hours to beat, one claiming a very fast clear) and only a handful of biomes, so replay feels repetitive",
+        "Dialogue and voice acting criticised as excessive, badly directed and miscast, with the player character lacking personality",
+        "Boss and enemy telegraphs often judged too short or unclear (few audio cues), plus knockback and fall damage frustrations",
+        "Feels soulless and less snappy than the original: several top reviews (including a 1000-hour original player) call it sluggish, derivative of Hades, and stripped of the 2D style's charm",
+        "Balance problems: lightning and some builds are far stronger than others, while many upgraded Arcana or trinkets feel weak or useless",
+        "$24.99 price judged too high for the content and stability by many",
+        "Abandoned after 1.0: the most-upvoted recent negative reviews say updates and developer communication stopped, leaving bugs and missing content unresolved"
+      ],
+      "improvements": [
+        "Restore cut content: more Arcana, relics, cloaks and possibly more relic slots, plus a gems-to-gold style conversion some miss from the original",
+        "Fix multiplayer netcode, add reconnect/rejoin and pause options, and resolve softlocks and crashes",
+        "Add more biomes, enemy variety and run variety to lengthen the campaign and reduce repetition",
+        "Better tutorials and in-game explanations of spells and mechanics (flagged by reviewers as unclear)",
+        "Co-op quality-of-life: option to reduce ally skill transparency/clutter, shared loot from events, and a possible return of a PVP mode",
+        "Clearer telegraphs and audio cues for attacks, and ability to bank the ultimate; fewer forced dialogue interruptions",
+        "Communicate a roadmap and ship the promised updates, since silence from the developer is itself a top complaint"
+      ],
+      "unique_things": [
+        "Full 3D take on the Wizard of Legend formula with 4-player online co-op (the original was 2-player)",
+        "Arcana system where each spell has variants/enhancements and elemental mixing drives build identity",
+        "Dash gives invincibility and enemy contact does not hurt you, changing the feel from the original's harsher rules",
+        "Hub with a large cast of talkative NPCs and a Hades-like story framing around the Floating Lands",
+        "Spell-combo focus combined with local split-screen and Remote Play Together options, uncommon among action roguelites"
+      ],
+      "tedious_or_disliked": [
+        "Unlock grind: basic starting equipment and badges are locked behind repeated runs, which some find annoying compared with the first game",
+        "Progression feels unrewarding and weakly meaningful; starting strength barely grows between runs",
+        "Runs repeat the same enemy order and biome sequence, so variety fades quickly",
+        "Constant NPC chatter and lengthy, poorly voiced dialogue during hub and runs",
+        "Multiplayer clutter making it hard to read attacks, plus one-person-only event rewards that force loot negotiation"
+      ],
+      "divisive_points": [
+        "Difficulty: some say it is easier than the original (easy to clear, dash immunity), others find bosses overtuned and punishing",
+        "Whether it should be judged as a standalone game or as a sequel; newcomers often rate it fairly while original fans call it a step backward",
+        "Solo vs co-op value: solo is called fine by some and not recommended by others, while co-op is the usual recommendation",
+        "Art direction: seen by some as attractive and cartoonish, by others as generic and murky versus the original's clean 2D look"
+      ],
+      "reception_notes": "Early Access began October 3, 2024 and 1.0 shipped June 12, 2025 at $24.99 on PC (Steam; Metacritic also lists Xbox Series X, PS5 and Switch, confirmed by Metacritic's platform listing; the Steam page shows Windows only). Developer is Dead Mage, a different team from the original's Contingent99; publisher is listed as Balor Games. Launch reception was poor-to-mixed, driven by missing content, bugs and comparisons to the original. Players report the last meaningful update was around July 2025 and several reviews from late 2025 through 2026 call it abandoned, with one reviewer claiming the publisher's restructuring gutted the team (unverified, from a user review). Recent Steam reviews are negative mostly about abandonment and unresolved bugs, while a minority still recommend it cheaply for co-op. The Steam store page shows Windows only. Note: web search quota was exhausted during this research, so no Reddit threads or major-outlet articles beyond the three Metacritic-listed reviews were read; OpenCritic data could not be located.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2193540.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, developer, release date, review counts, SteamSpy tags and owner estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2193540/Wizard_of_Legend_2/",
+          "what": "Steam store page: early access Oct 2024, 1.0 June 2025, features, review summary"
+        },
+        {
+          "url": "https://www.metacritic.com/game/wizard-of-legend-2/",
+          "what": "Metacritic: no Metascore yet, 3 critic reviews (100/80/60), user score 5.2 from 15 ratings"
+        },
+        {
+          "url": "https://tryhardguides.com/wizard-of-legend-2-review/",
+          "what": "Try Hard Guides 8/10 review: visuals, arcana variety, punishing bosses, lack of tutorials"
+        },
+        {
+          "url": "https://keengamer.com/articles/reviews/pc-reviews/wizard-of-legend-2-review/",
+          "what": "KeenGamer 6/10 review: fun spells but little to differentiate from other roguelikes"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2193540/wizard-of-legend-2",
+          "what": "Estimated revenue (about $1.08M gross, $318K net) using Boxleiter method"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizard_of_Legend",
+          "what": "Confirms Dead Mage developed the sequel, release June 12, 2025, announced May 2023"
+        },
+        {
+          "url": "https://www.humblegames.com/games/wizardoflegend2/",
+          "what": "Official game page listed in Steam data (not fetched)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore, 3 critic reviews (100/80/60), user 5.2 from 15 ratings; matches, no change. OpenCritic left null. Removed 2 generic best_things (learning curve, controller support) and 1 unsupported tedious item (achievement grinding). Rewrote the Hades-derivative worst_thing to reflect the top-voted 'soulless/sluggish' theme. Added worst_thing on abandonment after 1.0 (recurring in top negative reviews). Clarified console platform note."
+    },
+    "his_anchor": null,
+    "his_pos": 3,
+    "his_row_n": 3,
+    "his_spoken": "said low",
+    "his_score": 17.8,
+    "his_top10_bonus": 0,
+    "players_score": 0.8,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 10.4,
+    "labels": [
+      "action",
+      "coop",
+      "hades_like"
+    ],
+    "primary_label": "action"
+  }
+}

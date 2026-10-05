@@ -1,0 +1,268 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "streets of rogue",
+    "name": "Streets of Rogue",
+    "display_name": "Streets of Rogue",
+    "appid": 512900,
+    "img": "img/512900.jpg",
+    "steam_url": "https://store.steampowered.com/app/512900/",
+    "website": "http://streetsofrogue.com/",
+    "short_description": "Fight, sneak, and hack your way through randomly generated cities. It's like Nuclear Throne meets Deus Ex, mixed with the anarchy of GTA. Rogue-lite meets immersive sim, and goes completely insane.",
+    "developers": [
+      "Matt Dabrowski"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "release_date": "Jul 12, 2019",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rogue-lite",
+      "Action Roguelike",
+      "Pixel Graphics",
+      "Multiplayer",
+      "RPG",
+      "Rogue-like",
+      "Indie",
+      "Action",
+      "Co-op",
+      "Adventure"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 96.0,
+    "steam_total_reviews": 23108,
+    "metacritic": 82,
+    "metacritic_url": "https://www.metacritic.com/game/streets-of-rogue/",
+    "metacritic_user": 8.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic (Nintendo Switch) Metascore",
+        "score": "75 (4 reviews)",
+        "url": "https://www.metacritic.com/game/streets-of-rogue/critic-reviews/?platform=nintendo-switch"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "84/100",
+        "url": "https://en.wikipedia.org/wiki/Streets_of_Rogue"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "url": "https://en.wikipedia.org/wiki/Streets_of_Rogue"
+      },
+      {
+        "source": "Vandal (Steam page excerpt)",
+        "score": "8/10",
+        "url": "https://store.steampowered.com/app/512900/Streets_of_Rogue/"
+      },
+      {
+        "source": "Jeuxvideo.com",
+        "score": "17.5/20",
+        "url": "https://en.wikipedia.org/wiki/Streets_of_Rogue"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Overwhelmingly Positive, 96% of 23,108",
+        "url": "https://store.steampowered.com/app/512900/Streets_of_Rogue/"
+      },
+      {
+        "source": "Metacritic (PC / PS4)",
+        "score": "no Metascore disclosed (5 and 3 critic reviews)",
+        "url": "https://www.metacritic.com/game/streets-of-rogue/"
+      }
+    ],
+    "vgi_units": 529000,
+    "vgi_revenue": 6200000,
+    "vgi_rating": 96.034,
+    "vgi_reviews": 23098,
+    "vgi_url": "https://app.sensortower.com/vgi/game/streets-of-rogue",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "3,262,866.39",
+    "src_net": "962,545.59",
+    "src_url": "https://steam-revenue-calculator.com/app/512900/streets-of-rogue",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'll put it like as a mid eight here (ASR for \"mid B\")",
+        "video_id": "5k_-k4X90ao",
+        "t": 9677,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=9677s",
+        "year_in_title": "2017",
+        "pos": 14,
+        "row_n": 18,
+        "row_score": 0.3055555555555556,
+        "spoken": "said solid/mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Streets of Rogue (2017) is a unique roguelike where you pick from many characters and are dropped into small village-like levels full of mini quests and missions needed to reach the next area. He says each character changes play so drastically that each feels like its own game. The levels themselves are fairly repetitive and not very dense, and he worries that once every character is mastered it may get old. With about 15 hours played, he enjoys it a lot and places it around a mid B (transcript reads 'mid eight', likely 'mid B').",
+        "praise": [
+          "Very unique, interesting gameplay",
+          "Huge roster of characters",
+          "Each character drastically changes how you play, like a different game",
+          "Lots of random events and mini quests per level",
+          "High replayability across characters"
+        ],
+        "criticism": [
+          "Random levels are not very dense",
+          "Levels are fairly repetitive",
+          "May get tiresome after finishing the game repeatedly with every character"
+        ],
+        "unique_points": [
+          "Character variety carries the game and masks repetitive level design",
+          "Small village-style areas with side missions required to progress"
+        ],
+        "quote": "every character is its own game almost",
+        "comparisons": [],
+        "design_criteria": [
+          "Character diversity: drastically different playstyles per character",
+          "Level design: random but sparse and repetitive",
+          "Replayability: many characters keep it fresh until all are mastered",
+          "Mission/quest structure: mini quests and required missions per area"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A top-down, procedurally generated action roguelite/immersive-sim hybrid by Matt Dabrowski (published by tinyBuild) where you pick from 20+ wildly different character classes and complete city-block missions by fighting, sneaking, hacking, bribing or causing chaos.",
+      "consensus_summary": "Streets of Rogue is a player-beloved cult hit: Steam shows 'Overwhelmingly Positive' at about 96% of roughly 23,100 reviews, with sandbox freedom, character variety and co-op chaos cited over and over. Critics were also favourable but the critic sample is small (Metacritic lists 82 on Xbox One from 5 reviews and 75 on Switch from 4; PC Gamer gave 84). The game spent roughly two years in Early Access from 2017 and reached 1.0 on 12 July 2019 on PC, then Switch, PS4 and Xbox One. Criticism clusters around clunky melee and gun aim, RNG and unfair late-floor modifiers, weak build synergy compared with deeper roguelites, and a solo experience that some find repetitive. A sequel, Streets of Rogue 2, is still listed as 'coming soon' on Steam with no release date, and much of the recent review traffic is fans waiting for it.",
+      "best_things": [
+        "Huge sandbox freedom: every mission has many solutions (stealth, hacking, bribery, violence, distraction, using gang rivalries) and the game lets you pick your own approach",
+        "20+ character classes that change how the game plays (cop gets XP for arrests, zombie turns kills into zombies, shapeshifter possesses NPCs, gorilla, scientist, politician, etc.), driving replayability",
+        "Emergent chaos from interacting systems: rival gangs, scientists vs gorillas, explosions, fridges and generators as weapons, NPCs reacting to each other and to you",
+        "Excellent co-op (local and online up to 4 players); widely described as better with friends",
+        "Humour and tone: absurd gags and parody factions are frequently called out by reviewers and players",
+        "Strong long-term content: big quests, mutators, DLC characters, Steam Workshop support, sandbox/custom levels and characters (one reviewer logged thousands of hours)",
+        "Responsive developer and unlocks earned in play rather than paywalled (Steam and Metacritic user reviews)",
+        "Music praised as fitting, though some want more tracks"
+      ],
+      "worst_things": [
+        "Clunky combat: melee described as flailing, gun shots sometimes lock onto unintended targets, and knockback when shot from several directions can be deadly",
+        "RNG-driven deaths: bad trait offers, unlucky items or a random NPC fight can end multi-hour runs",
+        "Late-floor modifiers (falling bombs, spreading goo, everyone armed with rocket launchers) are seen by some as unfair rather than fun",
+        "Heavy menuing to interact with things, and stealth and combat feel stiff to some players",
+        "Limited build depth/synergy compared with Gungeon-style roguelites, per a co-op reviewer",
+        "Technical gripes: Switch version lag (Metacritic user), Steam Deck unplayable per top negative review (controller inputs not recognised, sub-20 fps docked), occasional save-data loss and online multiplayer breakage reported in negative Steam reviews",
+        "Thin narrative; one player wanted story between levels and critics noted an abrupt, anticlimactic ending (DarkStation)"
+      ],
+      "improvements": [
+        "Tighter melee and aimed-gun handling, plus less knockback chaos",
+        "More build variety and stronger trait/item synergies so runs feel less like the same pool of offers",
+        "Better balance on later floors, with fewer arbitrary run-killers and unavoidable modifiers",
+        "Fixes and support for Steam Deck, controllers and online multiplayer stability",
+        "More side objectives and less downtime in co-op when one player finishes early; a cleaner split-screen UI with four players",
+        "More narrative or structure around missions and a more satisfying ending"
+      ],
+      "unique_things": [
+        "Roguelite structure (procedural floors, permadeath, unlocks) fused with immersive-sim style problem solving, often pitched as Nuclear Throne meets Deus Ex with GTA anarchy",
+        "Class-specific playstyles, objectives and roleplay hooks, so the 'who am I and why am I here' feel changes each run",
+        "Living simulated city where factions and NPCs fight each other independent of the player",
+        "Arcade-GTA-like top-down view with procedural city blocks, with a custom level, character and sandbox toolset",
+        "Drop-in local and online co-op and PvP in a game that otherwise feels like a solo sandbox"
+      ],
+      "tedious_or_disliked": [
+        "Waiting for useful traits to appear; some players feel the same weak offers recur",
+        "Long floors, especially in co-op, where finished players idle waiting for teammates",
+        "Repetition after the first dozen hours for players who don't chase new characters or big quests",
+        "Menu-heavy interaction and the death-count tracker (some find it demoralising)",
+        "Humour and writing that some find childish or annoying"
+      ],
+      "divisive_points": [
+        "Chaos vs fairness: fans love systems going haywire, detractors feel random NPC violence and modifiers make runs feel unfair",
+        "Best with friends vs solo: co-op is widely loved while some solo reviewers find it repetitive or shallow (mixed Switch critic score of 60)",
+        "Roguelite depth: many praise replayability via characters, others say build variety is thin",
+        "Sequel direction: Streets of Rogue 2 is more open-world, and some who tried its playtest felt it was going in a different direction"
+      ],
+      "reception_notes": "Metacritic figures are per platform: the headline 82 is the Xbox One Metascore from 5 critic reviews (Generacion Xbox 88; XboxAddict, DarkStation, TheXboxHub and GameSpew 80), user score 8.3 from 30 ratings; the Switch Metascore is 75 from 4 reviews. There is no PC Metascore on Steam's page. OpenCritic score could not be retrieved (web search budget was exhausted and the OpenCritic fetch returned the wrong game or no data), so it is left null. Wikipedia says the game entered Early Access in 2017 (Dabrowski began development in 2014, moving from Construct 2 to Unity) and released 1.0 on 12 July 2019. Sales: steam-revenue-calculator estimates about $3.26M gross / $0.96M net to the developer on Steam, and SteamSpy estimates 1-2M owners; these are rough Boxleiter-style estimates, not audited. Steam price is $19.99 and there is a soundtrack, a making-of and a character pack. Platform notes: Switch performance complaints, Steam Deck/controller issues per Steam reviews. Streets of Rogue 2 announced in 2020, still 'coming soon' with no date. Verification: Metacritic page re-fetched; Xbox One 82 (5 reviews), Switch 75 (4), PC and PS4 have no disclosed Metascore (5 and 3 reviews); user 8.3 from 30 ratings. The headline 82 is Xbox One only.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/512900.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file) used for community praise and complaints"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: 96% positive of 23,108 reviews, tags, price, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/streets-of-rogue/",
+          "what": "Metacritic Xbox One page: Metascore 82 from 5 reviews, user score 8.3, outlet summaries"
+        },
+        {
+          "url": "https://www.metacritic.com/game/streets-of-rogue/critic-reviews/?platform=nintendo-switch",
+          "what": "Metacritic Switch critic page: 75 from 4 reviews; co-op praise, solo repetitiveness"
+        },
+        {
+          "url": "https://www.metacritic.com/game/streets-of-rogue/user-reviews/?platform=xbox-one",
+          "what": "Metacritic user reviews: replayability, co-op, Switch lag, save limitations, chaotic random events"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Streets_of_Rogue",
+          "what": "Development history, Early Access 2017 to 1.0 July 2019, platforms, PC Gamer 84, Nintendo Life 8/10, sequel"
+        },
+        {
+          "url": "https://store.steampowered.com/app/512900/Streets_of_Rogue/",
+          "what": "Steam store page: tags, DLC, Vandal 8/10, RPS and Nintendo Life excerpts, co-op features"
+        },
+        {
+          "url": "https://steamcommunity.com/app/512900/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Top-rated Steam community reviews: emergent play, developer responsiveness, split-screen clutter, limited narrative"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/512900/streets-of-rogue",
+          "what": "Estimated gross revenue $3.26M and net $0.96M (Boxleiter-style estimate)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2165810/Streets_of_Rogue_2/",
+          "what": "Streets of Rogue 2 still 'coming soon', no release date, open-world description"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: scores confirmed (Xbox 82, Switch 75, user 8.3); added PC/PS4 no-score note and clarified 82 is Xbox-only. Sharpened Steam Deck bullet with the fps detail from top negative reviews. Checked bullets against top Steam reviews (18 pos/18 neg): themes consistent, no bullets removed. OpenCritic left null (unretrieved)."
+    },
+    "his_anchor": null,
+    "his_pos": 14,
+    "his_row_n": 18,
+    "his_spoken": "said solid/mid",
+    "his_score": 30.6,
+    "his_top10_bonus": 0,
+    "players_score": 87.1,
+    "critics_score": 62.2,
+    "critics_avg": 82.0,
+    "overall": 56.7,
+    "labels": [
+      "action",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

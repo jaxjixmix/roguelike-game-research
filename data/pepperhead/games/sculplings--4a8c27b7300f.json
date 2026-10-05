@@ -1,0 +1,244 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "sculplings",
+    "name": "Sculplings",
+    "display_name": "Sculplings",
+    "appid": 3062680,
+    "img": "img/3062680.jpg",
+    "steam_url": "https://store.steampowered.com/app/3062680/",
+    "website": "https://www.sculplingsgame.com/",
+    "short_description": "A creature-collecting roguelike where every monster is sculpted in real clay and brought to life! Collect and battle a random assortment of hand-sculpted monsters in order to become the #1 Sculpling Champion!",
+    "developers": [
+      "Conor Garity",
+      "Liam Kerrigan"
+    ],
+    "publishers": [
+      "Conor Garity"
+    ],
+    "release_date": "Mar 17, 2026",
+    "coming_soon": false,
+    "price": "$10.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-like",
+      "Turn-Based Strategy",
+      "Rogue-lite",
+      "3D",
+      "Colorful",
+      "Hand-drawn",
+      "Stylized",
+      "Fantasy",
+      "Perma Death"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 99.5,
+    "steam_total_reviews": 192,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/sculplings/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 99.5% (191 positive / 1 negative of 192)",
+        "url": "https://store.steampowered.com/app/3062680/Sculplings/"
+      }
+    ],
+    "vgi_units": 1244,
+    "vgi_revenue": 9100,
+    "vgi_rating": 99.479,
+    "vgi_reviews": 192,
+    "vgi_url": "https://app.sensortower.com/vgi/game/sculplings",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "0.00",
+    "src_net": "0.00",
+    "src_url": "https://steam-revenue-calculator.com/app/3062680/sculplings",
+    "final_tier": "A",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I am putting this as an A tier because it's just so unique",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 8369,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=8369s",
+        "year_in_title": null,
+        "pos": 8,
+        "row_n": 9,
+        "row_score": 0.16666666666666663,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Sculplings is a turn-based, Pokemon-style roguelike where you field a team of four creatures, each with four attacks and a passive, and counter elemental types. Its hook is that every asset is physically hand-sculpted by a single developer. He stresses that the gimmick alone would not be enough, but the game underneath is solid and truly adapted to a run-based format. He finds it very funny and content-rich, though he tires of Pokemon-style gameplay himself. He places it in A tier for its uniqueness and the sheer amount of work behind it.",
+        "praise": [
+          "Hand-sculpted-in-real-life art by one person is unique and impressive",
+          "Pokemon formula reworked for roguelike: faster progression, quick evolutions, many abilities and items",
+          "Surprising amount of content; each Elite Four is fought one at a time across a run, plus a fifth final boss",
+          "Humor, NPC writing, attack and creature names are some of the funniest he has seen in a roguelike",
+          "Meta-progression is unlocks and cosmetics rather than raw power, and handmade cosmetics are motivating",
+          "Joy of discovering creatures, items, moves, jokes and evolutions"
+        ],
+        "criticism": [
+          "Pokemon-style gameplay gets repetitive and tiring for him, so he has not finished it",
+          "Runs are pretty hard and require understanding the systems",
+          "Discovery value fades once you have seen all the sculplings, leaving just gameplay and humor",
+          "Type system is a bit all over the place (food, spooky, etc.)"
+        ],
+        "unique_points": [
+          "Every creature and cosmetic is actually sculpted by hand in real life by a solo developer",
+          "Turns the Pokemon Elite Four structure into repeated roguelike run goals",
+          "Discovery of handmade creatures is itself a core reward loop"
+        ],
+        "quote": "I am putting this as an A tier because it's just so unique",
+        "comparisons": [
+          "Pokemon"
+        ],
+        "design_criteria": [
+          "Uniqueness/originality: hand-sculpted art is the standout hook",
+          "Genre adaptation: Pokemon formula reshaped for roguelike pacing",
+          "Content volume: lots to discover and unlock",
+          "Humor and vibe: writing and naming are a major strength",
+          "Meta-progression: cosmetics and unlocks rather than power",
+          "Difficulty: runs are hard and need system knowledge",
+          "Replay/discovery: value drops once everything is seen",
+          "Team building: four creatures with four attacks and a passive, elemental counters"
+        ],
+        "rerank_note": "Previously featured in his video on five little-known interesting games; this is a re-feature, not a tier move."
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based creature-collecting roguelike where every monster, item and environment is a real clay sculpture that was scanned into the game; you catch a team each run and beat the Top 5 ranked trainers to become champion.",
+      "consensus_summary": "Sculplings is a small, solo-dev-plus-one indie (Conor Garity and Liam Kerrigan) that left Early Access (launched March 4, 2025) for a 1.0 on March 17, 2026. It holds Very Positive on Steam, about 191 positive vs 1 negative of 192 reviews (99.5%) at the time of the data pull, and players call it a charming, funny Pokemon-meets-Slay-the-Spire hybrid with no grind. The few reservations are polish, bugs, balance spikes and a shortish content pool. There is no Metacritic or OpenCritic critic coverage yet (the Metacritic page exists but has zero critic and zero user reviews), so reception is entirely player-driven. The developer is active, shipped a run of 1.0.x fixes and a 1.1.0 content patch on April 28, then said updates will stay small because of burnout; an unknown number of reviewers also mention being friends or community members of the dev, so read the near-perfect score with some salt.",
+      "best_things": [
+        "Hand-sculpted clay art is the headline: creatures and even scenery with faces are real sculptures, giving the game a distinct identity that players say avoids the Temu-Pokemon look",
+        "Humor and writing land well: silly creature names, on-the-nose jokes, a few swears, an edgy rival and cliche trainers played for laughs",
+        "No grinding: each run you pick 1 of 3 starters, catch up to 4 creatures, collect items/pins and adapt, which players say removes the usual monster-tamer XP grind",
+        "Roguelite structure gives real build variety and strong 'one more run' pull; some players report ways to break the game wide open with scaling attacks, though these are not mandatory",
+        "Buffs and debuffs persisting through switches, plus a solid type chart and clean UI, make the simple turn-based combat feel more strategic than expected",
+        "Meta-progression is mostly new options (pin slots, unlocked items, cosmetics, upgraded boss passives) rather than raw power",
+        "Cheap at $10.99, runs well on Steam Deck in reviewers' reports, and the dev engages with the community",
+        "Handmade, no-AI-art production is a recurring selling point for reviewers"
+      ],
+      "worst_things": [
+        "Lack of polish for a post-Early-Access release: settings not persisting, visual oddities, typos, ghost inventory slots, and boss/miniboss AI sometimes wasting a turn",
+        "Bugs on the Steam forum: the Tank achievement and Pudduo passive misfiring, pins not working, a swap bug, revive behavior, Stoompy issues, and cloud backup/save problems",
+        "Boss mechanics are not telegraphed, so you can lose a run learning a gimmick the hard way",
+        "Occasional balance spikes such as an enemy move that instantly kills a creature and can be used repeatedly",
+        "Content is on the short side with a limited creature and item pool compared to established monster-tamers",
+        "Windows only (no Mac or Linux build); saves live in an obscure LocalLow folder and cloud sync has had problems",
+        "Not deep by the standards of the genre, per some otherwise positive reviewers"
+      ],
+      "improvements": [
+        "Proper controller support (the top recurring request; the dev said it is nearly complete)",
+        "Game speed or faster animation/text options, since battle animations and XP gain feel slow on long sessions",
+        "Item bloat management: chests have no reroll and finding wanted items gets harder as unlocks accumulate (enemy-drop rerolls for coins were since added)",
+        "More content: new creatures (a frog with a tongue is requested), legendaries, and paid DLC that some fans say they would buy",
+        "Better save and quit feedback, persistent settings, working cloud saves, and an unlock-requirement menu for pins and emblems",
+        "Ultrawide and GeForce Now compatibility were raised on the forum"
+      ],
+      "unique_things": [
+        "Every monster, item and environment was physically sculpted in clay (300+ sculptures per the official site) and scanned into the game",
+        "Roguelike run structure applied to Pokemon-style catching: a fresh team each run, pick 1 of 3 starters, randomized paths through 5 environments",
+        "100+ creatures, 30+ passive Pins and 15+ bosses, with Top 5 rank trainers each having unique mechanics",
+        "Stat buffs and debuffs persist across switches, which is unusual for the genre",
+        "Shiny variants and evolution guessing game, plus cosmetic collectibles, in a roguelite wrapper with a cheeky adult-ish humor tone"
+      ],
+      "tedious_or_disliked": [
+        "Default-speed animations, text boxes and post-fight XP gain linger too long, which would wear over many runs",
+        "Learning boss gimmicks by dying to them with no foreshadowing",
+        "Hunting for the item you want among a bloated unlock pool with no chest reroll",
+        "Minor jank and bugs interrupting flow, plus some mis-tracking achievements",
+        "Repeating runs is required to see the story, so the run count needed to finish can feel long to some, even though there is no traditional grind",
+        "The game reportedly pushes players to leave a Steam review (the sole negative review says it 'kinda forces you to make a review'), which feels naggy and may also inflate the near-perfect score"
+      ],
+      "divisive_points": [
+        "Depth: some praise 'decent depth and many viable builds', others say it is not the deepest game and feels like a vibe-out experience",
+        "Humor: many love the on-the-nose silly writing, while one reviewer notes the swearing and adult themes make it unsuitable for young kids despite the cute visuals",
+        "Balance: infinite-scaling attacks are called the strongest option by some, though others say the roguelike balance is well tuned",
+        "Polish: several reviewers call the bugs forgivable at the price, others say they would suggest waiting"
+      ],
+      "reception_notes": "Early Access launched March 4, 2025 and 1.0 shipped March 17, 2026, with reviews from Early Access playtests still on the page (some reviewers logged it months before 1.0). Post-launch patches 1.0.1 to 1.0.4 fixed softlocks, achievements, an infinite reroll exploit with the rabbit foot pin, music sliders and broken moves like Bloom and Hive Mind; 1.1.0 (April 28) added the capturable plant-type Stoompy, fixed a swap bug and rebalanced XP and evolution stats. The dev later announced lighter updates due to burnout, focusing on small additions and bug fixes and not big features like legendaries, with controller support nearly done. Steam-based ownership trackers show owners of 0 to 20,000 and a revenue calculator page reported $0 (an unreliable placeholder); with 192 reviews a rough Boxleiter-style guess would be single-digit thousands of copies, not a sourced figure. Windows only, priced $10.99.",
+      "sources": [
+        {
+          "url": "https://store.steampowered.com/app/3062680/Sculplings/",
+          "what": "Steam store page: description, Very Positive rating, review counts, release info"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3062680.json",
+          "what": "Local file of top helpful English Steam reviews (positive and one negative) read for player sentiment"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 3062680, developers, release date, review counts, SteamSpy owner range"
+        },
+        {
+          "url": "https://www.sculplingsgame.com/",
+          "what": "Official site: 100+ monsters, 30+ pins, 15+ bosses, 300+ sculptures, Early Access date"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3062680/allnews/",
+          "what": "Patch notes 1.0.1 to 1.1.0 and the developer's plans and burnout note"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3062680/discussions/",
+          "what": "Steam forum thread titles: bugs, controller support, cloud backup, difficulty questions"
+        },
+        {
+          "url": "https://www.metacritic.com/game/sculplings/",
+          "what": "Metacritic page exists but has no critic or user reviews yet"
+        },
+        {
+          "url": "https://opencritic.com/search?q=sculplings",
+          "what": "OpenCritic search: no entry found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3062680/sculplings",
+          "what": "Revenue estimate page returning $0 placeholder (not credible)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic page: no critic score, user score 'tbd' (needs 4 ratings); critic_scores nulls confirmed correct. Steam counts match local data (191/1 of 192). Existing bullets are consistent with the top-voted reviews (clay art, humor, no grind, bugs/polish, shallow depth, dev-friend reviews). Added 1 tedious theme: review-prompt nag from the only negative review. No bullets removed."
+    },
+    "his_anchor": null,
+    "his_pos": 8,
+    "his_row_n": 9,
+    "his_spoken": null,
+    "his_score": 16.7,
+    "his_top10_bonus": 0,
+    "players_score": 95.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 51.2,
+    "labels": [
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "turn_based"
+  }
+}

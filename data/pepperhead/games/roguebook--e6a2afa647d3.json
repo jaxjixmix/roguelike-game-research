@@ -1,0 +1,252 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "roguebook",
+    "name": "Roguebook",
+    "display_name": "Roguebook",
+    "appid": 1076200,
+    "img": "img/1076200.jpg",
+    "steam_url": "https://store.steampowered.com/app/1076200/",
+    "website": "https://roguebook.net/",
+    "short_description": "Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!",
+    "developers": [
+      "Abrakam Entertainment SA"
+    ],
+    "publishers": [
+      "Nacon"
+    ],
+    "release_date": "Jun 17, 2021",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "RPG",
+      "Indie",
+      "Card Game",
+      "Deckbuilding",
+      "Strategy",
+      "Singleplayer",
+      "Rogue-lite",
+      "Rogue-like",
+      "Turn-Based",
+      "Turn-Based Tactics"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 83.8,
+    "steam_total_reviews": 4594,
+    "metacritic": 78,
+    "metacritic_url": "https://www.metacritic.com/game/pc/roguebook?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all languages, Very Positive)",
+        "score": "83.8% positive of 4,594 reviews",
+        "url": "https://store.steampowered.com/app/1076200/Roguebook/"
+      },
+      {
+        "source": "Metacritic critic reviews: Gamers Heroes 100, Hey Poor Player / Gaming Nexus / DarkZero 90, Impulsegamer 88, GameCritics / CD-Action 85, Checkpoint Gaming / PC Invasion / TheSixthAxis 80",
+        "score": "10 of 24 reviews sampled, all 80-100",
+        "url": "https://www.metacritic.com/game/roguebook/critic-reviews/"
+      },
+      {
+        "source": "Metacritic user score (43 ratings)",
+        "score": "7.0 Mixed or Average",
+        "url": "https://www.metacritic.com/game/roguebook/"
+      }
+    ],
+    "vgi_units": 138000,
+    "vgi_revenue": 2100000,
+    "vgi_rating": 83.841,
+    "vgi_reviews": 4592,
+    "vgi_url": "https://app.sensortower.com/vgi/game/roguebook",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,478,508.20",
+    "src_net": "731,159.92",
+    "src_url": "https://steam-revenue-calculator.com/app/1076200/roguebook",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "\"this is going to be an easy a tier uh above monster trade\"; also \"would be an instant s tier\" but slow animations bring it down an entire tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 7616,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=7616s",
+        "year_in_title": "2021",
+        "pos": 1,
+        "row_n": 18,
+        "row_score": 0.9722222222222222,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Roguebook (2021) is a deck-building roguelike where you control two heroes at once while uncovering tiles of a giant book with ink and brushes. He loves it and calls it the template for a good deck builder, and says it would be an instant S tier. One flaw drops it a full tier: the animations are slow, cannot be sped up in the menu, and sometimes swallow fast card inputs. He lands it at an easy A, above Monster Train, and wishes for more updates and an animation fix that could push it higher.",
+        "praise": [
+          "Blend of tactical two-character card combat with an explorable outside world (ink-and-brush tile uncovering)",
+          "Hero placement and switching adds interesting positioning gameplay",
+          "Exploration rewards: money, potions, more ink, cards and unique events that really transform the run",
+          "Five characters, any pair combo feels very different, so runs are varied almost every time",
+          "Great customization at run start, which he considers important for modern roguelikes",
+          "Phenomenal balance: almost every card is playable and strong builds feel earned through synergy hunting",
+          "Beautiful visuals and care put into animations"
+        ],
+        "criticism": [
+          "Animations are too slow and there is no menu option to speed them up",
+          "Must wait for each card animation to finish before acting; fast inputs sometimes don't register",
+          "Frustration with waiting is bad enough that he stopped coming back to it despite loving it",
+          "Wishes for more updates/content after the expansion, unsure it gets any"
+        ],
+        "unique_points": [
+          "Controlling two heroes at once with placement, combined with a tile-uncovering book map",
+          "Hero-pair combinations create entirely different decks from only five characters",
+          "Events that meaningfully transform the game",
+          "Design lesson: a speed-up option matters for veteran players; slow polished animations can hurt replayability"
+        ],
+        "quote": "this definitely is the template for how to make a good deck building game",
+        "comparisons": [
+          "Monster Train"
+        ],
+        "design_criteria": [
+          "Gameplay and exploration blend: card combat plus an outside-world map both engaging",
+          "Customization at run start: choosing two heroes with drastically different cards",
+          "Replayability/diversity: hero combinations make runs feel unique",
+          "Balance and synergies: nearly every card viable, power earned through strategy",
+          "Visuals/animation: beautiful but too slow, hurting pacing",
+          "Quality of life: no animation speed option, dropped inputs",
+          "Post-launch support: wants more updates beyond the expansion",
+          "Events: unique and run-transforming"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A roguelike deckbuilder from Abrakam (Faeria) with Richard Garfield's involvement, where you pair two heroes into one shared deck and spend ink and brushes to uncover a hex-tile map page by page.",
+      "consensus_summary": "Roguebook is well regarded but not treated as a genre top-tier title. Steam sits at Very Positive (about 84% of roughly 4,600 reviews) and Metacritic critics give it 78 (Generally Favorable), with most praise going to the art, the two-hero swap system and the explorable map. Players who love it often put in 80-150 hours, but a large share of the positive reviews say it is best bought on sale, and the negatives are dominated by save-corrupting crashes and bugs, uneven balance, and a thin feel (few heroes, limited enemy variety). Developer and publisher (Nacon) support has effectively stopped according to recent Steam reviews, so the known bugs look permanent. It is a finished 1.0 release, not early access.",
+      "best_things": [
+        "Art style, card art and animation are widely called gorgeous; much of it is reused and refreshed from Faeria",
+        "The two-hero system (front/back positions, block cards swapping who is in front, relics tied to one hero) is the most-cited standout mechanic",
+        "Ink and brush map exploration gives many more routing choices than the three-path Slay the Spire map, making runs feel different",
+        "Card pool is considered good and can feel breakable, with gems slotted into cards and upgrade options adding build depth",
+        "Runs take roughly an hour, a length players like, and there is a large meta-progression (pages/embellishments, 20 difficulty levels) that gives 80-100+ hours of content",
+        "Losing is cushioned by meta progression, so failed runs still unlock pages and perks",
+        "Extremely cheap on sale (frequently about $2.50-$9 with DLC), which many reviewers call one of the best value deals in the genre",
+        "Full controller support and Steam Cloud saves (per the Steam store page)"
+      ],
+      "worst_things": [
+        "Balance and pacing frustrate at higher ascension levels, with input lag on top; this is the single most-upvoted negative review (65 helpful votes)",
+        "Crashes can corrupt the save file and wipe all meta progress; this is the single most repeated complaint in negative reviews, including from players with 50+ hours",
+        "Other bugs: halved game speed, 3-5 second lag between playing a card and the animation, stuck UI notifications and glitched gem icons, high CPU use, and a DLC reported as buggy",
+        "Balance is lopsided: early enemies and bosses can burst for most of your HP while some hero/relic strategies trivialise everything, and the DLC hero is described as overpowered",
+        "Only four base heroes (a fifth is paid DLC), so runs become samey and the game feels small, with limited enemies, cards and only three acts",
+        "Developer support has stopped and the online/tournament features are reported as non-functional; support emails and Discord messages reportedly go unanswered",
+        "No real plot despite some hero banter, which reviewers feel was dropped or abandoned",
+        "Synergies are often shallow or depend on RNG, so some players feel little control over building a deck"
+      ],
+      "improvements": [
+        "Fix the save corruption and crash bugs and optimise performance/animation lag",
+        "Rebalance early-game damage versus block and healing, and relic pricing (legendaries and the Rose relic are called overpriced)",
+        "Add more heroes to the base game, and more enemies and cards, rather than selling a hero as DLC",
+        "Quality-of-life additions: skippable intro cutscene each run, larger card text option for accessibility, Steam Workshop or mod support, easier card removal or clearer accession system",
+        "Give the map exploration less randomness (for example guaranteed access to key upgrades) and trim the back-and-forth walking",
+        "Add a built-in way to retry or undo, since players currently rely on quitting to menu and continuing as a save-scum trick"
+      ],
+      "unique_things": [
+        "Open hex map uncovered with limited ink and brushes, instead of a branching node tree; it is a resource-management layer of its own",
+        "Two-hero team sharing one deck, with front/back positioning that changes which card effects apply and who takes damage",
+        "Gem-slot card upgrades and difficult card removal, so you improve cards rather than thin the deck (a larger deck is actually rewarded with passive bonuses)",
+        "Fog-of-war 'book pages' setting with seer tiles, lever events and tournaments that feed a persistent meta progression",
+        "Design pedigree: Faeria developers plus Magic: The Gathering creator Richard Garfield, funded on Kickstarter in 2019"
+      ],
+      "tedious_or_disliked": [
+        "Map exploration is slow and grindy: players feel forced to clear as many fights as they can for ink and gold, then walk back and forth across the map",
+        "Healing is scarce and hard to manage in the early game, so some runs become attrition grinds",
+        "Long-term meta progression drags; after roughly 8-20 hours players say they see the grind, and after about 100 hours the remaining unlocks mostly just raise difficulty",
+        "Losing a run to a bug or corrupted save after a long session",
+        "Needing to pay real money to unlock the fifth hero",
+        "Higher ascension levels feel like a balance and pacing slog rather than fair challenge, even to Slay the Spire veterans"
+      ],
+      "divisive_points": [
+        "Difficulty: some call it brutal early (a Dark Souls of deckbuilders, 'skill issue' replies), others say it is far too easy once you learn the genre or find strong combos",
+        "Map exploration is either the game's best idea or its slowest and most random system; several reviewers say both in the same review",
+        "Whether it beats Slay the Spire / Monster Train: a few players rank it higher, but many say it is a lesser alternative best bought cheap"
+      ],
+      "reception_notes": "Released on PC June 17, 2021 (Nacon publishing, Abrakam developing), then on PS4/PS5 and Xbox in February 2022 and on Switch in April 2022. Wikipedia notes positive aggregate reception on PC, PS5 and Xbox One and mixed reviews for the Switch version. Launch critics emphasised the look and map system but some flagged game-breaking bugs and too little content for more than a few hours. Years later, recent Steam reviews (up to 2026) say support has stopped, crashes still corrupt saves and online features do not work, and the Steam forum has threads asking whether any devs are still around. Commercial estimates: SteamSpy owners 200k-500k and steam-revenue-calculator.com estimates about $2.5M gross / $0.73M net on Steam, but these are order-of-magnitude estimates. Steam lists 5 DLC items (skin pack, art book, soundtrack, alternate art pack, Fugoro hero). OpenCritic could not be retrieved (its search and the guessed game ID did not resolve), so that score is null.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1076200.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review counts, Metacritic 78, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/roguebook/",
+          "what": "Metascore 78 from 24 critics, user score 7.0 from 43 ratings, critic summary"
+        },
+        {
+          "url": "https://www.metacritic.com/game/roguebook/critic-reviews/",
+          "what": "Outlet-level critic scores"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Roguebook",
+          "what": "Development background, release dates and platforms, reception summary"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1076200/Roguebook/",
+          "what": "Steam store page: features, DLC list, review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1076200/discussions/",
+          "what": "Steam forum thread titles showing bug reports and developer-absence concerns"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1076200/roguebook",
+          "what": "Estimated revenue for Steam sales"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 78 from 24 critics, user 7.0 from 43 ratings (matches). OpenCritic left null. Steam figures match local data. Rewrote unsupported 'Steam Deck' bullet to controller support/Steam Cloud (store page), reworded meta-rewards bullet, added top-voted negative theme (high-ascension balance/pacing + input lag) to worst_things and tedious_or_disliked."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 18,
+    "his_spoken": null,
+    "his_score": 97.2,
+    "his_top10_bonus": 0,
+    "players_score": 24.5,
+    "critics_score": 36.1,
+    "critics_avg": 78.0,
+    "overall": 59.6,
+    "labels": [
+      "deckbuilder",
+      "turn_based"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

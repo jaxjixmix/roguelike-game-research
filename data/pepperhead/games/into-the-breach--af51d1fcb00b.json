@@ -1,0 +1,257 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "into the breach",
+    "name": "Into the Breach",
+    "display_name": "Into the Breach",
+    "appid": 590380,
+    "img": "img/590380.jpg",
+    "steam_url": "https://store.steampowered.com/app/590380/",
+    "website": null,
+    "short_description": "Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.",
+    "developers": [
+      "Subset Games"
+    ],
+    "publishers": [
+      "Subset Games"
+    ],
+    "release_date": "Feb 27, 2018",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Indie",
+      "Pixel Graphics",
+      "Turn-Based Tactics",
+      "Mechs",
+      "Rogue-like",
+      "Turn-Based",
+      "Puzzle",
+      "Rogue-lite"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 94.2,
+    "steam_total_reviews": 22443,
+    "metacritic": 90,
+    "metacritic_url": "https://www.metacritic.com/game/pc/into-the-breach?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.8,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "94.2% positive (21,136 of 22,443), Very Positive",
+        "url": "https://store.steampowered.com/app/590380/Into_the_Breach/"
+      },
+      {
+        "source": "Metacritic Switch",
+        "score": "89",
+        "url": "https://en.wikipedia.org/wiki/Into_the_Breach"
+      },
+      {
+        "source": "GameSpot",
+        "score": "10/10",
+        "url": "https://en.wikipedia.org/wiki/Into_the_Breach"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Into_the_Breach"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9.25/10",
+        "url": "https://en.wikipedia.org/wiki/Into_the_Breach"
+      }
+    ],
+    "vgi_units": 557000,
+    "vgi_revenue": 5900000,
+    "vgi_rating": 94.178,
+    "vgi_reviews": 22434,
+    "vgi_url": "https://app.sensortower.com/vgi/game/into-the-breach",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "4,413,447.64",
+    "src_net": "1,301,967.05",
+    "src_url": "https://steam-revenue-calculator.com/app/590380/into-the-breach",
+    "final_tier": "S",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "I'm going to put into the breach as an easy s tier; that is an easy s tier for me",
+        "video_id": "zKosjx7EpKA",
+        "t": 5377,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=5377s",
+        "year_in_title": "2018",
+        "pos": 1,
+        "row_n": 4,
+        "row_score": 0.875,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Into the Breach is a turn-based, board-centric tactics roguelike from the makers of FTL, where you control a small squad of mechs to defend cities from monsters. Mechanics are extremely simple, but the strategic depth is huge, to the point of spending many minutes on a single turn. He is blown away by how well designed it is and sees it as a staple of turn-based games. He places it in S tier and considers it better than FTL, possibly above Balatro.",
+        "praise": [
+          "Very simple, easy-to-understand mechanics (shoot, jump, push) that still produce enormous strategic depth",
+          "Many meaningful options each turn even with only three or four mechs",
+          "Lots of different mechs, so squad formations make every run feel different",
+          "Unique little events and multiple difficulty levels give a lot of content for such a simple game",
+          "Accessible strategy for people who like turn-based games but lack patience for complex rulesets like Civilization",
+          "Does everything it sets out to do perfectly; masterful design"
+        ],
+        "criticism": [
+          "He acknowledges others may not consider it S tier; no real design flaws are named",
+          "A single turn can take up to ~10 minutes of deliberation (framed as a consequence of depth)"
+        ],
+        "unique_points": [
+          "Simple mechanics combined with simple enemy behavior yield near-limitless strategic options",
+          "Squad composition variety drives run-to-run freshness",
+          "Shows that great design can achieve huge depth with minimal rules"
+        ],
+        "quote": "this is a phenomenal game... design wise it's perfect",
+        "comparisons": [
+          "FTL",
+          "Balatro",
+          "Civilization"
+        ],
+        "design_criteria": [
+          "Simplicity of mechanics: individual effects and enemy behaviors are easy to understand",
+          "Strategic depth: many options per turn despite simple rules",
+          "Diversity: many mechs and squad formations change each run",
+          "Content/replayability: events and multiple difficulties",
+          "Accessibility: approachable for non-hardcore strategy players",
+          "Overall design polish: executes its goals perfectly"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based tactics roguelite from Subset Games (makers of FTL) where you pilot a squad of three mechs on tiny 8x8 grids to protect city buildings from insectoid Vek, with every enemy attack telegraphed in advance.",
+      "consensus_summary": "Into the Breach is treated as a modern classic of the tactics and roguelite space. Critics gave it a Metacritic score of 90 on PC (89 on Switch), and it won Best Strategy Game at The Game Awards 2018, among other awards. Steam players agree, with about 94% positive across roughly 22,400 reviews (Very Positive). The praise centres on perfect-information combat, compact puzzle-like turns and squad variety. The main dissent is from players who find it more of a rigid puzzle game than a tactics game, and from those who still feel unavoidable spawn RNG can doom a run. It is not early access or abandoned. The free Advanced Edition update shipped in July 2022 alongside the Netflix mobile release, and players still ask for more content or a sequel.",
+      "best_things": [
+        "Enemy attacks are telegraphed, so there are no hit-chance rolls. Losses feel like your own mistakes, which reviewers often contrast with XCOM.",
+        "Each turn is a self-contained micro-puzzle: pushing, pulling, blocking spawns and redirecting attacks, with depth coming from very simple rules.",
+        "Protecting the Power Grid (city buildings) rather than just killing everything is a fresh objective that changes how you evaluate every move.",
+        "Large variety of mech squads, pilots and weapon upgrades. Each squad teaches a different way to think about the game, and squad achievements hint at how to play them.",
+        "Short runs and short battles (roughly 10-15 minutes each) make it easy to pick up and put down, and it works well on Steam Deck and with a gamepad.",
+        "Economy of design: small maps, no filler, clean pixel art and a well-regarded soundtrack by Ben Prunty.",
+        "Difficulty ramps gradually, with Easy through Unfair settings, so players report steadily improving on squads that once beat them.",
+        "Runs are short enough that a blunder costs about 3 hours rather than a 15-hour XCOM-style campaign."
+      ],
+      "worst_things": [
+        "Some players say it plays like a rigid puzzle game rather than a tactical one, with the board state mattering more than player choice.",
+        "Enemy spawn positions and targeting can create situations that feel unwinnable without grid damage, especially on the first turn of a mission or in the final island.",
+        "Losing a run discards upgrades. Some players find the penalty harsh when a poor upgrade choice only shows up an hour later.",
+        "Missions share the same core puzzle despite varied objectives, and some players report repetitiveness after a while.",
+        "The tutorial is thin and the legibility of threats and solutions is hard for newcomers, who often need external guides.",
+        "The unlock system (squads and pilots tied to achievements) is criticised by some as an FTL-style chore.",
+        "Steep difficulty: several negative reviewers say even Normal wipes them out repeatedly and the game is not for players who dislike punishing roguelikes.",
+        "Legibility of puzzles is hard: players struggle to tell whether a bad board needs a tradeoff or was set up wrong at the start."
+      ],
+      "improvements": [
+        "Players keep asking for more content or a sequel, and several recent Steam reviewers say they return hoping for an update.",
+        "Better onboarding or in-game explanation of mechanics and enemy behaviour.",
+        "Some want more flexible undo, for example allowing a turn reset when it is the last unit's action.",
+        "More build and upgrade variety, and more map or mission variety, to reduce repetition.",
+        "Reduced luck in spawn placement, or more tools to recover from a bad spawn."
+      ],
+      "unique_things": [
+        "Fully deterministic combat with visible enemy intentions: a tactics game built like a chess puzzle.",
+        "Health bar is the city Power Grid, so victory means damage mitigation rather than total elimination.",
+        "Time-travel framing: losing a run sends a chosen pilot back into a new timeline with their experience, giving a light meta-progression.",
+        "Enemy and environmental interactions such as water, ice, fire and mountains are central, and enemies can kill or block each other.",
+        "8x8 boards and five-turn missions give it a compactness unlike XCOM-style or Fire Emblem-style tactics games."
+      ],
+      "tedious_or_disliked": [
+        "Restarting entire runs after a late failure, with upgrades lost.",
+        "Unlocking squads and pilots via achievements, which some find grindy.",
+        "Having to spend minutes planning single turns, which can feel like homework to people expecting a relaxed strategy game.",
+        "Learning curve where players feel they are being punished for not knowing enemy behaviour yet.",
+        "Once mechanics are 'solved', some reviewers feel runs become a repeated puzzle with the same base and little novelty."
+      ],
+      "divisive_points": [
+        "Whether the RNG is a problem: fans say the game is essentially deterministic, while critics say spawns and targeting can make puzzles unsolvable.",
+        "Puzzle versus tactics: some see it as a perfect blend, others feel it lacks the tactical freedom they wanted.",
+        "Difficulty: some beat Unfair, others report never finishing Normal.",
+        "Run length and permadeath: fans value short restarts, detractors dislike losing progress."
+      ],
+      "reception_notes": "Launched Feb 27, 2018 on Windows to acclaim and became Metacritic's best-reviewed PC game of 2018. It came to macOS and Switch in August 2018 and Linux in April 2020. The free Advanced Edition (July 19, 2022) added squads, pilots, enemies and an Unfair difficulty, and Netflix released iOS and Android versions the same day. Awards include Best Strategy Game at The Game Awards 2018, Best Design at the 2019 GDC Awards and Best Original Property at the BAFTA Games Awards. Steam Spy estimates 1-2 million owners, and steam-revenue-calculator estimates about $4.4M gross (a rough Boxleiter-method estimate, not audited). Metacritic user score of 7.8 is notably lower than the critic score, reflecting a minority who bounce off the puzzle feel and difficulty. OpenCritic score could not be retrieved (page lookup failed and the search budget was exhausted), so it is null.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/590380.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam data: review counts, Metacritic 90, SteamSpy owner range, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/590380/Into_the_Breach/",
+          "what": "Steam store page: Very Positive, 94.2% of about 22.4k reviews"
+        },
+        {
+          "url": "https://www.metacritic.com/game/into-the-breach/",
+          "what": "Metascore 90 from 56 critic reviews, user score 7.8 from 662 ratings"
+        },
+        {
+          "url": "https://www.metacritic.com/game/into-the-breach/user-reviews/",
+          "what": "Metacritic user review themes: praise for depth, complaints about puzzle feel and RNG"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Into_the_Breach",
+          "what": "Reception, awards, development, Advanced Edition and Netflix release, critic scores"
+        },
+        {
+          "url": "https://steamcommunity.com/app/590380/discussions/",
+          "what": "Steam community discussion themes: difficulty, power-grid failure rule, requests"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/590380/into-the-breach",
+          "what": "Estimated gross revenue about $4.41M (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic fetched: Metascore 90 (56 reviews), user 7.8 (662 ratings) confirmed; OpenCritic left null. Removed 2 unsupported bullets (claustrophobic small maps, slow early-game; neither appears in Steam reviews and small maps are praised). Added 2 recurring negative themes (steep difficulty on Normal, puzzle legibility) and rewrote one tedious bullet to reflect 'solved puzzle' review theme. Other bullets match top Steam reviews (XCOM contrast, short runs, deterministic, puzzle-vs-tactics, RNG spawns). Switch/GameSpot/IGN scores cited to Wikipedia not re-checked."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 4,
+    "his_spoken": null,
+    "his_score": 87.5,
+    "his_top10_bonus": 0,
+    "players_score": 74.0,
+    "critics_score": 93.3,
+    "critics_avg": 90.0,
+    "overall": 83.9,
+    "labels": [
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

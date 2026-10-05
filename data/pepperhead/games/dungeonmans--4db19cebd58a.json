@@ -1,0 +1,252 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dungeonmans",
+    "name": "Dungeonmans",
+    "display_name": "Dungeonmans",
+    "appid": 288120,
+    "img": "img/288120.jpg",
+    "steam_url": "https://store.steampowered.com/app/288120/",
+    "website": "http://discord.gg/stremf",
+    "short_description": "Crush monsters and get loots in the classic turn-based style of deep dungeons and high adventure! Grow the Dungeonmans Academy, a bastion of learning that expands as you play. Serious gameplay with a light-hearted atmosphere, combining the feel of history's great RPGs and dice-slinging adventures around the tabletop.",
+    "developers": [
+      "Adventurepro Games LLC"
+    ],
+    "publishers": [
+      "Adventurepro Games LLC"
+    ],
+    "release_date": "Dec 9, 2014",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Traditional Roguelike",
+      "Rogue-like",
+      "Grid-Based Movement",
+      "RPG",
+      "Indie",
+      "Turn-Based",
+      "Strategy",
+      "Adventure",
+      "Loot",
+      "Dungeon Crawler"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.9,
+    "steam_total_reviews": 1234,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/dungeonmans/",
+    "metacritic_user": 6.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "RPG Fan",
+        "score": "85/100",
+        "url": "https://www.rpgfan.com/review/dungeonmans/"
+      },
+      {
+        "source": "Twinfinite (via Metacritic)",
+        "score": "40/100",
+        "url": "https://www.metacritic.com/game/dungeonmans/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "90.9% positive (1,122 positive / 112 negative), Very Positive",
+        "url": "https://store.steampowered.com/app/288120/Dungeonmans/"
+      }
+    ],
+    "vgi_units": 58014,
+    "vgi_revenue": 594000,
+    "vgi_rating": 90.924,
+    "vgi_reviews": 1234,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dungeonmans",
+    "spy_owners": "100,000 .. 200,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "553,131.00",
+    "src_net": "163,173.65",
+    "src_url": "https://steam-revenue-calculator.com/app/288120/dungeonmans",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "so personally yeah I'll put this as a it's okay a low C didn't really enjoy it",
+        "video_id": "5k_-k4X90ao",
+        "t": 2942,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=2942s",
+        "year_in_title": "2014",
+        "pos": 14,
+        "row_n": 14,
+        "row_score": 0.0932142857142857,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Dungeonmans is a turn-based, top-down roguelike where you explore areas and unlock different abilities. PepperHead admits he did not play it much; it felt overwhelming on first try and he never fully got into it. The minimalistic, older look put him off, and he found there was a lot to manage and keep track of. He might return to it someday but has more fun with other games in the genre, so it lands in low C.",
+        "praise": [
+          "Turn-based top-down exploration across different areas",
+          "Unlocking a variety of different abilities",
+          "Plenty of loot and things to manage, giving depth",
+          "He is open to coming back and trying it again"
+        ],
+        "criticism": [
+          "Felt overwhelming when he first started playing",
+          "Very minimalistic animation and an older look that he struggled with",
+          "Presentation felt flat, like just looking down on a map area",
+          "Too much loot and too many things to keep track of",
+          "Other games in the genre were more fun for him"
+        ],
+        "unique_points": [
+          "He has little to say about unique design aspects since he played it briefly; the notable trait is its heavy management and tracking load"
+        ],
+        "quote": "it's okay a low C didn't really enjoy it",
+        "comparisons": [],
+        "design_criteria": [
+          "Visuals/animation: minimalistic and dated, hurt his enjoyment",
+          "Onboarding/complexity: overwhelming at first",
+          "Loot and management: lots to track, felt like too much",
+          "Abilities/progression: variety of abilities to unlock",
+          "Personal fun relative to genre peers: others were more enjoyable"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based, grid-based traditional roguelike from Adventurepro Games in which each dead hero feeds a persistent Dungeonmans Academy hub that strengthens future characters, wrapped in a light, joke-heavy fantasy tone.",
+      "consensus_summary": "Players rate it Very Positive on Steam (about 91% of roughly 1,230 reviews), and the recurring verdict is that it is an unusually welcoming traditional roguelike with real depth and a clever meta-progression loop. Critical coverage is thin: only two critic reviews sit on Metacritic (RPG Fan 85, Twinfinite 40), so no Metascore exists, and the six-rating user score of 6.5 is too small to mean much. It is not abandoned: it had a 2013 Kickstarter, Early Access, a full release in Dec 2014, and still draws praise for updates more than a decade later, including new classes and a daily challenge mentioned in 2026 reviews. The player base is now small (a few concurrent users per Steam data, and one reviewer jokes that only a handful of players remain) and the game is Windows-only. Criticism centers on tiny UI text, clunky inventory and controls, divisive humor, and difficulty spikes around the early-to-mid game.",
+      "best_things": [
+        "Academy meta-progression: fallen heroes leave gear, experience and deeds that permanently upgrade the hub, so every death still feels like progress",
+        "Unusually accessible for a traditional roguelike while keeping permadeath and tactical depth, praised by both newcomers and genre veterans",
+        "Flexible mastery/skill system that lets you mix skills across classes, with special Master's Programs for effective combinations and lots of fun build experiments",
+        "Humor and personality: silly names, corny jokes, enemy sound barks, battle poultry; many reviewers say it never takes itself too seriously",
+        "Large open, persistent world with many monsters, dungeon and battlefield types and hidden discoveries (Steam lists 75+ abilities, 50+ enemy types, 12 dungeon types)",
+        "Soundtrack and charming sprite art, with RPG Fan singling out the PS1-era Final Fantasy-style music",
+        "Long-running developer support: multiple reviewers credit patches, new content and responsive bug fixing over 12+ years",
+        "Strong long-term hook: reviewers with 100-270 hours describe a 'one more dungeon' pull and a game that keeps getting better with updates"
+      ],
+      "worst_things": [
+        "Tiny, unscalable UI text at 1080p and above; the most upvoted negative Steam review is about unreadable fonts",
+        "Clunky controls and inventory: delayed ability firing in a turn-based game, hard-to-find potions, a small scroll button on the quick bar with a hotkey clashing with a system key",
+        "Bugs noted in reviews: targeting cursor problems, map generation issues, inaccessible graves (RPG Fan), and misbehavior when alt-tabbing (Steam review)",
+        "Twinfinite scored it 40, calling gameplay stiff with unintuitive controls",
+        "Difficulty spikes: bosses in the second dungeon and around character level 10 can one-shot players, and triple-stacked tigers became a well-known killer",
+        "Windows only (no Mac or Linux) per the Steam store data",
+        "Name and naming quirks, such as no duplicate character names and no random name option",
+        "Some reviewers say builds are unbalanced toward ranged combat and that replayability trails other roguelikes"
+      ],
+      "improvements": [
+        "Scalable UI and larger fonts",
+        "Better inventory handling and quick-access bar, with more forgiving controls so abilities cannot misfire a turn later",
+        "More build variety, more passive skills and deeper skill trees; some builds are clearly stronger than others",
+        "Clearer feedback on what upgrading each Academy room actually gives you, since some rooms feel cosmetic or one-time",
+        "More crafting, alchemy and enchanting options beyond NPC services",
+        "More end-game content, requested in Steam community threads; also Steam Deck camera pan/zoom and control improvements"
+      ],
+      "unique_things": [
+        "The Academy hub is a persistent, growing base that turns every death into long-term progression instead of a pure reset",
+        "Dead heroes leave graves, loot and deeds for successors, and legendary heroes can eventually train later characters",
+        "Lighthearted, tabletop-RPG tone that deliberately lowers the intimidation of the traditional roguelike genre",
+        "Multi-mastery characters rather than fixed classes, so you can build combinations like a necro-archer",
+        "Whimsical extras such as battle poultry and a daily challenge that doesn't add to your graveyard",
+        "Open overworld with wilderness zones, ruined strongholds and places of power alongside dungeons"
+      ],
+      "tedious_or_disliked": [
+        "Pre-mid-game stretches can feel repetitive, with one reviewer finding early game slow before it opens up",
+        "Academy progress is tied to dying, which some players find forced and others find it makes losses feel like a chore",
+        "Over-the-top humor and forced jokes grate on some players to the point of killing motivation",
+        "Being one-shotted by bosses or special enemies after long runs feels unfair to some players",
+        "Finding the right item in a clumsy inventory takes time mid-fight",
+        "A gold-statue gambling mechanic was heavily nerfed, which annoyed players who enjoyed the risk and whose characters were wiped by its punishment"
+      ],
+      "divisive_points": [
+        "Humor: the top selling point for many reviewers, but a 'cringe' dealbreaker for others",
+        "Difficulty and accessibility: newcomers call it welcoming while others hit walls around level 10 or at early bosses even on easy",
+        "Academy meta-progression: loved as a clever incremental system, but criticized as shallow or confusingly communicated by others",
+        "Replayability: some say it lacks replay value versus other roguelikes, others put in hundreds of hours"
+      ],
+      "reception_notes": "Launched after a roughly $43,000 Kickstarter in 2013 and Early Access on Steam, with full release on Dec 9, 2014 at $14.99. Early press was warm: RPG Fan named it among its top games of 2014, and Kotaku and Indie Gems praised its welcoming design per the Steam store page. It has stayed Very Positive on Steam and keeps receiving new reviews in 2026, many from long-term players noting continued updates. Metacritic has only two critic reviews (no Metascore) and six user ratings at 6.5, so those numbers are not representative. Steam estimates (SteamSpy 100k-200k owners; steam-revenue-calculator gross about $553k, net about $163k) are rough. The developer also released a Pay2Lose DLC/companion listing. Steam community has roughly 270 discussion topics and a 1,800-comment bug thread. Roguebasin lists version 1.10g8 from Dec 2021 as the last documented update but reviews indicate more recent additions. No OpenCritic entry could be confirmed. Could not access Reddit or the Kotaku/Twinfinite articles directly, and web search budget was exhausted.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review counts, SteamSpy owners, tags, revenue estimate"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/288120.json",
+          "what": "Top helpful positive and negative English Steam reviews (2025-2026)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/288120/dungeonmans",
+          "what": "Estimated gross (~$553k) and net (~$163k) revenue"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dungeonmans/",
+          "what": "Two critic reviews (RPG Fan 85, Twinfinite 40), no Metascore, user score 6.5"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dungeonmans/user-reviews/",
+          "what": "Six user ratings, mixed/average"
+        },
+        {
+          "url": "https://www.rpgfan.com/review/dungeonmans/",
+          "what": "RPG Fan 85/100 review: pros (humor, accessibility, soundtrack) and cons (glitches, build imbalance, tigers)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/288120/Dungeonmans/",
+          "what": "Store page: features, 90% Very Positive, Kotaku/RPGFan/Indie Gems blurbs"
+        },
+        {
+          "url": "https://steamcommunity.com/app/288120/discussions/",
+          "what": "Community discussion topics: Steam Deck, one-shot complaints, end-game requests, Pay2Lose DLC"
+        },
+        {
+          "url": "https://steamcommunity.com/app/288120/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Top-rated Steam review themes: Academy praise, dev support, difficulty spikes, gold statue nerf"
+        },
+        {
+          "url": "https://roguebasin.com/index.php/Dungeonmans",
+          "what": "Design notes, Kickstarter (~$43k), Early Access history, last documented update 1.10g8"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore (only 2 critic reviews: RPG Fan 85, Twinfinite 40), user 6.5 from 6 ratings; critic_scores confirmed unchanged. Removed unsupported 'good controller support (170-hour reviewer)' bullet (Steam lists only partial controller support; top reviewer has 269h) and an uncited 'shallow skill trees' bullet. Added 2 themes from reviews: 'one more dungeon' long-term hook and ranged-heavy balance/replayability concerns."
+    },
+    "his_anchor": null,
+    "his_pos": 14,
+    "his_row_n": 14,
+    "his_spoken": "said low",
+    "his_score": 9.3,
+    "his_top10_bonus": 0,
+    "players_score": 49.2,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 26.8,
+    "labels": [
+      "traditional",
+      "turn_based"
+    ],
+    "primary_label": "traditional"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "the legend of bumbo",
+    "name": "The Legend of Bum-Bo",
+    "display_name": "The Legend of Bumbo",
+    "appid": 1148650,
+    "img": "img/1148650.jpg",
+    "steam_url": "https://store.steampowered.com/app/1148650/",
+    "website": "http://www.legendofbumbo.com",
+    "short_description": "A puzzle based deck building rogue-like prequel to The Binding of Isaac... Made of cardboard!",
+    "developers": [
+      "Edmund McMillen",
+      "James Interactive",
+      "Ridiculon"
+    ],
+    "publishers": [
+      "Edmund McMillen"
+    ],
+    "release_date": "Nov 12, 2019",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-lite",
+      "Indie",
+      "Strategy",
+      "Adventure",
+      "Puzzle",
+      "Match 3",
+      "Singleplayer",
+      "Great Soundtrack",
+      "Funny",
+      "Difficult"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 80.6,
+    "steam_total_reviews": 5938,
+    "metacritic": 73,
+    "metacritic_url": "https://www.metacritic.com/game/pc/the-legend-of-bum-bo?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 6.4,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (all reviews, from local data)",
+        "score": "80.6% positive of 5,938 (Very Positive)",
+        "url": "https://store.steampowered.com/app/1148650/"
+      },
+      {
+        "source": "Steam store page fetched live",
+        "score": "78% of 3,584 (Mostly Positive)",
+        "url": "https://store.steampowered.com/app/1148650/The_Legend_of_BumBo/"
+      }
+    ],
+    "vgi_units": 178000,
+    "vgi_revenue": 2000000,
+    "vgi_rating": 80.6,
+    "vgi_reviews": 5938,
+    "vgi_url": "https://app.sensortower.com/vgi/game/the-legend-of-bum-bo",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,970,178.56",
+    "src_net": "876,202.68",
+    "src_url": "https://steam-revenue-calculator.com/app/1148650/the-legend-of-bum-bo",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "like a yeah like a mid B tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 10069,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=10069s",
+        "year_in_title": "2019",
+        "pos": 25,
+        "row_n": 35,
+        "row_score": 0.2835714285714286,
+        "spoken": "said mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "The Legend of Bumbo is a Candy Crush-style match-puzzle roguelike built on The Binding of Isaac, with an all-cardboard look. He loves the art style and the core gameplay concept. He thinks the game feels rushed and unfinished, with run-losing bugs, very long fights and heavy RNG. There is little left to do once every character has been played. He places it in mid B tier and says he wishes he could rate it higher.",
+        "praise": [
+          "Unique cardboard art style across the trailer and the actual gameplay",
+          "Fun core gameplay and design concept of a match-puzzle roguelike",
+          "Reuses Binding of Isaac enemies in a fresh format",
+          "Strategy depth, with the ability to find very broken combos",
+          "High potential if it had been polished"
+        ],
+        "criticism": [
+          "Feels rushed and unfinished",
+          "Game-breaking bugs cost him runs several times and forced restarts",
+          "Encounters can drag on; one turn took about 30 minutes",
+          "Heavy RNG, and the first turn of a fight can doom a run",
+          "Little left to do after playing every character",
+          "Weird pacing"
+        ],
+        "unique_points": [
+          "Candy Crush-like match gameplay combined with a Binding of Isaac roguelike",
+          "Everything in the game is made of cardboard, not just the trailer",
+          "Combos can get broken but RNG can also ruin a run"
+        ],
+        "quote": "I just wish there was more love put into this game",
+        "comparisons": [
+          "The Binding of Isaac",
+          "Candy Crush"
+        ],
+        "design_criteria": [
+          "Art style/charm: cardboard look is unique and praised",
+          "Core gameplay design: loved, though execution is flawed",
+          "Polish/bugs: game-breaking bugs lose runs",
+          "Run/encounter length: fights can last an eternity",
+          "RNG vs strategy: luck can decide a run, broken combos possible",
+          "Replayability/content: little to do after all characters played",
+          "Pacing: described as weird"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A match-3 puzzle deckbuilding roguelite, cardboard-craft prequel to The Binding of Isaac, by Edmund McMillen, James Interactive and Ridiculon.",
+      "consensus_summary": "Players rate it Very Positive on Steam (about 81% of roughly 5.9k reviews in our data), while Metacritic sits at a Mixed 73 critic / 6.4 user. The core loop of matching tiles to cast spells and building a loadout is widely called addictive and charming, but it is held back by heavy RNG, thin explanation, a grindy unlock system and lots of bugs. Development was rocky: the original programmer left, and the last official patches came around 2021 before a later community-linked 'Windfall' update was announced. Many negative Steam reviews read like 'fun game, but unfinished and buggy', so the score is dragged down by polish rather than by the core idea.",
+      "best_things": [
+        "The match-tiles-to-cast-spells loop is satisfying and addictive, with big combo turns feeling great when a board lines up",
+        "Cardboard cut-out art style and child-like Isaac-prequel atmosphere are charming",
+        "Deckbuilder-style decisions (skills, items, trinkets) pay off when you plan around the board",
+        "100+ items, 80+ trinkets, several playable characters and 10 bosses give a decent item pool",
+        "Isaac-style humor and lore expansion appeal strongly to Binding of Isaac fans",
+        "Ridiculon soundtrack is praised (Steam tags include Great Soundtrack)"
+      ],
+      "worst_things": [
+        "Very buggy: softlocks (especially from clicking too fast), run resets, broken puzzle boards and visual glitches",
+        "Achievements and unlocks often fail to trigger or duplicate; players resort to third-party fixes",
+        "Steam achievements are so unreliable that players say a third-party fix (the Windfall mod) is practically required; the last official patch was around March 2021",
+        "Save data can be lost, and saves are local rather than properly cloud-synced",
+        "Heavy luck dependence: a bad board or a room with 5-6 enemies can end a run before you act",
+        "Little is explained, so boss and enemy mechanics become knowledge checks",
+        "Limited content at launch (four dungeons) and the game feels unfinished or abandoned to many",
+        "Critics called the UI feedback (tooltips, tile highlighting) unpolished and mobile-like"
+      ],
+      "improvements": [
+        "Fix the long list of bugs, achievement issues and save problems",
+        "Reduce run-ending RNG from board draws and enemy stacking, and tighten balance",
+        "Explain enemy and boss mechanics in-game instead of relying on trial and error",
+        "Rework the slot-machine-style item unlock system so progress is not so grindy",
+        "Add more content and more creative synergy/deckbuilding options, since many builds feel samey",
+        "Improve UI feedback such as tooltips and tile highlighting"
+      ],
+      "unique_things": [
+        "Mixes a match-3 board game with roguelite deckbuilding and Isaac-style items",
+        "Handmade cardboard look and tone, as a literal toy-theatre prequel to Isaac",
+        "Spells are fueled by matching colored tile types, so board reading and spell planning interlock",
+        "Gross-out Isaac humor applied to puzzle combat (for example flinging excrement at enemies)",
+        "Edmund McMillen's biggest project by his own account, after a roughly four-year development"
+      ],
+      "tedious_or_disliked": [
+        "Unlocking new items is gated behind a chance-based system that only rolls after winning long runs, so the grind is painful",
+        "Some later areas and progress are gated behind playing specific characters",
+        "Limited coins per floor make stat upgrades and shops feel too scarce",
+        "Enemies that resist everything or multi-hit counters can make turns feel unfair",
+        "Repetitive play over extended sessions, per critics"
+      ],
+      "divisive_points": [
+        "Price: some call $15 too steep for the content and state; others find it worth it",
+        "Difficulty and RNG: some see it as tense roguelite variance, others as unfair and unwinnable runs",
+        "Whether it is a real roguelike with synergies or an easy game that lacks roguelike depth without them"
+      ],
+      "reception_notes": "Launched on Steam in Nov 2019 with softlock issues; programmer James Interactive could not continue, so McMillen brought in Isaac: Rebirth programmers in late 2020. Ports followed: Android (Dec 2020), Epic/GOG (Feb 2022), Switch/PS5/Xbox (June 2022). Steam reviews note the last official update was around March 2021 and that a third-party mod called Windfall is treated as near-required for achievements and fixes. A Steam community thread titled Windfall Update 1.5 was posted in May (year unclear, I could not read its contents), so it is unclear whether this is now official. OpenCritic score could not be verified: web search budget was exhausted and the guessed OpenCritic URL returned a different game, so the value is null. Steam revenue estimates from local data: ~$2.97M gross, ~$876k net, owners 1-2M (estimate from Boxleiter-style sources, order of magnitude only). Reddit could not be fetched, so community detail relies on Steam reviews and discussion pages.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1148650.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam data: appid, review counts, Metacritic 73, revenue and owner estimates"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-legend-of-bum-bo/",
+          "what": "Metacritic page: 73 critic, 6.4 user, critic consensus on content and UI"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Legend_of_Bum-bo",
+          "what": "Development history, ports, reception incl. PC Gamer quote"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1148650/The_Legend_of_BumBo/",
+          "what": "Steam store page: features, item/boss counts, review ratings"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1148650/discussions/",
+          "what": "Steam discussions: bug, achievement resync, balance threads, Windfall update 1.5"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1148650/the-legend-of-bum-bo",
+          "what": "Revenue estimate (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: 73 critic (9 PC reviews), 6.4 user, both confirmed. OpenCritic left null (search budget exhausted, no verifiable score). Removed 1 best_things bullet (Mewgenics-style slow turn-based appeal) that rested on a single joke review. Added 1 worst_things bullet on achievements needing a third-party mod / abandoned patching (recurring in top negative reviews). Other bullets match Steam review themes (bugs, achievements, save loss, RNG, unlock grind, unfinished)."
+    },
+    "his_anchor": null,
+    "his_pos": 25,
+    "his_row_n": 35,
+    "his_spoken": "said mid",
+    "his_score": 28.4,
+    "his_top10_bonus": 0,
+    "players_score": 14.9,
+    "critics_score": 11.3,
+    "critics_avg": 73.0,
+    "overall": 20.2,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

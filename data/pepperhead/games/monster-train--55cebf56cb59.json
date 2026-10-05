@@ -1,0 +1,275 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "monster train",
+    "name": "Monster Train",
+    "display_name": "Monster Train",
+    "appid": 1102190,
+    "img": "img/1102190.jpg",
+    "steam_url": "https://store.steampowered.com/app/1102190/",
+    "website": "https://www.themonstertrain.com",
+    "short_description": "Monster Train is a strategic roguelike deck building game with a twist. Set on a train to hell, you’ll use tactical decision making to defend multiple vertical battlegrounds. With real time competitive multiplayer and endless replayability, Monster Train is always on time.",
+    "developers": [
+      "Shiny Shoe"
+    ],
+    "publishers": [
+      "Good Shepherd Entertainment"
+    ],
+    "release_date": "May 21, 2020",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [
+      "Card Battler",
+      "Rogue-lite",
+      "Card Game",
+      "Turn-Based Tactics",
+      "Deckbuilding",
+      "Rogue-like",
+      "Turn-Based Strategy",
+      "PvP",
+      "Strategy",
+      "Difficult"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.8,
+    "steam_total_reviews": 22965,
+    "metacritic": 86,
+    "metacritic_url": "https://www.metacritic.com/game/pc/monster-train?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.9,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Monster_Train"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9/10",
+        "url": "https://store.steampowered.com/app/1102190/Monster_Train/"
+      },
+      {
+        "source": "GameCritics",
+        "score": "100/100",
+        "url": "https://www.metacritic.com/game/monster-train/"
+      },
+      {
+        "source": "KeenGamer",
+        "score": "90/100",
+        "url": "https://www.metacritic.com/game/monster-train/"
+      },
+      {
+        "source": "Softpedia",
+        "score": "85/100",
+        "url": "https://www.metacritic.com/game/monster-train/"
+      },
+      {
+        "source": "God is a Geek",
+        "score": "80/100",
+        "url": "https://www.metacritic.com/game/monster-train/"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "77/100",
+        "url": "https://www.metacritic.com/game/monster-train/"
+      },
+      {
+        "source": "Screen Rant",
+        "score": "4/5",
+        "url": "https://en.wikipedia.org/wiki/Monster_Train"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "95.8% positive (22,011 of 22,965), Overwhelmingly Positive",
+        "url": "https://store.steampowered.com/app/1102190/Monster_Train/"
+      }
+    ],
+    "vgi_units": 689000,
+    "vgi_revenue": 11500000,
+    "vgi_rating": 95.846,
+    "vgi_reviews": 22964,
+    "vgi_url": "https://app.sensortower.com/vgi/game/monster-train",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "23,570,592.99",
+    "src_net": "6,953,324.93",
+    "src_url": "https://steam-revenue-calculator.com/app/1102190/monster-train",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm gonna put this as a high high a tier potentially even an S tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 5367,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=5367s",
+        "year_in_title": "2020",
+        "pos": 2,
+        "row_n": 18,
+        "row_score": 0.9178333333333333,
+        "spoken": "said high high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Monster Train is a deck-building roguelike set on a three-floor train, where you manage three separate boards at once. He calls the gameplay amazing, with one of the largest pools of possible builds thanks to faction and champion choices. He admits it can overwhelm people new to deck builders and that it is challenging. He has played it a lot, loves the art and soundtrack, and ranks it high A, possibly S.",
+        "praise": [
+          "Huge variety of builds and decks, possibly the biggest roster of builds in the genre",
+          "Pick a main faction with its own champion (two per faction), then a secondary faction, so every run starts differently",
+          "Replayability: he says it never gets old",
+          "Challenging gameplay",
+          "Phenomenal art style",
+          "Great soundtrack"
+        ],
+        "criticism": [
+          "Managing three levels at once can feel overwhelming, especially for newcomers to deck builders",
+          "Not suited to people who don't know deck-building games",
+          "Animations are pretty basic (he corrects himself to say the art style is what shines)"
+        ],
+        "unique_points": [
+          "The three-level train means you manage three boards simultaneously, placing minions on different floors",
+          "Main plus secondary faction pairing changes the run completely from the start"
+        ],
+        "quote": "this is definitely one of my favorite favorite deck building games out there",
+        "comparisons": [],
+        "design_criteria": [
+          "Build diversity: huge number of viable decks and builds",
+          "Run variety: faction and champion combinations change each start",
+          "Complexity and onboarding: three boards can overwhelm newcomers",
+          "Difficulty: challenging",
+          "Replayability: never gets old",
+          "Art style: phenomenal",
+          "Audio: soundtrack praised",
+          "Animation: basic"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2020 roguelike deckbuilder from Shiny Shoe in which you defend a multi-floor demon train's pyre from angel invaders by placing units on vertical floors, pairing two clans per run.",
+      "consensus_summary": "Monster Train is broadly regarded as one of the best roguelike deckbuilders after Slay the Spire. Steam shows about 96% positive across roughly 23k reviews (Overwhelmingly Positive), Metacritic critic score is 86 from 27 reviews (all positive), and the Metacritic user score is 7.9 (lower and more mixed than Steam). Critics and players praise the floor-placement tactics, clan mixing and snowball-into-broken-combo runs. Criticism centres on the small enemy/boss roster, a long unlock grind, balance at top Covenant ranks, and dated art. It is not early access; it has had free content updates and a paid DLC (The Last Divinity), and since 2025 many reviewers steer newcomers to Monster Train 2 instead.",
+      "best_things": [
+        "Multi-floor train layout adds spatial tactics (what goes on which floor, floor-wide effects, hit-point math) that Slay the Spire lacks; critics called it its own kind of puzzle",
+        "Pairing a main clan with a secondary clan produces many synergy combinations and encourages experimentation",
+        "Each clan has a distinct signature mechanic, which keeps runs feeling different",
+        "Snowballing into an over-the-top 'exodia' deck and steamrolling enemies is deeply satisfying; some players say it feels more empowering than Slay the Spire",
+        "Boss challenges are telegraphed up front, so you can draft toward them; several reviewers like this clarity",
+        "Runs are fairly short and playable in bursts; the game is accessible to genre newcomers and ramps up via the Covenant difficulty system",
+        "Upbeat soundtrack, and strong replay value (players report hundreds of hours and 100% achievements)",
+        "Steady free updates added champions, mutators, run records and Steam Workshop mod support"
+      ],
+      "worst_things": [
+        "Very small enemy and boss variety: players say you see essentially every enemy within a single run, and encounters feel like repetitive bullet sponges",
+        "Runs are short and deckbuilding feels cut off just as it gets interesting; only about 10 fights per run compared with dozens in Slay the Spire",
+        "High Covenant ranks (around 20-25) scale enemies so aggressively that many cards and some clan pairings become unviable, forcing the same 'broken' combos",
+        "Some complain drafted cards are not much better than starters, or that picks are obvious, so choices feel less meaningful",
+        "Art style and animation are polarising: several call it mobile-game or Hearthstone-like, cheap looking or ugly",
+        "Reported crashes or hangs on startup linked to the intro video (AVProVideo/Unity errors) that some say persist years later",
+        "With Monster Train 2 containing the first game's clans and more, a number of recent negative reviews say not to buy the original at $25"
+      ],
+      "improvements": [
+        "Add more enemy types and bosses (Metacritic users and critics such as Softpedia asked for more boss variety)",
+        "Fine-tune Covenant scaling and clan balance at the top ranks so more cards and clan combinations stay viable",
+        "Reduce or streamline the unlock grind, since factions and content are gated behind repeated runs of the same short campaign",
+        "Give players more ways to reduce variance (starting-hand or loadout options) rather than rerolling setups",
+        "Lengthen or deepen the drafting phase so deck building feels less rushed",
+        "Fix the persistent startup crash and improve Steam Deck and other platform stability"
+      ],
+      "unique_things": [
+        "Vertical multi-floor battlefield with a pyre you must protect, mixing deckbuilding with tower-defence-style positioning",
+        "Two-clan deck construction (main plus allied clan) with a champion choice defining the strategy",
+        "Units persist and level up across fights via upgrades, making the deck feel like an army that grows stronger",
+        "Covenant ladder, with a campaign structure where bosses are known in advance and players draft toward them",
+        "Playing the demons defending hell against angels gives it a goofier, lighter tone than Slay the Spire; one reviewer calls it Slay the Spire's chiller, goofier cousin",
+        "Competitive PvP multiplayer mode, unusual for the genre, and later Steam Workshop mod support"
+      ],
+      "tedious_or_disliked": [
+        "Unlocking all clans, cards and Covenant levels means replaying the same handful of stages many times, and some reviewers describe it as more grind than strategy",
+        "Low Covenant ranks are seen as too easy, and reaching meaningful difficulty takes 15-20 runs",
+        "Late-game balance feels restrictive: players can sense at the start of a run whether it is doomed, and failing is less fun than in Slay the Spire",
+        "Repetitive encounters and bloated card mechanics make runs feel samey after the first dozens of hours",
+        "Weak narrative, so there is little story motivation between runs",
+        "Drafted cards often feel only marginally better than the starter cards, so some players feel drafting choices matter little and the meta-progression is outrageously long"
+      ],
+      "divisive_points": [
+        "Versus Slay the Spire: many say Monster Train is deeper and more empowering, while others find it less tightly balanced and more luck-dependent or 'braindead'",
+        "Difficulty: some call it much easier than Slay the Spire and relaxing, others call high Covenants punishing and unfun",
+        "Art direction and music: praised as slick and upbeat by some, called dated, ugly or only serviceable by others",
+        "Whether to buy the original or go straight to Monster Train 2, which many see as strictly better for the same price"
+      ],
+      "reception_notes": "Launched May 2020 to strong reviews (IGN 9/10, Game Informer 9/10, Rock Paper Shotgun called it possibly the best deckbuilder since Slay the Spire; Northernlion dubbed it 2020's best deckbuilder) and was nominated for IGN Best Strategy/Tactics and a D.I.C.E. strategy/simulation award. Ported to Xbox One (Dec 2020), Switch (Aug 2021, later the First Class complete edition), iOS (Oct 2022) and PS5 (July 2024). Post-launch free updates include Friends & Foes (champions, bosses, run records), Wild Mutations (35 mutators) and Herzal's Workshop (Steam Workshop mods); paid DLC is The Last Divinity. Steam's all-time rating stays around 96% but the recent 30-day sample was 88% (small sample), partly reflecting negative reviews urging buyers toward Monster Train 2 (released May 21, 2025). Steam shows Windows only. Revenue estimate is approximate: steam-revenue-calculator.com estimates about $23.6M gross and $7.0M net on Steam (Boxleiter-style estimate, not audited), and SteamSpy lists 500k-1M owners. OpenCritic could not be retrieved (search budget exhausted and the page was not located), so opencritic is null.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1102190.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review counts, SteamSpy owners, Metacritic 86, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1102190/Monster_Train/",
+          "what": "Steam store page: review summary, DLC, critic quotes, update list"
+        },
+        {
+          "url": "https://www.metacritic.com/game/monster-train/",
+          "what": "Metacritic Metascore 86, 27 critic reviews, user score 7.9, outlet snippets"
+        },
+        {
+          "url": "https://www.metacritic.com/game/monster-train/user-reviews/",
+          "what": "Metacritic user review themes: limited enemies, easy low Covenants, weak narrative"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Monster_Train",
+          "what": "Wikipedia: IGN 9/10, Screen Rant 4/5, awards nominations, platforms and release dates"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1102190/discussions/",
+          "what": "Steam community discussion themes: crashes, balance, DLC bugs, localization"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1102190/monster-train",
+          "what": "Estimated gross/net revenue (approximate, Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: Metascore 86 from 27 critic reviews, user score 7.9 - unchanged. OpenCritic left null (not checked). Rewrote 'Hellhorned-style theme' bullet (vague/odd wording) using a Steam review quote; 'Four-floor' changed to 'Multi-floor' (unverified floor count); added one recurring tedious theme (marginal draft upgrades, long meta-progression) seen in top Steam reviews. Other bullets consistent with Steam reviews (Monster Train 2 'buy the sequel' negatives, limited enemy roster, art divisive, two-clan synergy praise)."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 18,
+    "his_spoken": "said high high",
+    "his_score": 91.8,
+    "his_top10_bonus": 0,
+    "players_score": 84.6,
+    "critics_score": 80.7,
+    "critics_avg": 86.0,
+    "overall": 87.0,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

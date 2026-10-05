@@ -1,0 +1,270 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "crypt of the necrodancer",
+    "name": "Crypt of the NecroDancer",
+    "display_name": "Crypt of the Necrodancer",
+    "appid": 247080,
+    "img": "img/247080.jpg",
+    "steam_url": "https://store.steampowered.com/app/247080/",
+    "website": "http://necrodancer.com",
+    "short_description": "Crypt of the NecroDancer is an award winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or select songs from your own MP3 collection!",
+    "developers": [
+      "Brace Yourself Games"
+    ],
+    "publishers": [
+      "Brace Yourself Games",
+      "Klei Entertainment"
+    ],
+    "release_date": "Apr 23, 2015",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rhythm",
+      "Female Protagonist",
+      "Difficult",
+      "Rogue-like",
+      "Great Soundtrack",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Indie",
+      "Music",
+      "Local Co-Op"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.5,
+    "steam_total_reviews": 26527,
+    "metacritic": 87,
+    "metacritic_url": "https://www.metacritic.com/game/pc/crypt-of-the-necrodancer?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.8,
+    "opencritic": 87,
+    "opencritic_url": "https://opencritic.com/game/897/-",
+    "other_scores": [
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "url": "https://opencritic.com/game/897/-/reviews"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "87/100",
+        "url": "https://opencritic.com/game/897/-/reviews"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "url": "https://opencritic.com/game/897/-/reviews"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "url": "https://opencritic.com/game/897/-/reviews"
+      },
+      {
+        "source": "Shacknews",
+        "score": "8/10",
+        "url": "https://shacknews.com/article/89235/crypt-of-the-necrodancer-get-down"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "95.5% positive of 26,527 (Overwhelmingly Positive)",
+        "url": "https://store.steampowered.com/app/247080/"
+      }
+    ],
+    "vgi_units": 1700000,
+    "vgi_revenue": 13100000,
+    "vgi_rating": 95.472,
+    "vgi_reviews": 26522,
+    "vgi_url": "https://app.sensortower.com/vgi/game/crypt-of-the-necrodancer",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "16,795,305.66",
+    "src_net": "4,954,615.17",
+    "src_url": "https://steam-revenue-calculator.com/app/247080/crypt-of-the-necrodancer",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I can't put it as a c tier I'm gonna put it as a low B for Me",
+        "video_id": "5k_-k4X90ao",
+        "t": 1686,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=1686s",
+        "year_in_title": "2015",
+        "pos": 21,
+        "row_n": 35,
+        "row_score": 0.4257142857142857,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Crypt of the NecroDancer is a top-down dungeon crawler roguelike where every action must be made on the beat of the music. PepperHead, a drummer himself, was excited to play it but admits he is bad at it after three separate attempts over the years. He respects the design and is glad a rhythm roguelike became so successful, but it is too demanding and skill-based for him personally. He lands it at low B, explicitly refusing to drop it to C.",
+        "praise": [
+          "Rhythm-driven core concept is well designed and he respects it",
+          "Phenomenal soundtrack that carries the experience",
+          "Good variety of playable characters",
+          "Great that a rhythm-based roguelike became so popular and successful",
+          "Rewards mastery: knowing enemy patterns lets you act precisely to the music"
+        ],
+        "criticism": [
+          "Very hard for a random person to pick up; fast-paced with many things to track at once",
+          "New areas bring new enemies with new patterns that must be memorised or progress is hard",
+          "Not a huge number of items, and runs rarely produce crazy builds",
+          "Never feels overpowered; purely skill-based mastery rather than build power"
+        ],
+        "unique_points": [
+          "All actions tied to the music beat, making it a rhythm game fused with roguelike dungeon crawling",
+          "Progression comes from player skill and pattern knowledge more than from builds or synergies"
+        ],
+        "quote": "I can't put it as a c tier I'm gonna put it as a low B",
+        "comparisons": [],
+        "design_criteria": [
+          "Difficulty/accessibility: too hard and fast for a casual pick-up",
+          "Enemy design: per-area patterns must be learned by heart",
+          "Audio/music: phenomenal soundtrack central to the game",
+          "Build variety/synergies: few items, no crazy builds",
+          "Character diversity: many characters",
+          "Skill vs power: mastery-based, never overpowered",
+          "Core concept originality: rhythm mechanic"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A hardcore roguelike dungeon crawler where every move and attack must be made on the beat of the music, by Brace Yourself Games with a soundtrack by Danny Baranowsky.",
+      "consensus_summary": "Critics and players both treat it as an inventive genre fusion and a modern indie classic: 87 on Metacritic and OpenCritic, and 95.5% positive across about 26.5k Steam reviews (Overwhelmingly Positive). The soundtrack, tight beat-based movement and the amount of unlockable characters and items get near-universal praise. Reception is tempered by a steep learning curve, a brutal late game (only about 8% of Steam players finish the final zone) and complaints about a long tail of paid DLC. It left Early Access in April 2015 and has been supported since with the Amplified expansion (2017) and the Synchrony DLC (online multiplayer and modding), so it is not abandoned.",
+      "best_things": [
+        "Soundtrack by Danny Baranowsky is called one of the best in games; reviewers say there is no weak track, and you can also play to your own MP3s",
+        "The rhythm-plus-roguelike fusion is seen as genuinely innovative, turning turn-based dungeon crawling into something frantic and tactile",
+        "Enemy movement patterns are learnable, giving a Souls-like mastery loop: players say it is deeply satisfying once it clicks into a flow state",
+        "Large roster of characters with different rules (Aria, Bolt, Dove, Coda and others) and many modes gives huge replay value",
+        "Good value at $14.99 for a game with a huge roster of characters and modes; the Amplified expansion is described by fans as adding a lot of content",
+        "Clever, inventive bosses and enemy design; clean, readable pixel art",
+        "Good for short sessions and quick runs; some players with ADHD say it suits brief bursts",
+        "No Beat Mode and broad accessibility options give an on-ramp for people unsure about rhythm play"
+      ],
+      "worst_things": [
+        "Very steep difficulty spike: early enemies and mini-bosses can kill in one or two hits, and Zone 4 and All Zones are a wall for many players",
+        "The beat system is rigid and leaves little room for flexibility, so one mistake can cascade into death",
+        "Some reviewers find the roguelike layer repetitive: the loop wears thin and enemy variety is low (many reskinned skeleton variants)",
+        "Bosses are sometimes called gimmicky rather than threatening",
+        "Heavy 100% completion demands: a few achievements and harder characters are described as near-impossible",
+        "Some players report desync between visuals, audio and input that makes timing feel off on certain setups",
+        "Item and inventory UI can be unclear: items are hard to identify by name and weapon damage is not shown",
+        "Damage feels inconsistent and unforgiving: a perfect run can collapse to a single ranged hit that removes half your health"
+      ],
+      "improvements": [
+        "Better explanation of items, scrolls and weapon stats in the UI and a gentler onboarding for non-rhythm players",
+        "More enemy variety and less reliance on palette-swapped skeleton and shield enemies",
+        "More meaningful hub/shop unlocks beyond mostly new loot in chests",
+        "Rebalance the hardest characters and the late-game zones, which many players call a wall",
+        "Make online multiplayer and mod support part of the base game instead of paywalling them in Synchrony",
+        "Smaller, cheaper DLC bundling; reviewers dislike the number of separate paid add-ons"
+      ],
+      "unique_things": [
+        "Everything moves on the beat: enemies, traps and the player are all locked to the soundtrack, with a beating-heart UI",
+        "Score multiplier system tied to staying on beat, with coins rewarding rhythm consistency",
+        "Bring your own music: custom MP3s generate beats for levels",
+        "No Beat Mode and several characters that change the rules (for example single-heart or bard-style restrictions), so it is effectively many games in one",
+        "Composed by the Super Meat Boy and Binding of Isaac composer, making music the core mechanic rather than decoration",
+        "Spawned crossovers and spinoffs (Cadence of Hyrule, Rift of the NecroDancer) and a large modding scene"
+      ],
+      "tedious_or_disliked": [
+        "Dying repeatedly in the first zone for new players before the timing becomes instinctive",
+        "Repeating zones 1-3 just to get a fresh attempt at Zone 4, then relearning them at 3 hearts in All Zones mode",
+        "Completionist grind: a handful of very hard achievements, and 100% is described as a huge time sink",
+        "Constant DLC upsells: some longtime owners are annoyed by repeated DLC promotion and the count of paid add-ons",
+        "Music can wear on some players, and a few find the rhythm requirement stressful or ill-suited to ADHD or weak rhythm",
+        "Frequent in-game popups and prompts pushing tips and DLC, which some players find annoying"
+      ],
+      "divisive_points": [
+        "Rhythm mechanic itself: some call it the best part of the game while others find it only neat for ten minutes or feel it is more a roguelike than a rhythm game",
+        "Difficulty: fans see it as rewarding mastery; others call it exclusionary and poor design in late zones",
+        "Synchrony DLC value: praised for rollback online multiplayer and modding, but criticised as thin content for its price and with a low online population"
+      ],
+      "reception_notes": "Launched from Early Access around 23-24 April 2015 to very strong reviews (early Steam score around 99% positive per community comments). Metacritic: 87 from 45 critic reviews (Generally Favorable) with a user score of 7.8 from about 310 ratings; OpenCritic: 87 top critic average, 96% of critics recommend, 47 reviews, 98th percentile. Steam owner estimates are 1-2 million, and steam-revenue-calculator estimates about 16.8M USD gross and about 5.0M net (Boxleiter-method estimate, not audited; no exact copies figure found). Amplified (2017) was well received as a content doubling; Synchrony (online co-op, modding) drew mixed feelings over price and paywalled features. Available on PC, PS4, PS5, Switch, Xbox One, Vita and iOS.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/247080.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid 247080 data: 95.5% positive, 26.5k reviews, Metacritic 87, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/crypt-of-the-necrodancer/",
+          "what": "Metascore 87 (45 reviews) and user score 7.8"
+        },
+        {
+          "url": "https://opencritic.com/game/897/-",
+          "what": "OpenCritic 87, 96% recommend, 47 reviews, outlet scores"
+        },
+        {
+          "url": "https://www.hardcoregaming101.net/crypt-of-the-necrodancer/",
+          "what": "Critical review: repetition, enemy variety, gimmicky bosses, shop rewards"
+        },
+        {
+          "url": "https://shacknews.com/article/89235/crypt-of-the-necrodancer-get-down",
+          "what": "Shacknews 8/10: innovative, steep learning curve, rigid beat system, divisive"
+        },
+        {
+          "url": "https://www.gamingonlinux.com/2015/04/crypt-of-the-necrodancer-exits-early-access-get-with-the-beat/",
+          "what": "Early Access exit and launch community reaction"
+        },
+        {
+          "url": "https://vaporlens.app/app/2094810/crypt_of_the_necro_dancer_synchrony",
+          "what": "Synchrony DLC review summary: paywalled multiplayer/mods, thin content, dead online"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/247080/crypt-of-the-necrodancer",
+          "what": "Estimated gross and net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/247080/discussions/0/1480982338961909706",
+          "what": "Steam community discussion on DLC order and Amplified reception (via search summary)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic (87 from 45 critics, user 7.8 from 310) and OpenCritic (87, 96% recommend, 47 reviews) re-fetched and confirmed unchanged. Softened unsupported 'Great value' claim, simplified Zone 5 rebalance improvement, added inconsistent-damage worst thing and popup/upsell tedium from top Steam reviews. Other bullets match review themes (difficulty, soundtrack, ADHD short runs, achievements, Synchrony paywall, item UI)."
+    },
+    "his_anchor": null,
+    "his_pos": 21,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 42.6,
+    "his_top10_bonus": 0,
+    "players_score": 82.6,
+    "critics_score": 84.5,
+    "critics_avg": 87.0,
+    "overall": 64.9,
+    "labels": [
+      "action",
+      "coop",
+      "traditional"
+    ],
+    "primary_label": "action"
+  }
+}

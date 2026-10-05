@@ -1,0 +1,267 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "neon abyss",
+    "name": "Neon Abyss",
+    "display_name": "Neon Abyss",
+    "appid": 788100,
+    "img": "img/788100.jpg",
+    "steam_url": "https://store.steampowered.com/app/788100/",
+    "website": "https://www.veewo.com/neonabyss",
+    "short_description": "Neon Abyss is a frantic, roguelite action-platformer where you run ‘n’ gun your way into the Abyss. Featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset.",
+    "developers": [
+      "Veewo Games"
+    ],
+    "publishers": [
+      "Team17",
+      "Veewo Games"
+    ],
+    "release_date": "Jul 14, 2020",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Platformer",
+      "Loot",
+      "Procedural Generation",
+      "Singleplayer",
+      "Pixel Graphics",
+      "Replay Value",
+      "Cyberpunk",
+      "Shooter",
+      "Adventure"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 85.9,
+    "steam_total_reviews": 23628,
+    "metacritic": 74,
+    "metacritic_url": "https://www.metacritic.com/game/neon-abyss/",
+    "metacritic_user": 6.6,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam all-time user reviews",
+        "score": "Very Positive, 85.9% positive of 23,628 reviews (local data); store page shows Very Positive 86%",
+        "url": "https://store.steampowered.com/app/788100/Neon_Abyss/"
+      },
+      {
+        "source": "Steam recent (30 days)",
+        "score": "Mixed, 68% of 25 reviews",
+        "url": "https://store.steampowered.com/app/788100/Neon_Abyss/"
+      },
+      {
+        "source": "OpenCritic (per Wikipedia)",
+        "score": "76% critics recommend; exact average not retrieved",
+        "url": "https://en.wikipedia.org/wiki/Neon_Abyss"
+      },
+      {
+        "source": "Metacritic platform range (per Wikipedia)",
+        "score": "74 (PC) to 81 (Xbox One)",
+        "url": "https://en.wikipedia.org/wiki/Neon_Abyss"
+      },
+      {
+        "source": "CD-Action",
+        "score": "85 (verified; top of 12 critic reviews)",
+        "url": "https://www.metacritic.com/game/neon-abyss/critic-reviews/"
+      },
+      {
+        "source": "Screen Rant (reported as the lone negative review; not visible in fetched Metacritic excerpt, unverified)",
+        "score": "40",
+        "url": "https://www.metacritic.com/game/neon-abyss/"
+      }
+    ],
+    "vgi_units": 709000,
+    "vgi_revenue": 9400000,
+    "vgi_rating": 85.89,
+    "vgi_reviews": 23629,
+    "vgi_url": "https://app.sensortower.com/vgi/game/neon-abyss",
+    "spy_owners": "2,000,000 .. 5,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "4,736,158.70",
+    "src_net": "1,397,166.82",
+    "src_url": "https://steam-revenue-calculator.com/app/788100/neon-abyss",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "none",
+        "video_id": "5k_-k4X90ao",
+        "t": 5693,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=5693s",
+        "year_in_title": "2022",
+        "pos": 12,
+        "row_n": 35,
+        "row_score": 0.6857142857142857,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Neon Abyss is a 2D action dungeon-crawler roguelike with an 80s neon aesthetic. He finds it visually fun with great music and bosses, but says the gameplay concept is not unique compared to similar games. He calls it the most basic, solid baseline on the board and recommends it to dungeon-crawler fans, without stating a tier letter.",
+        "praise": [
+          "Fun neon, 80s-flavoured visuals",
+          "Great music",
+          "Cool bosses and some cool secret bosses",
+          "Some weapons and passives are genuinely fun",
+          "Does everything pretty well overall, a solid experience for dungeon-crawler fans",
+          "Light grind for unlocks that is not too hard"
+        ],
+        "criticism": [
+          "No particularly unique concept compared to other games in the genre",
+          "Many weapons are not that fun despite the trailer making them look crazy",
+          "Characters do not feel very different from one another",
+          "Passives and abilities are uneven in how fun they are",
+          "Requires a bit of grinding"
+        ],
+        "unique_points": [
+          "Its notable trait is polish and presentation rather than novel design",
+          "Serves as the baseline for a competent, generic dungeon-crawler roguelike"
+        ],
+        "quote": "the most basic like solid beat here",
+        "comparisons": [
+          "Moonlighter"
+        ],
+        "design_criteria": [
+          "Uniqueness of concept: judged not particularly unique",
+          "Visuals and charm: strong neon aesthetic",
+          "Audio: great music",
+          "Weapons: cool ideas but many not fun",
+          "Character diversity: characters feel too similar",
+          "Boss design: bosses and secret bosses are cool",
+          "Meta-progression: mild grind for unlocks",
+          "Passives/abilities: uneven fun"
+        ],
+        "rerank_note": "He muses about placing it slightly over Moonlighter, then backtracks because he had a better experience with Moonlighter."
+      }
+    ],
+    "community": {
+      "one_liner": "A fast run-and-gun 2D action-platformer roguelite from Veewo Games (published by Team17) where you descend a neon-soaked Greek-myth-meets-cyberpunk dungeon collecting hundreds of items, hatching pets and stacking synergies.",
+      "consensus_summary": "Neon Abyss is Very Positive on Steam (about 86% of roughly 23.6k reviews) and Mixed-to-Average with critics (Metacritic PC 74 from 12 reviews, user score 6.6). Players and critics agree it is a fun, colourful, chaotic Binding of Isaac / Enter the Gungeon-style shooter with a huge item pool and a great soundtrack, and that it is cheap and often on deep sale. The recurring complaints are visual clutter (enemy bullets hard to tell from yours), items that are mostly shallow 'chance to do X when Y' effects, clunky controls with no dodge, and long-standing bugs including some reports of lost saves. Support has effectively stopped: DLC landed in 2021 (Alter Ego) plus later cosmetic/character packs, Veewo moved on to Neon Abyss 2 (Early Access from July 2025), and recent Steam reviews (last 30 days) are Mixed at about 68%, with reviewers noting bugs are years old and the game has not been updated for a very long time.",
+      "best_things": [
+        "Fast, fluid run-and-gun gameplay that is immediately fun and works well in short sessions (one reviewer calls it a go-to when they have 30 minutes)",
+        "Huge pool of weapons, items and abilities (500-600+) that gives runs a different feel, with some strong build-defining combos that make you feel invincible",
+        "Striking neon/cyberpunk pixel art and a high-energy soundtrack that many reviewers single out",
+        "Pet hatching and evolution system and the quirky mini-games/shops add personality and extra ways to power up",
+        "Varied bosses and dungeon evolution system (choices change the ruleset of later runs), plus a progression/unlock tree that keeps you coming back",
+        "Distinct playable characters, including DLC characters like the katana-wielding Saya whose melee playstyle is well liked",
+        "Very good value: frequently discounted to about 5-7 USD and players report 20-80+ hours"
+      ],
+      "worst_things": [
+        "Hard to distinguish your own bullets from enemy projectiles; enemy bullets are layered under the player's, so late-game screens become unreadable",
+        "Many items are shallow 'chance to do X when you do Y' effects or simple damage/key/coin conversions, with few creative interactions despite the advertised unlimited synergies",
+        "Item descriptions are hidden unless you use a specific character or find a specific item, so you pick among 500+ items by name and icon alone",
+        "Long-standing bugs (some reported as 6+ years old): falling through platforms stops working, broken menu/controller input, collection or progression blocked",
+        "Reports of save data being wiped or progression lost, including after cloud/Epic versions",
+        "Clunky controls and aiming: no dedicated dodge button, awkward default controller layout, inconsistent hitboxes, movement described as slow by some",
+        "Uneven economy: rooms give few coins while keys cost about 30, so a poor early luck stretch leaves you weak for the rest of the run",
+        "Procedural generation is repetitive with limited room and environment variety, and the English translation is described as weak by some"
+      ],
+      "improvements": [
+        "Add a dodge/dash button and more precise aiming and hitbox behaviour",
+        "Render enemy projectiles over player bullets or make them visually distinct to fix readability",
+        "Show item descriptions to all players by default (or via an in-game codex) instead of gating them behind a character or item",
+        "Make items interact more meaningfully and cut filler 'chance to' effects; make different characters matter more",
+        "Fix the old platform-drop, menu-input and save-loss bugs and optimize performance (lag spikes reported)",
+        "Rebalance the coin/key economy and improve achievement design; players also asked for mod support and the ability to save and resume runs"
+      ],
+      "unique_things": [
+        "Dungeon evolution system in which choices alter the ruleset of the dungeon in later runs, plus the hub bar that modifies runs",
+        "Pet egg hatching and evolution as a core power-up loop alongside guns and items",
+        "Greek-mythology gods reimagined with a neon cyberpunk aesthetic",
+        "Wisdom/violence mechanic tied to certain characters, where taking damage converts charge and can ruin builds",
+        "Casino-style slot and mini-game gates for chests and doors, plus a card/gacha-style cheat system",
+        "A 'thriving, not surviving' design ethos praised by PC Invasion: a platformer-shooter blend of Isaac-style items with run-and-gun movement"
+      ],
+      "tedious_or_disliked": [
+        "Runs grow long (around an hour, more with mini-games) as deeper levels unlock, and reviewers find the repeated levels and bosses repetitive after a while",
+        "Mini-games and challenge rooms that sometimes break or bar access to loot feel like small inconveniences stacked on the run",
+        "All enemies spawning at once on room entry overwhelms players, and screens fill with effects",
+        "Achievements such as die 99 times or enter a room 999 times are called grindy and poorly designed; the upgrade accumulation was called a long slog in early press",
+        "No way to save and resume mid-run (raised in the top-voted Steam review) makes hour-long runs awkward for players with limited time"
+      ],
+      "divisive_points": [
+        "Synergies: fans say builds get wild, critics and many negative reviewers say most items are dull and rarely combine",
+        "Difficulty: some find it about the right challenge, others find it easy once patterns are learned, while item RNG swings runs between overpowered and hopeless",
+        "Controls and feel: described as tight by some and clunky or slow by others",
+        "Comparison to Enter the Gungeon / Binding of Isaac: a fresh platformer take to some, a weaker imitation to others"
+      ],
+      "reception_notes": "Note the data file lists 2022 but the game launched July 14, 2020 on PC, Switch, PS4 and Xbox One (Windows only on Steam). Launch press was broadly positive (Metacritic PC 74, top scores 85 CD-Action, 81 Hooked Gamers, 80 from Hardcore Gamer, The Indie Game Website and The Games Machine; lows 70 PC Games and Multiplayer.it, and a 40 from Screen Rant). Critics praised item variety and presentation while noting repetitive procedural levels, visual chaos, PS4 performance issues and lack of a dodge button. Steam revenue estimates (steam-revenue-calculator, Boxleiter method) are about 4.7M gross / 1.4M net, and SteamSpy estimates 2-5 million owners; treat as order-of-magnitude. Post-launch: the Alter Ego pack (2021) and further DLC (Lovable Rogues Pack, Chrono Trap) were added, but recent reviewers say no meaningful update in a very long time and some bugs persist; it was also given away on Epic Games Store at one point, which reviewers mention. Neon Abyss 2 entered Early Access on July 17, 2025 and a reviewer said it is not recommended; the Steam forum shows 677 problem-report threads covering controller mapping, PS5 controller, resolution and platform-drop bugs.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/788100.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review totals, SteamSpy owners and revenue estimate (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/788100/Neon_Abyss/",
+          "what": "Steam store page: all-time and recent review summaries, tags, DLC"
+        },
+        {
+          "url": "https://www.metacritic.com/game/neon-abyss/",
+          "what": "Metascore 74 (12 critics), user score 6.6 (99 ratings)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/neon-abyss/critic-reviews/",
+          "what": "Individual critic review scores and summaries"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neon_Abyss",
+          "what": "Development, release, platform scores, OpenCritic 76% recommend, DLC and Neon Abyss 2 EA date"
+        },
+        {
+          "url": "https://steamcommunity.com/app/788100/discussions/",
+          "what": "Steam forum categories and recurring problem reports"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/788100/neon-abyss",
+          "what": "Estimated gross and net revenue"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: PC Metascore 74 from 12 critics, user 6.6 (99 ratings) confirmed; CD-Action 85 confirmed. Screen Rant 40 not visible in page excerpt, relabelled as unverified. OpenCritic left null/unverified (Wikipedia 76% recommend kept as secondary). Steam data matches local file. Sharpened save-and-resume bullet to reflect the top-voted review. No bullets removed."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 35,
+    "his_spoken": null,
+    "his_score": 68.6,
+    "his_top10_bonus": 0,
+    "players_score": 33.6,
+    "critics_score": 16.8,
+    "critics_avg": 74.0,
+    "overall": 46.0,
+    "labels": [
+      "shooter",
+      "platformer",
+      "action"
+    ],
+    "primary_label": "shooter"
+  }
+}

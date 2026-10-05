@@ -1,0 +1,258 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "tower factory",
+    "name": "Tower Factory",
+    "display_name": "Tower Factory",
+    "appid": 2707490,
+    "img": "img/2707490.jpg",
+    "steam_url": "https://store.steampowered.com/app/2707490/",
+    "website": null,
+    "short_description": "Tower Factory is a tower defense and automation game with roguelite elements. Optimize resource production using conveyor systems while defending against monster waves. Can you find and destroy the enemy tower before it's too late?",
+    "developers": [
+      "Gius Caminiti"
+    ],
+    "publishers": [
+      "Gius Caminiti"
+    ],
+    "release_date": "Nov 7, 2024",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Automation",
+      "Tower Defense",
+      "Strategy",
+      "Base-Building",
+      "RTS",
+      "Resource Management",
+      "Rogue-lite",
+      "Crafting",
+      "Procedural Generation"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 89.6,
+    "steam_total_reviews": 1259,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/tower-factory/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (all-time)",
+        "score": "89.6% positive, Very Positive, 1,128 positive / 131 negative (~1,259 reviews)",
+        "url": "https://store.steampowered.com/app/2707490/Tower_Factory/"
+      },
+      {
+        "source": "Steam (recent 30 days)",
+        "score": "85% positive (14 reviews)",
+        "url": "https://store.steampowered.com/app/2707490/Tower_Factory/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "20,000 - 50,000 owners",
+        "url": "https://steamspy.com/app/2707490"
+      },
+      {
+        "source": "steam-revenue-calculator (Boxleiter estimate)",
+        "score": "~$228.7k gross, ~$67.5k net to dev, ~15,300 copies at $14.99 (order of magnitude only)",
+        "url": "https://steam-revenue-calculator.com/app/2707490/tower-factory"
+      }
+    ],
+    "vgi_units": 61285,
+    "vgi_revenue": 674000,
+    "vgi_rating": 89.595,
+    "vgi_reviews": 1259,
+    "vgi_url": "https://app.sensortower.com/vgi/game/tower-factory",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "228,747.40",
+    "src_net": "67,480.48",
+    "src_url": "https://steam-revenue-calculator.com/app/2707490/tower-factory",
+    "final_tier": "A",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put this as an eight tier here right on the RAM for now (ASR garble, most plausibly B tier)",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 11613,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=11613s",
+        "year_in_title": null,
+        "pos": 12,
+        "row_n": 14,
+        "row_score": 0.1785714285714286,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Tower Factory is an early-access tower defense roguelike that fuses Factorio-style resource chains with simple tower defense. You gather wood and rock, convert them through production chains, and expand a hidden map to find gems that win the run. He enjoys the satisfying visual flow and the genre fusion, and finds it solid for early access. He thinks it barely feels like a roguelike, the early game is repetitive, and the towers are too minimal. The tier is garbled by ASR ('eight tier'), most plausibly B.",
+        "praise": [
+          "Fusing Factorio-style logistics with tower defense is a fresh concept for roguelikes",
+          "Cute, simple visuals that fit the game, with satisfying flow of resources along chains",
+          "Building things from gathered resources feels very satisfying",
+          "Long, slow-paced runs suit tower defense, since both genres build up gradually",
+          "Flexible tower target priority options",
+          "Win condition of exploring and expanding the map to find gems is a cool concept",
+          "Mid-game becomes really enjoyable with more flexibility"
+        ],
+        "criticism": [
+          "Few real roguelike elements: the map offers only resources, gems and stronger tower spots",
+          "Early game is repetitive and near-identical every run (wood, rocks, planks, etc.)",
+          "Towers are minimalistic and always behave the same, so there is little build variety",
+          "Runs feel long, roughly an hour or less",
+          "Building mechanics take a while to get used to, and it is early access so things may change"
+        ],
+        "unique_points": [
+          "Factory-building plus tower defense hybrid where the focus is the factory mess, not the towers",
+          "Winning by finding several gems through exploration rather than attacking an enemy base",
+          "Suggests unique tower upgrades found on the map (e.g. fireball catapults) would enable build diversity"
+        ],
+        "quote": "I think this game is really solid.",
+        "comparisons": [
+          "Factorio"
+        ],
+        "design_criteria": [
+          "Genre fusion: combining factory building with tower defense is a fresh idea",
+          "Visuals and feel: cute, simple, satisfying resource flow",
+          "Run length: long runs but fitting for the genre",
+          "Replayability and variety: early game repetitive, towers never change",
+          "Roguelike elements: wants more map discoveries and unique tower upgrades",
+          "Meta-progression: exists and speeds things up",
+          "Accessibility: building mechanics take time to learn"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A solo-developed tower defense and factory-automation hybrid with roguelite meta-progression, where you build conveyor-fed production lines to supply towers while uncovering fog of war to find crystals and the enemy castle.",
+      "consensus_summary": "Players receive Tower Factory very well: about 89.6% positive across roughly 1,260 Steam reviews (Very Positive), with 14 recent reviews around 85% positive. Fans call it an addictive, satisfying blend of Factorio-style logistics and tower defense, and many report very long playtimes (100 to 250+ hours among top reviews). Complaints focus on difficulty and balance (enemies scale faster than production), luck in finding crystals under fog of war, grindy meta-progression and repetitive rebuilds, and missing quality-of-life features. It has been in Early Access since Nov 7, 2024, with a planned 1.0 in roughly 12-18 months (around 2027) per the store page; it is a solo dev project (Gius Caminiti) and the dev is praised by some for helping restore lost saves, while one reviewer says he resists suggestions. No professional critic coverage was found (Metacritic page exists but has no scores; nothing located on OpenCritic).",
+      "best_things": [
+        "Fresh hybrid: Factorio-like conveyor logistics feeding tower defense, described as a cross between Factorio and Bloons-style TD",
+        "Satisfying optimization loop; players enjoy min-maxing production and feel rewarded when a new mechanic clicks",
+        "Exploration via beacons and fog of war that reveals resource chests, coin chests (meta progression) and crystals, making exploring part of the win condition",
+        "Varied towers that feel balanced and each matter against different enemy types",
+        "Clean, readable, charming art style",
+        "Good performance even with a lot on screen",
+        "Fast RTS-like feel with hotkeys and planning under pressure, yet relaxing once systems flow",
+        "Responsive solo developer; one reviewer had a 22-hour lost save restored, and others cite trust in the dev using his real name"
+      ],
+      "worst_things": [
+        "Balance: enemy waves, resource availability and belt throughput are seen as mismatched, especially on bosses and from level 3 onward, sometimes even on easy difficulty",
+        "Crystal and enemy-castle hunting is luck-dependent; a wrong direction or unlucky map can doom a run",
+        "Late game and higher tiers become tedious, hunting resources to reach tier 2/3 towers",
+        "Content is thin for the price: some finish the main content in about 6 hours, and endless mode is criticized by some as unsatisfying",
+        "Crashes and lost saves reported by a few reviewers (including a long-time player), plus a pinned Known Issues thread on the community hub",
+        "Limited in-game info about enemy weaknesses and stats",
+        "Tower feedback (visual and audio) is considered weak by at least one reviewer",
+        "Windows only; no Mac/Linux, and some ask for more languages (e.g. Arabic)"
+      ],
+      "improvements": [
+        "Fast-forward and a 'next round/skip wave' button",
+        "Bulk select/move for buildings and belts, blueprints and building upgrades",
+        "A clickable minimap marking points of interest and opened/unopened chests, plus castle-entry storage indicators",
+        "More information on enemy types and weaknesses",
+        "Rebalancing of difficulty curve, resource rates and level 3 tree yields, plus easier modes or more game modes",
+        "More content and replay value (more tiers/levels/modes) and endless-mode improvements"
+      ],
+      "unique_things": [
+        "Resources for towers come from a real automated factory rather than a simple gold currency",
+        "Fog of war exploration with beacons and fire towers doubles as both resource acquisition and win-condition discovery",
+        "Roguelite meta-progression through coin chests and 70+ permanent upgrades",
+        "Towers gain experience and upgrade choices trade off basic vs advanced towers",
+        "Offensive objective: find crystals and destroy the enemy tower, rather than only surviving waves",
+        "Multiple bosses and procedurally generated levels, with RTS-style time pressure"
+      ],
+      "tedious_or_disliked": [
+        "Repeatedly rebuilding similar factories each run combined with grinding meta upgrades before progress is possible",
+        "Constantly relocating harvesters and sawmills as resources deplete, without multi-select tools",
+        "With no fast-forward, long waiting stretches and click-a-rock busywork in the late game",
+        "Hunting for crystals or castle location that can stretch matches to 20+ minutes of frustration",
+        "Perceived punishing difficulty: enemies become relentless as soon as you extend vision to gather iron/coal",
+        "Grinding macro upgrades feels mandatory, with some saying only one strategy works"
+      ],
+      "divisive_points": [
+        "Whether mixing TD and factory pacing works: one fan review says the time pressure is incompatible yet still recommends it, while others call it the perfect blend",
+        "Difficulty: some find it gentle and cozy early and hard later, others call it a luck-driven grind; replays and rebuilds are either addictive or repetitive",
+        "Price: some say $14.99 is steep at full price (buy on sale), while many count the hours as great value",
+        "Developer responsiveness: praised for save restoration and fixes, but one reviewer claims he is reluctant to take suggestions"
+      ],
+      "reception_notes": "Released into Steam Early Access on Nov 7, 2024 by solo developer Gius Caminiti at $14.99 (Windows only). Reviews have stayed Very Positive since launch, with demo plays during Steam Tower Defense Fest converting buyers. Current content per the store page: six procedurally generated levels, six bosses, 13 towers plus upgrades, 20+ factory buildings and 70+ meta upgrades, with endless mode also discussed on the community hub. Active development continues (reviews dated into 2026 and a pinned Known Issues post), but a few users report save loss after updates. No professional critic reviews found; Metacritic shows 'tbd' and nothing located on OpenCritic. Web search budget was exhausted during research, so no outlet reviews or Reddit threads could be read; community detail comes primarily from Steam reviews and the Steam community hub. Note some descriptions of early-access content (levels count) may be dated.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2707490.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store metadata: review counts, tags, SteamSpy owners, revenue estimates"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2707490/Tower_Factory/",
+          "what": "Steam store page: description, early access roadmap, content list, tags, review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2707490/discussions/",
+          "what": "Steam community hub: discussion themes (endless mode, balance, known issues, difficulty spikes)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2707490/tower-factory",
+          "what": "Boxleiter-method revenue and copies estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/tower-factory/",
+          "what": "Metacritic page exists but has no critic or user scores"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=tower%20factory",
+          "what": "OpenCritic search; no entry found"
+        },
+        {
+          "url": "https://steamspy.com/app/2707490",
+          "what": "SteamSpy owner range estimate (20k-50k), via local steam_data.json"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic page: critic and user scores both 'tbd', so nulls confirmed; Steam figures match local steam_data.json (89.6%, 1128/131, SteamSpy 20k-50k, Boxleiter ~$228.7k gross). Removed unsupported 'well-liked soundtrack' claim (not in reviews); removed unsupported 'boss fights can take over an hour' and 'turret limits' specifics from improvements. All other bullets trace to top-voted Steam reviews; no missing recurring themes added."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 14,
+    "his_spoken": null,
+    "his_score": 17.9,
+    "his_top10_bonus": 0,
+    "players_score": 43.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 29.2,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

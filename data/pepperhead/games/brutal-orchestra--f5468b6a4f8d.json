@@ -1,0 +1,258 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "brutal orchestra",
+    "name": "Brutal Orchestra",
+    "display_name": "Brutal Orchestra",
+    "appid": 1734320,
+    "img": "img/1734320.jpg",
+    "steam_url": "https://store.steampowered.com/app/1734320/",
+    "website": null,
+    "short_description": "Brutal Orchestra is a Turn-Based Roguelike Strategy Game. You died, someone killed you. You are in Purgatory and you will never escape. Make a deal with the &quot;demon&quot; Bosch and set off into Purgatory finding ​all manner of demented friends and foes on your quest to get petty revenge.",
+    "developers": [
+      "Talia bob Mair",
+      "Nicolás Delgado"
+    ],
+    "publishers": [
+      "Hellbent Games"
+    ],
+    "release_date": "Dec 17, 2021",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Strategy",
+      "RPG",
+      "Rogue-lite",
+      "Rogue-like",
+      "Perma Death",
+      "Turn-Based Tactics",
+      "2D",
+      "Indie",
+      "Dark Humor",
+      "2.5D"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 97.6,
+    "steam_total_reviews": 2103,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/brutal-orchestra/",
+    "metacritic_user": 9.1,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all languages/English store summary)",
+        "score": "Overwhelmingly Positive, 97.6% positive (2,053 positive / 50 negative of 2,103)",
+        "url": "https://store.steampowered.com/app/1734320/Brutal_Orchestra/"
+      },
+      {
+        "source": "Steam Revenue Calculator (Boxleiter estimate)",
+        "score": "Est. gross revenue about $1.19M, net about $351K; copies not stated",
+        "url": "https://steam-revenue-calculator.com/app/1734320/brutal-orchestra"
+      },
+      {
+        "source": "SteamSpy-derived owners estimate (from local dataset)",
+        "score": "50,000 to 100,000 owners",
+        "url": "https://store.steampowered.com/app/1734320/Brutal_Orchestra/"
+      }
+    ],
+    "vgi_units": 63090,
+    "vgi_revenue": 895000,
+    "vgi_rating": 97.622,
+    "vgi_reviews": 2103,
+    "vgi_url": "https://app.sensortower.com/vgi/game/brutal-orchestra",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,190,284.56",
+    "src_net": "351,133.95",
+    "src_url": "https://steam-revenue-calculator.com/app/1734320/brutal-orchestra",
+    "final_tier": "A",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I might just put this as a low A tier ... Yeah, I'll put this in the low A.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 1869,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=1869s",
+        "year_in_title": null,
+        "pos": 5,
+        "row_n": 9,
+        "row_score": 0.395,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Brutal Orchestra is a turn-based, positioning-focused tragedy game where a dead protagonist travels through a weird in-between realm with a party of misfits. He loves its disturbing, distinct vibe, art, music and highly unique colored-pigment combat, and he played through to the true final boss. His main complaints are that the roguelike layer is minor, abilities and items barely change between runs, and unlocks come too slowly. He places it in low A tier.",
+        "praise": [
+          "Extremely distinct art style, music and disturbing overall vibe",
+          "Very unique gameplay built on colored pigment mana and overflow damage",
+          "Strong emphasis on positioning for both attacks and evading, with depth despite simple abilities",
+          "Great character variety, with characters that play drastically differently",
+          "New enemies, biomes and bosses with fresh mechanics keep appearing and are a blast",
+          "Dark, insulting story and plenty of content"
+        ],
+        "criticism": [
+          "Roguelike elements are quite minor, so runs get repetitive",
+          "Character abilities are fixed per run and can be upgraded but not changed; items are limited (about one per character) and often uninteresting",
+          "Protagonist must always be on the team, limiting team freedom",
+          "Unlocks of new characters and side quests come too late; meta-progression pacing is slow",
+          "Random enemy attack directions feel out of place in a planning-heavy game",
+          "Few rewards beyond limited money; full party conflicts with keeping open space to evade"
+        ],
+        "unique_points": [
+          "Pigment/mana system where overflow causes damage, with very few comparable mechanics elsewhere",
+          "Tension between a full team and open tiles for dodging forces a meaningful choice",
+          "Enemy attacks telegraph direction so encounters can be planned like a puzzle"
+        ],
+        "quote": "I'll put this in the low A.",
+        "comparisons": [
+          "Pikmin (loosely, re the colored pigments)"
+        ],
+        "design_criteria": [
+          "Gameplay uniqueness: novel pigment and positioning mechanics weighed heavily",
+          "Visuals and audio/vibe: distinct art, music and atmosphere are a major plus",
+          "Roguelike depth: minimal run-to-run variation in abilities and items counts against it",
+          "Character variety: very different characters, but the team is largely fixed once chosen",
+          "Meta-progression pacing: slow unlock of characters and content is a flaw",
+          "RNG: random enemy moves undermine the strategic planning",
+          "Content amount: boss, biome and enemy variety supports its rating",
+          "Risk vs reward in team composition: full team versus evasion space"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based tactical roguelike set in a Hieronymus Bosch-inspired Purgatory, where you recruit a party of grotesque 'fools' and fight using a colour-coded pigment resource, made by Talia bob Mair and Nicolas Delgado and published by Hellbent Games.",
+      "consensus_summary": "Brutal Orchestra is a cult favourite with an Overwhelmingly Positive Steam rating (about 97.6% of roughly 2,100 reviews) and very long playtimes among its fans, some in the hundreds of hours. Players praise its distinctive art, music, dark humour, story and a pigment-based combat system that rewards planning. Critic coverage is thin: Metacritic has a page with no critic score yet and only a handful of user ratings (9.1 from 7), and OpenCritic shows nothing I could find. It is a full 1.0 release (Dec 2021), not early access, and Steam reviews say the developers were still adding free content years later, with an active Workshop mod scene. The main complaints are heavy RNG, pigment lockouts, weak-feeling items and characters, and a steep, unclear learning curve. Web search was unavailable for this run, so coverage of outlet reviews and Reddit is limited to Steam reviews, Metacritic and wiki pages.",
+      "best_things": [
+        "Striking, grotesque art direction drawn from Hieronymus Bosch, with unusual enemy and companion designs",
+        "Music and atmosphere: reviewers repeatedly call the soundtrack and per-enemy battle themes a highlight",
+        "Pigment system: damaging enemies yields pigment matching their health-bar colour, which you spend on abilities, creating a dynamic puzzle of who to hit and in what order",
+        "Positioning and enemy mechanics give turn-based fights a tactical, puzzle-like feel; many say each enemy and boss has its own mechanics",
+        "Dark, bittersweet humour and a personal-feeling story; several reviewers call the narrative moving",
+        "The full game opens up after the first winning run, with extra enemies, bosses, companions, difficulty and story that pull players to keep playing",
+        "Large unlock pool (items, fools, achievements) that encourages replay without feeling like a chore, according to some reviewers",
+        "Active Steam Workshop modding scene (40+ mods catalogued on the community wiki, including character, enemy and item packs) extends playtime for veterans"
+      ],
+      "worst_things": [
+        "Heavy RNG: random starting party members, coin-flip movement shifts on hit or attack, a roughly 40% chance for extra pigment, and random instant-kill moves on some enemies",
+        "Pigment lockouts: if enemies do not supply the colour your party needs, you can be stuck with bad or forced abilities, or overflow pigment and take damage",
+        "Characters have very few moves (two or three, sometimes randomly assigned) and one item slot, so builds feel limited and upgrades feel small",
+        "Many items, especially before unlocks, are described as weak or useless, and some party members as nearly dead weight",
+        "Only three zones and a limited enemy pool, so the same content repeats quickly (a Metacritic user notes seeing every enemy and boss by about the fifth run)",
+        "Many enemy abilities and status effects are hard to keep track of; some players resort to guides or other players to learn the rules",
+        "Some find the UX poor, and one Steam reviewer notes the tutorial could not be saved mid-way and lacks Steam Cloud saves"
+      ],
+      "improvements": [
+        "Reduce or give players more control over RNG (party selection, random skill assignment, coin-flip movement)",
+        "Give characters more moves and more meaningful equipment or build customization so pigment restrictions feel less punishing",
+        "More zones, routes and variety, with some fans explicitly asking for a larger sequel with more than three routes",
+        "Add Steam Cloud saves (the store page lists none) and let the tutorial be saved or resumed mid-way",
+        "Make normal fights less trivial on hard mode and strengthen meta-progression, since some players feel their team does not grow across runs",
+        "Clearer onboarding and in-game explanation of statuses and enemy abilities, since many reviewers say it is confusing until it clicks"
+      ],
+      "unique_things": [
+        "Pigment economy where hits generate colour you then spend on abilities, tying positioning, targeting and ability choice together",
+        "Bosch-inspired Purgatory setting with grotesque, humorous characters and a story that unlocks more fully after the first winning run",
+        "Party of oddball companions ('fools') with very few but distinctive abilities, instead of a large skill tree",
+        "Boss and enemy fights with bespoke mechanics and theme songs, described as puzzle-like",
+        "Strong mod support through Steam Workshop and a dedicated modding API and wiki"
+      ],
+      "tedious_or_disliked": [
+        "Combat can be slow and methodical because losing HP is costly, so players feel they must be careful in every encounter",
+        "Being 'pigment-screwed' (missing or overflowing colours) is compared by reviewers to mana screw in Magic, which makes some fights feel low-agency",
+        "Hard-mode bosses are criticized as unforgiving, with healing transformations, repeated spawns and one-shot moves that can drag fights out (one review cites about 25 minutes on a single boss)",
+        "Needing to read and memorise many enemy abilities and passives before each fight overwhelms impatient players",
+        "Repeated runs through the same three zones feel repetitive to some, with less novelty after the first clear"
+      ],
+      "divisive_points": [
+        "RNG: critics call it excessive and unfair while other reviewers argue the complaint is overstated and that knowledge and planning dominate outcomes",
+        "Pigment mechanic: loved by many as the heart of the game, called annoying or agency-removing by others",
+        "Whether it is truly a roguelike: one reviewer argues it is not a roguelike at all, and another says it should not have been one, while many others name it a favourite of the genre",
+        "Story after the first win: praised by some, but one reviewer felt it fades after the first successful run on each difficulty"
+      ],
+      "reception_notes": "Released on Steam on Dec 17, 2021 (Windows and Linux, no Mac or console versions listed) at $19.99, and it has remained at Overwhelmingly Positive. Metacritic lists only 7 user ratings and no critic reviews, so critic coverage is essentially absent and the game's profile is built by word of mouth and Steam reviews. Steam reviewers say the developers were still adding free content about five years after release, and the Workshop mod scene (with a legacy-version beta branch for older mods) is a major reason veterans keep playing. Some players say it is popular with deep-playtime fans but a love-or-hate game, pointing to a low achievement-completion rate for the tutorial. Note: web search was unavailable (session budget exhausted), so no outlet reviews or Reddit threads were read.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1734320.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews (18 positive, 15 negative)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: release date, developers, price, review counts, tags, owners estimate, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1734320/Brutal_Orchestra/",
+          "what": "Steam store page: description, tags, review summary, platforms, soundtrack DLC"
+        },
+        {
+          "url": "https://www.metacritic.com/game/brutal-orchestra/",
+          "what": "Metacritic game page: no critic score (tbd), user score 9.1 from 7 ratings"
+        },
+        {
+          "url": "https://www.metacritic.com/game/brutal-orchestra/user-reviews/",
+          "what": "Three Metacritic user reviews (9, 7, 8) praising uniqueness, noting repetition across three stages"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1734320/brutal-orchestra",
+          "what": "Boxleiter-method estimate of gross and net Steam revenue"
+        },
+        {
+          "url": "https://brutalorchestramodding.miraheze.org/wiki/Main_Page",
+          "what": "Modding wiki: 40+ Workshop mods, legacy-version mods, BrutalAPI, Discord modding channel"
+        },
+        {
+          "url": "https://brutalorchestra.wiki.gg/wiki/Brutal_Orchestra_Wiki",
+          "what": "Community wiki homepage: sections on characters, enemies, bosses, items, changelog and modding"
+        },
+        {
+          "url": "https://opencritic.com/search?q=brutal+orchestra",
+          "what": "OpenCritic search fetch: no game data returned, so opencritic recorded as null"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: critic score not available, user 9.1 from 7 ratings (matches; critic null, opencritic null kept). Checked bullets against the 33 local top Steam reviews; themes (art/music, pigment system, RNG, limited moves, repetition, learning curve, mods) are supported. Removed the unsupported Steam Deck claim from reception_notes, reworded the Steam Cloud improvement (no Cloud on store page; reviewer only complained the tutorial would not save) and merged onboarding improvement wording to match reviews. Ignored joke/irrelevant reviews (fish, broken menu). No scores changed."
+    },
+    "his_anchor": null,
+    "his_pos": 5,
+    "his_row_n": 9,
+    "his_spoken": "said low",
+    "his_score": 39.5,
+    "his_top10_bonus": 0,
+    "players_score": 94.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 63.6,
+    "labels": [
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "turn_based"
+  }
+}

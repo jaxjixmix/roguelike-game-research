@@ -1,0 +1,275 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "deflector",
+    "name": "Deflector",
+    "display_name": "Deflector",
+    "appid": 1736550,
+    "img": "img/1736550.jpg",
+    "steam_url": "https://store.steampowered.com/app/1736550/",
+    "website": "https://playdeflector.com/",
+    "short_description": "Deflector is a top down action rogue-lite set in a deadly microcosm. Dive deep into hostile worlds teeming with viruses. Strike down increasingly challenging enemies with your weapons and their own deflected projectiles. Live, die, grow stronger and become powerful enough to reach the Source!",
+    "developers": [
+      "Arrowfist Games"
+    ],
+    "publishers": [
+      "SuperGG.com"
+    ],
+    "release_date": "Mar 24, 2023",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Rogue-lite",
+      "Hack and Slash",
+      "RPG",
+      "Difficult",
+      "Bullet Hell",
+      "Action Roguelike",
+      "Singleplayer",
+      "Top-Down",
+      "Nonlinear",
+      "Stylized"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 87.0,
+    "steam_total_reviews": 354,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/deflector/",
+    "metacritic_user": 4.1,
+    "opencritic": null,
+    "opencritic_url": "https://opencritic.com/game/12670/deflector",
+    "other_scores": [
+      {
+        "source": "Keengamer",
+        "score": "8/10",
+        "url": "https://www.keengamer.com/articles/reviews/pc-reviews/deflector-review-adapting-to-the-situation/"
+      },
+      {
+        "source": "Nine Over Ten (Switch/Xbox)",
+        "score": "9/10",
+        "url": "https://www.nineoverten.com/?p=18448"
+      },
+      {
+        "source": "GameGrin (via Metacritic)",
+        "score": "90/100",
+        "url": "https://www.metacritic.com/game/deflector/"
+      },
+      {
+        "source": "NaviGames (via OpenCritic)",
+        "score": "9/10",
+        "url": "https://opencritic.com/game/12670/deflector"
+      },
+      {
+        "source": "Gaming Professors (via OpenCritic)",
+        "score": "7/10",
+        "url": "https://opencritic.com/game/12670/deflector"
+      },
+      {
+        "source": "Nindie Spotlight (via OpenCritic)",
+        "score": "6.9/10",
+        "url": "https://opencritic.com/game/12670/deflector"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "87% positive (Very Positive), about 355 reviews",
+        "url": "https://store.steampowered.com/app/1736550/Deflector/"
+      }
+    ],
+    "vgi_units": 10710,
+    "vgi_revenue": 131000,
+    "vgi_rating": 87.006,
+    "vgi_reviews": 354,
+    "vgi_url": "https://app.sensortower.com/vgi/game/deflector",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "113,143.40",
+    "src_net": "33,377.30",
+    "src_url": "https://steam-revenue-calculator.com/app/1736550/deflector",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "\"I'm going to leave it as a high the highest of be tiers and this is an easy a if it gets like a nice update\"",
+        "video_id": "zKosjx7EpKA",
+        "t": 3608,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=3608s",
+        "year_in_title": "2023",
+        "pos": 2,
+        "row_n": 13,
+        "row_score": 0.897,
+        "spoken": "said very high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Deflector is a straightforward top-down action bullet-hell roguelike whose twist is a deflect button that differs per character and only works on red (and yellow) bullets. He finds the core gameplay very fun, clear and readable, but feels its late-run pacing suffers from multiple waves in large levels and that it lacks content and unique events. He hesitated between high B and low A and placed it at the top of B, saying an update could easily push it to A.",
+        "praise": [
+          "Very readable, fast-paced gameplay with minimal mechanics and simple color-coded bullets",
+          "Each character's deflect is different and characters play very differently",
+          "Viable build paths: defensive, basic-attack or deflect-focused, despite modest upgrades",
+          "Bosses are good",
+          "Smart difficulty scaling: four fixed worlds, choose three, each run gives worlds unique downsides so you must play all of them",
+          "Pettable creature adds charm"
+        ],
+        "criticism": [
+          "Later runs have multiple waves per level and large maps, hurting the otherwise fast pacing",
+          "Hunting the last stray enemy in a corner slows things down even with a guiding arrow",
+          "Too few unique encounters; mostly shop, challenge and little else",
+          "Wants more mini-bosses, elites and general content, more bosses after finishing all characters",
+          "Upgrades are not hugely impactful; focus is on core gameplay over builds"
+        ],
+        "unique_points": [
+          "Per-character deflect mechanic restricted to certain bullet colors keeps the concept simple",
+          "Difficulty scaling via per-run world downsides rather than flat enemy stat increases",
+          "Gameplay-first design as the opposite approach to item-driven games like Binding of Isaac"
+        ],
+        "quote": "the gameplay is really really really solid",
+        "comparisons": [
+          "The Binding of Isaac"
+        ],
+        "design_criteria": [
+          "Readability/visual clarity: simple bullet colors make a fast game easy to track",
+          "Core gameplay feel: fast, satisfying deflect-based combat",
+          "Character diversity: each character and deflect plays differently",
+          "Build variety: upgrades modest but enable defensive, attack or deflect strategies",
+          "Pacing: multiple waves in large levels and straggler enemies drag late runs",
+          "Content variety: lacks unique events, elites and mini-bosses",
+          "Boss design: bosses praised but wants more",
+          "Difficulty scaling: world-specific downsides per run praised over flat stat increases",
+          "Charm: pettable creature adds appeal"
+        ],
+        "rerank_note": "Not a re-rank, but he says it could move from top of B to an easy A with a good content/pacing update."
+      }
+    ],
+    "community": {
+      "one_liner": "A top-down action roguelite by Arrowfist Games in which you play a bioengineered 'Bioshell' inside a microscopic viral world and turn enemy projectiles (and your own) back on enemies by deflecting them.",
+      "consensus_summary": "Deflector is well liked but niche: Steam shows 87% positive (Very Positive) from roughly 355 reviews, and the few critics who covered it were positive (Keengamer 8/10, Nine Over Ten 9/10, NaviGames 9/10, GameGrin 90). Praise centres on the deflect mechanic, build variety, the soundtrack and the Hades-like visual polish. The recurring complaints are a thin story, a fairly conventional roguelite loop and a lot of systems to track. It launched in Early Access on Jan 27, 2022 and hit 1.0 on Mar 24, 2023, with Switch and Xbox ports from Sept 2023 (PS4 listed on Metacritic). Its audience is small (estimated 20k-50k owners, about $113k gross), so there is little large-scale community discussion beyond Steam.",
+      "best_things": [
+        "The deflect mechanic turns bullet-hell defence into offence: bouncing projectiles back at enemies, sometimes for huge damage, feels satisfying and skill-based",
+        "Real build variety from a free-form upgrade/mutation system where skills combine (for example clones, duplicated deflected shots, ground rupture)",
+        "Multiple Bioshell characters with different weapons and deflect behaviour, from the starting boomerang-wielding Eradicator to ranged and melee options",
+        "Strong soundtrack, praised by reviewers and Steam players",
+        "Polished stylised visuals, compared favourably to Hades in early coverage",
+        "Fast runs and non-linear path choices (combat, shops, rest areas) keep the pace brisk",
+        "Runs well, including on Steam Deck, with full controller support and plenty of achievements"
+      ],
+      "worst_things": [
+        "Story is barebones: a cool premise in the intro with little elaboration afterwards",
+        "Core roguelite structure is seen as conventional; critics say it does not reinvent the genre beyond deflection and setting",
+        "Some players call it a clunky Hades-like without enough of its own hook",
+        "Too many systems and modifiers to keep track of for some newcomers",
+        "Environment variety was criticised in early access and choosing locations had little gameplay impact",
+        "Only the starting character is available at first, so the early hours limit playstyle choice",
+        "Metacritic user reviewers (only 7 ratings) cite repetitiveness and limited enemy variety"
+      ],
+      "improvements": [
+        "Flesh out the narrative and world beyond the opening (raised by early access and 1.0 reviewers and Steam players)",
+        "Make location choices matter more to gameplay, not only to level progression",
+        "Add more visual and environmental variety across worlds",
+        "Give clearer objectives and clearer explanation of the many systems and modifiers",
+        "Unlock additional Bioshells faster or more clearly so early runs have more variety"
+      ],
+      "unique_things": [
+        "Deflection as the core verb: you can reflect enemy projectiles and your own weapon shots back for damage",
+        "Microscopic viral setting where you play as a prototype cure, with 'Apex Virus' bosses ending each world",
+        "Pitched by the developer as Diablo meets bullet hell, blending ARPG build crafting with bullet-hell patterns",
+        "Free-form skill combination system in which upgrades stack into unexpected effects",
+        "Hub with research modules and DNA/mutation progression that persists between runs"
+      ],
+      "tedious_or_disliked": [
+        "Gradual unlock of Bioshells and mutations requires repeated runs before the game opens up",
+        "Keeping track of numerous upgrades, modifiers and interactions is tiring for some players",
+        "Story and objectives give little incentive to push on for players not hooked by the combat",
+        "Runs can feel repetitive with limited enemy variety (Metacritic user ratings, small sample)"
+      ],
+      "divisive_points": [
+        "Originality: some critics and players call it a fresh take on bullet-hell roguelites, others say it does nothing special beyond deflection",
+        "Complexity: many enjoy the deep build-crafting, while others feel overloaded by what they must track",
+        "Value: a Metacritic user complaint mentions a steep price drop shortly after launch, which soured some buyers"
+      ],
+      "reception_notes": "Metacritic has no Metascore yet (needs 4 critic reviews; GameGrin 90 and KeenGamer 80 are listed) and its user score of 4.1/10 rests on only 7 ratings, so it is not meaningful. OpenCritic lists 4 reviews but no aggregate average on the page (scored ones average about 7.6/10). Early Access coverage from But Why Tho and Rock Paper Shotgun was unscored and positive about the mechanic and visuals. 1.0 launched Mar 24, 2023 on Steam ($19.99, Windows only), followed by Switch and Xbox in Sept 2023. Steam review volume is low and recent reviews are still positive; SteamSpy-style estimates put owners at 20k-50k and gross revenue at about $113k (Boxleiter-based estimate, order of magnitude only). The game was also offered via a free demo (Specimen Zero) on Steam.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1736550.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1736550/Deflector/",
+          "what": "Steam store page: 87% Very Positive, tags, Bioshells, progression, release dates"
+        },
+        {
+          "url": "https://www.metacritic.com/game/deflector/",
+          "what": "Metacritic: no Metascore yet, user score 4.1 on 7 ratings, GameGrin 90 and KeenGamer 80"
+        },
+        {
+          "url": "https://opencritic.com/game/12670/deflector",
+          "what": "OpenCritic: four reviews listed (NaviGames 9, Gaming Professors 7, Nindie Spotlight 6.9, RPS unscored)"
+        },
+        {
+          "url": "https://www.keengamer.com/articles/reviews/pc-reviews/deflector-review-adapting-to-the-situation/",
+          "what": "Keengamer 8/10 review: deflection depth, soundtrack, thin narrative, conventional loop"
+        },
+        {
+          "url": "https://www.nineoverten.com/?p=18448",
+          "what": "Nine Over Ten 9/10 console review: Diablo plus bullet hell, skill combination, hazards"
+        },
+        {
+          "url": "https://butwhytho.net/2022/01/deflector-early-access-review",
+          "what": "But Why Tho early access review: visuals, music, weak story, location choices lacking impact"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1736550/deflector",
+          "what": "Estimated gross revenue about $113k and net about $33k (Boxleiter-based)"
+        },
+        {
+          "url": "https://gamespress.com/Where-Diablo-meets-bullet-hell-futuristic-action-roguelike-Deflector-n",
+          "what": "Developer press release describing Diablo-meets-bullet-hell positioning"
+        },
+        {
+          "url": "https://www.dekudeals.com/items/deflector-specimen-zero",
+          "what": "Platform and release info for console versions"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (Metascore tbd, 4 critic reviews, user 4.1 on 7 ratings) and OpenCritic (NaviGames 9, Gaming Professors 7, Nindie Spotlight 6.9, RPS unscored): critic_scores confirmed, no change. Removed 3 unsupported/filler bullets (Mac/Linux+no buzz, boss-attempts, Steam tags-as-complaint) and the speculative Difficulty divisive point; added Metacritic-user themes (repetitiveness/limited enemies, price drop). Steam reviews sample is tiny and low-vote; themes (deflect fun, build variety, soundtrack, thin story, clunky Hades-like, too much to track) match."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 13,
+    "his_spoken": "said very high",
+    "his_score": 89.7,
+    "his_top10_bonus": 0,
+    "players_score": 27.5,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 62.5,
+    "labels": [
+      "action",
+      "shooter"
+    ],
+    "primary_label": "action"
+  }
+}

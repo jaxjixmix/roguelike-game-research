@@ -1,0 +1,292 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "ballionaire",
+    "name": "Ballionaire",
+    "display_name": "Ballionaire",
+    "appid": 2667120,
+    "img": "img/2667120.jpg",
+    "steam_url": "https://store.steampowered.com/app/2667120/",
+    "website": null,
+    "short_description": "BALLIONAIRE is a fast-paced, kinetic roguelike where strategy meets physics to create outrageous wealth! Find and exploit game-breaking synergies as you theorycraft your way to victory. Welcome to the autobonker genre!",
+    "developers": [
+      "newobject"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "release_date": "Dec 10, 2024",
+    "coming_soon": false,
+    "price": "$12.34",
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Singleplayer",
+      "2D",
+      "Casual",
+      "Rogue-like",
+      "Deckbuilding",
+      "Strategy",
+      "Rogue-lite",
+      "Pinball",
+      "Physics",
+      "Cute"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 84.3,
+    "steam_total_reviews": 2705,
+    "metacritic": 76,
+    "metacritic_url": "https://www.metacritic.com/game/ballionaire/",
+    "metacritic_user": 7.2,
+    "opencritic": 74,
+    "opencritic_url": "https://opencritic.com/game/17844/ballionaire/reviews",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, about 84% of 2,705 per local data)",
+        "score": "84.3%",
+        "url": "https://store.steampowered.com/app/2667120/Ballionaire/"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "80/100",
+        "url": "https://pcgamer.com/games/roguelike/ballionaire-review"
+      },
+      {
+        "source": "Siliconera",
+        "score": "8/10",
+        "url": "https://www.siliconera.com/?p=1071154"
+      },
+      {
+        "source": "God is a Geek",
+        "score": "8/10",
+        "url": "https://godisageek.com/reviews/ballionaire-review/"
+      },
+      {
+        "source": "Digital Chumps",
+        "score": "8.5/10",
+        "url": "https://opencritic.com/game/17844/ballionaire/reviews"
+      },
+      {
+        "source": "The Guardian",
+        "score": "4/5",
+        "url": "https://en.wikipedia.org/wiki/Ballionaire"
+      },
+      {
+        "source": "GameGrin",
+        "score": "5/10",
+        "url": "https://opencritic.com/game/17844/ballionaire/reviews"
+      },
+      {
+        "source": "Steam-revenue-calculator estimate (gross revenue, about 842.7k dollars; Steam owners est. 100k-200k)",
+        "score": "estimate",
+        "url": "https://steam-revenue-calculator.com/app/2667120/ballionaire"
+      }
+    ],
+    "vgi_units": 383000,
+    "vgi_revenue": 3200000,
+    "vgi_rating": 84.458,
+    "vgi_reviews": 2696,
+    "vgi_url": "https://app.sensortower.com/vgi/game/ballionaire",
+    "spy_owners": "100,000 .. 200,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "842,723.28",
+    "src_net": "248,603.37",
+    "src_url": "https://steam-revenue-calculator.com/app/2667120/ballionaire",
+    "final_tier": "B",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I think I'm going to put this game as a B because all things considered",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 1035,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=1035s",
+        "year_in_title": null,
+        "pos": 7,
+        "row_n": 17,
+        "row_score": 0.6432352941176471,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Ballionaire is a real-time ball-drop roguelike where you place items on a board, press a button, and watch chaotic chain reactions escalate into huge numbers. He credits it as unique, fun and well done, with good music and goofy art, but says he was more disappointed than most people because he expected more given the hype. He found it hard to follow why numbers go up, easy to break early, and bloated with overly specific synergies. He places it in B, stressing that it is not a bad game and that he might come back to it.",
+        "praise": [
+          "Unique concept that turns a simple real-life ball-drop mechanic into an infinitely scaling roguelike",
+          "Satisfying and fun, especially the first time a board goes off",
+          "Some definite cool synergies to discover",
+          "Different maps each have their own twists",
+          "Music is pretty good",
+          "Well done at its core and fun to play"
+        ],
+        "criticism": [
+          "Less visually satisfying than Balatro; chaos makes it hard to tell why numbers are rising",
+          "Too easy to get a broken board, even on his third attempt with little unlocked, so the win felt unearned",
+          "Unlocks bloat the item pool with highly specific synergies, making early runs with fewer items feel easier",
+          "Many items are useless unless you have one exact other item, and there are too few broad items usable across builds",
+          "Maps matter little since any board goes boom once a few pieces are placed",
+          "Real-time, no-input drops feel less satisfying than the turn-by-turn payoffs of Luck Be a Landlord"
+        ],
+        "unique_points": [
+          "Takes a familiar real-life ball-drop toy and makes it a scoring-engine roguelike that can go infinite",
+          "You only press a button and watch the fireworks; ball direction is automatic",
+          "Closest comparison in his view is Luck Be a Landlord rather than Balatro"
+        ],
+        "quote": "I think I'm going to put this game as a B",
+        "comparisons": [
+          "Balatro",
+          "Luck Be a Landlord"
+        ],
+        "design_criteria": [
+          "Power fantasy / breaking the game: he loves feeling overpowered, but here it felt too easy and unearned",
+          "Feedback clarity: hard to follow why numbers go up compared with Balatro",
+          "Synergies: too specific and narrow, bloating the pool as unlocks grow",
+          "Difficulty: broken boards arrive easily, making losses rare once one appears",
+          "Level/map variety: maps have twists but barely affect play",
+          "Content: wants more content, but worries more items would worsen synergy bloat",
+          "Visuals/art: goofy, charming enough",
+          "Audio: music is pretty good",
+          "Uniqueness: strong, distinctive concept"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A pachinko-style roguelike 'autobonker' by newobject (published by Raw Fury) where you place pegs and triggers on a board, drop a ball, and watch it chain combos to hit escalating money goals.",
+      "consensus_summary": "Ballionaire is received as a fun, addictive, charming number-go-up roguelite that is well liked on Steam (Very Positive, about 84% of roughly 2,700 reviews, per local data) and generally favorable among critics (Metacritic 76, OpenCritic 74). Praise centers on satisfying combo chains, build variety and its cartoony presentation. The recurring complaints are heavy RNG with little control once the ball drops, poor balance (a few dominant builds, easy once learned), unclear item descriptions and limited long-term content with no endless mode. It launched in Early Access in December 2024 at about $12; recent negative reviews say the game has not had a meaningful update in over a year and feels abandoned, although Raw Fury reportedly had an item ban/unban feature on an experimental branch and mod support exists. Typical playtime to see everything is about 15-20 hours.",
+      "best_things": [
+        "Addictive 'big number go up' loop with strong audio and visual feedback when a multi-minute combo goes off",
+        "Large variety of pegs, triggers, boons and boards that enable game-breaking synergies and theorycrafting",
+        "Colorful, irreverent cartoon presentation; screen is readable despite chaos (art improved during Early Access)",
+        "Fast, chill, pick-up-and-play sessions that suit Steam Deck and short bursts",
+        "Multiple difficulties, boards and starting builds; Lab and Custom modes for sandbox play; Steam Workshop/mod support",
+        "Good value when on sale (often under 5 dollars) for roughly 15-20 hours of fun"
+      ],
+      "worst_things": [
+        "Heavy RNG: after the ball drops you have almost no agency, so runs can fail 'through no fault of your own'",
+        "Balance problems: a handful of builds (players often cite Dam and roughly five playstyles) dominate, making the game trivially easy once learned, even on higher difficulties",
+        "Perceived abandonment: several top-voted negative reviews say there has been no meaningful update or balance patch in over a year",
+        "Many top-voted negatives say the game feels bland or gimmicky and that most choices do not matter, so players get bored within the first hours",
+        "Many items do not synergize with each other, which dilutes the pool and makes building a specific strategy unreliable",
+        "Runs start to feel samey and repetitive; limited replay depth once everything is seen",
+        "Some item and peg descriptions are unclear, with a steep reading burden to understand triggers",
+        "Top difficulty (Ballionaire++) is seen by some as cheap and punishing rather than challenging",
+        "Visual chaos makes it hard to appreciate a well-built machine, and some find the dancing 3D stick-figure mascot annoying or out of place",
+        "Reports of placeholder text and of freezing/black screens in recent reviews"
+      ],
+      "improvements": [
+        "Add an endless mode and higher difficulty tiers beyond Ballionaire++",
+        "Add item ban/unban to fight pool dilution after everything is unlocked (Raw Fury said this existed on an experimental branch)",
+        "Rebalance dominant builds and overpowered items, and make underused synergies viable",
+        "Redesign 'anti-fun' Tribulations (for example 500 damage dealt or heavy immutable object placement) that force constant restarts",
+        "Better in-game explanations of pegs, triggers and how they interact",
+        "Quality-of-life: prompt or auto-skip when the goal is already met, and more agency beyond boons and triggers (for example better flipper/pinball board)"
+      ],
+      "unique_things": [
+        "Self-described 'autobonker' genre: you build the pachinko board and strategy, then RNG physics plays out the drop",
+        "Pachinko board-building where pegs, triggers and food-themed combos (like pizza) chain into huge scores",
+        "Comparisons to Peglin, Peggle, Luck Be a Landlord and Balatro, but with a more chaotic kinetic physics feel",
+        "Tribulations and rule-bending boons that alter the rules of a run",
+        "Lab Mode and Custom Mode sandboxes plus Workshop mod support",
+        "Distinctly goofy 2010s-cartoon humor and mascot"
+      ],
+      "tedious_or_disliked": [
+        "Watching 20-second ball drops repeat, with many players defaulting to 4x speed and finding it boring",
+        "Unlocking content is partly RNG-gated and some find the unlock grind (for example specific materials) annoying",
+        "Item pool dilution after unlocking everything, making targeted builds harder",
+        "Restart-scumming around bad Tribulations or a bad start",
+        "Needing to read or recall how every peg works to make good placement choices",
+        "Very long late-game drops when a runaway combo forces you to hunt for the 'end drop' button"
+      ],
+      "divisive_points": [
+        "RNG: some love the surprise and number-go-up dopamine, others find it too random compared with Balatro's player agency",
+        "Difficulty: some find it too easy once builds are figured out, others find Ballionaire++ and certain Tribulations unfairly punishing",
+        "Content and value: fine for 1-2 days of fun on sale for some, good for 15-20 hours for others, too thin for a full price for a few",
+        "Whether the large item pool adds diversity or is pointless bloat"
+      ],
+      "reception_notes": "Released Dec 10, 2024 on Steam (Windows only) at about $12.34 via Raw Fury, built in Godot; launched in Early Access per Rogueliker's review. Launch reception was strong, with the Steam rating around 86% in early 2025 and sliding to about 84% in later data. Critics were mostly favorable (Metacritic 76 from 9 reviews, OpenCritic 74 from 10), with GameGrin the notable dissenter ('Marmite' game). Some reviewers noted no endless mode. Later reviews complain of no update in over a year and abandonment, balance never patched; a Raw Fury rep said on the Steam forum that item ban/unban existed on an experimental branch, and Workshop mod support was added. Humble Bundle inclusion is mentioned in one review. Steam owners estimated 100k-200k with estimated gross revenue of about $843k (Boxleiter-style estimate, not audited); no official sales figures found.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2667120.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store data: release, price, review counts, owner and revenue estimates"
+        },
+        {
+          "url": "https://opencritic.com/game/17844/ballionaire/reviews",
+          "what": "OpenCritic rating 74 and per-outlet critic scores"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ballionaire/",
+          "what": "Metascore 76, user score 7.2, critic quotes"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2667120/discussions/0/604143843941601313",
+          "what": "Steam forum thread on pool dilution, Tribulations, endless mode, Raw Fury reply about item ban"
+        },
+        {
+          "url": "https://vaporlens.app/app/2667120/ballionaire/stats/details",
+          "what": "Aggregated Steam review sentiment summary (RNG, tedium, limited content)"
+        },
+        {
+          "url": "https://www.siliconera.com/?p=1071154",
+          "what": "Siliconera 8/10 review on RNG reliance and Tribulations"
+        },
+        {
+          "url": "https://rogueliker.com/ballionaire-early-access-review/",
+          "what": "Early Access review on pegs, triggers, Lab/Custom modes, reading burden"
+        },
+        {
+          "url": "https://pcgamer.com/games/roguelike/ballionaire-review",
+          "what": "PC Gamer 80/100 (score and verdict via search snippet; page fetch returned no text)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ballionaire",
+          "what": "Release details, Godot engine, critic scores incl. Guardian 4/5"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2667120/ballionaire",
+          "what": "Estimated gross and net revenue"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (critic 76 from 9 reviews, user 7.2 from 10 ratings) and OpenCritic (74): scores confirmed, unchanged. Removed unverifiable 'always offered three peg choices' best_thing (not in reviews). Added two recurring top-voted negative themes to worst_things: abandonment/no updates, and bland/choices-don't-matter. Other bullets match Steam reviews (RNG, Dam dominance, samey runs, unclear items, placeholder text)."
+    },
+    "his_anchor": null,
+    "his_pos": 7,
+    "his_row_n": 17,
+    "his_spoken": null,
+    "his_score": 64.3,
+    "his_top10_bonus": 0,
+    "players_score": 25.5,
+    "critics_score": 21.4,
+    "critics_avg": 75.0,
+    "overall": 42.2,
+    "labels": [
+      "luck_builder",
+      "strategy"
+    ],
+    "primary_label": "luck_builder"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "across the obelisk",
+    "name": "Across the Obelisk",
+    "display_name": "Across the Obelisk",
+    "appid": 1385380,
+    "img": "img/1385380.jpg",
+    "steam_url": "https://store.steampowered.com/app/1385380/",
+    "website": null,
+    "short_description": "Set forth in a co-op roguelite deckbuilder where every choice matters! Craft decks of breathtaking power. Journey alone or with up to three friends. Plot your party’s path to glory and face powerful enemies in deep tactical combat on your quest to save the kingdom of Senenthia in Across the Obelisk!",
+    "developers": [
+      "Dreamsite Games"
+    ],
+    "publishers": [
+      "Paradox Interactive",
+      "Paradox Arc"
+    ],
+    "release_date": "Aug 16, 2022",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Strategy",
+      "2D",
+      "Fantasy",
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Singleplayer",
+      "RPG",
+      "Card Battler",
+      "Multiplayer"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 79.9,
+    "steam_total_reviews": 13164,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/across-the-obelisk/",
+    "metacritic_user": 7.1,
+    "opencritic": null,
+    "opencritic_url": "https://opencritic.com/game/13580/across-the-obelisk",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Mostly Positive, about 79.9% of 13,164)",
+        "score": "79.9%",
+        "url": "https://store.steampowered.com/app/1385380/Across_the_Obelisk/"
+      },
+      {
+        "source": "Softpedia (via Metacritic)",
+        "score": "85/100",
+        "url": "https://www.metacritic.com/game/across-the-obelisk/"
+      },
+      {
+        "source": "PCMag",
+        "score": "3.5/5 (70 on Metacritic)",
+        "url": "https://opencritic.com/game/13580/across-the-obelisk"
+      },
+      {
+        "source": "Screen Rant",
+        "score": "3.5/5",
+        "url": "https://opencritic.com/game/13580/across-the-obelisk"
+      },
+      {
+        "source": "Capsule Computers",
+        "score": "7/10",
+        "url": "https://opencritic.com/game/13580/across-the-obelisk"
+      },
+      {
+        "source": "Thumb Culture",
+        "score": "4/5",
+        "url": "https://opencritic.com/game/13580/across-the-obelisk"
+      },
+      {
+        "source": "SteamSpy estimate of owners",
+        "score": "1-2 million owners",
+        "url": "https://steam-revenue-calculator.com/app/1385380/across-the-obelisk"
+      },
+      {
+        "source": "Steam revenue calculator estimate (Boxleiter method)",
+        "score": "about $6.97M gross / $2.06M net",
+        "url": "https://steam-revenue-calculator.com/app/1385380/across-the-obelisk"
+      }
+    ],
+    "vgi_units": 395000,
+    "vgi_revenue": 5500000,
+    "vgi_rating": 79.898,
+    "vgi_reviews": 13163,
+    "vgi_url": "https://app.sensortower.com/vgi/game/across-the-obelisk",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "6,966,834.84",
+    "src_net": "2,055,216.28",
+    "src_url": "https://steam-revenue-calculator.com/app/1385380/across-the-obelisk",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm gonna put this as a solid a tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 133,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=133s",
+        "year_in_title": "2022",
+        "pos": 7,
+        "row_n": 18,
+        "row_score": 0.5902777777777777,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Across the Obelisk is a co-op-style deck-building roguelike where you control four characters at once. PepperHead uses it as the first deck builder of the list and talks about how the genre shares common gimmicks, so each game must build its own identity. He finds it complex and overwhelming for newcomers, but praises its engaging overworld and charming presentation. He rates it a solid A tier while cautioning that it is not for people new to deck builders.",
+        "praise": [
+          "Controlling four characters at once is its unique hook",
+          "Outside-of-combat world and exploration feel engaging and immersive, like a real adventure",
+          "Cute, fun art and animations, more lively than typical minimalistic deck-builder animations",
+          "Many characters, cards and build possibilities once you have played a few hours",
+          "Good balance between combat gameplay and the overworld/events layer",
+          "One of the best deck-building games in his view"
+        ],
+        "criticism": [
+          "Pretty complicated with a lot of information, overwhelming for beginners",
+          "Managing four characters and their placement adds to the overload",
+          "Not recommended if you are not used to deck-building games"
+        ],
+        "unique_points": [
+          "Four characters played simultaneously, with placement management a big part of play",
+          "Design lesson: deck builders need a good balance between card combat and the outside world; this one nails the outside world"
+        ],
+        "quote": "this one does a really really good job",
+        "comparisons": [
+          "Other deck-building roguelikes generally",
+          "Arcanium (next game, described as similar)"
+        ],
+        "design_criteria": [
+          "Identity within genre: how a deck builder differentiates itself from similar card mechanics",
+          "Unique gimmick: four simultaneous characters with placement",
+          "Balance of combat and overworld: both layers need to be good",
+          "World immersion: exploration and events feel like an adventure",
+          "Art and animation: charm beyond the genre's usual minimalism",
+          "Build diversity: many characters, cards and builds",
+          "Accessibility/complexity: high information load, unfriendly to newcomers"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A co-op (1-4 player) roguelite deckbuilder/RPG by Dreamsite Games where you run a party of four heroes through a branching campaign map, crafting decks and stacking buffs against tactical enemies.",
+      "consensus_summary": "Steam shows Mostly Positive (about 80% of roughly 13,000 reviews). The base game is widely loved for its depth, co-op and replayability, and critics who reviewed it were favourable (3.5/5 to 4/5, 7/10 to 8.5/10) but noted that it is a solid genre entry rather than a genre great. The dominant recent complaint, in the most helpful negative reviews, is not the gameplay but Paradox's DLC monetisation: pricey DLC, locked DLC nodes and cards appearing in the base game, plus ongoing bugs and desyncs. It is not abandoned (a DLC-heavy release cadence continues), but several long-time players say meaningful free content and fixes have dried up and there is no sequel or mod support.",
+      "best_things": [
+        "Very deep deck and party customisation: 16 base heroes across four roles, 500+ cards and 300+ items, with card crafting/upgrading and traits that enable many builds",
+        "Co-op is a standout: each player controls a hero, which spreads the deck-building load and makes it a rare strong multiplayer deckbuilder; players report 250+ hours with friends",
+        "Huge replayability from branching map paths, events with hero-specific options, Madness difficulty levels, extra modes and sandbox",
+        "Distinctive art style and appealing original cast; lighthearted tone",
+        "Big amount of content in the base game (100+ hours to see it all per multiple reviewers), so the $20 base is considered good value",
+        "Meta-progression (unlocking cards, perks, heroes and their mini-quests) keeps runs feeling rewarding"
+      ],
+      "worst_things": [
+        "Aggressive DLC monetisation since the Paradox takeover: some DLC costs as much as the base game for a small amount of content, and new characters/skins are priced separately; full set is often quoted around $90+",
+        "DLC content is baked into the map and card pools: flashing DLC-locked nodes that lead to a purchase prompt, and DLC cards offered as dead, unselectable rewards in the base game",
+        "Stability problems: long-standing random crashes, reset resolution, and desyncs in co-op (card dragging, boss tactics, shopping) reported after newer DLC",
+        "Balance is lopsided: buff/debuff stacking and scaling builds dominate, raw-damage and off-meta comps (e.g. 3 healers or 3 scouts) struggle, and some heroes have clearly optimal paths",
+        "Campaign acts are largely fixed, so it is only semi-random; some players feel it is easier than Slay the Spire and lacks true roguelite variance",
+        "Perceived lack of effort on the base game: no mod support and little substantial free content for years, with calls for a properly reworked sequel",
+        "Character select UI redesign seen as clunky, and attempts to push the Paradox launcher drew complaints",
+        "Recent DLC is criticised for heavy power creep, a clash in art style and arbitrary design that do not mesh with the base game, while the game is also described as having received no meaningful content for about 4 years",
+        "Paradox-era business practices beyond DLC price: an unnecessary launcher and complaints about data collection, cited by long-time players (hundreds of hours) as the reason they no longer recommend the game"
+      ],
+      "improvements": [
+        "Bundle or cut prices of DLC, or make updates free, and stop promoting DLC inside the base game's map and card rewards",
+        "Stop showing unselectable DLC cards in reward screens for non-owners",
+        "Fix persistent crashes and co-op desyncs with proper testing before DLC releases",
+        "Rebalance so that more than buff-stacking builds are viable and early-game starting heroes are less limited",
+        "Add mod support and more free base-game content or a true sequel focused on core cards and classes",
+        "Improve the character-select UI so all hero info can be seen without scrolling"
+      ],
+      "unique_things": [
+        "One of the first multiplayer roguelike deckbuilders, with every player piloting their own hero and deck",
+        "Party-of-four RPG structure with Darkest Dungeon-style hero roles (warrior, scout, mage, healer) combined with Slay the Spire-style card play",
+        "Energy carries over between turns (up to 10) rather than resetting, and heroes have equipment, traits and player-level perks",
+        "Card crafting and upgrading with shards at the start of each act, plus hero unlock mini-quests and Obelisk corruption challenges",
+        "Branching campaign map with persistent, semi-fixed content and Madness difficulty levels and sandbox modifiers"
+      ],
+      "tedious_or_disliked": [
+        "Early-game grind: starting heroes are weak with limited deckbuilding until enough cards and heroes are unlocked, which one reviewer called a long and painful early game",
+        "Building a deck solo takes a long time; several players recommend at least 2 players",
+        "Constant reminders of missing DLC (flashing exclamation marks, locked characters) interrupting play",
+        "Runs can become stale after a long time since acts are fixed and buff stacking trivialises content",
+        "Bug-related interruptions such as crashes and desyncs, and the Paradox launcher push"
+      ],
+      "divisive_points": [
+        "Whether the DLC is fair: some say it is optional, improving over time and worth buying on sale; others say it feels predatory and unavoidable because the holes show in the game",
+        "Difficulty and roguelite-ness: some find it easier and more controllable than Slay the Spire, which they like, while others find the fixed maps and stacking too easy",
+        "Whether it beats Slay the Spire: a few prefer it, others say it does some things better and some worse",
+        "Whether the base game alone is worth $20 without DLC: many say yes, at least one reviewer with 300 hours says no"
+      ],
+      "reception_notes": "Launched into Steam early access in 2021 (GamingOnLinux covered it in April 2021) and released 1.0 on Aug 16, 2022, praised as an engrossing co-op deckbuilder, with early balance and grind complaints. Publisher Paradox (Arc) took over and the game now has many DLC packs (Sands of Ulminin, Shores of Sahti, Sigrun the Valkyrie, Bernard the Alchemist and others); recent reviews skew negative about DLC monetisation even from long-time fans, dragging the overall rating to around 80%. Also on Switch and PlayStation/Xbox. Metacritic has no Metascore yet (it needs 4 critic reviews; only 2 shown), and OpenCritic lists 4 reviews without a displayed aggregate in what I could fetch. Revenue and owner numbers are third-party estimates, not audited.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1385380.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: review summary, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1385380/Across_the_Obelisk/",
+          "what": "Steam store page"
+        },
+        {
+          "url": "https://opencritic.com/game/13580/across-the-obelisk",
+          "what": "OpenCritic critic list: Screen Rant, PCMag, Capsule Computers, Thumb Culture"
+        },
+        {
+          "url": "https://www.metacritic.com/game/across-the-obelisk/",
+          "what": "Metacritic user score 7.1 from 14 ratings, Softpedia 85 and PCMag 70, no Metascore yet"
+        },
+        {
+          "url": "https://opencritic.com/game/13580/-/reviews",
+          "what": "OpenCritic review excerpts surfaced by search (strengths and early grind)"
+        },
+        {
+          "url": "https://www.gamingonlinux.com/2021/04/across-the-obelisk-is-an-engrossing-new-deck-builder-with-online-co-op",
+          "what": "2021 early-access coverage of the co-op deckbuilder (via search result only)"
+        },
+        {
+          "url": "https://www.co-optimus.com/game/8648/pc/across-the-obelisk.html",
+          "what": "Co-op listing for the game (via search result)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1385380/discussions/0/3428948910191723080",
+          "what": "Steam community discussion on balance and early game (via search summary)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1385380/across-the-obelisk",
+          "what": "Revenue estimate based on Boxleiter method"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched OpenCritic (4 reviews, no aggregate shown: Screen Rant 3.5/5, PCMag 3.5/5, Capsule 7/10, Thumb Culture 4/5) and Metacritic (no Metascore, user 7.1 from 14 ratings, Softpedia 85, PCMag 70); critic_scores confirmed unchanged (nulls correct). Steam 79.9% of 13,164 matches local data. Removed 1 filler bullet (platform availability in best_things). Added 2 recurring themes to worst_things from top negative reviews (recent-DLC power creep/no meaningful content for 4 years; launcher/data complaints). Other bullets consistent with Steam review themes (DLC monetisation dominant)."
+    },
+    "his_anchor": null,
+    "his_pos": 7,
+    "his_row_n": 18,
+    "his_spoken": "said solid",
+    "his_score": 59.0,
+    "his_top10_bonus": 0,
+    "players_score": 12.9,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 38.8,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy",
+      "coop"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

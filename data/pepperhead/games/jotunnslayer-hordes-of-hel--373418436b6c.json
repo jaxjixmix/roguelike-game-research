@@ -1,0 +1,278 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "jotunnslayer hordes of hel",
+    "name": "Jotunnslayer: Hordes of Hel",
+    "display_name": "Jotunnslayer Hordes of Hel",
+    "appid": 2820820,
+    "img": "img/2820820.jpg",
+    "steam_url": "https://store.steampowered.com/app/2820820/",
+    "website": "https://jotunnslayer.com/",
+    "short_description": "Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Viking Deities, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.",
+    "developers": [
+      "Games Farm",
+      "ARTillery"
+    ],
+    "publishers": [
+      "Grindstone"
+    ],
+    "release_date": "Sep 3, 2025",
+    "coming_soon": false,
+    "price": "$8.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Indie",
+      "Action Roguelike",
+      "Rogue-lite",
+      "Bullet Hell",
+      "Action",
+      "Rogue-like",
+      "Action RPG",
+      "Singleplayer",
+      "Casual",
+      "Isometric"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 82.5,
+    "steam_total_reviews": 7796,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/",
+    "metacritic_user": 6.7,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam all reviews (Very Positive, about 82.5% of 7,796)",
+        "score": "82.5% positive",
+        "url": "https://store.steampowered.com/app/2820820/Jotunnslayer_Hordes_of_Hel/"
+      },
+      {
+        "source": "Metacritic Switch 2 (12 critics)",
+        "score": "76",
+        "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/"
+      },
+      {
+        "source": "Metacritic PS5 (4 critics)",
+        "score": "78",
+        "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/"
+      },
+      {
+        "source": "Loot Level Chill (via Metacritic)",
+        "score": "85",
+        "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/"
+      },
+      {
+        "source": "GameCritics (via Metacritic)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/"
+      },
+      {
+        "source": "Gaming Nexus, Switch 2 (via Metacritic)",
+        "score": "65",
+        "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/"
+      },
+      {
+        "source": "Steam revenue estimate (Boxleiter method)",
+        "score": "about $2.27M gross, about $670K net",
+        "url": "https://steam-revenue-calculator.com/app/2820820/jotunnslayer-hordes-of-hel"
+      }
+    ],
+    "vgi_units": 340000,
+    "vgi_revenue": 2900000,
+    "vgi_rating": 82.475,
+    "vgi_reviews": 7789,
+    "vgi_url": "https://app.sensortower.com/vgi/game/jotunnslayer-hordes-of-hel",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,270,265.48",
+    "src_net": "669,728.32",
+    "src_url": "https://steam-revenue-calculator.com/app/2820820/jotunnslayer-hordes-of-hel",
+    "final_tier": "B",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "Toter Hordes of Hell, uh is going to be a high B tier. As of now, I'm going to put it like this.",
+        "video_id": "kTg56_oKfGY",
+        "t": 4922,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=4922s",
+        "year_in_title": null,
+        "pos": 4,
+        "row_n": 10,
+        "row_score": 0.7025,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Jotunnslayer is a Diablo II-inspired survivors-like with striking visuals, where you pick god paths and character skills that produce wildly different spell effects. He finds it very satisfying and replayable, with mechanical (not percentage) upgrades, varied maps and big Diablo-style bosses. It does not revolutionize the genre, and readability and a few meta-progression annoyances hold it back. He places it in high B tier.",
+        "praise": [
+          "Impressive, satisfying visuals and spell effects (e.g. a level-one ghost ship sweeping the map)",
+          "Gods and character skills give drastically different abilities, and each character plays differently",
+          "Upgrades are mostly mechanical changes rather than flat percentage boosts, so they feel impactful",
+          "Seeing how a god ability changes visually at its final level 18 is a highlight",
+          "Maps feel distinct and the big end bosses look cool and satisfying",
+          "Lots of meta-progression, mini quests with risk/reward choices, and community events; developers listen to feedback",
+          "Many character/god combinations give strong replayability"
+        ],
+        "criticism": [
+          "Hard to see what is happening on screen; damage sometimes comes from unseen sources, making losses feel bad",
+          "Player character is less visible than in other games, worse on some maps",
+          "Switching god paths requires refunding and reallocating skill tree points every run (unless meta is maxed)",
+          "No luck stat or rarity-style random upgrades, so repeating the same character/god combo feels samey",
+          "Some bosses are too close to Diablo II; the game does not revolutionize the genre"
+        ],
+        "unique_points": [
+          "God-based spell system where each god offers radically different, visually distinct abilities",
+          "Upgrades that change mechanics rather than numbers",
+          "Optional mini quests with varying difficulty and reward during runs"
+        ],
+        "quote": "It doesn't revolutionize anything, but it just by its visuals",
+        "comparisons": [
+          "Diablo II",
+          "Diablo III",
+          "Vampire Survivors"
+        ],
+        "design_criteria": [
+          "Visuals/charm: major draw, Diablo II-inspired art and spell effects",
+          "Upgrade design: mechanical changes over flat percentages",
+          "Synergies/diversity: gods times characters give many combinations",
+          "Readability: hard to track threats and player model",
+          "Meta-progression: plentiful points, but respeccing gods each run is inconvenient",
+          "Randomness: wishes for a luck/rarity stat",
+          "Enemy/boss design: cool but too Diablo II-like",
+          "Level design: maps feel distinct",
+          "Replayability: high due to combinations"
+        ],
+        "rerank_note": "He notes it was in early access and has since reached 1.0 with a new map, character and gods; he has not played much of the full release, and placement is 'as of now'."
+      }
+    ],
+    "community": {
+      "one_liner": "An isometric Norse-mythology horde-survivor roguelite (Games Farm / ARTillery, published by Grindstone) where you pick a class plus up to three gods for boons, clear map objectives and bosses, and grind meta-progression trees.",
+      "consensus_summary": "Players rate it Very Positive on Steam (about 82.5% of roughly 7,800 reviews), and critics are lukewarm-to-favourable (Metacritic PC 79 from 8 critics; Switch 2 76 from 12). It is seen as a polished, good-looking, solid survivor-like that does not reinvent the genre. Praise centres on the art, class and god variety, and boss and map design; criticism centres on shallow content, weak late-game scaling, and a few dominant skills. It launched in Early Access on Jan 21, 2025 and hit 1.0 on Sep 3, 2025. It has kept getting updates since, including an endless mode, balance changes, a Conan DLC, a post-1.0 roadmap (Nov 2025) and console and Switch 2 ports. Console ports drew some technical complaints.",
+      "best_things": [
+        "Strong presentation: dark, Diablo-like isometric art, detailed environments and enemy designs, and a powerful soundtrack that stands above typical pixel-art survivor-likes",
+        "Six classes each with a signature gimmick plus subclasses unlocked about ten levels into a run, giving more variety than generic +damage/+area/+crit picks",
+        "Hades-style god system: choose up to three Norse gods whose boons have real interactions rather than plain stat sticks",
+        "Distinct maps with objectives and missions that reduce aimless circling, and cool boss fights",
+        "Short 10-20 minute runs suit quick sessions, and meta-progression gives that 'numbers go up' satisfaction",
+        "Local/split-screen co-op, full controller support, and ongoing developer support with balance patches",
+        "Per-character meta-progression resets and higher difficulty tiers give optional challenge (praised by Rogueliker)",
+        "Many players call it a cheap, addictive 'brain-off' game with a long tail (one reviewer has 70+ hours and keeps returning)"
+      ],
+      "worst_things": [
+        "Low run-to-run variety: many reviewers say runs feel the same and basic attacks feel as good as skills",
+        "Limited content at full price: few maps and enemies, and many players say they got their fill in 10-15 hours",
+        "A few dominant skills (Frost Ring is named) and god powers crowd out class abilities, so builds converge",
+        "Combat lacks impact: weak hit feedback, 'invisible' damage, skills that feel unsatisfying",
+        "Skill trees and meta-progression can be maxed quickly and lack depth, so progression ends early",
+        "Performance: FPS drops in long sessions or on busy maps, large install size, and Steam Deck complaints despite Verified status",
+        "Balance swings: some builds are impossible while others are a 'screensaver', and higher difficulties have been called too easy",
+        "Endless mode runs out of skill choices around level 60, which pushes all-in no-healing builds"
+      ],
+      "improvements": [
+        "More maps, enemies and bosses, plus more late-game content beyond maxing the trees",
+        "Rebalance dominant skills and give class abilities a bigger role relative to gods (players want more class slots or stronger class flavour)",
+        "Deeper meta-progression, such as branching trees, gear or loot to chase, and better endless-mode scaling after level 60",
+        "Better combat feedback (damage numbers, impact) and optimisation for FPS, Steam Deck and consoles",
+        "Fix manual-aim options, which some say do not work right, and improve translations of in-game descriptions",
+        "Online co-op (currently local/shared-screen only) and a harder top difficulty"
+      ],
+      "unique_things": [
+        "Norse setting with a Hades-like choose-your-gods structure layered on a survivor-like",
+        "Class plus subclass system that changes the run mid-way",
+        "Story-mode maps built by hand with objectives rather than pure open arenas, plus boss encounters",
+        "Higher production value and art direction than most pixel-art genre peers",
+        "Per-character meta-progression reset option and a Conan DLC crossover",
+        "Comparisons players make: Vampire Survivors x Diablo, Hades x Vampire Survivors, or 'Death Must Die in 3D'"
+      ],
+      "tedious_or_disliked": [
+        "Grinding skill trees and stones for 100% gets repetitive after about 10 hours",
+        "Repetitive music and samey runs in long sessions",
+        "Early maps described as barren, open arenas that can feel sleepy or slow (some wish for a speed-up option)",
+        "Endless mode's dry skill pool after level 60",
+        "Enemies that teleport or catch you instantly, which makes kiting and repositioning feel ineffective",
+        "Conan DLC seen by some as minimal and not worth the price, and DLC detection bugs reported"
+      ],
+      "divisive_points": [
+        "Difficulty: some say it is tougher than peers, others say Insane is trivial once you have upgrades",
+        "Build variety: fans praise god and subclass interactions, detractors say a couple of skills dominate",
+        "Value: worth it at a sale price or under $20 for some, too thin for the price for others (10 hours vs 70+)",
+        "Originality: 'derivative but well done' versus 'feels uninspired'"
+      ],
+      "reception_notes": "Early Access started Jan 21, 2025; 1.0 released Sep 3, 2025 with endless mode added, priced around $15 list at launch (Steam showed $8.99 at snapshot time). SteamSpy estimates 200k-500k owners; the revenue calculator estimates roughly $2.27M gross and $670K net, with no copies figure. The OpenCritic page could not be confirmed, so it is left null. Steam: 82.5% positive overall; recent reviews were about 80% positive in the store snapshot. Metacritic headline 76 is the Switch 2 page; PC is 79 from 8 critics. User score 6.7 is based on only 6 ratings, so it is not reliable. Post-launch: a Conan DLC, skin pack, a post-1.0 roadmap (Nov 2025) and Switch 2/console ports. Switch 2 port criticised for framerate and crashes by Gaming Nexus and Nintendo News PL, and the Steam Deck build has negative feedback despite its Verified badge. PC (Windows) only on Steam. A few early reviewers say the game got easier after balance patches.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2820820.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review totals, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2820820/Jotunnslayer_Hordes_of_Hel/",
+          "what": "Steam store page: Early Access dates, review summary, critic quotes from Rogueliker and The Outerhaven"
+        },
+        {
+          "url": "https://www.metacritic.com/game/jotunnslayer-hordes-of-hel/",
+          "what": "Metacritic: PC Metascore 79 (8 critics), Switch 2 76 (12 critics), PS5 78 (4), user 6.7 on 6 ratings (Switch 2 page)"
+        },
+        {
+          "url": "https://www.rogueliker.com/jotunnslayer-hordes-of-hel-review/",
+          "what": "Rogueliker review: praise for level design, build variety and meta-reset; jerky movement and repetitive effects"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2820820/discussions/",
+          "what": "Steam community forum: Steam Deck crashes, Switch 2 port complaints, Conan DLC bug, content and online co-op requests, roadmap"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2820820/jotunnslayer-hordes-of-hel",
+          "what": "Estimated gross and net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=jotunnslayer",
+          "what": "Checked for an OpenCritic entry; nothing found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic: 76/12 critics/6.7 user belongs to the Switch 2 page; PC Metascore is 79 (8 critics), PS5 78 (4). Set metacritic_critic to 79 (PC, matching the Steam release), added Switch 2 and PS5 rows, corrected summary and notes, noted $8.99 current Steam price. OpenCritic left null. Bullets checked against top Steam reviews; themes (samey runs, thin content, god-dominant builds, grind, FPS/Steam Deck, too-easy difficulty) all confirmed; no bullets removed."
+    },
+    "his_anchor": null,
+    "his_pos": 4,
+    "his_row_n": 10,
+    "his_spoken": "said high",
+    "his_score": 70.2,
+    "his_top10_bonus": 0,
+    "players_score": 22.5,
+    "critics_score": 42.0,
+    "critics_avg": 79.0,
+    "overall": 47.9,
+    "labels": [
+      "survivors_like",
+      "action",
+      "coop"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

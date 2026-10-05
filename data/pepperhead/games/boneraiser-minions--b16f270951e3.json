@@ -1,0 +1,255 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "boneraiser minions",
+    "name": "Boneraiser Minions",
+    "display_name": "Boneraiser Minions",
+    "appid": 1944570,
+    "img": "img/1944570.jpg",
+    "steam_url": "https://store.steampowered.com/app/1944570/",
+    "website": "http://caiysware.com",
+    "short_description": "Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade!",
+    "developers": [
+      "caiys"
+    ],
+    "publishers": [
+      "caiysware"
+    ],
+    "release_date": "Mar 9, 2023",
+    "coming_soon": false,
+    "price": "$4.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Pixel Graphics",
+      "Rogue-lite",
+      "2D",
+      "Vampire",
+      "Indie",
+      "Singleplayer",
+      "Casual",
+      "Arcade"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 96.1,
+    "steam_total_reviews": 5370,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/boneraiser-minions/",
+    "metacritic_user": "7.1 (12 user ratings, Mixed or Average)",
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Overwhelmingly Positive, 5163 positive / 207 negative)",
+        "score": "96.1% positive",
+        "url": "https://store.steampowered.com/app/1944570"
+      },
+      {
+        "source": "VaporLens sentiment summary",
+        "score": "96.3% positive, 92.9% among players with 2+ hours",
+        "url": "https://vaporlens.app/app/1944570/boneraiser_minions/stats/details"
+      },
+      {
+        "source": "SteamSpy/revenue estimates",
+        "score": "200k-500k owners; est. gross about $856k (steam-revenue-calculator) vs about $2.04M (VaporLens)",
+        "url": "https://steam-revenue-calculator.com/app/1944570/boneraiser-minions"
+      }
+    ],
+    "vgi_units": 161000,
+    "vgi_revenue": 516000,
+    "vgi_rating": 96.145,
+    "vgi_reviews": 5369,
+    "vgi_url": "https://app.sensortower.com/vgi/game/boneraiser-minions",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "856,164.24",
+    "src_net": "252,568.45",
+    "src_url": "https://steam-revenue-calculator.com/app/1944570/boneraiser-minions",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put it as a as a solid uh B tier or probably right right above uh 20 minutes till Dawn",
+        "video_id": "5k_-k4X90ao",
+        "t": 877,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=877s",
+        "year_in_title": "2022",
+        "pos": 1,
+        "row_n": 35,
+        "row_score": 0.9196428571428572,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Boneraiser Minions is a top-down, single-level roguelike where you play a weak necromancer with no abilities of your own and instead raise minions to fight for you. Despite its simple look, the hub world is packed with upgrades and things to buy, letting you customise the level, traps, enemies, minions, the necromancer and spells. He bounced off it at first because of information overload, but after sticking with it found it fun and chaotic. He places it in a solid B tier, just above 20 Minutes Till Dawn.",
+        "praise": [
+          "Huge amount of content and customisation for a game that looks so simple",
+          "Hub world offers many upgrades covering levels, traps, enemies, minions, the necromancer and spells",
+          "Seeing the wild minion builds and combinations for the first time is amazing",
+          "Feels like a campaign mode: a great experience while discovering everything",
+          "Recommends it to players who want to see some chaos",
+          "Surprised him positively overall"
+        ],
+        "criticism": [
+          "Initial information overload and too many things to buy made it off-putting at first",
+          "Builds always converge to the same final form (vegetable, demon, zombie), so late-game builds are only novel once",
+          "Once everything is seen you are done; theoretically short at roughly 15 hours",
+          "Looks unremarkable at first glance"
+        ],
+        "unique_points": [
+          "Player has no abilities; all power comes from raised minions",
+          "Customisation depth reaches even enemies, traps and level layout, unusual for this kind of game",
+          "Replay structure resembles a campaign: discover builds once, then you are finished"
+        ],
+        "quote": "it doesn't look like much but I'm gonna put it as a solid B tier",
+        "comparisons": [
+          "20 Minutes Till Dawn"
+        ],
+        "design_criteria": [
+          "Content volume: surprising amount for a simple-looking game",
+          "Customisation/meta-progression: hub upgrades across many systems",
+          "Build diversity: many minion builds but each has a fixed end state",
+          "Replayability: campaign-like, best experienced once",
+          "Onboarding: overwhelming information at the start",
+          "Run/game length: about 15 hours to see everything"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A gothic pixel-art auto-battler survivors-like where you play a necromancer who raises and merges undead minions that do the fighting while you dodge and collect bones.",
+      "consensus_summary": "Steam reception is Overwhelmingly Positive (about 96% of roughly 5,400 reviews) for a $4.99 game from solo-ish studio caiysware, with praise centred on sheer content volume, minion-centric build variety, chiptune music and dark humour. Critics coverage is sparse: Metacritic lists the game with no Metascore yet (awaiting 4 critic reviews) and a 7.1 user score from only 12 ratings, and no OpenCritic entry turned up. Indie blogs (GamingOnLinux, a Substack review) were warm, with GamingOnLinux calling it a favourite and Steam Deck Verified. Negative reviews are a small minority but are highly consistent: the visuals are cluttered and hard on the eyes, and mechanics/tooltips are poorly explained. The game left early access and has kept receiving content updates well past 1.0, per player reviews.",
+      "best_things": [
+        "Huge amount of content for the price: many classes, minion types, relics, spells and bosses; one player reports around 85 hours to 100 percent it",
+        "Minion-centric gameplay feels distinct from Vampire Survivors: your army does the fighting, and combining/mutating minions is rarely seen elsewhere",
+        "Deep, layered meta progression with a deliberate drip-feed of unlocks that keeps runs feeling novel",
+        "Chiptune soundtrack widely singled out as excellent",
+        "Gothic pixel art and crude, innuendo-heavy dark humour give it a strong identity",
+        "Secret extra modes such as a strategy card game (Clashful Cards), Castle Conquest, Architect Mode, endless and daily challenges",
+        "Developer is passionate and keeps shipping updates after 1.0; Steam Deck Verified and runs well on Linux/Proton",
+        "Very low price and few bugs reported even after 90 hours"
+      ],
+      "worst_things": [
+        "Visual clutter: enemies, minions, projectiles, weather and pickups blur together, making it hard to track your own character late in a run",
+        "Color scheme/saturation causes eye strain or headaches for some players; a few compare it to seizure-warning territory",
+        "Poor affordance design: no tooltips for spells, unclear meaning of gems and telegraphs, no way to re-check a class's strengths after a run starts",
+        "Text descriptions for minions and upgrades are written for flavour rather than clarity, forcing players to read multiple sentences or use external guides",
+        "Minions can look like enemies and XP can look like enemy projectiles, per critical reviewers (an early comment said outlines were later added to help)",
+        "Sparse audio feedback for much of the on-screen action, according to one reviewer",
+        "Limited control over minions, which only loosely follow you"
+      ],
+      "improvements": [
+        "Clearer readability: stronger player/minion/enemy/pickup differentiation and options to reduce effects and saturation",
+        "Better tutorial and in-run info: tooltips for spells, a class summary screen, clearer minion upgrade/merge rules",
+        "Plainer, more concise upgrade text instead of roleplay-style descriptions",
+        "More build variety and bosses to sustain interest after the first wins",
+        "Rebalanced difficulty curve, since meta progression makes the game far easier as you unlock everything",
+        "More distinct character classes (a recurring complaint in sentiment summaries)"
+      ],
+      "unique_things": [
+        "Inverted fantasy: you are the necromancer under attack by heroes, and minions rather than the player deal the damage",
+        "Bones from slain heroes are the resource used to raise the army",
+        "Minion combining/mutating upgrade system",
+        "Hidden upgrade effects revealed only after acquisition, encouraging discovery",
+        "Bundled side modes including a card game and map-hopping Castle Conquest, plus a tongue-in-cheek unlockable plumber character",
+        "Shares a universe/tone with the developer's other game Spirits Abyss"
+      ],
+      "tedious_or_disliked": [
+        "Reading dense upgrade text and puzzling out systems every level-up",
+        "Everything can be unlocked within a few hours for some players, after which runs feel like free wins",
+        "Repetitive loop once build variety is exhausted; some say if you have played one survivors-like you have played them all",
+        "Slow, small-feeling start and a few runs needed before options open up",
+        "Completionist tasks such as the achievements monument are off-putting to some"
+      ],
+      "divisive_points": [
+        "Art style: praised as charming retro pixel art by many, dismissed as ugly and unreadable by others",
+        "Difficulty: some find it too easy after meta progression, others find early runs unfair or unplayable",
+        "Info density: some enjoy the discovery and depth, others find the mechanics opaque and exhausting"
+      ],
+      "reception_notes": "Launched in early access in 2022 (GamingOnLinux wrote it up in Aug 2022 when it was about $1.99) and hit 1.0 on Mar 9, 2023 at $4.99; it was included in a Humble survivors-like bundle around then. Positive sentiment has held and steady content updates continue (Steam reviews dated into 2026 mention ongoing additions). Windows only on Steam; Steam Deck Verified and runs on Linux via Proton. A separate soundtrack DLC exists. Metacritic page exists with a 'tbd' Metascore and a 7.1 user score from 12 ratings. Players with under 2 hours are far more negative (about 10 percent positive per VaporLens), suggesting the opening and readability are the main barrier.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1944570.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1944570",
+          "what": "Steam store page: description, price, Overwhelmingly Positive rating"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata, SteamSpy owner range and revenue estimate"
+        },
+        {
+          "url": "https://www.gamingonlinux.com/2022/08/boneraiser-minions-is-probably-my-next-100-hour-indie-obession/",
+          "what": "GamingOnLinux early-access impressions and reader comments on clutter"
+        },
+        {
+          "url": "https://soapyy.substack.com/p/boneraiser-minions-a-master-class",
+          "what": "Substack review praising content depth, modes and humour"
+        },
+        {
+          "url": "https://vaporlens.app/app/1944570/boneraiser_minions/stats/details",
+          "what": "Review sentiment analytics and sales estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/boneraiser-minions/",
+          "what": "Metacritic page; Metascore tbd, no user score"
+        },
+        {
+          "url": "https://www.opencritic.com/search?q=boneraiser",
+          "what": "OpenCritic search; no entry found"
+        },
+        {
+          "url": "https://www.gamingonlinux.com/2023/03/humble-has-a-bundle-of-survivors-like-games-including-boneraiser-minions-a-favourite/",
+          "what": "GamingOnLinux note on Humble survivors-like bundle featuring the game"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1944570/boneraiser-minions",
+          "what": "Boxleiter-method revenue estimate"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore still tbd (null kept), user score 7.1 from 12 ratings was missing so added to metacritic_user and summary/notes. Checked bullets against top Steam reviews (clutter, eye strain, unclear text, content value, unique identity); all consistent, nothing removed or added. OpenCritic left null."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 35,
+    "his_spoken": "said solid",
+    "his_score": 92.0,
+    "his_top10_bonus": 0,
+    "players_score": 85.1,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 89.0,
+    "labels": [
+      "survivors_like",
+      "strategy"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

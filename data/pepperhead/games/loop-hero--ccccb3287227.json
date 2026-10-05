@@ -1,0 +1,240 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "loop hero",
+    "name": "Loop Hero",
+    "display_name": "Loop Hero",
+    "appid": 1282730,
+    "img": "img/1282730.jpg",
+    "steam_url": "https://store.steampowered.com/app/1282730/",
+    "website": "http://loophero.com",
+    "short_description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
+    "developers": [
+      "Four Quarters"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "release_date": "Mar 4, 2021",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Tactical",
+      "Rogue-like",
+      "Pixel Graphics",
+      "Deckbuilding",
+      "Rogue-lite",
+      "Choices Matter",
+      "Indie",
+      "Resource Management",
+      "Card Game",
+      "Strategy RPG"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 92.7,
+    "steam_total_reviews": 36571,
+    "metacritic": 82,
+    "metacritic_url": "https://www.metacritic.com/game/pc/loop-hero?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.6,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic (Nintendo Switch)",
+        "score": "84",
+        "url": "https://en.wikipedia.org/wiki/Loop_Hero"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 92.7% of 36,571 reviews",
+        "url": "https://store.steampowered.com/app/1282730/Loop_Hero/"
+      },
+      {
+        "source": "Steam Revenue Calculator (Boxleiter estimate)",
+        "score": "about $23.8M gross, about $7.0M net, roughly 1.6M copies (estimate)",
+        "url": "https://steam-revenue-calculator.com/app/1282730/loop-hero"
+      }
+    ],
+    "vgi_units": 1400000,
+    "vgi_revenue": 12700000,
+    "vgi_rating": 92.726,
+    "vgi_reviews": 36570,
+    "vgi_url": "https://app.sensortower.com/vgi/game/loop-hero",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "23,848,805.19",
+    "src_net": "7,035,397.53",
+    "src_url": "https://steam-revenue-calculator.com/app/1282730/loop-hero",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put this as a definitely like a high like a mid High beat here (ASR for B, mid-high B)",
+        "video_id": "5k_-k4X90ao",
+        "t": 4828,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=4828s",
+        "year_in_title": "2021",
+        "pos": 16,
+        "row_n": 35,
+        "row_score": 0.6142857142857143,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Loop Hero is an auto-battling strategy roguelike where the player places terrain tiles like mountains, lakes and roads around a looping path, and those tiles spawn the scenarios the hero automatically fights through. He frames it as a deck-building-style game whose cards are pieces of nature. It was well received and is very unique, but not for everybody. He played roughly 10-15 hours, would recommend it to people wanting something different, and places it in mid-high B.",
+        "praise": [
+          "Very unique concept: tile placement as the 'deck-building' layer that shapes the loop",
+          "Got a lot of praise and did well commercially/critically",
+          "Places map pieces (mountains, lakes, roads) that each generate different scenarios",
+          "Multiple playable characters and a variety of bosses",
+          "Worth trying for a different kind of experience; he played 10-15 hours and enjoyed it"
+        ],
+        "criticism": [
+          "Automated battles make it more of a hands-off strategy game than an action one",
+          "Old-fashioned retro visual style is hit or miss and gets tiring for him after a while",
+          "Not for everybody"
+        ],
+        "unique_points": [
+          "Deck-building reimagined as placing landscape tiles in a world, with the hero looping automatically",
+          "Player agency lives entirely in tile placement rather than combat inputs"
+        ],
+        "quote": "it's definitely interesting and it might be worth a try",
+        "comparisons": [
+          "Inscryption",
+          "Enter the Gungeon",
+          "Don't Starve"
+        ],
+        "design_criteria": [
+          "Uniqueness/concept: automated loop plus tile placement is a distinctive hook",
+          "Strategy depth: player only places tiles, battles are automated",
+          "Visuals/charm: retro style is polarizing and tiring over time",
+          "Character and boss variety: multiple characters and bosses",
+          "Replayability: he played 10-15 hours and could return"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A retro pixel-art idle/auto-battler roguelite from Four Quarters (published by Devolver Digital) in which the hero walks a looping path automatically and the player places terrain, building and enemy-spawning cards around it, then retreats to camp to rebuild the ruined world.",
+      "consensus_summary": "Loop Hero launched in March 2021 to strong critic and player reception (Metacritic 82 on PC, 84 on Switch; Steam Very Positive at about 92.7% from roughly 36.5k reviews) for its novel tile-placement-meets-autobattler hook, art, soundtrack and dark story setup. The steady criticism, from both critics and players, is that it becomes repetitive and grindy: camp-resource progression is slow and runs start to feel samey after roughly 5-30 hours. Many players feel the game is effectively complete-but-abandoned, since there have been no significant content updates in years, some item slots remain unobtainable, and fans keep asking for DLC or a sequel. It has since shipped on Switch (Dec 2021), Xbox (Apr 2023) and mobile (Apr 2024), and it is frequently recommended as a cheap, discount-friendly 30-40 hour experience. Steam Mac reviewers report crashes.",
+      "best_things": [
+        "Distinctive core idea: you do not control the hero, you shape the world around them by placing cards, which players describe as deep and surprisingly addictive",
+        "Hidden tile synergies and combos (for example 3x3 grids of rocks and stones turning into mountains, farms turning into raided farms next to a battlefield) reward experimentation",
+        "Risk-reward tension of tuning enemy density and scaling against gear, then deciding when to retreat with loot versus push for the boss",
+        "Pixel art in a dark 80s/90s fantasy style and a memorable eerie soundtrack, which some Steam reviewers call the best art and music direction in a decade",
+        "Dark, intriguing story premise (the Lich and the looping void) with witty dialogue that keeps some players going to see the ending",
+        "Low-attention, relaxing play that works well on a second monitor; good value at a low price, especially on sale",
+        "Three classes, several acts and bosses give a solid roughly 30-40 hour campaign for many players"
+      ],
+      "worst_things": [
+        "Progression is widely described as grindy: camp buildings and unlocks need large amounts of slow-to-collect resources",
+        "Runs become samey; many players find the same tile layouts work every time once a build is found",
+        "The game can feel brain-dead or passive, since much of it plays itself and the important decisions are made before or early in a run",
+        "Heavy RNG, including runs lost to swingy loops or to monsters stealing gear unnoticed, which can feel unfair rather than skill-based",
+        "Weak onboarding: stat interactions and tile combos are obscure, so many players need a wiki or guide to see most of the combinations",
+        "Content feels unfinished: some equipment slots (belt and gloves were mentioned) cannot be obtained, and the game has not been meaningfully updated in years",
+        "Some reviewers report that the Mac version crashes despite being listed as supported"
+      ],
+      "improvements": [
+        "Add new content through updates or paid DLC (more classes, cards, buildings, endgame or New Game+), which several long-time players say they would happily buy",
+        "Implement or remove the unused item slots so the gear system feels complete",
+        "Speed up meta-progression and camp unlocks, or reduce the amount of resource grinding required for each new building",
+        "Explain tile interactions and stats better in-game so players do not need external guides",
+        "Add more tile combinations and deeper synergies; some players say most are only 0-2 layers deep",
+        "Fix Mac compatibility on Steam"
+      ],
+      "unique_things": [
+        "Indirect control: the player is essentially a dungeon-master style planner placing terrain, buildings and spawners around a fixed circular path",
+        "Fuses idle/autobattler, deckbuilding-style card drops, roguelite retreat-or-die risk and base building into one loop",
+        "Adjacency-based tile combinations that transform tiles into new ones, many never explicitly documented by the game",
+        "Retreat-with-loot mechanic where the expedition's resource payout depends on whether you leave before dying",
+        "Story told through conversations with characters, including monsters, unusual for an idle-adjacent roguelite",
+        "Retro-computing/dark-fantasy pixel aesthetic with distinctive music that carries much of the identity"
+      ],
+      "tedious_or_disliked": [
+        "Slow camp-resource farming: reviewers describe needing dozens of short loops to afford a single building",
+        "Repeating the same safe loop strategy (go around a few times, retreat) because pushing your luck is punished",
+        "Constant gear micromanagement during runs even though the game is nominally hands-off",
+        "Runs that feel identical after the first several hours, leading some to drop it around the 5-10 hour mark",
+        "Unexplained mechanics that force a guide lookup to understand which tiles actually work"
+      ],
+      "divisive_points": [
+        "Grind: some players, including 100% completionists, love the slow relaxing progression, while others call it unbearable",
+        "Passive gameplay: praised as a chill, second-monitor-friendly autobattler by some, dismissed as too hands-off or brain-dead by others",
+        "Depth of the tile system: fans call it deeper than it looks, while critics say combinations are shallow or obscure and players just stack everything in one place",
+        "Punishing death and retreat rules: seen as good tension by some and a disincentive to be brave by others"
+      ],
+      "reception_notes": "Launch reception was strongly positive: Metacritic lists 58 critic reviews, about 90% positive and 10% mixed. Wikipedia notes critics such as Polygon praised the experimentation the loop allowed, Ars Technica liked its take on idle games, and PC Gamer felt the lack of new cards hurt the late game. It was nominated for Best Independent Game at The Game Awards 2021 and multiple D.I.C.E. categories. Platform timeline: PC March 4, 2021; Switch December 9, 2021; Xbox April 4, 2023; mobile April 30, 2024. Recent Steam reviews (2025-2026) are still mostly positive but repeatedly mention no updates in over 3 years, demands for a sequel, and Mac crashes. Steam lists about 348 concurrent players per the local data and price $14.99 (frequently discounted). OpenCritic could not be verified (search budget exhausted), so opencritic is null, not confirmed absent.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store data: appid 1282730, Four Quarters / Devolver, release, price, Metacritic 82, 92.7% positive of 36,571 reviews, SteamSpy owners 1-2M"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1282730.json",
+          "what": "Top helpful positive and negative English Steam reviews (grind, repetition, no updates, unobtainable slots, Mac crash, praise for art/music/concept)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/loop-hero/",
+          "what": "Metacritic critic page: Metascore 82 from 58 reviews, critic consensus on deck-building and repetitiveness"
+        },
+        {
+          "url": "https://www.metacritic.com/game/loop-hero/user-reviews/",
+          "what": "Metacritic user score 7.6 and recurring user themes (grind, repetition, poor explanations, limited variety)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Loop_Hero",
+          "what": "Gameplay summary, Switch 84 Metacritic, critic quotes from Polygon, Ars Technica and PC Gamer, platform release dates, awards"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1282730/loop-hero",
+          "what": "Boxleiter-method revenue estimate: about $23.8M gross, about $7.0M net, roughly 1.6M copies"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1282730/Loop_Hero/",
+          "what": "Steam store page (review summary and metadata as captured in the local Steam data)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic PC page: Metascore 82 (58 critics), user 7.6 confirmed. OpenCritic unverifiable (search budget exhausted) so left null. Removed two bullets not supported by Steam reviews (demoralising late-run death in tedious_or_disliked; 'reward ambitious boss attempts' in improvements). Reviews support remaining themes: grind, samey runs, no updates/unobtainable slots, Mac crash, brain-dead/passive, micromanagement, art/music praise. Reworded OpenCritic note."
+    },
+    "his_anchor": null,
+    "his_pos": 16,
+    "his_row_n": 35,
+    "his_spoken": "said high",
+    "his_score": 61.4,
+    "his_top10_bonus": 0,
+    "players_score": 65.4,
+    "critics_score": 62.2,
+    "critics_avg": 82.0,
+    "overall": 63.0,
+    "labels": [
+      "deckbuilder",
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

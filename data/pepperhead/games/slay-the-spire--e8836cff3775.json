@@ -1,0 +1,258 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "slay the spire",
+    "name": "Slay the Spire",
+    "display_name": "Slay the Spire",
+    "appid": 646570,
+    "img": "img/646570.jpg",
+    "steam_url": "https://store.steampowered.com/app/646570/",
+    "website": "https://www.megacrit.com/",
+    "short_description": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire!",
+    "developers": [
+      "Mega Crit"
+    ],
+    "publishers": [
+      "Mega Crit"
+    ],
+    "release_date": "Jan 23, 2019",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Card Battler",
+      "Rogue-like",
+      "Deckbuilding",
+      "Turn-Based",
+      "Strategy",
+      "Singleplayer",
+      "Rogue-lite",
+      "Replay Value"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 97.5,
+    "steam_total_reviews": 218968,
+    "metacritic": 89,
+    "metacritic_url": "https://www.metacritic.com/game/pc/slay-the-spire?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.9,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Overwhelmingly Positive, 97.5% positive of about 218,968 reviews",
+        "url": "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+      },
+      {
+        "source": "OpenCritic (per Wikipedia)",
+        "score": "98% of critics recommend",
+        "url": "https://en.wikipedia.org/wiki/Slay_the_Spire"
+      },
+      {
+        "source": "IGN (per Wikipedia)",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Slay_the_Spire"
+      },
+      {
+        "source": "PC Gamer (per Wikipedia)",
+        "score": "92/100",
+        "url": "https://en.wikipedia.org/wiki/Slay_the_Spire"
+      },
+      {
+        "source": "Metacritic PS4 / Switch / iOS (per Wikipedia)",
+        "score": "88 / 85 / 83",
+        "url": "https://en.wikipedia.org/wiki/Slay_the_Spire"
+      }
+    ],
+    "vgi_units": 3800000,
+    "vgi_revenue": 55000000,
+    "vgi_rating": 97.158,
+    "vgi_reviews": 220666,
+    "vgi_url": "https://app.sensortower.com/vgi/game/slay-the-spire",
+    "spy_owners": "5,000,000 .. 10,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "199,982,774.88",
+    "src_net": "58,994,918.59",
+    "src_url": "https://steam-revenue-calculator.com/app/646570/slay-the-spire",
+    "final_tier": "S",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "even without mods uh this is still a masterpiece that's an S tier for me",
+        "video_id": "5k_-k4X90ao",
+        "t": 8941,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=8941s",
+        "year_in_title": "2017",
+        "pos": 1,
+        "row_n": 9,
+        "row_score": 0.9444444444444444,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Slay the Spire is the deck-building roguelike that kicked off the whole genre, and most later deck-builders descend from it. He calls it the most perfectly designed deck-builder and says it is his favorite roguelike right now, with more Steam playtime than any other game. He also thinks it is the ideal entry point to the genre because it is the simplest yet best-designed of them all. The huge modding scene adds to his love, but he says it is an S-tier masterpiece even without mods.",
+        "praise": [
+          "Cards are very well balanced: none feels overpowered or useless, and each can be played several ways",
+          "Many characters with many different builds",
+          "Relics act as run-long passives that change how you play, so every run feels different",
+          "Unlocking a new card pick after the first run makes runs feel unique early on",
+          "Huge modding community adds new characters, worlds and DLC-like content; he plays almost only modded now",
+          "Simplest and best-designed deck-builder, so ideal for introducing newcomers to the genre",
+          "Lasting appeal: he has played since release and followed every update"
+        ],
+        "criticism": [
+          "Visuals are not especially impressive",
+          "Music is merely fine",
+          "No new official updates or DLC at this point",
+          "You cannot customize your starting deck"
+        ],
+        "unique_points": [
+          "It pioneered the deck-building roguelike genre and inspired nearly every game in it",
+          "Modding scene is among the biggest in roguelikes, with a recent expansion built by roughly 70 modders over years",
+          "Card and relic balance keeps variety high without any dominant or dead options"
+        ],
+        "quote": "this is still a masterpiece that's an S tier for me",
+        "comparisons": [
+          "The Binding of Isaac",
+          "Solitairica",
+          "Have a Nice Death",
+          "FTL"
+        ],
+        "design_criteria": [
+          "Balance: no card is overpowered or useless",
+          "Build diversity: many characters and many viable builds",
+          "Synergies and run variety: relics change playstyle each run",
+          "Replayability and longevity: years of play, mod support",
+          "Accessibility: simple, good for newcomers",
+          "Visuals and audio: acknowledged as average but not important to him",
+          "Meta-progression: new card choices unlock after first run",
+          "Community and modding: huge, though he tries not to let it sway the rating"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A single-player roguelike deckbuilder by Mega Crit where you climb a three-act tower with one of four characters, building a fresh deck from card, relic and potion rewards each run.",
+      "consensus_summary": "Slay the Spire is widely treated as the genre-defining roguelike deckbuilder. Critics were near-unanimous (Metacritic PC 89 from 24 reviews, all positive; a 98% critic-recommend figure is cited via Wikipedia (OpenCritic page not re-verified)) and Steam players rate it Overwhelmingly Positive at about 97.5% across roughly 219k reviews. Praise centres on tight card design, readable decisions and enormous replayability. The recurring dissent, mostly from a small negative minority on Steam, is about RNG and loss feeling undeserved. It launched in Early Access in Nov 2017 and hit 1.0 in Jan 2019, then spread to consoles and mobile. Its sequel, Slay the Spire 2, entered Early Access in March 2026 .",
+      "best_things": [
+        "Card and relic synergies reward experimentation; players report discovering new builds after hundreds or thousands of hours",
+        "Highly addictive one-more-run loop: top-voted reviews show players at 150-680 hours and joking about losing sleep and study time",
+        "Four characters (Ironclad, Silent, Defect, Watcher) play very differently and each has multiple archetypes",
+        "Branching map with visible elites, shops, rest sites and events turns pathing into a clear risk-versus-reward decision that many later roguelikes copied",
+        "Enemies telegraph their intents, so combat is puzzle-like and deaths can usually be traced to a decision",
+        "Ascension levels (20 of them) plus the Heart ending give a very deep difficulty curve that keeps veterans challenged",
+        "Fast, pick-up-and-stop session format: no timers, save anytime, works offline and on handhelds, and easy to play in short bursts",
+        "Reviewers say it is accessible to people with no card-game experience while still having high depth",
+        "Strong value: frequently discounted heavily, and cited in reviews as a bargain for the hours delivered"
+      ],
+      "worst_things": [
+        "RNG in card rewards, relic offers and boss/elite draws can doom a run early, which is the dominant complaint in Steam negative reviews",
+        "Some bosses and encounters hard-counter certain decks; the final act and Heart fight demand specific setups that can feel like a check against the build you drew",
+        "Losses after long runs can feel undeserved or like gambling rather than skill, per several negative reviews",
+        "Characters are felt to be unevenly strong by some players, with some bosses being harsh on particular characters",
+        "Visual style is functional rather than beautiful; even positive reviews call the art plain",
+        "Console and mobile versions stopped receiving updates after Humble Games' publishing arm shut down in July 2024",
+        "No undo button, which players say makes misclicks and misreads costly"
+      ],
+      "improvements": [
+        "More randomness mitigation or reroll-type tools in normal runs (the Custom/constructed style modes are said to build decks that feel like cheating)",
+        "An undo or take-back option for accidental plays",
+        "Better balance between characters and against specific boss matchups",
+        "Less punishing early difficulty scaling and a gentler on-ramp to ascensions for newer players",
+        "Faster, more satisfying unlock progression, since players find unlocking cards via slow XP on each run dull"
+      ],
+      "unique_things": [
+        "Helped define the roguelike deckbuilder genre; its map, relic and card-reward structure was widely imitated",
+        "Enemy intent display turns each fight into a deterministic puzzle layered on top of draw randomness",
+        "Permanent meta progression is only unlocks, not stat upgrades, so every run starts equal",
+        "Deck thinning and deck-size control as a core skill: adding cards is often a mistake",
+        "A deep ascension ladder plus an optional Heart fight extend the game far beyond a first win",
+        "Has a robust mod and Workshop scene, including large fan expansions such as Downfall"
+      ],
+      "tedious_or_disliked": [
+        "Runs that blur together for some players; a few say the loop lacked the one-more-run pull after the first dozens of hours",
+        "Slow unlock XP that gates cards per character, which some call grindy",
+        "High win-rate grind to climb ascensions, with some players stuck near a 20% win rate and reporting frustration",
+        "Losing a long run to one bad draw or burst boss attack and having to restart from floor 1",
+        "Having to build towards the final boss while surviving the regular fights on the way up"
+      ],
+      "divisive_points": [
+        "RNG versus skill: fans say good play mitigates bad draws, critics say randomness overwhelms the strategy",
+        "Difficulty and ascension grind: veterans love the ceiling, newcomers find the learning curve steep",
+        "No run-to-run power progression: praised as pure skill, disliked as a lack of persistent reward by some reviewers",
+        "Endgame Heart and act 4 requirements: considered a great climax by some and an annoying build check by others"
+      ],
+      "reception_notes": "Early Access launched Nov 2017 with slow initial sales (around 2,000 copies), then took off after a large Chinese streamer featured it; it reached Steam's second best-selling slot in Jan 2018, passed 1 million copies by June 2018 and 1.5 million by March 2019. 1.0 released Jan 23, 2019, followed by PS4 (May 2019), Switch (June 2019), Xbox One (Aug 2019), iOS (June 2020) and Android (Feb 2021). It won or was nominated for multiple 2019 awards (IGN Best Strategy Game of 2019, PC Gamer Best Design 2019). Third-party estimates put Steam gross revenue near $200M and developer net near $59M (Boxleiter-style estimate, not audited), and SteamSpy-style data puts owners at 5-10 million. Steam concurrent players still around 15k per the data file. Slay the Spire 2 entered Early Access on March 5, 2026 (co-op up to 4 players, Godot engine). Console and mobile ports stopped being updated after Humble Games' publishing division shut in July 2024.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/646570.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store data: appid 646570, release date, review totals, Metacritic 89, SteamSpy owners range"
+        },
+        {
+          "url": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+          "what": "Steam store page (review summary Overwhelmingly Positive, via local data)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/slay-the-spire",
+          "what": "Metascore 89 from 24 critics, user score 7.9 from 1,478 ratings, critic consensus"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slay_the_Spire",
+          "what": "Reception, sales milestones, platform timeline, awards, sequel, Humble shutdown"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/646570/slay-the-spire",
+          "what": "Estimated gross (~$200M) and net (~$59M) revenue, Boxleiter method"
+        },
+        {
+          "url": "https://slaythespire.wiki.gg/wiki/Slay_the_Spire_Wiki",
+          "what": "Community wiki overview, four characters, coverage of STS1 and STS2"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic PC page: Metascore 89 from 24 critics (100% positive) and user score 7.9 from 1,478 ratings both confirmed, no change. OpenCritic left null (search budget exhausted; 98% recommend figure is Wikipedia-sourced, flagged as unverified in summary). Removed the improvement bullet about console/mobile patch support (not from reviews). Softened two claims that Steam reviews show players moving to STS2 (only a joke review supports it). Added a best_things bullet on the addictive loop/hour counts from top positive reviews. Steam negatives themes (RNG, unfair losses, boss hard counters, no undo, grindy unlocks, 20% win rate, blur-together runs) checked and already covered."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 9,
+    "his_spoken": null,
+    "his_score": 94.4,
+    "his_top10_bonus": 0,
+    "players_score": 96.2,
+    "critics_score": 91.2,
+    "critics_avg": 89.0,
+    "overall": 94.4,
+    "labels": [
+      "deckbuilder",
+      "turn_based"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

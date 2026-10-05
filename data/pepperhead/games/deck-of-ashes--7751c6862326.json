@@ -1,0 +1,288 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "deck of ashes",
+    "name": "Deck of Ashes",
+    "display_name": "Deck of Ashes",
+    "appid": 1016730,
+    "img": "img/1016730.jpg",
+    "steam_url": "https://store.steampowered.com/app/1016730/",
+    "website": "https://deckofashes.com/",
+    "short_description": "Deck of Ashes is an adventure game with tactical card combat. One character at a time, lead the cast of antiheroes on a quest for redemption. Explore the cursed fantasy world and hunt down powerful cards. Forge a unique Battle Deck, and crush your foes! Can you rid the world of the Ash Curse?",
+    "developers": [
+      "AYGames"
+    ],
+    "publishers": [
+      "ESDigital Games"
+    ],
+    "release_date": "Jun 9, 2020",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Card Battler",
+      "RPG",
+      "Indie",
+      "Deckbuilding",
+      "Roguelike Deckbuilder",
+      "Strategy",
+      "Adventure",
+      "Rogue-lite",
+      "Card Game",
+      "Singleplayer"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 71.6,
+    "steam_total_reviews": 1070,
+    "metacritic": 66,
+    "metacritic_url": "https://www.metacritic.com/game/deck-of-ashes/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": "https://opencritic.com/game/9620/deck-of-ashes",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Mostly Positive, 766 positive / 304 negative)",
+        "score": "71.6% positive",
+        "url": "https://store.steampowered.com/app/1016730/"
+      },
+      {
+        "source": "Gamer's Palace (via OpenCritic)",
+        "score": "93/100",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "Gamezo (via OpenCritic)",
+        "score": "7.8/10",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "GameMAG / Chalgyr's Game Room (via OpenCritic)",
+        "score": "7/10",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "GameBlast (via OpenCritic)",
+        "score": "6.5/10",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "PC Invasion (via OpenCritic)",
+        "score": "6/10",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "Game Freaks 365 (via OpenCritic)",
+        "score": "3.5/5",
+        "url": "https://opencritic.com/game/9620/deck-of-ashes"
+      },
+      {
+        "source": "High Ground Gaming",
+        "score": "7/10",
+        "url": "https://www.highgroundgaming.com/deck-of-ashes-review/"
+      },
+      {
+        "source": "The Xbox Hub (Complete Edition)",
+        "score": "2.5/5",
+        "url": "https://www.thexboxhub.com/deck-of-ashes-complete-edition-review/"
+      }
+    ],
+    "vgi_units": 32100,
+    "vgi_revenue": 398000,
+    "vgi_rating": 71.656,
+    "vgi_reviews": 1069,
+    "vgi_url": "https://app.sensortower.com/vgi/game/deck-of-ashes",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "67,670.40",
+    "src_net": "19,962.77",
+    "src_url": "https://steam-revenue-calculator.com/app/1016730/deck-of-ashes",
+    "final_tier": "D",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "D",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "D",
+        "verbal_evidence": "so I'm gonna put this as a indeed (ASR for 'a D')",
+        "video_id": "5k_-k4X90ao",
+        "t": 2560,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=2560s",
+        "year_in_title": "2019",
+        "pos": 4,
+        "row_n": 5,
+        "row_score": 0.30000000000000004,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Deck of Ashes is a deck-building roguelike where you play a single character with traditional cards, travelling a node-style map where each stop is an event or a fight. He finds nothing especially unique in it and considers the gameplay pretty basic. He dislikes the art style and the game's overly serious tone that clashes with the goofy visuals. He found it boring and places it in the bottom tier, a D as best the ASR suggests, while acknowledging some people enjoy it.",
+        "praise": [
+          "Concedes some players liked it",
+          "One small gimmick: cards played do not need to be restored outside of battle (though he calls it annoying)"
+        ],
+        "criticism": [
+          "Nothing unique; he has seen this kind of deck-builder many times",
+          "Gameplay is pretty basic: single character, traditional cards",
+          "World is a simple clicking map with just an event or a fight at each point",
+          "Dislikes the art style, which reads as goofy at times",
+          "Takes itself too seriously, clashing with the art",
+          "Found it boring overall"
+        ],
+        "unique_points": [
+          "The only possible gimmick is not having to restore played cards outside battle, which he finds annoying rather than clever"
+        ],
+        "quote": "I thought it was a little boring",
+        "comparisons": [],
+        "design_criteria": [
+          "Uniqueness/gimmick: he sees nothing distinctive versus other deck-builders",
+          "Gameplay depth: single character and traditional cards feel basic",
+          "World/map structure: click-point map with event or fight is seen as minimal",
+          "Art style and tone: goofy visuals clash with serious tone",
+          "Engagement: found it boring"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A dark-fantasy deckbuilding roguelite/RPG from AYGames in which a cast of antiheroes explores a camp-and-map world fighting turn-based card battles where played cards turn to ash and must be paid back with health to reuse.",
+      "consensus_summary": "Deck of Ashes is received as a mixed-to-decent, niche deckbuilder. Steam sits at Mostly Positive (about 72 percent of roughly 1,070 reviews), while critics land in the 6-7 out of 10 band, with a Metacritic score of 66 from 4 reviews and outliers at both ends (Gamer's Palace 93/100 versus Xbox Hub 2.5/5). Nearly everyone praises the art, voice work, character writing and boss fights; nearly everyone dislikes the slow, padded combat, the housekeeping after battles, and uneven polish. It spent just over a year in Early Access (April 2019) before a full PC/Mac release on June 9, 2020, then reached Xbox One, PS4 and Switch in 2021-2022 as the Complete Edition. Recent Steam reviews (2025-2026) still complain about broken controller/menu handling, and the game is now regularly bought very cheaply on sale.",
+      "best_things": [
+        "Hand-drawn, original art direction and distinctive, instantly readable card art",
+        "Four likeable, flawed antihero characters, each with their own mechanics and story campaign",
+        "Voice acting, music and sound design are strong for an indie, especially Magnus and the Ash Master",
+        "Boss fights feel epic and puzzle-like, rewarding adapting your strategy",
+        "The Ash Deck risk/reward system (spend health to renew used cards) creates real tactical tension",
+        "Badlands mode offers a streamlined, Slay the Spire-style pure card-battle roguelike run",
+        "Dark, grimy tone and narrative give it more story weight than most roguelike deckbuilders",
+        "Good value when discounted; some players report being happy with 7+ hours at a few pounds"
+      ],
+      "worst_things": [
+        "Combat is slow and spongy: trash fights take too many turns even on easy difficulty, and balance is conservative",
+        "Ash (the resource that gets you new cards) is tightly limited, so card acquisition is a bottleneck; other resources feel meaningless until late",
+        "The node/map and camp exploration feel repetitive and boring, with repetitive events and little sense of going anywhere",
+        "Early chapters repeat almost identically across characters and runs, hurting roguelite variety",
+        "Persistent bugs reported since launch: NPC upgrade failures, visual glitches, sound mixing, and debuff balance problems (one debuff reportedly distorts crafting by a large margin)",
+        "Controls are broken for many players, with controller confirm prompts getting stuck and the ESC menu sometimes impossible to close (one reviewer says the problems go away with the gamepad unplugged and mouse used)",
+        "Presentation inconsistencies: awkward font choices, localization/translation errors, uneven voice acting and disproportionate character designs",
+        "Dodge chance and monster first-turn speed advantage feel arbitrary in an otherwise deterministic system, with no action log to review"
+      ],
+      "improvements": [
+        "Fix and polish controller and keyboard/mouse input, menu handling and save loading",
+        "Add more playable characters beyond the current four and more variety in early-game encounters",
+        "Speed up combat and reduce spongy enemy health so ordinary fights do not drag",
+        "Make non-Ash resources matter earlier and loosen the card acquisition bottleneck",
+        "Improve the map/node events and camp progression so exploration feels purposeful",
+        "Add a combat log and clearer information about speed, dodge and debuff effects"
+      ],
+      "unique_things": [
+        "The titular Deck of Ashes: cards used in battle are temporarily consumed into an ash pile and must be renewed by paying life points (strain)",
+        "A camp/survival-expedition structure with resource management layered on top of card combat, rather than a pure node-map climb",
+        "Card recipes and crafting instead of straightforward card rewards, with persistent negative cards entering your deck",
+        "Each character has a unique story campaign, alongside the separate Badlands roguelike mode",
+        "Visual cues often compared to Darkest Dungeon combined with Slay the Spire mechanics, with a narrative-first angle",
+        "One Steam reviewer compares it to a smaller, lighter Gordian Quest (single mention, not a broad consensus)"
+      ],
+      "tedious_or_disliked": [
+        "Paying to renew and housekeeping your deck after every battle is slow and laborious",
+        "Wandering around camp repeatedly gathering resources until a boss shows up",
+        "Long trash fights and padded boss encounters that require extra map traversal",
+        "Camp upgrade system that overwhelms with analysis paralysis",
+        "Recipe-based rewards and unpredictable negative cards that dilute decks instead of giving the satisfaction of picking a card",
+        "Grinding battles early because other resources are irrelevant until endgame"
+      ],
+      "divisive_points": [
+        "The ash/strain system is praised as a clever tactical layer by some and called a terrible, counterintuitive extra chore by others",
+        "Conservative, methodical balance: good for newcomers and slow-play fans, but experienced deckbuilder players say the fun (speed, synergy, randomness) is sucked out",
+        "Price: fine at a deep discount, but several players say the full price (around 16 pounds or 20 dollars) is too much"
+      ],
+      "reception_notes": "Early Access launched April 2019 and lasted just over a year before the 1.0 release on June 9, 2020 (PC/Mac; Steam lists Windows and Mac only). Console versions followed in 2021 and the Complete Edition reached Switch in April 2022. Launch critics called it solid but uneven, and a Turn Based Lovers review flagged lingering bugs, balance and localisation issues at release. Revenue estimates are low (Steam revenue calculator about 67.7k gross and 20k net, SteamSpy owners 50k-100k), consistent with a small niche hit. Steam currently shows about 872 recommendations and very low concurrent players; recent 2025-2026 reviews still report controller and ESC-menu bugs, and the game is commonly discounted to a few dollars. Paid DLC includes a soundtrack, artbook, skins and the Tome of Dimensions.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1016730.json",
+          "what": "Local Steam reviews file: top helpful positive and negative English reviews (controller/menu bugs, 6/10 pros and cons list)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: Mostly Positive, 766/304 reviews, release date, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1016730/deck-of-ashes",
+          "what": "Revenue estimate (about 67.7k gross, 20k net, Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/game/9620/deck-of-ashes",
+          "what": "OpenCritic page with 7 aggregated critic reviews (no top critic average shown)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/deck-of-ashes/",
+          "what": "Metascore 66 from 4 critic reviews, no user score"
+        },
+        {
+          "url": "https://www.dekudeals.com/items/deck-of-ashes",
+          "what": "Corroborates Metacritic 66, price history, genres"
+        },
+        {
+          "url": "https://turnbasedlovers.com/review/deck-of-ashes/",
+          "what": "Detailed review: Ash Deck praised, bosses and Badlands good; bugs, Ash bottleneck, balance issues"
+        },
+        {
+          "url": "https://www.highgroundgaming.com/deck-of-ashes-review/",
+          "what": "7/10 review: fun combat and bosses, repetitive early game, inconsistent art and localisation"
+        },
+        {
+          "url": "https://www.thexboxhub.com/deck-of-ashes-complete-edition-review/",
+          "what": "2.5/5 Complete Edition review: slow post-match management, spongy enemies, recipe-based rewards"
+        },
+        {
+          "url": "https://rpgamer.com/2020/11/deck-building-rpg-deck-of-ashes-coming-to-consoles/",
+          "what": "Console release announcement and platform history"
+        },
+        {
+          "url": "https://www.gonintendo.com/contents/1742-deck-builder-deck-of-ashes-complete-edition-comes-to-switch-on-april-21st-2022",
+          "what": "Switch Complete Edition release date April 21, 2022"
+        },
+        {
+          "url": "https://rpgamer.com/2019/04/deck-of-ashes-early-access-version-released/",
+          "what": "Early Access launch in April 2019"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (Metascore 66, 4 critic reviews, user score tbd) and OpenCritic (7 reviews; individual scores match; no top critic average shown so opencritic stays null): critic_scores confirmed, no change. Local Steam reviews file has only a handful of reviews; themes (controller/ESC bugs, slow combat, good art/characters/voices, price only ok on sale) are consistent with the file. Rewrote the Gordian Quest bullet (single-reviewer claim, not consensus) and added the gamepad-unplugged workaround caveat to the controller bullet. No bullets removed; no themes added."
+    },
+    "his_anchor": null,
+    "his_pos": 4,
+    "his_row_n": 5,
+    "his_spoken": null,
+    "his_score": 30.0,
+    "his_top10_bonus": 0,
+    "players_score": 3.3,
+    "critics_score": 2.1,
+    "critics_avg": 66.0,
+    "overall": 15.1,
+    "labels": [
+      "deckbuilder",
+      "turn_based"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

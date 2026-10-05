@@ -1,0 +1,252 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "magicite",
+    "name": "Magicite",
+    "display_name": "Magicite",
+    "appid": 268750,
+    "img": "img/268750.jpg",
+    "steam_url": "https://store.steampowered.com/app/268750/",
+    "website": null,
+    "short_description": "Explore, craft, and survive in this Multiplayer RPG Platformer with permanent death! Featuring many Rogue-like elements, Magicite randomly generates each underground dungeon for you and your friends to delve deep into.",
+    "developers": [
+      "Sean Young"
+    ],
+    "publishers": [
+      "SmashGames"
+    ],
+    "release_date": "Jun 9, 2014",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Rogue-like",
+      "Multiplayer",
+      "Pixel Graphics",
+      "2D",
+      "Action Roguelike",
+      "Adventure",
+      "Platformer",
+      "Crafting"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 85.3,
+    "steam_total_reviews": 7588,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/magicite/",
+    "metacritic_user": 7.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive)",
+        "score": "85.3% positive of 7,588 reviews (6,470 up / 1,118 down)",
+        "url": "https://store.steampowered.com/app/268750/Magicite/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "500,000 - 1,000,000 owners",
+        "url": "https://steamspy.com/app/268750"
+      },
+      {
+        "source": "steam-revenue-calculator (Boxleiter estimate)",
+        "score": "~$2.08M gross / ~$614k net est.",
+        "url": "https://steam-revenue-calculator.com/app/268750/magicite"
+      }
+    ],
+    "vgi_units": 383000,
+    "vgi_revenue": 2500000,
+    "vgi_rating": 85.266,
+    "vgi_reviews": 7588,
+    "vgi_url": "https://app.sensortower.com/vgi/game/magicite",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,083,034.88",
+    "src_net": "614,495.29",
+    "src_url": "https://steam-revenue-calculator.com/app/268750/magicite",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "none",
+        "video_id": "5k_-k4X90ao",
+        "t": 5260,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=5260s",
+        "year_in_title": "2014",
+        "pos": 12,
+        "row_n": 14,
+        "row_score": 0.1785714285714286,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Magicite (2014) is an older survival-exploration roguelike where you create a character, get dropped into a world, and explore to gain stronger gear in order to save the world. He was excited to try it because he had played the developer's later game. He respects it as a hardcore, historically influential title but found it slow and grindy, and got tired of it after a short play. He says he would be more likely to play it than Exit the Gungeon, but does not state a tier letter.",
+        "praise": [
+          "Dropping into the world and discovering things yourself feels great",
+          "Lots of secrets and a wide variety of builds",
+          "Hardcore experience he respects",
+          "Helped influence many roguelikes made today"
+        ],
+        "criticism": [
+          "Without looking things up you get stranded for a while",
+          "Random deaths lose your character and force a restart from scratch",
+          "Slow and grindy",
+          "He got tired of it after playing only a little"
+        ],
+        "unique_points": [
+          "Heavy reliance on hidden secrets and builds that are hard to discover without outside help",
+          "Survival-exploration structure with character loss on death, typical of older hardcore roguelikes"
+        ],
+        "quote": "I got tired of it slow it's grindy",
+        "comparisons": [
+          "Exit the Gungeon",
+          "the developer's later game"
+        ],
+        "design_criteria": [
+          "Discovery/secrets: rewarding to find but punishing without a guide",
+          "Permadeath/character loss: restarting from scratch feels rough",
+          "Pacing: slow and grindy",
+          "Build variety: a ton of builds available",
+          "Historical influence: inspired later roguelike designers"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D pixel-art side-scrolling RPG platformer by solo dev Sean Young (SmashGames) with permadeath, randomly generated underground dungeons, combine-any-two-items crafting and local/online co-op.",
+      "consensus_summary": "Steam players rate it Very Positive (about 85% of roughly 7.6k reviews) and many describe it as a charming, replayable, challenging roguelite with great music and crafting. The big caveat is that development stopped years ago, and the late updates left game-breaking bugs (final-boss/victory-screen crashes, chicken cooking freezing the game, multiplayer false-loss bugs). A vocal share of the negative reviews are about abandonment and the developer's shift to Roguelands rather than the core design. No professional critic coverage exists (no Metacritic critic score, no OpenCritic entry found); Metacritic has only a small user score (7.3 from 32 ratings). A community fan patch and a 'Rewritten' project keep interest alive, but the player count is tiny (around 12-13 concurrent).",
+      "best_things": [
+        "Addictive 'one more run' loop: each death leaves you slightly stronger through unlocks, giving clear short-term goals",
+        "Crafting by combining any two items is fun to experiment with and rewards discovery",
+        "High replayability through unlockable races, hats, companions and randomised stats/builds",
+        "Satisfying, challenging difficulty with a real sense of accomplishment on beating the final scourge levels",
+        "Excellent music and sound design, plus charming pixel sprites",
+        "Co-op where the run continues as long as one party member survives encourages teamwork",
+        "Good pacing, enemy and map variety; fast, ninja-like movement and combat",
+        "Strong nostalgia and loyalty among long-time players, some calling it a childhood favourite"
+      ],
+      "worst_things": [
+        "Abandoned: no official updates for years, with the developer having moved on to Roguelands",
+        "Late-game bugs that can make the game unwinnable, such as crashes at the final boss or victory screen",
+        "Specific known bugs: cooking raw chicken freezes the game, forced wolf riding with no jump-off, shopkeeper interaction icon disappearing",
+        "Multiplayer is buggy: false 'all players downed' game overs, players falling through the floor on restart, desyncs",
+        "Multiplayer lacks Steam integration and in-game communication tools, so people rely on third-party workarounds",
+        "Mouse cursor flicker bug reported since 2021 and never fixed",
+        "Some players consider it overpriced or mediocre compared to many modern roguelites",
+        "Some unlocks are obscure and hard to figure out"
+      ],
+      "improvements": [
+        "Add a tutorial or early guidance; new players get little direction on doors, recipes or systems",
+        "Let players choose their starting attributes instead of repeatedly clicking 'roll stats'",
+        "Save discovered crafting recipes so players don't have to write them down",
+        "Fix the long-standing game-breaking bugs (final boss crash, chicken cooking, multiplayer false losses)",
+        "Add Steam-integrated online multiplayer and communication tools",
+        "Explain or fix obscure unlocks"
+      ],
+      "unique_things": [
+        "Combine-any-two-items crafting as the core progression system rather than fixed recipe trees",
+        "Side-scrolling Terraria/Spelunky-style platforming blended with RPG stats, races, hats and companions",
+        "Co-op permadeath where the run only ends when the whole party is down",
+        "Inspired by Monster Hunter and Spelunky per the store description, unusual for a 2D pixel roguelite",
+        "Persistent unlocks (races, hats, companions) that change how each run plays",
+        "Active community-made fixes (MagiciteFanPatches, Magicite: Rewritten) extending the life of an abandoned game"
+      ],
+      "tedious_or_disliked": [
+        "Repeatedly rerolling stats until a desirable combination appears",
+        "Early game feels punishing and opaque until the mechanics click",
+        "Writing down crafting recipes because the game doesn't record them",
+        "Hunting for unlock conditions that are not explained",
+        "Working around broken bugs (shopkeepers, wolf mount) mid-run",
+        "Co-op sessions ending in frustrating false-loss resets"
+      ],
+      "divisive_points": [
+        "Value: fans say it is a hidden gem worth it despite bugs, while others call it abandonware to avoid at full price",
+        "Difficulty: described both as infuriating and as deeply satisfying",
+        "Multiplayer: some love the co-op, others find it the most frustrating and buggiest part (and it is local/3rd-party rather than Steam-integrated)",
+        "Reviewers disagree on whether abandonment should drag down a game they otherwise enjoy (several negative reviews are explicitly about the developer rather than the gameplay)"
+      ],
+      "reception_notes": "Launched June 9, 2014 (Steam, $9.99, Win/Mac/Linux) and built an enduring audience, with a Very Positive Steam rating that has held even as the review count grew past 7.5k. The developer stopped supporting it years ago to work on Roguelands, and players say the final update introduced game-breaking bugs, which fuels many recent negative reviews and some resentment toward the developer. The community is small but still active on Steam forums (matchmaking threads, 'Anyone still plays?' posts), with unofficial fixes like MagiciteFanPatches and a 'Magicite: Rewritten' effort. Metacritic shows only a small user score (7.3/10 from 32 ratings, no critic reviews). Note: my WebSearch budget was exhausted so no Reddit or outlet reviews could be read; Reddit and Fandom wiki fetches were blocked. Estimated sales figures come from third-party models and are not audited; the revenue calculator gave no explicit copy count (price math suggests roughly 200k+ units, but that conflicts with SteamSpy's 500k-1M owner estimate, which likely includes keys, bundles and free copies).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/268750.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app data, review counts, SteamSpy owners, revenue estimate (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/268750/Magicite/",
+          "what": "Steam store page: description, features, co-op rules, Monster Hunter/Spelunky inspiration"
+        },
+        {
+          "url": "https://steamcommunity.com/app/268750/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Steam community reviews: abandonment, final-update bugs, multiplayer problems, tedious aspects"
+        },
+        {
+          "url": "https://steamcommunity.com/app/268750/discussions/",
+          "what": "Steam discussions: small active community, unofficial mods and 'Magicite: Rewritten'"
+        },
+        {
+          "url": "https://www.metacritic.com/game/magicite/",
+          "what": "Metacritic: no critic score, user score 7.3 from 32 ratings"
+        },
+        {
+          "url": "https://steamspy.com/app/268750",
+          "what": "SteamSpy: 500k-1M owners estimate, tags, ~13 peak players"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/268750/magicite",
+          "what": "Revenue estimate (Boxleiter method): $2.08M gross, $614k net"
+        },
+        {
+          "url": "https://opencritic.com/search?q=magicite",
+          "what": "OpenCritic search attempted: no score could be retrieved (treated as null)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic page: no critic score (null), user 7.3 from 32 ratings - confirmed. OpenCritic left null. Steam/SteamSpy numbers match local data. Reworded 3 bullets with no support in local top reviews (100+ hours claim, sand level broken, weapon balance). Themes (abandonment, final-boss crash, chicken/wolf/shopkeeper bugs, multiplayer false-loss, local-only MP, tutorial lacking, cursor flicker since 2021) confirmed in reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 14,
+    "his_spoken": null,
+    "his_score": 17.9,
+    "his_top10_bonus": 0,
+    "players_score": 30.1,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 23.2,
+    "labels": [
+      "platformer",
+      "action",
+      "coop"
+    ],
+    "primary_label": "platformer"
+  }
+}

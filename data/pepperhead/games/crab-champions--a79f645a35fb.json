@@ -1,0 +1,250 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "crab champions",
+    "name": "Crab Champions",
+    "display_name": "Crab Champions",
+    "appid": 774801,
+    "img": "img/774801.jpg",
+    "steam_url": "https://store.steampowered.com/app/774801/",
+    "website": "https://crabchampions.com/",
+    "short_description": "Claw your way across exotic islands combining fluid movement with fast paced combat to become a Crab Champion in this third person roguelike shooter.",
+    "developers": [
+      "Noisestorm"
+    ],
+    "publishers": [
+      "Noisestorm"
+    ],
+    "release_date": "Apr 1, 2023",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Action Roguelike",
+      "Soundtrack",
+      "Looter Shooter",
+      "Rogue-like",
+      "Arcade",
+      "Multiplayer",
+      "Third-Person Shooter",
+      "3D",
+      "Co-op"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 97.9,
+    "steam_total_reviews": 31207,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/crab-champions/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Overwhelmingly Positive)",
+        "score": "97.9% positive of 31,207 reviews",
+        "url": "https://store.steampowered.com/app/774801"
+      },
+      {
+        "source": "Steam Spy / revenue calculator estimate",
+        "score": "500k-1M owners; est. gross revenue about $11.6M",
+        "url": "https://steam-revenue-calculator.com/app/774801/crab-champions"
+      }
+    ],
+    "vgi_units": 936000,
+    "vgi_revenue": 6900000,
+    "vgi_rating": 97.891,
+    "vgi_reviews": 31203,
+    "vgi_url": "https://app.sensortower.com/vgi/game/crab-champions",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "11,638,589.76",
+    "src_net": "3,433,383.98",
+    "src_url": "https://steam-revenue-calculator.com/app/774801/crab-champions",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "probably is like a uh probably as a high C tier for me",
+        "video_id": "5k_-k4X90ao",
+        "t": 1566,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=1566s",
+        "year_in_title": "2023",
+        "pos": 8,
+        "row_n": 14,
+        "row_score": 0.5357142857142857,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Crab Champions is a third-person 3D shooter where you play a crab with a gun, and it became popular off the back of a meme. He finds it visually good and genuinely funny, but thinks the balance is terrible, with some items absurdly overpowered and others useless. He was surprised by how well it was reviewed given how underwhelming it felt to him. He puts it in high C and might revisit it if the balance gets fixed.",
+        "praise": [
+          "Visuals and 3D animations look great",
+          "Very funny and entertaining to see and play",
+          "Strong meme-driven appeal that earned real success and recognition",
+          "Trailer looks even better than the game"
+        ],
+        "criticism": [
+          "Horrendously poor balance",
+          "Some items are insanely powerful while others are completely useless",
+          "His very first run became an infinite run because he was overpowered",
+          "Feels underwhelming despite great reviews; lots left to fix"
+        ],
+        "unique_points": [
+          "Built around a meme premise: a crab with a gun in a third-person 3D shooter",
+          "Its popularity came from the meme more than from tight design"
+        ],
+        "quote": "there's just a lot to fix in this game",
+        "comparisons": [],
+        "design_criteria": [
+          "Balance: item power levels are wildly uneven, hurting the game",
+          "Visuals/animation: praised as looking great",
+          "Charm/humor: meme premise is funny and entertaining",
+          "Item design: some overpowered, some useless",
+          "Difficulty: runs can trivialize quickly (infinite run on first try)"
+        ],
+        "rerank_note": "He may revisit it later to see whether updates fixed the balance issues; he hasn't checked recent patches."
+      }
+    ],
+    "community": {
+      "one_liner": "A third-person roguelike shooter by solo developer Noisestorm (the Crab Rave musician) where you play an armed crab clearing 28 islands across four biomes, solo or in up to 4-player co-op.",
+      "consensus_summary": "Crab Champions is one of the best-reviewed Early Access roguelikes on Steam: about 97.9% positive from roughly 31,000 reviews (Overwhelmingly Positive), after launching in Early Access on 1 April 2023 at around $10. Players praise the fluid movement, satisfying gunplay, build variety and a responsive solo developer, and often compare it to Risk of Rain 2 or Gunfire Reborn. Critics have treated it as a pleasant surprise rather than a joke game (Rogueliker, mein-mmo, GameStar coverage), but there is no aggregate critic score. It is still in Early Access with console versions hoped for but not confirmed in what I found. The recent negative reviews are mostly about a major update that reworked maps, difficulty and loot, plus a long Prismatic grind, not about the core game.",
+      "best_things": [
+        "Fluid, momentum-based movement (sliding, jumping, dodging sideways) that players compare to Risk of Rain 2 and Doom-style movement shooters",
+        "Deep build-crafting with very broken, synergy-heavy combos and an enormous variety of weapons, abilities, perks and melee",
+        "Short-to-long flexible runs (roughly 20-40 minutes, or hours if you loop the game) that are easy to jump into and easy to sink a weekend into",
+        "Co-op for up to four players, with item and money trading and strong word-of-mouth (one reviewer gifted it to about 15 friends)",
+        "Customisable difficulty: stackable modifiers that score points towards harder tiers for both casual and hardcore runs",
+        "Responsive single developer who reads and filters community feedback and keeps shipping updates",
+        "Synthwave-style soundtrack and goofy, positive crab-with-a-shotgun identity; no microtransactions, cosmetics unlocked via play",
+        "Good optimisation and QoL such as auto-pickup of money and auto-looting the map"
+      ],
+      "worst_things": [
+        "Visual clutter: chaotic particle effects, low-contrast enemies and health bars are hard to read, especially in turret builds; no colour-blind options yet",
+        "Frame-rate drops and even crashes when huge numbers of projectiles, clones or chests spawn in extreme builds",
+        "Late-game and top-difficulty balance swings: Prismatic/Diamond feel punishing, with instant-death style mechanics, tiny boss arenas and lunging enemies, per negative reviews",
+        "Loot RNG feels harsher after the big update, with good perks moved to higher rarities and fewer epics and legendaries seen",
+        "Some players call the game shallow or repetitive once everything is unlocked, with similar-feeling weapons and little new content at the end",
+        "Reports of cloud-save and unlock-progress loss for a few players, and startup crashes for others",
+        "Enemies occasionally spawn in unreachable spots, and small or restrictive maps leave little cover",
+        "Several post-overhaul reviews say movement feels sluggish ('stuck in mud') and that beloved fun items were nerfed in the name of balance"
+      ],
+      "improvements": [
+        "Colour-blind and enemy-visibility options plus less particle noise",
+        "Ease the top difficulty grind and avoid forcing players to redo every weapon to earn the new top rank",
+        "Restore larger, more varied islands or add a hard cap on simultaneous elites",
+        "Better tutorial and a simpler lobby system for new players",
+        "Permanent lobby upgrades and more late-game content or variety",
+        "Split-screen and console versions, which reviewers request explicitly"
+      ],
+      "unique_things": [
+        "Made by the Irish musician behind the Crab Rave meme, which began as an April Fools joke and grew into a real, polished game",
+        "Crab-themed third-person shooter with platforming-style acrobatics, a rare mix in a genre dominated by top-down and first-person games",
+        "Looping runs that can go past 100 rounds, with stacking greed perks that scale enemy spawns into absurd numbers",
+        "Extremely modular difficulty system where player-chosen modifiers define the challenge tier",
+        "Turret and ability-mod builds, elemental effects (ice, etc.) and melee claws alongside a fully automatic rifle loadout"
+      ],
+      "tedious_or_disliked": [
+        "Grinding Prismatic: clearing the game twice (56 islands) and redoing every weapon for the new top tier",
+        "Collecting all-items and diamond achievements, described as not a fun process by long-time players",
+        "Gauntlet portals that reviewers say are too hard for too little reward",
+        "Extreme chest or spawn scaling that slows or crashes the game",
+        "Repeated islands with similar layouts after many hours, per some reviewers and Reddit-style discussions",
+        "Heavy RNG dependence when chasing 100% completion across every weapon, called painful by players who finished it before the overhaul"
+      ],
+      "divisive_points": [
+        "The late-2025 overhaul (new graphics, revamped islands, reworked difficulty and loot): some beta players loved the optimisation and quality of life changes, while others say maps are smaller and less fun and loot is nerfed",
+        "Developer balance direction: some say the dev caters to hardcore top-percent players and nerfs fun builds, while others praise the dev for separating good feedback from bad",
+        "Whether the game is deep or shallow: fans call the build variety enormous, a minority say the core loop is thin"
+      ],
+      "reception_notes": "Launched in Steam Early Access on 1 April 2023 (five years after Crab Rave) and was near 98% positive from the start; it is still around 98% in 2026 with around 800 concurrent players at last check. Metacritic has a page but shows tbd for both critic and user scores (only two user ratings), and I did not find an OpenCritic entry. A major update in autumn 2025 (graphics rework, new islands, new difficulty tier above Diamond, loot changes, and a hotfix in early November) produced a wave of negative recent reviews even though overall score stayed very high. Windows only on Steam; console release and split-screen are requested by players but I found no confirmation. Earlier content updates such as the Elemental update were praised by critics like Rogueliker for not wasting players time.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/774801.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: review counts, price, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/774801",
+          "what": "Steam store page for Crab Champions"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/774801/crab-champions",
+          "what": "Estimated gross and net revenue"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Crab_Champions",
+          "what": "Development history, Early Access launch, Noisestorm background"
+        },
+        {
+          "url": "https://vaporlens.app/app/774801/crab_champions.md",
+          "what": "Aggregated community pros, cons, complaints and suggestions from Steam reviews"
+        },
+        {
+          "url": "https://mein-mmo.de/steam-spielvorstellung-crab-champions/",
+          "what": "German outlet coverage: praise, Risk of Rain 2 comparison, launch price"
+        },
+        {
+          "url": "https://rogueliker.com/crab-champions-elemental-update/",
+          "what": "Rogueliker review of the Elemental update and general impressions"
+        },
+        {
+          "url": "https://www.metacritic.com/game/crab-champions/",
+          "what": "Metacritic page exists but scores are tbd"
+        },
+        {
+          "url": "https://playpile.gg/games/crab-champions",
+          "what": "Search result listing with Steam score summary"
+        },
+        {
+          "url": "https://www.gamestar.de/artikel/crab-champions-steam-shooter,3392294.html",
+          "what": "GameStar coverage of the Steam launch (search result only, not fetched)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic page: critic and user scores both TBD (0 critic reviews, 2 user ratings), so nulls are correct. Steam figures match local data (97.9%, 31,207 reviews, $11.64M gross estimate). Removed unsupported 'years of monthly updates before Early Access' bullet. Added two recurring review themes: post-update sluggish movement/nerfed items, and RNG-heavy completionism grind. Other bullets consistent with top reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 8,
+    "his_row_n": 14,
+    "his_spoken": "said high",
+    "his_score": 53.6,
+    "his_top10_bonus": 0,
+    "players_score": 97.2,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 72.7,
+    "labels": [
+      "shooter",
+      "coop"
+    ],
+    "primary_label": "shooter"
+  }
+}

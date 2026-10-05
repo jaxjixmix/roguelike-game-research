@@ -1,0 +1,275 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dreamscaper",
+    "name": "Dreamscaper",
+    "display_name": "Dreamscaper",
+    "appid": 1040420,
+    "img": "img/1040420.jpg",
+    "steam_url": "https://store.steampowered.com/app/1040420/",
+    "website": "http://www.dreamscapergame.com",
+    "short_description": "By night, delve deep into your subconscious and discover powerful artifacts to conquer your nightmares. By day, explore the city of Redhaven and build relationships to unlock the power of your dreams. DREAM. DIE. WAKE. REPEAT.",
+    "developers": [
+      "Afterburner Studios"
+    ],
+    "publishers": [
+      "indie.io",
+      "Maple Whispering Limited"
+    ],
+    "release_date": "Aug 5, 2021",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-lite",
+      "Action",
+      "Indie",
+      "RPG",
+      "Dungeon Crawler",
+      "Singleplayer",
+      "Female Protagonist",
+      "Replay Value",
+      "Adventure"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 87.8,
+    "steam_total_reviews": 3185,
+    "metacritic": 80,
+    "metacritic_url": "https://www.metacritic.com/game/pc/dreamscaper?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 6.8,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic (PC, 80 from 14 critic reviews)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/pc/dreamscaper"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 87.8% of 3,185 reviews",
+        "url": "https://store.steampowered.com/app/1040420/Dreamscaper/"
+      },
+      {
+        "source": "God is a Geek",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/"
+      },
+      {
+        "source": "Pure Nintendo",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/"
+      },
+      {
+        "source": "Digital Chumps",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/"
+      },
+      {
+        "source": "But Why Tho",
+        "score": "85",
+        "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "200,000 to 500,000 owners",
+        "url": "https://steam-revenue-calculator.com/app/1040420/dreamscaper"
+      },
+      {
+        "source": "Steam revenue estimate (Boxleiter method)",
+        "score": "about $440k gross, about $130k net",
+        "url": "https://steam-revenue-calculator.com/app/1040420/dreamscaper"
+      }
+    ],
+    "vgi_units": 95580,
+    "vgi_revenue": 1400000,
+    "vgi_rating": 87.786,
+    "vgi_reviews": 3185,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dreamscaper",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "440,297.64",
+    "src_net": "129,887.80",
+    "src_url": "https://steam-revenue-calculator.com/app/1040420/dreamscaper",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "all in all this is going to be a middle B tier here",
+        "video_id": "zKosjx7EpKA",
+        "t": 4483,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=4483s",
+        "year_in_title": "2020",
+        "pos": 10,
+        "row_n": 13,
+        "row_score": 0.2692307692307693,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Dreamscaper is a story-heavy action roguelite split between a hub world, where you explore a city and befriend NPCs, and dungeon runs. PepperHead is impressed by its visuals, mood, theme and the care put into the outside-world content and unlocks. His problem is the gameplay, which he finds slow, repetitive and low on animation cancelling. He hasn't finished it but wants to go back for the story, and he lands it in the middle of B tier.",
+        "praise": [
+          "Visually impressive, with great care put into aesthetics, theme and mood",
+          "Mysterious story that is slowly uncovered through the hub world",
+          "Hub world with NPCs and conversations that build character and story",
+          "Plenty of roguelite unlocks: new abilities, stats and rooms",
+          "Mechanical variety such as dash, bow, spells and slowing down time",
+          "Bosses look awesome and are cool to fight"
+        ],
+        "criticism": [
+          "Gameplay is slow-paced, with animations that take a while to trigger",
+          "Little animation cancelling, so you can get hit mid-spell",
+          "Repetitive: same first world and same few enemies on restart made him bored within hours",
+          "Few bosses, with the same boss each world",
+          "Gameplay doesn't match the effort put into content and aesthetics"
+        ],
+        "unique_points": [
+          "Heavy story focus with a dedicated hub world for a roguelite",
+          "Outside-world effort drives the roguelite progression and unlocks",
+          "Dream-themed visual identity that stands out"
+        ],
+        "quote": "gameplay-wise yeah all in all this is going to be a middle B tier",
+        "comparisons": [],
+        "design_criteria": [
+          "Visuals/charm: standout art, theme and mood",
+          "Story/hub world: mysterious narrative and NPC relationships add depth",
+          "Meta-progression: many unlocks of abilities, stats and rooms",
+          "Combat feel/pacing: slow animations and no cancelling hurt it",
+          "Repetition/variety: same world, enemies and bosses each restart",
+          "Boss design: visually cool but too few"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A Hades-style isometric action roguelite from Afterburner Studios in which you play Cassidy, alternating between building relationships in the waking city of Redhaven and fighting nightmares in procedurally generated dream dungeons, with a story centred on anxiety, isolation, grief and loss.",
+      "consensus_summary": "Dreamscaper is well liked by both critics and players, with a Metacritic critic score in the low 80s (80 listed on Steam for PC, 82 on the Switch Metacritic page, 12 reviews, 92% positive) and a Steam rating of Very Positive (about 88% of roughly 3,200 reviews). The praise clusters around the acrobatic dodge-heavy combat, the build variety, the painterly dream visuals, the soundtrack, and an emotionally sincere mental-health story. The recurring reservations are the daytime overworld (dialogue, crafting and gifting felt like padding to many), combat balance and clarity, and a rough start for new players. Metacritic user score is noticeably lower (6.8 from only 28 ratings), which reflects a small, more divided sample. The game went through Early Access before its 1.0 release on 5 Aug 2021 and players mention later patches (such as 1.1) that nerfed overpowered leech effects; there is no sign it was abandoned. Steam lists it as Windows-only, with console versions covered by the Switch critic reviews.",
+      "best_things": [
+        "Fluid, dodge-centred melee combat with weighty acrobatic moves; critics called it fun and rewarding",
+        "Large amount of build variety from weapons, dodges, shields, elemental affinities and artifacts, so runs feel different (players mention fire/lightning/water combos such as extinguish crits)",
+        "Emotionally sincere story about anxiety, grief and loss; several reviewers (including But Why Tho) called the mental-health focus well done and powerful",
+        "Striking painterly, surreal dream-world art and atmosphere",
+        "Soundtrack widely praised as atmospheric and non-repetitive over long sessions",
+        "The day/night structure ties narrative to mechanics, with relationships unlocking permanent upgrades (critics cited the synergy of story and roguelike loop)",
+        "Good pick-up-and-play pacing: players like being able to do a floor and save after bosses, and a difficulty ramp that can be raised after the first clears",
+        "Calmer, cosier alternative to Hades for people who want a lower-pressure action roguelite"
+      ],
+      "worst_things": [
+        "The waking overworld is the most criticised part: NPC dialogue felt slow, cringey or skippable to many players, and some called the dialogue the weakest element",
+        "Combat balance: life-leech / heal-on-hit effects are regarded as far stronger than other stats even after a nerf, and some weapons and moves feel clearly worse than others",
+        "Some players find movement and combat clunky or slow, with attacks lacking punch compared with Hades",
+        "Visual clarity problems: busy effects and sparkles make it hard to tell important items or telegraphs from decoration",
+        "Enemy variety wears thin over long playtimes (one 60+ hour reviewer called enemies samey)",
+        "Story and characters outside the core emotional themes were called simple or forgettable by some players",
+        "Confusing onboarding: several negative reviews say the tutorial bombards you with controls and mechanics and leaves you without direction"
+      ],
+      "improvements": [
+        "Better onboarding and tutorial: negative reviewers describe being overloaded with controls and mechanics early and not being told about dodge and mana",
+        "Clearer in-game guidance or map for the overworld, since some players report getting stuck with no direction",
+        "Rebalance leech and other dominant stats and underperforming weapons and moves to make more builds viable",
+        "Improve combat feedback and readability (punchier hits, clearer audio and visual telegraphs)",
+        "Make the overworld relationship and crafting systems less padded or more optional/skippable, and tighten the writing",
+        "Smooth the early difficulty curve"
+      ],
+      "unique_things": [
+        "Day/night loop: daytime social exploration of Redhaven and nighttime dream dungeons feed each other, with relationships giving permanent power",
+        "Direct, personal treatment of mental health (anxiety, isolation, grief) that is rare in action roguelites",
+        "Bosses are embodiments of emotions such as Isolation, Fear and Loss",
+        "Lucid powers that let you manipulate the environment and surreal artifacts in the dream levels",
+        "Nintendo Life summed it up as lacking originality in genre terms but making up for it in heart"
+      ],
+      "tedious_or_disliked": [
+        "Overworld conversations and gifting/relationship chores that many players skip without feeling guilt",
+        "Crafting described as pointless by a 100%-completion reviewer",
+        "Grinding weapons up and hunting for completion, which some enjoy but others find repetitive (the same player enjoyed the weapon grind but not the rest)",
+        "Dungeon layouts and encounters repeating immediately after a failed run, cited by a new player as frustrating",
+        "Early difficulty spikes and being thrown out after a scripted first boss loss for unprepared newcomers",
+        "Sluggish movement and slower pacing compared with Hades-style peers",
+        "The grind: a positive reviewer calls it insane, and a negative one dislikes that run unlocks and purchases vanish when a run ends"
+      ],
+      "divisive_points": [
+        "Story and mental-health themes: some players say it pulled them through hard times and is among their favourites, while others find it depressing, shallow or heavy-handed",
+        "Combat feel: praised as smooth and weighty by critics, called clunky or slow by some Steam reviewers",
+        "Comparison with Hades: some call it a relaxing Hades-like, others say it is not like Hades at all and does not hold up to it",
+        "Controls: at least one PC reviewer felt it was designed for controller and played poorly with mouse and keyboard (Steam lists full controller support)"
+      ],
+      "reception_notes": "Launched into Early Access before the full 1.0 release on 5 Aug 2021 on Steam (price $24.99, developer Afterburner Studios, publishers indie.io and Maple Whispering Limited). A long-time Steam reviewer who followed Early Access mentions that patch 1.1 prompted them to restart, and another notes a recent nerf to leech effects, so post-release balance support is visible. Critics scoring the Switch version were 92% positive with no negative reviews; Nintendo Life's take was that it deserves more attention than it received, hinting at a modest commercial profile. The Metacritic PC score (80) and Switch page (82) differ slightly; the critic sample is small (12). I could not retrieve an OpenCritic score, and revenue and owner figures are third-party estimates, not audited numbers. Steam is Windows-only with Steam Cloud and full controller support. Note that Steam shows a 2020 to 2021 span because of the Early Access period.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1040420.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid, review summary 87.8% of 3,185, Metacritic 80, SteamSpy owners"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/dreamscaper",
+          "what": "Metacritic PC page: Metascore and user score 6.8 from 28 ratings, themes of critic reviews"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dreamscaper/critic-reviews/",
+          "what": "Switch critic reviews: Metascore 82, outlet scores and quotes"
+        },
+        {
+          "url": "https://www.metacritic.com/game/dreamscaper/user-reviews/",
+          "what": "Metacritic user reviews: 54% positive, what users praise and criticise"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1040420/Dreamscaper/",
+          "what": "Steam store page: release date, features, description of bosses and lucid powers"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1040420/dreamscaper",
+          "what": "Third-party Boxleiter-method revenue estimate"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: Switch Metascore 82 (12 reviews), PC 80 (14 reviews), user 6.8 from 28 ratings; scores confirmed, OpenCritic left null. Removed 3 unverifiable bullets (Cubed3 progression walls, Metacritic-user audio cues, Minesweeper puzzle) and the related improvements clause; added onboarding (worst) and grind/run-reset (tedious) themes from Steam reviews; clarified PC review count."
+    },
+    "his_anchor": null,
+    "his_pos": 10,
+    "his_row_n": 13,
+    "his_spoken": null,
+    "his_score": 26.9,
+    "his_top10_bonus": 0,
+    "players_score": 38.1,
+    "critics_score": 49.6,
+    "critics_avg": 80.0,
+    "overall": 35.4,
+    "labels": [
+      "action",
+      "hades_like"
+    ],
+    "primary_label": "action"
+  }
+}

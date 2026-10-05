@@ -1,0 +1,284 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "alina of the arena",
+    "name": "Alina of the Arena",
+    "display_name": "Alina of the Arena",
+    "appid": 1668690,
+    "img": "img/1668690.jpg",
+    "steam_url": "https://store.steampowered.com/app/1668690/",
+    "website": "http://www.pinixgames.com/",
+    "short_description": "A roguelike deckbuilding tactics game that combines elements from 'Slay the Spire' and 'Into the Breach'. Play as a gladiator to survive. With roguelike deckbuilding and hex-based tactics, no longer bound by simple attack and defense. Make use of dodges and knockbacks to stay alive!",
+    "developers": [
+      "PINIX"
+    ],
+    "publishers": [
+      "PINIX",
+      "IndieArk"
+    ],
+    "release_date": "Oct 13, 2022",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Roguelike Deckbuilder",
+      "Rogue-like",
+      "Turn-Based Tactics",
+      "Hex Grid",
+      "Card Game",
+      "Rogue-lite",
+      "Strategy",
+      "Difficult",
+      "Female Protagonist",
+      "Turn-Based Strategy"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 91.5,
+    "steam_total_reviews": 3971,
+    "metacritic": 76,
+    "metacritic_url": "https://www.metacritic.com/game/alina-of-the-arena/",
+    "metacritic_user": null,
+    "opencritic": 75,
+    "opencritic_url": "https://opencritic.com/game/14000/alina-of-the-arena",
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, about 91.5 percent of 3,971)",
+        "score": "91.5%",
+        "url": "https://store.steampowered.com/app/1668690/Alina_of_the_Arena/"
+      },
+      {
+        "source": "OpenCritic percent recommended (Wikipedia cites 57%, OpenCritic page showed 50%)",
+        "score": "50-57%",
+        "url": "https://opencritic.com/game/14000/alina-of-the-arena"
+      },
+      {
+        "source": "Nintendo World Report",
+        "score": "7.5/10",
+        "url": "https://en.wikipedia.org/wiki/Alina_of_the_Arena"
+      },
+      {
+        "source": "TouchArcade",
+        "score": "4/5",
+        "url": "https://en.wikipedia.org/wiki/Alina_of_the_Arena"
+      },
+      {
+        "source": "Cubed3",
+        "score": "6/10",
+        "url": "https://en.wikipedia.org/wiki/Alina_of_the_Arena"
+      },
+      {
+        "source": "Vandal",
+        "score": "8/10",
+        "url": "https://en.wikipedia.org/wiki/Alina_of_the_Arena"
+      },
+      {
+        "source": "WayTooManyGames",
+        "score": "7/10",
+        "url": "https://waytoomany.games/2023/11/23/review-alina-of-the-arena-switch/"
+      },
+      {
+        "source": "Screen Rant",
+        "score": "4/5",
+        "url": "https://opencritic.com/game/14000/alina-of-the-arena/reviews"
+      }
+    ],
+    "vgi_units": 119000,
+    "vgi_revenue": 1200000,
+    "vgi_rating": 91.539,
+    "vgi_reviews": 3971,
+    "vgi_url": "https://app.sensortower.com/vgi/game/alina-of-the-arena",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,853,663.40",
+    "src_net": "546,830.70",
+    "src_url": "https://steam-revenue-calculator.com/app/1668690/alina-of-the-arena",
+    "final_tier": "A",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I think that alenia of the arena is going to be a solid a tier",
+        "video_id": "zKosjx7EpKA",
+        "t": 110,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=110s",
+        "year_in_title": "2022",
+        "pos": 7,
+        "row_n": 13,
+        "row_score": 0.5,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Alina of the Arena is a deck-building roguelike where cards are used to move and attack on a tactical board, blending Slay the Spire style deckbuilding with Into the Breach style positioning. He discovered it through a stream viewer's recommendation and fell in love with it after 10-15 hours. He feels the board gimmick is strong enough to stop it from being a Slay the Spire clone while staying close to its familiar structure. He places it in A tier and thinks it could grow with more content.",
+        "praise": [
+          "A unique board-movement mechanic gives the game its own identity while keeping Slay the Spire familiarity",
+          "Cards are well designed and support many different builds",
+          "Each character starts with a unique deck and abilities, so runs feel different",
+          "Three floors that each look visually different give a sense of progression",
+          "Bosses have unique mechanics and encounter variety avoids repetition",
+          "A surprising story twist at the end and fun lore",
+          "Content looks easy to extend with new cards, characters and bosses"
+        ],
+        "criticism": [
+          "Balance is off: movement-related cards are extremely powerful and can carry a run",
+          "Fights can run long, especially with defensive builds",
+          "Fewer cards and builds than Slay the Spire; builds may converge over many hours",
+          "No unique card pools per character, only unique starting decks"
+        ],
+        "unique_points": [
+          "The board and movement mechanic is the gimmick that differentiates it from Slay the Spire clones",
+          "He argues modern deckbuilders need a unique mechanic or they feel like clones",
+          "Keeps near-identical cards and keywords to Slay the Spire while designing around the board"
+        ],
+        "quote": "I kind of fell in love with it",
+        "comparisons": [
+          "Slay the Spire",
+          "Into the Breach"
+        ],
+        "design_criteria": [
+          "Unique mechanic/gimmick: must differentiate from Slay the Spire clones",
+          "Build diversity: many builds but fewer than Slay the Spire",
+          "Character variety: unique starting decks and abilities per character",
+          "Progression and level visuals: three visually distinct floors",
+          "Enemy/boss design: unique boss mechanics and varied encounters",
+          "Balance: movement is overpowered",
+          "Run/fight length: long fights, especially defensive builds",
+          "Content expandability: easy to add cards, characters, bosses"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A hex-grid roguelike deckbuilder by PINIX where you play a gladiator and use cards, dual-wielded weapons, dodges and knockbacks in a Slay the Spire meets Into the Breach tactics system.",
+      "consensus_summary": "Players like it a lot: Steam shows Very Positive (about 91.5 percent of roughly 3,970 reviews) and many call it their favourite Slay the Spire-style game because hex positioning adds real depth. Critics are warmer than lukewarm but thin on the ground: Metacritic lists 76 (about 11 critic reviews across platforms, 6 on Switch) and OpenCritic has a 75 top-critic average from 8 reviews, with only 50-57 percent recommending. It began in Early Access in January 2022 and went 1.0 on Steam in October 2022, then reached consoles in November 2023. Recurring complaints are limited content, samey classes, and a thin presentation. Some reviewers say the developer has stopped updating it, though it remains a well-priced, well-balanced tactics deckbuilder.",
+      "best_things": [
+        "Hex movement is central: pushing enemies, dodging and positioning make fights feel like tactical puzzles, which reviewers say gives it more depth than Slay the Spire's simple block",
+        "Dual-wield equipment system (daggers, sword and shield, two-handed weapons) with card colours tied to each hand adds build identity",
+        "Soundtrack widely praised, with the Act 2 boss track singled out by a 100 percent completion reviewer",
+        "Pixel art, crunchy sound effects and animations feel polished and run smoothly, including on controller",
+        "Balanced and challenging but fair; difficulty can be set per run without losing unlock progress, and high difficulty and max-stage challenges extend play",
+        "Card synergies and cursed weapons enable satisfying combo turns and occasionally broken runs",
+        "Free demo, and a low price (often about 7 USD on sale) that reviewers call good value",
+        "Free-action tossing of rocks and dropped weapons from the ground is an appreciated small tactical layer"
+      ],
+      "worst_things": [
+        "Card and effect descriptions are vague (burn, focus, stacking wounds), so you cannot make informed decisions and regret picks",
+        "Limited content: small card pool, few bosses (about 7 major), and build-defining cards become obvious within a few runs",
+        "Classes are similar, sharing card pools with thin differences; starting class Strike/Defend cards are just renamed with the class name",
+        "Event encounters are text only, often just trade money for an item, with no illustrations or aftermath images",
+        "Almost no story or worldbuilding until the ending",
+        "Console reviewers cite awkward controls, weak UI and a small dim sprites problem on Switch; no touch support",
+        "Some players call the developer inactive and the game effectively abandoned; Steam Workshop is listed but content is thin"
+      ],
+      "improvements": [
+        "Write precise, numeric card and status text (for example deals 1 per stack per turn)",
+        "Add illustrated events with outcomes and a bit more narrative framing, such as intros or boss VS screens",
+        "Give each class distinct starting cards and names, and widen the card pool and viable builds",
+        "Add more content: bosses, enemy variety, arenas (there is only one board type) and more Workshop/mod content",
+        "Improve tutorial coverage and onboarding for the colour-switching and movement rules",
+        "Rebalance weapons (katana reported strong, ranged and heavy weapons weak) and make higher difficulties add mechanics, not just stat bumps"
+      ],
+      "unique_things": [
+        "Explicit fusion of deckbuilding with Into the Breach-style tactical grid movement, including knockbacks and dodges instead of simple attack/defend",
+        "Hand-coloured cards: equipment in left and right hands and colour switching shape what cards do",
+        "Classes styled like Dark Souls starting builds (Pyromancer, Deprived, Slave and others), encouraging themed builds",
+        "Dropping and throwing ground objects as a free action",
+        "Static arena with no map RNG, so all variation comes from cards, enemies and events",
+        "Per-run difficulty selection that keeps unlock progress"
+      ],
+      "tedious_or_disliked": [
+        "Long runs: normal runs reportedly take 1 to 1.5 hours and some up to 2 hours",
+        "Early game can be punishing because you start with few movement cards and depend on drawing them",
+        "Colour-switching and control schemes are confusing for newcomers, especially on a gamepad",
+        "Repeated fights and bosses feel repetitive after the first several runs"
+      ],
+      "divisive_points": [
+        "Build variety: some love the focused class identities; others find classes too limiting versus Slay the Spire",
+        "Difficulty: some call it brutal but rewarding, others call combat easy; also whether Veteran-level scaling is interesting",
+        "Value: praised as a bargain on sale but one reviewer rejected the roughly 12.49 EUR price as too short and repetitive",
+        "Whether the thin story and event presentation matters, given the fast gameplay loop"
+      ],
+      "reception_notes": "Early Access on PC/Mac began January 2022 with 1.0 on Steam October 13, 2022 at 14.99 USD. Consoles (PS4/PS5, Xbox, Switch) launched November 23, 2023; the Metacritic 76 shows on the page with Switch as the most-reviewed platform (6 of about 11 critic reviews); Metacritic user score is tbd. Steam reception has stayed Very Positive, with recent reviews in 2025-2026 still recommending it and mentioning it in the context of Slay the Spire 2's early access. Aggregator summaries and some reviews say the developer stopped updating it long ago. Third-party estimates (Steam revenue calculator, Boxleiter method, unaudited) put gross revenue around 1.85M USD and SteamSpy owners at 200k-500k. Steam lists no Metacritic score.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1668690.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data, review counts, SteamSpy and revenue estimates"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1668690/Alina_of_the_Arena/",
+          "what": "Steam store page"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alina_of_the_Arena",
+          "what": "Reception table and release platforms/dates"
+        },
+        {
+          "url": "https://opencritic.com/game/14000/alina-of-the-arena",
+          "what": "OpenCritic score and critic list"
+        },
+        {
+          "url": "https://www.metacritic.com/game/alina-of-the-arena/",
+          "what": "Metacritic Switch score"
+        },
+        {
+          "url": "https://waytoomany.games/2023/11/23/review-alina-of-the-arena-switch/",
+          "what": "Switch review with 7/10 and presentation and control critique"
+        },
+        {
+          "url": "https://vaporlens.app/app/1668690/alina_of_the_arena.md",
+          "what": "Aggregated Steam review summary of praise and complaints"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1668690/alina-of-the-arena",
+          "what": "Estimated gross and net revenue"
+        },
+        {
+          "url": "https://automaton-media.com/en/?p=8959",
+          "what": "Announcement coverage describing Slay the Spire and Into the Breach inspirations"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (76, user score tbd) and OpenCritic (75 top critic avg, 8 reviews, 50% recommend): numbers correct, unchanged. Removed 2 unsupported tedious bullets (murky arena; events ignored). Corrected 'no mod support' (Steam lists Workshop) in worst_things/improvements, and Metacritic platform/review-count wording; dropped unsourced '83 percent positive'. Reviews support existing best/worst themes; no additions."
+    },
+    "his_anchor": null,
+    "his_pos": 7,
+    "his_row_n": 13,
+    "his_spoken": "said solid",
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 57.3,
+    "critics_score": 23.1,
+    "critics_avg": 75.5,
+    "overall": 47.2,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

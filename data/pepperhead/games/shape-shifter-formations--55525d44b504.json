@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "shape shifter formations",
+    "name": "Shape Shifter: Formations",
+    "display_name": "Shape Shifter Formations",
+    "appid": 2202590,
+    "img": "img/2202590.jpg",
+    "steam_url": "https://store.steampowered.com/app/2202590/",
+    "website": null,
+    "short_description": "Shape Shifter: Formations is an action twin-stick shooter with rogue-lite elements, where you must destroy hordes of geometric enemies alone or with a friend. Select your ship and combine a large variety of weapons, abilities and infinitely stacking upgrades to craft your own unique build.",
+    "developers": [
+      "Castec Studios"
+    ],
+    "publishers": [
+      "Castec Studios"
+    ],
+    "release_date": "May 27, 2025",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Arena Shooter",
+      "Bullet Hell",
+      "Local Co-Op",
+      "Rogue-lite",
+      "Twin Stick Shooter",
+      "Co-op",
+      "Rogue-like",
+      "Top-Down Shooter",
+      "RPG"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 91.3,
+    "steam_total_reviews": 276,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/shape-shifter-formations/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "91.3% positive (252 of 276), Very Positive",
+        "url": "https://store.steampowered.com/app/2202590/Shape_Shifter_Formations/"
+      },
+      {
+        "source": "steam-revenue-calculator (Boxleiter estimate)",
+        "score": "about $55.8k gross, $16.4k net (Boxleiter estimate; no copies figure given)",
+        "url": "https://steam-revenue-calculator.com/app/2202590/shape-shifter-formations"
+      }
+    ],
+    "vgi_units": 8280,
+    "vgi_revenue": 56832,
+    "vgi_rating": 91.304,
+    "vgi_reviews": 276,
+    "vgi_url": "https://app.sensortower.com/vgi/game/shape-shifter-formations",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "55,750.40",
+    "src_net": "16,446.37",
+    "src_url": "https://steam-revenue-calculator.com/app/2202590/shape-shifter-formations",
+    "final_tier": "A",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "this might be an S tier game for me. Maybe the highest A tiers.",
+        "video_id": "kTg56_oKfGY",
+        "t": 7361,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=7361s",
+        "year_in_title": null,
+        "pos": 1,
+        "row_n": 9,
+        "row_score": 0.935888888888889,
+        "spoken": "said highest"
+      }
+    ],
+    "top10": [
+      {
+        "year": "2025",
+        "rank": 9,
+        "video_id": "BlodPuxYUwk",
+        "t": 76,
+        "url": "https://www.youtube.com/watch?v=BlodPuxYUwk&t=76s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "A neon-styled survivor-like where you pilot a small ship with a single aimed weapon, a dash and a ship-specific ultimate. It was sent in by a viewer and he says he has sunk huge hours into it. He is blown away by the amount of content, build variety and level-up choice depth, calling it one of his favorite survivor-likes and a hidden gem. Main gripes are slow unlocking of build potential and uneven boss design. He hedges between S and top of A.",
+        "praise": [
+          "Absurd amount of content: roughly 20 ships, about 15 weapons, many unlocks via achievements",
+          "Level-up screens offer four choices that can be banished, skipped, rerolled, duplicated, plus a glitch system that can double an upgrade",
+          "Upgrades are mostly mechanical rather than number tweaks, with builds that synergize across corrosion, lightning, fire and more",
+          "Multiple layered progression trees (skill tree, paragon, ultimate tree) plus rare legendary upgrades with big impact",
+          "Shop fills with new mechanics as you unlock, giving lots of player choice",
+          "Chaotic, satisfying neon visuals and tight control with close dodges feeling great",
+          "Has co-op/multiplayer and strong solo play"
+        ],
+        "criticism": [
+          "Takes a while to get going since you must unlock a lot to have real build potential",
+          "Number-adjustment trees (skill tree/paragon) unlock late; he wishes they came earlier",
+          "No luck stat, which he feels the game could benefit from",
+          "Some bosses are far harder than others",
+          "Some bosses have no adds, which undercuts on-kill and bounce synergies",
+          "Some balance issues here and there"
+        ],
+        "unique_points": [
+          "Single-weapon, dash and ultimate core loop differs from typical multi-weapon survivor-likes",
+          "Level-up manipulation tools (banish, reroll, duplicate, tag prioritizing/removal) are something he has not seen elsewhere",
+          "Legendary artifact unlocks found roughly once every few runs that alter on-kill/on-hit behavior"
+        ],
+        "quote": "this might be an S tier game for me. Maybe the highest A tiers.",
+        "comparisons": [
+          "Nova Drift"
+        ],
+        "design_criteria": [
+          "Synergies: builds intertwine across damage types and mechanics",
+          "Build diversity: many ships, weapons and upgrade paths",
+          "Player choice: heavy level-up and shop options with manipulation tools",
+          "Meta-progression: multiple skill trees, achievements, unlocks, though slow start",
+          "Visuals/charm: neon art style and chaotic spectacle",
+          "Boss/enemy design: uneven difficulty and bosses lacking adds",
+          "Balance: some tuning issues",
+          "Game feel: control and dodging satisfaction"
+        ],
+        "rerank_note": ""
+      },
+      {
+        "part": "top10-2025",
+        "label": "Top 10 of 2025 (#9)",
+        "summary": "Shape Shifter Formations is a neon twin-stick survivor-like where you pick a ship and weapon and fight hordes of geometric shapes. He calls it an absolute hidden gem and says it surprised him after more than 50 survivor-likes this year. He stresses the diverse, interesting upgrades and the level-up manipulation tools, plus smooth gameplay and satisfying effects. He strongly recommends it to survivor-like fans and notes it has gotten little recognition. It lands at number 9 on his 2025 list.",
+        "praise": [
+          "In-game upgrades are very interesting and allow a huge amount of build diversity",
+          "Once meta progression is unlocked, players can roll, banish, lock, transmutate or dual-select upgrades, making level-ups strategic",
+          "Upgrade choices stay exciting throughout the whole late game",
+          "Gameplay is very smooth for the genre",
+          "Visual effects are amazingly satisfying",
+          "Large content: 20 ships, 20 weapons, 193 unique upgrades"
+        ],
+        "criticism": [
+          "Unlocking the important meta progression can admittedly take a while",
+          "Has received very little recognition (a discoverability issue rather than a design flaw)"
+        ],
+        "unique_points": [
+          "Upgrade manipulation tools (roll, banish, lock, transmutate, dual select) add real decision-making to level-ups in a genre often lacking it",
+          "Makes upgrade selection exciting even in the late game, which he rarely sees in survivor-likes"
+        ],
+        "quote": "I cannot remember the last time I had a survivor-like game get me this excited about choosing upgrades",
+        "comparisons": [],
+        "design_criteria": [
+          "Upgrade diversity: how many distinct build options the upgrades allow",
+          "Level-up decision-making: tools to shape which upgrades you get",
+          "Meta progression: unlocks that gate key features, somewhat slow",
+          "Game feel: smoothness of gameplay",
+          "Visual effects: how satisfying they are",
+          "Content volume: ships, weapons and upgrade counts"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A Geometry Wars-style neon twin-stick shooter / bullet-heaven roguelite by Castec Studios with 20 ships, 20 weapons, a huge skill-tree meta layer and infinitely stacking in-run upgrades, playable solo or in local co-op.",
+      "consensus_summary": "Players receive it very warmly: about 91% of roughly 276 Steam reviews are positive (Very Positive), with many reviewers logging 50 to 270 hours. It left Early Access (entered Sept 2023) with a 1.0 release on May 27, 2025, followed by a run of hotfixes through 1.0.4 in late June 2025, so it is a finished game that has been actively patched. Commercially it is a small niche title: a third-party Boxleiter-style estimate puts it near $56k gross (about $16k net); no copies-sold figure was published by the source (SteamSpy range 0-20,000 owners), and one reviewer says it deserved far more success. No professional critic coverage or Metacritic/OpenCritic scores were found; Metacritic has a page but shows no critic or user score yet. Complaints cluster around opaque unlock and upgrade information, occasional performance drops at high threat levels, and a lack of online co-op.",
+      "best_things": [
+        "Deep build variety: 20 ships, 20 weapons, about 800 skills in skill trees, and 200+ infinitely stacking upgrades make runs feel different",
+        "Level-up choice tools (reroll, banish, lock, transmute, dual pick, plus a tag system to promote or blacklist upgrade tags) give real control over builds, which reviewers say keeps late-run picks exciting",
+        "Strong Geometry Wars feel with clean, readable neon visuals; reviewers say they rarely got lost even in hectic moments",
+        "Satisfying meta-progression and unlock loop that gives a 'one more run' hook and starts paying off once you unlock more of the skill tree",
+        "Difficulty is seen as fair, with scaling threat levels and deaths that usually feel like build or skill problems rather than pure RNG",
+        "Good local co-op and ongoing developer support (1.0 added a final boss arena, three save profiles, and several balance/bug patches)",
+        "Flexible settings: optional auto-aim, toggle auto-fire added in 1.0.1 for accessibility, and a granular difficulty-modifier system",
+        "Runs are around 30 minutes with an endless mode, so they are easy to fit into short sessions"
+      ],
+      "worst_things": [
+        "Many unlocks do not say how to get them; a reviewer could not work out how to unlock the Swarm ship because locked items do not name what unlocks them",
+        "No wiki or official Discord was noted by one negative reviewer at 1.0, which makes the opaque unlock system worse",
+        "Performance: a Steam Deck reviewer measured FPS dropping to 1-2 for seconds at threat level 25 and occasional full freezes; another positive reviewer had to change video settings to get normal performance",
+        "Save-data loss reported by at least one reviewer (51 hours lost), and the Steam forum has a pinned 1.0 saves notice and a bug about restarts forgetting tags and bans",
+        "Startup problems reported on the forum: hangs on first launch and prompts to install the .NET Framework",
+        "Some upgrade text is unclear or misleading (for example, how overkill works, and '100% reduction' not reducing a duration to zero)",
+        "Balance gaps: the stealth ship is called overpowered and long-range/auto-target weapons much easier than others; one forum thread calls Ability Duration Up bad"
+      ],
+      "improvements": [
+        "Add online co-op; reviewers note the game only has local co-op and the forum has a complaint about needing a controller in multiplayer",
+        "Explain unlock conditions and upgrade mechanics better in-game (name the item an unlock requires, tooltips for overkill, dual pick and percentage stacking), or provide a wiki",
+        "Fix performance spikes at high threat levels and Steam Deck stutters",
+        "Rebalance ships and weapons so non-stealth ships and manual-aim weapons compete, and buff weak upgrades like Ability Duration Up",
+        "Improve save reliability and preserve tags and bans when restarting a run",
+        "Add more content after 1.0 (reviewers explicitly hope for more)"
+      ],
+      "unique_things": [
+        "Tag system that lets you promote or blacklist upgrade categories in the level-up pool, which one reviewer credits with dramatically improving the roguelike element versus similar games",
+        "Unusual level-up options: reroll, banish, lock, transmute and dual select in the same run",
+        "Geometry Wars twin-stick action fused with a survivor-like/bullet-heaven upgrade structure and infinite stacking upgrades",
+        "Ship-specific and weapon-specific skill trees with around 800 skills, giving much deeper pre-run customization than typical bullet-heavens",
+        "Threat-level (heat/NG+) scaling and endless looping with rising enemy counts",
+        "Community-made UEVR mod lets you play it in VR, which a reviewer raves about"
+      ],
+      "tedious_or_disliked": [
+        "Slow start: one reviewer says it takes a while to get going and feels weak until you unlock skill-tree nodes",
+        "Unlock grind: a player at 12 hours had unlocked only about 25% of content and found the hidden unlock conditions annoying",
+        "Chaotic late-game screens for players using non-auto-target weapons, where dodging and max damage dominate",
+        "Performance stalls mid-run that cannot be played around because the ship is immobile or the run ends"
+      ],
+      "divisive_points": [
+        "Grind: one reviewer calls it one of the best 'mindless grind' roguelikes while another finds the unlock system frustratingly opaque",
+        "Balance of ease versus challenge: some reviewers say difficulty is well tuned with a good threat spike, while others find non-stealth and manual-aim ships much harder than auto-target builds",
+        "Local-only co-op is praised as great co-op by some and a dealbreaker limitation by others"
+      ],
+      "reception_notes": "Early Access began Sept 29, 2023; 1.0 launched May 27, 2025 at $14.99 (Windows only) and was followed by hotfixes 1.0.1 and 1.0.2 (May 30), 1.0.3 (June 6, balance and boss fixes) and 1.0.4 (June 25, bug fixes). Steam reviews continued through 2026 with some of the most enthusiastic from players with hundreds of hours, and a review from a YouTube bullet-heaven reviewer recommended it highly. Negative reviews are a small minority (24 of 276) and mainly cite saves, performance and opaque unlocks. The game was not found on any critic aggregator with scores. Research limitation: the session web-search budget was exhausted, so no outlet reviews, Reddit threads or OpenCritic data were retrievable; findings rest on Steam reviews, the Steam store, news feed and forum, Metacritic page status and the revenue estimate.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2202590.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 2202590, Castec Studios, review summary, tags, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2202590/Shape_Shifter_Formations/",
+          "what": "Steam store page: features (20 ships, 20 weapons, 800 skills), release history, review summary"
+        },
+        {
+          "url": "https://store.steampowered.com/feeds/news/app/2202590/",
+          "what": "Steam news feed with 1.0 release notes and hotfixes 1.0.1 to 1.0.4"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2202590/discussions/",
+          "what": "Steam discussions: bug, VR, dual pick, saves and performance threads"
+        },
+        {
+          "url": "https://www.metacritic.com/game/shape-shifter-formations/",
+          "what": "Metacritic page exists but shows no critic or user score yet"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=shape%20shifter%20formations",
+          "what": "OpenCritic search; no entry or score found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2202590/shape-shifter-formations",
+          "what": "Third-party Boxleiter-method revenue and copies estimate"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no critic or user score, nulls confirmed. Removed unsupported 'about 5,000 copies' (source data has src_copies null) and rewrote summary/other-score text accordingly. Removed 'repetition of enemy formations' tedious bullet (not supported by the reviews on file). Other bullets match top Steam review themes; no additions."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 9,
+    "his_spoken": "said highest",
+    "his_score": 93.6,
+    "his_top10_bonus": 0,
+    "players_score": 41.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 70.9,
+    "labels": [
+      "shooter",
+      "survivors_like",
+      "coop"
+    ],
+    "primary_label": "shooter"
+  }
+}

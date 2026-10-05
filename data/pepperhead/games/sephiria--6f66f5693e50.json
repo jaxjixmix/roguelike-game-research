@@ -1,0 +1,260 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "sephiria",
+    "name": "Sephiria",
+    "display_name": "Sephiria",
+    "appid": 2436940,
+    "img": "img/2436940.jpg",
+    "steam_url": "https://store.steampowered.com/app/2436940/",
+    "website": "https://teamhoray.com",
+    "short_description": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep your village safe.",
+    "developers": [
+      "TEAM HORAY"
+    ],
+    "publishers": [
+      "TEAM HORAY"
+    ],
+    "release_date": "Jul 31, 2026",
+    "coming_soon": false,
+    "price": "$17.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Action Roguelike",
+      "Inventory Management",
+      "Rogue-lite",
+      "Pixel Graphics",
+      "Rogue-like",
+      "Top-Down",
+      "Fantasy",
+      "Cute",
+      "Procedural Generation"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 94.5,
+    "steam_total_reviews": 12970,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/sephiria/",
+    "metacritic_user": 8.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "TheSixthAxis (9/10, also shown as 90 on Metacritic)",
+        "score": "90/100",
+        "url": "https://www.thesixthaxis.com/2026/08/17/sephiria-review/"
+      },
+      {
+        "source": "This Is Game (via Metacritic)",
+        "score": "83/100",
+        "url": "https://www.metacritic.com/game/sephiria/critic-reviews/"
+      },
+      {
+        "source": "Steam user reviews (local snapshot)",
+        "score": "94.5% positive of 12,970 (Very Positive)",
+        "url": "https://store.steampowered.com/app/2436940/Sephiria/"
+      },
+      {
+        "source": "Steam store page (fetched, earlier snapshot)",
+        "score": "97% of 2,911 (Overwhelmingly Positive); recent 96%",
+        "url": "https://store.steampowered.com/app/2436940/Sephiria/"
+      }
+    ],
+    "vgi_units": 674000,
+    "vgi_revenue": 7000000,
+    "vgi_rating": 94.465,
+    "vgi_reviews": 12918,
+    "vgi_url": "https://app.sensortower.com/vgi/game/sephiria",
+    "spy_owners": "100,000 .. 200,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,407,920.76",
+    "src_net": "415,336.62",
+    "src_url": "https://steam-revenue-calculator.com/app/2436940/sephiria",
+    "final_tier": "A",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm going to put this as like a high high A tier and it could easily be an S tier. ... It's gained the highest of A tiers.",
+        "video_id": "kTg56_oKfGY",
+        "t": 6854,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=6854s",
+        "year_in_title": null,
+        "pos": 2,
+        "row_n": 9,
+        "row_score": 0.8636666666666668,
+        "spoken": "said highest"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Sephiria is a top-down action roguelike dungeon crawler from the makers of Dungreed, currently in early access. Its hook is an inventory-placement system where artifacts and item positions power up your build rather than traditional leveling. He loves the adventure feel, story, weapon variety, pre-run customization and music. He calls it a hidden gem deserving more attention, placing it at the top of A tier with S potential if balance and content improve.",
+        "praise": [
+          "Inventory management as the core progression: artifact placement buffs items, and level-6 items do drastically different things",
+          "Each weapon feels distinct, with special abilities, dash attacks, dashes and combos; gameplay more satisfying than Dungreed",
+          "Strong adventure, story and hub side-quest feel (even a creepy horror-tinged quest); each early-access update adds content",
+          "Lots of pre-run customization via multiple upgradeable 'mirrors' giving permanent stats, plus a newly added starting-item pool",
+          "Heat-style difficulty system that rewards permanent progression",
+          "Every run feels unique, with varied bosses and mini-bosses per biome; killer music"
+        ],
+        "criticism": [
+          "Elemental builds (fire, lightning) feel much stronger than anything else and are too easy to just collect into",
+          "Melee/stat builds require juggling many item types while elemental items all just work, so items need to be more flexible",
+          "Mana/spell system feels weak, unnecessary and not loved; spells not impactful",
+          "Same biomes and few secrets per run, and the true final boss is still missing in early access",
+          "Wants more secrets and alternate biomes like Dungreed had"
+        ],
+        "unique_points": [
+          "Inventory layout and artifact placement replace stat-based leveling as the way you get stronger",
+          "Many different mirror-style permanent upgrade tracks that you can keep switching between each run",
+          "Tablet imprint mechanic that embeds tablets without using an inventory slot; he wishes it could be a core, occasional option",
+          "Multiplayer support, which he has not tried"
+        ],
+        "quote": "This is another absolute hidden gem.",
+        "comparisons": [
+          "Dungreed",
+          "Hades (mirror and heat system)"
+        ],
+        "design_criteria": [
+          "Build/inventory synergies: placement strategy and artifacts are the core, but elemental builds dominate",
+          "Combat feel: weapon diversity and satisfying moveset",
+          "Meta-progression: many mirrors, hub unlocks, starting-item pool",
+          "Replayability/run variety: unique runs despite repeated biomes",
+          "Difficulty: heat-style system with permanent rewards",
+          "Story/adventure and immersion: hub quests and ongoing content updates",
+          "Balance: elemental versus non-elemental and mana/spells",
+          "Audio: praised music",
+          "Content/boss variety: two boss and mini-boss variants per biome, missing final boss"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A top-down pixel-art action roguelite from Team Horay (makers of Dungreed) where you play a bunny defending Bunnyville, building power by fitting artifacts and tablets into a Tetris-like inventory grid, with up to 4-player online co-op.",
+      "consensus_summary": "Sephiria is received as one of the best recent action roguelites: the local Steam snapshot shows about 12,970 reviews at 94.5% positive (Very Positive), and the Steam store page showed an Overwhelmingly Positive rating earlier (97% of roughly 2.9k reviews), so sentiment has cooled slightly as the audience widened at 1.0. Players and critics praise the inventory-puzzle build system, big weapon/costume variety, pixel art and co-op. The two Metacritic critic reviews are 90 (TheSixthAxis) and 83 (This Is Game). Complaints cluster around netcode and disconnect-loses-the-run in multiplayer, artificial pacing gates, boss design that pushes evasion builds, and repetitiveness after many hours. It left Early Access (April 2025) for a full release on July 31, 2026, and some fans felt little was added between the last EA build and 1.0.",
+      "best_things": [
+        "The inventory-management build system (placing artifacts/relics around tablets and talismans in a grid) is called unique and addictive; several reviewers describe optimizing the grid as the core puzzle of the game",
+        "Large variety of weapons (6 main weapon types, each with 50+ upgrades that change how it plays), costumes with unique stats and set bonuses, and artifacts gives many viable, distinct builds",
+        "Snappy, responsive combat with a wide range of archetypes (tank, greatsword, bomber, frost, lightning, meteor mage)",
+        "Clean, expressive pixel art and cute character designs; boss music and chill soundtrack are singled out",
+        "Smooth progression curve: weapons, artifacts and unlocks are introduced gradually, with very wide meta-progression and plenty of secrets to unlock",
+        "Co-op for up to 4 is seen as well balanced and a standout feature for playing with a partner or friends; you can leave a co-op run and return to your own village",
+        "Strong quality-of-life features such as loadout preferences and control over favored item spawn rates, plus multiple difficulty levels",
+        "Large amount of content and polish with a charming story and lots of care from a small studio; players report hundreds of hours"
+      ],
+      "worst_things": [
+        "Multiplayer netcode: delay-based and server-priority hit registration makes dodging unreliable for clients, especially at 100+ ping; many negative reviews are purely about this",
+        "A disconnect or host drop ends the run for everyone with no rejoin and no mid-run save, which can waste an hour or more; it also happens on LAN for some players",
+        "Progress can be lost on game crashes, reported by some players including on Linux",
+        "Boss design: large unavoidable-feeling attacks, unclear telegraphs, long invulnerable phases, and one boss with a screen-wide tentacle barrage that some find annoying or unfair",
+        "No epilepsy or photosensitivity warning and no flashing-reduction toggle despite a newer chapter 3 boss with map-wide flashing attacks; raised repeatedly by affected players and their friends",
+        "Some reviewers find combat shallow or hollow (one-button combos) and enemy rooms either too easy early or visual damage-soup late",
+        "Story is called over-the-top or cliche by some, and cutscenes/dialogue get skipped; boss cutscenes are repetitive when retrying",
+        "Localization quality issues (for example a Russian reviewer rates the current translation about 4/10)"
+      ],
+      "improvements": [
+        "Add rejoin/reconnect and a mid-run save or checkpoint for multiplayer and crashes; several reviewers suggest a save point after the first boss",
+        "Move to client-side hit detection or rollback-style netcode so non-hosts are not penalised",
+        "Add an epilepsy warning and a flashing-effects toggle, plus other accessibility options such as OLED-friendly text colors and a way to disable hold-to-continue prompts",
+        "Rebalance evasion/defense builds and healing scarcity so tanking and offensive builds are viable; tune boss telegraphs and invulnerability phases",
+        "Reduce the artificial progression gates (some chapters require extra runs for small lore rewards) and speed up meta-progression and rewards for winning runs",
+        "Improve translations and add more post-1.0 content (players noted little changed between Early Access and release); a voting system for which floor to take in co-op was also suggested"
+      ],
+      "unique_things": [
+        "The Tetris-like inventory grid where artifact placement next to tablets and talismans is the main source of power, comparable by one reviewer to a Materia or Attache Case system",
+        "Deep roguelite meta-loop with a village (Bunnyville) and story chapters gated behind repeated runs",
+        "Weapon upgrade system where anvil upgrades make the same weapon play like a different one",
+        "Costumes that act as class-like set bonuses (evasive cat, big-inventory fox, fast white wolf, scholar lizard) with trade-offs",
+        "Co-op where main story progression belongs to the session host while you can still return to your own village",
+        "Dungreed-style synergy ideas expanded into the central build mechanic, presented in cute bunny-themed pixel art"
+      ],
+      "tedious_or_disliked": [
+        "Runs get long (an hour or more for some) and the constant inventory shuffling plus fast-travel backtracking through non-continuous map paths pads the time",
+        "Repetition after roughly 20+ hours: players settle into one build and have little reason to vary it because the game is easy once core synergies click",
+        "Padding in progression: extra runs demanded per chapter and slow meta unlocks feel like a grind",
+        "Late-game boss fights described as bosses spamming hard-to-avoid attacks; the final boss can kill in one attack and delete an hour or two of progress",
+        "Evasion is widely seen as mandatory, which flattens build diversity at the top end"
+      ],
+      "divisive_points": [
+        "Difficulty: some call it very difficult and hectic, others say it becomes trivial after a few talents and that evasion is overpowered",
+        "Inventory management: praised as the best feature by most, but described as 50% of the game and a time sink by a few (even a joking positive review calls it a puzzle game)",
+        "Build variety: praised as huge by many, but others feel builds are a checklist and that costume set bonuses lock you into specific routes",
+        "Story: sweet and charming for some, cliche and skippable for others"
+      ],
+      "reception_notes": "Early Access launched April 3, 2025 and 1.0 released July 31, 2026 on Windows and Mac (no Linux build, though some players report running it on Linux). Launch at 1.0 brought a larger audience and a dip from about 97% to about 94.5% positive, driven by multiplayer netcode, disconnect handling, pacing/padding, and the lack of epilepsy warning after a new chapter 3 alternate boss. Metacritic has no Metascore yet (only 2 of 4 required critic reviews) and the user score rests on just 6 ratings; OpenCritic could not be found. Revenue estimate from the local data (Boxleiter-style, unaudited) is about $1.4M gross and $415k net, with estimated owners of 100k-200k and a price of $17.99; treat as order of magnitude. Peak concurrency in the local snapshot was about 2,268. A WebSearch budget cap prevented additional searches, and Reddit could not be fetched, so community detail comes mainly from Steam reviews and discussion topics.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2436940.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam data: review totals, tags, owners and revenue estimates"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2436940/Sephiria/",
+          "what": "Steam store page: description, EA/release dates, review summaries"
+        },
+        {
+          "url": "https://www.metacritic.com/game/sephiria/",
+          "what": "Metacritic page: no Metascore yet, user 8.5, two critic reviews"
+        },
+        {
+          "url": "https://www.metacritic.com/game/sephiria/critic-reviews/",
+          "what": "Critic reviews list: TheSixthAxis 90, This Is Game 83"
+        },
+        {
+          "url": "https://www.thesixthaxis.com/2026/08/17/sephiria-review/",
+          "what": "TheSixthAxis review (9/10): praise for combat and build variety, criticism of boss design"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2436940/discussions/",
+          "what": "Steam community discussion topics: photosensitivity, OLED readability, balance, UX requests"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2436940/sephiria",
+          "what": "Revenue estimate source cited in local data (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore yet (2 of 4 reviews), TheSixthAxis 90, This Is Game 83, user 8.5 from 6 ratings - all confirmed, metacritic_critic stays null. Removed the unverifiable 'Steam store quoted critic blurb 8.3/10' entry from other scores. Checked bullets against Steam reviews (disconnect/netcode, epilepsy, translation, tentacle boss, save point, Materia, EA-to-1.0 little added, evasion mandatory): all supported; no other changes."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 9,
+    "his_spoken": "said highest",
+    "his_score": 86.4,
+    "his_top10_bonus": 0,
+    "players_score": 76.0,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 81.8,
+    "labels": [
+      "action",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

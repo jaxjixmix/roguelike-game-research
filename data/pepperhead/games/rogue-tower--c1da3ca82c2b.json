@@ -1,0 +1,256 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "rogue tower",
+    "name": "Rogue Tower",
+    "display_name": "Rogue Tower",
+    "appid": 1843760,
+    "img": "img/1843760.jpg",
+    "steam_url": "https://store.steampowered.com/app/1843760/",
+    "website": null,
+    "short_description": "Rogue Tower is a tower defense game with roguelike elements and a continuously expanding path which you can influence. Unlock, build, upgrade, expand, defend.",
+    "developers": [
+      "Die of Death Games"
+    ],
+    "publishers": [
+      "Die of Death Games"
+    ],
+    "release_date": "Jan 28, 2022",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "tags": [
+      "Tower Defense",
+      "Strategy",
+      "Rogue-like",
+      "Casual",
+      "Procedural Generation",
+      "3D",
+      "Minimalist",
+      "Base-Building",
+      "Rogue-lite",
+      "Singleplayer"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 82.6,
+    "steam_total_reviews": 5930,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/rogue-tower/",
+    "metacritic_user": 6.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "PLAY! Zine (via Metacritic, single critic review)",
+        "score": "90/100",
+        "url": "https://www.metacritic.com/game/rogue-tower/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 82.6% of 5,930",
+        "url": "https://store.steampowered.com/app/1843760/Rogue_Tower/"
+      },
+      {
+        "source": "Steam estimated owners (SteamSpy)",
+        "score": "500,000 to 1,000,000",
+        "url": "https://store.steampowered.com/app/1843760/Rogue_Tower/"
+      },
+      {
+        "source": "Steam Revenue Calculator estimate (gross / net)",
+        "score": "$2.998M / $0.884M (Boxleiter-based estimate)",
+        "url": "https://steam-revenue-calculator.com/app/1843760/rogue-tower"
+      }
+    ],
+    "vgi_units": 178000,
+    "vgi_revenue": 2000000,
+    "vgi_rating": 82.577,
+    "vgi_reviews": 5929,
+    "vgi_url": "https://app.sensortower.com/vgi/game/rogue-tower",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,998,239.84",
+    "src_net": "884,480.75",
+    "src_url": "https://steam-revenue-calculator.com/app/1843760/rogue-tower",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "currently it's going to be a low B but I wish it could be more than that",
+        "video_id": "5k_-k4X90ao",
+        "t": 7432,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=7432s",
+        "year_in_title": "2022",
+        "pos": 33,
+        "row_n": 35,
+        "row_score": 0.11642857142857141,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Rogue Tower is a little-known blocky tower-defense roguelite. PepperHead loves tower defense and was excited that someone made a roguelike version, but finds it frustrating because strong ideas are undercut by core design and UI problems. Runs are extremely long and the towers and abilities become dull. The music is a standout. He would recommend it on discount and places it in low B, wishing it were better.",
+        "praise": [
+          "Adorable blocky visual style",
+          "Fun at first, with a novel tower-defense-roguelike premise",
+          "Wave progression by expanding the map, which brings new enemies and room for more turrets",
+          "Music is excellent, far better than expected",
+          "Has a lot of potential and worth trying on a discount"
+        ],
+        "criticism": [
+          "UI is terrible and can be hard to click correctly",
+          "Feels under-developed, with little polish or effort in places",
+          "Runs are insanely long, with new enemy sets roughly every 10 minutes across six to eight or more worlds",
+          "Turret upgrades are only number increases, not interesting behavior changes",
+          "Unique abilities gained after waves become boring over time",
+          "Unclear whether it is still getting updates"
+        ],
+        "unique_points": [
+          "Starting a wave by enlarging the map, which brings new enemies and more turret space",
+          "A rare tower-defense roguelike hybrid",
+          "Love-hate case of high potential held back by core design issues"
+        ],
+        "quote": "it could be much better than what it actually is",
+        "comparisons": [],
+        "design_criteria": [
+          "Turret/upgrade depth: upgrades are only stat increases, which hurts variety",
+          "UI/usability: clunky and hard to click",
+          "Run length: far too long",
+          "Ability variety: unique abilities grow boring",
+          "Audio: music is a major strength",
+          "Visual charm: adorable blocky look",
+          "Potential/polish: lots of promise but feels unfinished"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A minimalist, isometric roguelite tower defense from Die of Death Games in which the enemy path keeps expanding and splitting as you level up, and you build from randomly drawn tower and upgrade cards unlocked through meta progression.",
+      "consensus_summary": "Steam players rate it Very Positive (about 83% of roughly 5,900 reviews; the store page shows a lower 71% for recent reviews). Fans call it an addictive, deep, chill-but-tricky TD with huge replay value, and many logged hundreds of hours. Detractors focus on RNG-heavy card draws, late-game balance spikes, and a bare-bones feature set: no mid-run save, no speed-up, poor UI scaling and few settings. Critic coverage is almost nonexistent; Metacritic lists one critic review (PLAY! Zine, 90) and a Mixed 6.5 user score from only 17 ratings. The developer appears inactive, and the game is effectively finished as-is; the modding community on Thunderstore fills many QoL gaps.",
+      "best_things": [
+        "Expanding, branching enemy path (extra lanes unlocked as a difficulty ramp) gives the game its hook and forces you to spread defenses out",
+        "Real depth under a simple look: elevation range/attack bonuses, mana, three enemy health types, and several ways to earn gold",
+        "Card-draw build variety: 400+ cards and upgrades mean runs differ, and you adapt to what you roll rather than following one solved strategy",
+        "Slow unlock tree for towers means the game does not overwhelm newcomers, and progression feels carefully tuned",
+        "Relaxed pace makes it a favorite 'play while on a call, podcast or TV' game; several players say it is addictive even if they dislike TD or roguelikes",
+        "Humorous boss/enemy names and themes, and no time wasted on lore",
+        "Lots of content for the price: around 140 achievements, very hard ones for completionists",
+        "Strong value at $14.99 for many fans: several reviewers call it their favorite or one of the best TD games they have played, though the fan praise often leans on mods for QoL"
+      ],
+      "worst_things": [
+        "No mid-run save or save-and-quit, which is repeatedly called a deal breaker since runs can run a long time",
+        "No pause or game speed controls in vanilla; waiting on a few slow stragglers wastes round time and it takes about 20 minutes to know whether a build works",
+        "UI/UX widely criticised: tiny or unreadable text, UI scale option insufficient on some displays, clicks passing through buttons, a persistent WASD graphic, few settings (resolution/window mode)",
+        "Heavy RNG: card draws can make or break a run, so skilled planning sometimes matters less than luck",
+        "Late-game balance: enemy scaling ramps hard (robots from wave ~26, bosses that one-shot unprepared builds, walls around wave 37-55), and enemy stats are not visible in a run",
+        "Tower variety is questioned: at least one popular review says nearly everything besides the ballistae is flashy but impractical (a single-reviewer claim, not a consensus)",
+        "Developer is described as inactive and unresponsive; some find the fan base dismissive with 'skill issue' replies",
+        "Plain visuals and forgettable music; Unity-default look",
+        "Thin permanent progression: the most-upvoted negative review says it lacks more permanent upgrades and loses replayability after roughly 15-20 hours"
+      ],
+      "improvements": [
+        "Add mid-run saving and a proper pause menu with quick restart",
+        "Add speed controls (2x/3x) and fast-forward",
+        "Fix UI scaling, add resolution/display settings, and allow map rotation so tiles are not hidden",
+        "Add card reroll or banish options and a way to refund accidental upgrades, plus a reset-XP option",
+        "Show enemy stats and unit info, and add a tower stats view that does not block the map",
+        "Rebalance late game and underused towers; more permanent upgrades and variation or legendary upgrades per tower to extend replayability"
+      ],
+      "unique_things": [
+        "The path itself expands and splits during a run, rather than a fixed map with fixed lanes",
+        "Roguelite card draft for towers and upgrades layered on TD, with an unlock tree meta-progression",
+        "Height/elevation matters for tower range and damage",
+        "Mana system and three enemy health types add layers most TD games lack",
+        "Enemy faction type is picked from a set of three per wave, each with distinct gimmicks, revealed only on encounter",
+        "A sizable community mod scene (BepInEx/Thunderstore: BanishCards, DarkMode, BetterPauseMenu, UpgradesMenu, and even a multiplayer mod)"
+      ],
+      "tedious_or_disliked": [
+        "Slow, long runs without speed-up, making early game feel repetitive",
+        "Grinding for unlocks, with players noting that some menu upgrades only add items to the random pool rather than being permanent",
+        "Achievement hunting is very luck-dependent, and some achievements were reportedly made impossible by balance nerfs",
+        "Cannot plan a strategy when the cards you need may never appear",
+        "Some players say the game runs out of content after around 15-20 hours"
+      ],
+      "divisive_points": [
+        "RNG: some find it makes each run exciting and addictive, others call it 'non-interesting' randomness with no sense of progress",
+        "Difficulty and balance: fans accept losing as part of the roguelite loop; critics see unfair spikes and a difficulty level that outscales upgrades",
+        "Minimalist look and simple gameplay: charming and focused to some, cheap-looking and clunky to others",
+        "Replayability: hundreds of hours for some, done after 15-20 hours for others"
+      ],
+      "reception_notes": "Released Jan 28, 2022 on Steam (Windows only) at $14.99. It kept Very Positive status over time, though the recent-review window has dipped to Mostly Positive. Metacritic has only 17 user ratings and one critic review, so its 6.5 is weakly grounded, and no OpenCritic entry was found. The Steam forum shows 287 topics, with threads about tiny UI, crashes after updates, requests to rebalance difficulty and reset XP, and few official replies; reviews from 2025-2026 describe the dev as gone. A sequel is hinted at by a reviewer but nothing confirmed was found. Reddit, Google and DuckDuckGo could not be fetched and the web search budget was exhausted, so community coverage relies on Steam reviews, the Steam forum, Metacritic and Thunderstore.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1843760.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appdata: release, price, review counts, SteamSpy owners, tags"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1843760/Rogue_Tower/",
+          "what": "Steam store page: features, tags, overall and recent review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1843760/discussions/",
+          "what": "Steam forum topic list: UI, balance, XP reset requests, dev activity"
+        },
+        {
+          "url": "https://www.metacritic.com/game/rogue-tower/",
+          "what": "Metacritic page: one critic review (PLAY! Zine 90), user score 6.5"
+        },
+        {
+          "url": "https://www.metacritic.com/game/rogue-tower/user-reviews/",
+          "what": "Metacritic user reviews: themes on UI, speed controls, balance"
+        },
+        {
+          "url": "https://thunderstore.io/c/rogue-tower/",
+          "what": "Mod listing: QoL and gameplay mods and download counts"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1843760/rogue-tower",
+          "what": "Estimated gross and net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/",
+          "what": "Checked for an OpenCritic entry; none found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: 1 critic review (PLAY! Zine 90, no Metascore yet, so metacritic_critic stays null), user 6.5 from 17 ratings; confirmed. No OpenCritic found; null kept. Rewrote the garbled 'good value' bullet and the overgeneralised 'most towers weak' bullet (single review). Added 1 worst_things theme (limited permanent upgrades / replayability, top negative review, 25 votes). Other bullets consistent with Steam reviews; unverifiable specifics (400+ cards, 140 achievements, mana) left as-is."
+    },
+    "his_anchor": null,
+    "his_pos": 33,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 11.6,
+    "his_top10_bonus": 0,
+    "players_score": 22.0,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 16.2,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}

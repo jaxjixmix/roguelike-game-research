@@ -1,0 +1,262 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "star renegades",
+    "name": "Star Renegades",
+    "display_name": "Star Renegades",
+    "appid": 651670,
+    "img": "img/651670.jpg",
+    "steam_url": "https://store.steampowered.com/app/651670/",
+    "website": "http://starrenegades.com",
+    "short_description": "Star Renegades is a dimension spanning rogue-lite strategy RPG. Outsmart uniquely generated adversaries, forge bonds between heroes and end the cycle!",
+    "developers": [
+      "Massive Damage, Inc."
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "release_date": "Sep 8, 2020",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "tags": [
+      "Rogue-like",
+      "Pixel Graphics",
+      "Turn-Based",
+      "Rogue-lite",
+      "JRPG",
+      "Singleplayer",
+      "Tactical RPG",
+      "Mechs",
+      "RPG",
+      "Strategy RPG"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 82.6,
+    "steam_total_reviews": 3083,
+    "metacritic": 77,
+    "metacritic_url": "https://www.metacritic.com/game/pc/star-renegades?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 6.6,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic PS4 (per Wikipedia)",
+        "score": "78",
+        "url": "https://en.wikipedia.org/wiki/Star_Renegades"
+      },
+      {
+        "source": "Metacritic Switch (per Wikipedia)",
+        "score": "67",
+        "url": "https://en.wikipedia.org/wiki/Star_Renegades"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "82.6% positive of ~3,083 (Very Positive)",
+        "url": "https://store.steampowered.com/app/651670/Star_Renegades/"
+      },
+      {
+        "source": "Metacritic PC critic reviews",
+        "score": "DualShockers 90, GamingTrend 90, The Digital Fix 90, RPG Fan 87, Edge 50",
+        "url": "https://www.metacritic.com/game/star-renegades/critic-reviews/"
+      }
+    ],
+    "vgi_units": 92490,
+    "vgi_revenue": 1500000,
+    "vgi_rating": 82.647,
+    "vgi_reviews": 3083,
+    "vgi_url": "https://app.sensortower.com/vgi/game/star-renegades",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,288,684.16",
+    "src_net": "675,161.83",
+    "src_url": "https://steam-revenue-calculator.com/app/651670/star-renegades",
+    "final_tier": "B",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "right now I'm going to put this as a like a mid B tier, which I know is going to disappoint a lot of people",
+        "video_id": "kTg56_oKfGY",
+        "t": 8342,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=8342s",
+        "year_in_title": null,
+        "pos": 6,
+        "row_n": 10,
+        "row_score": 0.46749999999999997,
+        "spoken": "said mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Star Renegades is a turn-based strategy RPG roguelike with a party of up to five characters, a timeline bar for turn order, and heavy Darkest Dungeon inspiration. He finds the core combat satisfying and strategic, with great art and animation, but is deeply frustrated by a messy UI and unclear information. After about 10 hours he is still confused by mechanics, and runs can drag. He places it mid B, says a UI overhaul would make it much better, and plans to return to it.",
+        "praise": [
+          "Core tactical combat is satisfying, enjoyable and fairly strategic",
+          "Timeline/time-bar mechanic, where you manipulate enemy turn order and crits, is unique and strategic",
+          "Art style and animations are excellent, with unique animations per enemy and attack",
+          "Characters play drastically differently and there are many party combinations",
+          "Solid story with attention to characters and camp relationship systems",
+          "Items add roguelike variety so runs feel different"
+        ],
+        "criticism": [
+          "UI is a mess: no quick inventory, information is unclear, and enemy intentions are hard to see",
+          "Basic quality-of-life gaps, e.g. needing to press a button then click to inspect an enemy instead of hovering",
+          "Overwhelming and confusing to start; unclear why some attacks are automatic and turn order can trigger accidentally",
+          "Runs can be very long, with fights taking many turns of repeating the same few abilities",
+          "Starting a new run feels like a drag; characters have no roguelike progression and level identically"
+        ],
+        "unique_points": [
+          "The timeline bar, where positioning before enemies and pushing them back enables crits, is its most unique part",
+          "Turn-based RPG roguelikes are rare despite the genre's roots, making this a notable entry",
+          "Gameplay is more complicated than Darkest Dungeon, which he is unsure is good or bad"
+        ],
+        "quote": "I hate this game's UI so much.",
+        "comparisons": [
+          "Darkest Dungeon",
+          "Final Fantasy"
+        ],
+        "design_criteria": [
+          "UI/information clarity: his biggest issue, poor presentation of enemy intent and menus",
+          "Strategic depth: timeline mechanic and turn-based tactics are the highlight",
+          "Visuals and animation: strong art and per-attack animations",
+          "Character diversity: distinct movesets and party combinations",
+          "Run length and pacing: long runs and slow early game drag",
+          "Roguelike variation: items provide variety but characters lack roguelike progression",
+          "Quality of life: small missing features add up to frustration"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A pixel-art sci-fi turn-based tactical JRPG roguelite by Massive Damage (published by Raw Fury) where you chain attacks on a timeline, break enemy turns, and fight an invading empire across dimensions over multi-hour runs.",
+      "consensus_summary": "Star Renegades is received as a flawed but distinctive and deeply tactical roguelite. Critics landed at a Metascore of 77 on PC (40 reviews on Metacritic), with many 85-90 scores praising the art, combat and variety, and a few lukewarm ones (Edge 50) citing overwhelming systems and difficulty. Steam players are more positive than Metacritic users: 82.6% positive across about 3,083 reviews (Very Positive), while Metacritic users sit at a mixed 6.6. Long-time players say it has been effectively left as-is by the developer (bugs and balance issues remain), and it is frequently discounted to under $5-10. Players who bond with the timeline system sink hundreds of hours in, while many others bounce off the run length, RNG and writing.",
+      "best_things": [
+        "Timeline-based turn combat: chain attacks, delay enemies, and 'break' them so they forfeit their turn and take crits; reviewers call it innovative and puzzle-like, often comparing the feel to Into the Breach",
+        "Very strong pixel art with modern lighting and effects, plus an energetic synth soundtrack, highlighted by critics (Digital Chumps, GamingTrend) and players alike",
+        "Deep build variety via classes, weapons, perks and skills, with lots of synergies to discover",
+        "Nemesis-style system where escaped or victorious mini-bosses return stronger with new modifiers, giving runs memorable loops",
+        "Camp and affinity system between party members produces cutscenes and unlocks alternate appearances and movesets; progeny system unlocks new characters",
+        "Escalating difficulty ladder (Harsh up to Entropy levels) and new-game-plus style restarts where unlocks carry over give strong replay depth for dedicated players",
+        "Great value on sale; several players report 200-700+ hours played",
+        "Runs on Steam Deck and is praised as a handheld game despite minor lag when fast-forwarding"
+      ],
+      "worst_things": [
+        "Runs are very long (commonly 2-4 hours, some report 6+), so a death late in a run feels punishing",
+        "Heavy RNG layering (rewards, enemy backline placement, nemesis modifiers) can invalidate a build through no fault of the player",
+        "Timeline predictions are sometimes inaccurate or ignore certain moves, which can cause run-ending surprises; mechanics are poorly explained in tooltips",
+        "Writing and tone are a frequent complaint: irreverent, cliched, fourth-wall-breaking dialogue that clashes with the world; thin story with no Hades-style narrative progression across runs",
+        "Bugs: soft locks when returning from the map view, chests or looting ceasing to work, stuck end-of-run states, and autosaves capturing broken states; heavy CPU use reported",
+        "Weak tutorial and steep learning curve; players often need outside guides to understand time manipulation and statuses",
+        "Meta-progression is slow or uninspiring and many players unlock the important items within a few runs, while higher difficulties effectively force a narrow set of builds",
+        "Too few regions, so repeated runs feel samey; map navigation is point-and-click and slow, especially during night backtracking",
+        "Full price ($24.99) is widely called hard to justify: several top reviews say it feels unfinished, like early access, and recommend buying only on sale"
+      ],
+      "improvements": [
+        "Shorter or more modular runs, or mid-run save points and healing options, to reduce the cost of dying",
+        "Reroll or refresh systems for rewards to mitigate bad RNG",
+        "More accurate and complete timeline predictions and better in-game explanation of mechanics and statuses",
+        "More regions, bosses and content variety so later runs differ more, plus richer meta-progression",
+        "Rebalance difficulty tiers and weak synergies or combo skills so more than a handful of builds remain viable at high difficulty",
+        "Bug fixes and stability work (soft locks, looting, performance); players also ask for a sequel that addresses the feedback"
+      ],
+      "unique_things": [
+        "Timeline combat where pushing enemies off the timeline breaks them and forces crits, mixing tactical-RPG puzzle logic with roguelite runs",
+        "Nemesis-system-inspired boss and mini-boss memory across attempts, with special dialogue on revisits",
+        "Dimension-hopping sci-fi JRPG setting (Star Wars meets cyberpunk flavour) with mech and pixel-art aesthetics",
+        "Progeny and relationship system that generates variant heroes and unlocks characters through affinity rather than simple currency",
+        "Alternating male or female sibling protagonist between campaigns, and a true-ending chain that restarts you at higher difficulty with all systems scaling"
+      ],
+      "tedious_or_disliked": [
+        "Multi-hour runs that must be restarted from scratch after failure; several reviewers say it would be better as a linear JRPG with saves",
+        "Night-time backtracking and clicking through empty map segments",
+        "Grindy, repetitive structure: similar fights and few regions across runs, with small incremental upgrades between runs",
+        "Learning phase of reading about elements and statuses, and dying to unexplained mechanics",
+        "Cringe character banter, and a perceived janky UX and controls that several reviewers say bury a good core game"
+      ],
+      "divisive_points": [
+        "Roguelite structure: some love the long, high-stakes runs and depth while others say the game would be better as a standard JRPG",
+        "Story and humour: seen as charming and funny by some, unbearably cliched or off-tone by others",
+        "Difficulty and RNG: 'perfect information' and cerebral puzzle-solving to fans vs unfair and luck-driven to detractors",
+        "Value: a steal at under $5-10 on sale, but many feel it is unfinished at the $25 full price"
+      ],
+      "reception_notes": "Launched on PC on Sep 8, 2020 (Switch and Xbox One Nov 19, 2020; PS4 delayed to Mar 10, 2021 over technical problems), then added DLC and expansions (Star Renegades: Total Lunarcy, Prime Dimension, Enter the Dragoon on Steam). Critic reception was generally favourable at launch; Switch performance was the weakest (Metacritic 67). Steam sentiment has held at Very Positive for years, and recent reviews call the game slept-on but note the developer appears to have moved on, leaving bugs and balance problems unaddressed. Steam owner estimate is 200k-500k with an estimated gross revenue of about $2.3M (third-party estimate, not audited). Windows only on Steam (no Mac or Linux), Steam Deck reportedly works. OpenCritic could not be retrieved, so no score is given. Note: web search budget was exhausted, so community detail comes from Steam reviews, Steam discussion titles and Metacritic pages rather than Reddit (Reddit fetch was blocked).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/651670.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app metadata: 82.6% positive, ~3,083 reviews, owner and revenue estimates, tags"
+        },
+        {
+          "url": "https://store.steampowered.com/app/651670/Star_Renegades/",
+          "what": "Steam store page for Star Renegades (price, tags, review summary)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/star-renegades/",
+          "what": "Metascore 77 from 39 critic reviews, user score 6.6"
+        },
+        {
+          "url": "https://www.metacritic.com/game/star-renegades/critic-reviews/",
+          "what": "Critic outlets and scores (DualShockers, GamingTrend, Digital Fix 90; RPG Fan 87)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/star-renegades/user-reviews/",
+          "what": "Metacritic user reviews: praise for art and combat, complaints about luck, grinding, run length"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Renegades",
+          "what": "Release dates, platform Metacritic scores, critical reception summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/651670/discussions/",
+          "what": "Steam community discussion titles: bugs, post-game content, story tone, sequel requests"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/651670/star-renegades",
+          "what": "Third-party Boxleiter-method revenue estimate (about $2.29M gross)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: PC Metascore 77 and user 6.6 confirmed; critic review count corrected 39 to 40 (PS4 78, Switch 67 also confirmed). Removed unsupported 'repetitive soundtrack' bullet (not in top Steam reviews) and merged cringe banter with a janky-UX theme from reviews. Added full-price-value complaint to worst_things. OpenCritic left null."
+    },
+    "his_anchor": null,
+    "his_pos": 6,
+    "his_row_n": 10,
+    "his_spoken": "said mid",
+    "his_score": 46.8,
+    "his_top10_bonus": 0,
+    "players_score": 20.5,
+    "critics_score": 31.5,
+    "critics_avg": 77.0,
+    "overall": 34.5,
+    "labels": [
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "turn_based"
+  }
+}

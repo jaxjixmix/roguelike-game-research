@@ -1,0 +1,254 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "going under",
+    "name": "Going Under",
+    "display_name": "Going Under",
+    "appid": 1154810,
+    "img": "img/1154810.jpg",
+    "steam_url": "https://store.steampowered.com/app/1154810/",
+    "website": "https://aggrocrab.com/",
+    "short_description": "Going Under is a satirical dungeon crawler about exploring the cursed ruins of failed tech startups. As an unpaid intern in the dystopian city of Neo-Cascadia, you’ll wield office junk as weaponry as you make your way through the offbeat procedural dungeons beneath your company campus.",
+    "developers": [
+      "Aggro Crab"
+    ],
+    "publishers": [
+      "Team17 Digital"
+    ],
+    "release_date": "Sep 24, 2020",
+    "coming_soon": false,
+    "price": "$2.49",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Dungeon Crawler",
+      "Beat 'em up",
+      "Rogue-lite",
+      "Hack and Slash",
+      "Female Protagonist",
+      "Difficult",
+      "Rogue-like",
+      "Souls-like",
+      "Action RPG"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.1,
+    "steam_total_reviews": 4175,
+    "metacritic": 78,
+    "metacritic_url": "https://www.metacritic.com/game/going-under/",
+    "metacritic_user": 7.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic Switch (per Wikipedia)",
+        "score": "81",
+        "url": "https://en.wikipedia.org/wiki/Going_Under_(video_game)"
+      },
+      {
+        "source": "Metacritic PS4 (per Wikipedia)",
+        "score": "80",
+        "url": "https://en.wikipedia.org/wiki/Going_Under_(video_game)"
+      },
+      {
+        "source": "Metacritic Xbox One (per Wikipedia)",
+        "score": "73",
+        "url": "https://en.wikipedia.org/wiki/Going_Under_(video_game)"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 90.1% of 4,175",
+        "url": "https://store.steampowered.com/app/1154810/Going_Under/"
+      },
+      {
+        "source": "TheGamer",
+        "score": "2.5/5",
+        "url": "https://www.thegamer.com/going-under-review/"
+      }
+    ],
+    "vgi_units": 125000,
+    "vgi_revenue": 1500000,
+    "vgi_rating": 90.127,
+    "vgi_reviews": 4173,
+    "vgi_url": "https://app.sensortower.com/vgi/game/going-under",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,775,351.88",
+    "src_net": "523,728.80",
+    "src_url": "https://steam-revenue-calculator.com/app/1154810/going-under",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put this as a uh as like a high beat here you know what like like a high beat here",
+        "video_id": "5k_-k4X90ao",
+        "t": 3911,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=3911s",
+        "year_in_title": "2020",
+        "pos": 13,
+        "row_n": 35,
+        "row_score": 0.6714285714285715,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Going Under is an action dungeon crawler roguelite with a heavy story focus, set in a corporate workplace where you play an intern. Its signature gimmick is that you can pick up almost any object in a room and use it as a weapon. He loves the art, music and humor and had a blast, but sees it as a one-and-done campaign with little reason to return after the story ends. He mentions some bugginess. Overall he recommends it and places it at the high end of B.",
+        "praise": [
+          "Amazing art style and great music",
+          "Story, NPCs and character relationships are a big draw",
+          "Very goofy and genuinely funny humor",
+          "Grab-anything-as-a-weapon gimmick (tables, computers, keyboards)",
+          "Fun endgame with a unique and cool final boss",
+          "Overall a fun, good game he would recommend"
+        ],
+        "criticism": [
+          "Campaign-style roguelite with little reason to return once the story is finished",
+          "Has a separate roguelite mode outside the story, but it does not pull him back",
+          "Somewhat buggy (he went out of bounds on stream and broke things), though still enjoyable"
+        ],
+        "unique_points": [
+          "Any object in the room can be used as a weapon, so no dedicated weapon is needed",
+          "Story-driven intern-in-a-corporation setting with a distinctive final boss"
+        ],
+        "quote": "it's very goofy it's really funny it has great humor",
+        "comparisons": [
+          "Other story/campaign-style roguelites and action dungeon crawlers mentioned generally (no specific titles named)"
+        ],
+        "design_criteria": [
+          "Charm/visuals: art style praised as amazing",
+          "Audio: music described as great",
+          "Story/narrative: strong focus and NPC relationships",
+          "Replayability/meta: single-campaign feel limits return value",
+          "Weapon/combat gimmick: improvised environmental weapons",
+          "Boss design: unique final boss",
+          "Polish: bugs noted but not game-breaking",
+          "Humor/tone: goofy and funny"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A satirical action roguelite from Aggro Crab (published by Team17) where an unpaid intern fights through dungeons built from failed tech startups, using office junk as breakable weapons.",
+      "consensus_summary": "Players rate it Very Positive on Steam (about 90% of roughly 4,175 reviews) and critics were mostly favourable (Metacritic PC 78 from 11 reviews). Almost everyone agrees the art direction, writing and corporate-satire theming are the main draw. The action roguelite gameplay is the weak point: many reviews call the combat sluggish, shallow or janky, and the content thin. Commercially it underperformed: Wikipedia says Aggro Crab cancelled a planned extra dungeon because of poor base game sales. It is a complete, 2020-released game with a post-launch 'Working from Home' update, it is frequently discounted to around $2, and a recommend-on-sale verdict is common even among lukewarm reviewers.",
+      "best_things": [
+        "Sharp, funny satire of startup and gig-economy culture; several reviewers say it has aged well and will trigger flashbacks for anyone who worked at a startup",
+        "Distinctive art direction that turns corporate clip-art/Memphis-style design into something charming rather than soulless, plus a solid soundtrack",
+        "Charming, archetypal cast and witty dialogue; talking to coworkers between runs is a highlight",
+        "Everything-is-a-weapon system: you pick up desks, office supplies and more to swing, throw or shoot, with a varied weapon pool",
+        "Generous accessibility and difficulty options: an Assist mode and difficulty changes at any time without disabling achievements",
+        "Choose-your-starting-item mechanic avoids runs ruined by a bad first pickup",
+        "Good length that does not overstay its welcome (roughly 10 hours for a casual clear) and runs well, including on Steam Deck",
+        "Boss fights and enemy/dungeon theming (three themed dungeons) praised as creative"
+      ],
+      "worst_things": [
+        "Combat described as floaty, sluggish and clunky: commitment to attack animations, slow dodges, imprecise hits, and enemies able to stun-lock you",
+        "Cluttered, cramped rooms and exploding traps can make damage feel unfair rather than hard, with off-screen enemies hard to spot",
+        "Thin content: only three dungeons, and the second half replays them in a hard mode, so many feel they saw everything in the first section",
+        "Weapon durability means weapons break every few fights, which some find tedious rather than fun, and shields on many enemies make this worse late game",
+        "Humour leans on dated memes and references for some reviewers, and characters lack depth",
+        "Final boss and late game spikes are called out as frustrating or unfair",
+        "Keyboard support is poor: controls cannot be rebound, and the weapon-switch keys are awkward; it plays best on controller",
+        "Progression and unlocks feel unimpactful; runs feel samey and skill descriptions are unclear",
+        "Sluggish, poorly optimized menus; one top negative review also says known bugs were never patched"
+      ],
+      "improvements": [
+        "Add rebindable controls and better keyboard/mouse defaults, including an option to stop auto-pickup on dodge",
+        "Speed up the post-run flow: multiple menus and loads before you can restart a run are a frequent complaint",
+        "Tune combat: more responsive attacks and dodges, clearer enemy telegraphs, less unavoidable off-screen damage",
+        "More content and variety: a fourth or fifth dungeon (the cancelled extra dungeon is the obvious gap) and less copy-paste in the hard-mode half",
+        "Clearer perk and skill descriptions and more meaningful unlocks",
+        "Camera improvements, or a locked isometric-style view, so furniture and walls do not hide threats"
+      ],
+      "unique_things": [
+        "Dungeons are the ruins of failed tech startups, each themed on a parody of a startup archetype",
+        "Breakable office-supply and furniture weapons you can also throw, instead of a fixed weapon loadout",
+        "Mentor and coworker bonding system that unlocks abilities, tied into the narrative",
+        "Corporate clip-art aesthetic with a mix of 2D and 3D art and gibberish-style voice work",
+        "Narrative-first roguelite where the satire drives the structure, and the ending is widely praised by fans",
+        "Assist and difficulty toggles that can be changed mid-game without penalty"
+      ],
+      "tedious_or_disliked": [
+        "Long menu and loading sequence between death and the next run",
+        "Constant weapon breakage and needing to spend scarce cash on food and healing in shops",
+        "Repetition: hard mode repeats the same three dungeons, and runs feel similar",
+        "Grinding for unlocks, with many skills described as pointless or unclear, which some players only finish by beating the game before unlocking everything",
+        "Dodge and stun-lock frustration when crowds of enemies or explosions pile on in tight rooms",
+        "Slow animations combined with imprecise weapons make fights feel like work"
+      ],
+      "divisive_points": [
+        "The humour and writing: many find it the best part, a minority find it dated, meme-heavy or unfunny",
+        "Combat feel and difficulty: some call it light and accessible, others call it janky or unfair, with Assist mode the usual recommended fix",
+        "Whether the game is a worthwhile roguelite or mostly a narrative/satire experience: several positive reviewers say it is for people who want the theme, not the mechanics",
+        "Art style: praised as distinctive, but a few find it fuzzy or hard to read"
+      ],
+      "reception_notes": "Launched September 24, 2020 on PC, Switch, PS4 and Xbox One, with physical editions for Switch and PS4 from Limited Run Games. Critics were mostly favourable, with platform Metacritic scores ranging 73 to 81, praising the satire and weapon variety, while a minority such as TheGamer (2.5/5) found the combat repetitive versus Dead Cells or Hades. Post-launch the 'Working from Home' update added weapons and a hard mode, but a planned additional dungeon was cancelled because of weak base sales. Steam lists it at about $2.49 at time of data collection, with estimated 200k to 500k owners and roughly $1.8M gross (Boxleiter-style estimate, order of magnitude only). Recent Steam reviews in 2025 to 2026 remain positive, with some players finding it via Game Pass or sales. Steam is Windows only. OpenCritic score could not be retrieved because the web search budget was exhausted and direct page fetches failed.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1154810.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: review counts, tags, owner and revenue estimates"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1154810/Going_Under/",
+          "what": "Steam store page (review summary, price, developer and publisher)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/going-under/",
+          "what": "Metacritic: Metascore 78 from 11 critics, user score 7.3, critic theme summary"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Going_Under_(video_game)",
+          "what": "Wikipedia: development, platform Metacritic scores, updates, cancelled dungeon"
+        },
+        {
+          "url": "https://www.thegamer.com/going-under-review/",
+          "what": "TheGamer review, 2.5/5: praise for satire, criticism of repetitive combat and weapon degradation"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1154810/going-under",
+          "what": "Revenue estimate (Boxleiter method): about $1.78M gross, $524k net"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 78 (11 reviews), user 7.3 (33 ratings), Switch 81, PS4 80, Xbox 73 confirmed; OpenCritic left null. Rewrote vague camera bullet (reviews cite cluttered rooms/explosions, not camera). Added menu/bug worst-thing from top negative review. Other bullets match Steam review themes (satire, art, accessibility, thin content, sluggish combat)."
+    },
+    "his_anchor": null,
+    "his_pos": 13,
+    "his_row_n": 35,
+    "his_spoken": "said high",
+    "his_score": 67.1,
+    "his_top10_bonus": 0,
+    "players_score": 48.7,
+    "critics_score": 36.1,
+    "critics_avg": 78.0,
+    "overall": 54.5,
+    "labels": [
+      "action"
+    ],
+    "primary_label": "action"
+  }
+}

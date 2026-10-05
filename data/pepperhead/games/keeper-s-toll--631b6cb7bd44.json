@@ -1,0 +1,256 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "keeper's toll",
+    "name": "Keeper's Toll",
+    "display_name": "Keeper's Toll",
+    "appid": 2002220,
+    "img": "img/2002220.jpg",
+    "steam_url": "https://store.steampowered.com/app/2002220/",
+    "website": "https://www.stingbotgames.com/kt",
+    "short_description": "Delve into Keeper’s Toll, an action-packed roguelite brimming with challenge and despair. Survive against an onslaught of relentless hordes and grueling bosses with skill-based ARPG gameplay. Embrace the darkness and cleanse these cursed lands.",
+    "developers": [
+      "Stingbot Games"
+    ],
+    "publishers": [
+      "Stingbot Games",
+      "Doyoyo Games"
+    ],
+    "release_date": "Oct 28, 2024",
+    "coming_soon": false,
+    "price": "$6.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-lite",
+      "Pixel Graphics",
+      "Bullet Hell",
+      "Dark Fantasy",
+      "Action RPG",
+      "2D",
+      "Rogue-like",
+      "RPG",
+      "Top-Down"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 89.5,
+    "steam_total_reviews": 802,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/keepers-toll/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Softpedia (via Metacritic, single critic review; Metascore not yet calculated)",
+        "score": "75/100",
+        "url": "https://www.metacritic.com/game/keepers-toll/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, about 89.5% positive (718 positive / 84 negative of 802)",
+        "url": "https://store.steampowered.com/app/2002220/Keepers_Toll/"
+      },
+      {
+        "source": "Metacritic user ratings",
+        "score": "3 ratings only (2 positive, 1 mixed); no user score shown",
+        "url": "https://www.metacritic.com/game/keepers-toll/"
+      },
+      {
+        "source": "Steam Revenue Calculator (Boxleiter estimate)",
+        "score": "About $64.9k gross / $19.1k net revenue; SteamSpy owners estimate 20,000-50,000",
+        "url": "https://steam-revenue-calculator.com/app/2002220/keeper-s-toll"
+      }
+    ],
+    "vgi_units": 24060,
+    "vgi_revenue": 105000,
+    "vgi_rating": 89.526,
+    "vgi_reviews": 802,
+    "vgi_url": "https://app.sensortower.com/vgi/game/keeper-s-toll",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "64,867.20",
+    "src_net": "19,135.82",
+    "src_url": "https://steam-revenue-calculator.com/app/2002220/keeper-s-toll",
+    "final_tier": "B",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "As for now, I'm going to put this as a as a low midb tier.",
+        "video_id": "kTg56_oKfGY",
+        "t": 5315,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=5315s",
+        "year_in_title": null,
+        "pos": 9,
+        "row_n": 10,
+        "row_score": 0.1675,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "Keeper's Toll is a Vampire Survivors-style auto-attacker that wraps its runs in an adventure campaign with quests, NPC events and quest-specific bosses. He loves the discovery and secrets and the attention paid to enemies, visuals, music and Souls references. The roguelike layer is thin: each character has about two build paths, items are bland, and meta-progression is heavy and tied to per-character XP. He had a good time finishing the campaign but would not start fresh runs, and places it in low mid B.",
+        "praise": [
+          "Campaign structure with quests, NPC events and quest-dependent bosses gives a real adventure feel",
+          "Discovery of secrets and puzzle-like mysteries, which he feels most survivor-likes fail to capture",
+          "Characters feel drastically different from one another",
+          "Lots of attention to enemy variety per level and quest progress, with fun Souls references (bonfire, Dark Souls mimic)",
+          "Visuals and music are very solid"
+        ],
+        "criticism": [
+          "Replayability is weak: each character has only two build paths (e.g. punches or kicks for the monk)",
+          "Passive items are few and mostly unremarkable; level-up upgrades are always the same with no rarity and few synergies",
+          "Meta-progression is very impactful and feels unfair; characters are weak at zero upgrades, and it comes from per-character XP rather than a spendable currency",
+          "Bosses are single big creatures with no adds, making horde-clearing and on-kill/bounce abilities useless and fights drag on"
+        ],
+        "unique_points": [
+          "Quest-driven campaign layered on the survivor-like formula, with bosses depending on the active quest",
+          "Design lesson: survivor-like bosses should come with adds, since horde-oriented abilities are otherwise dead",
+          "Idea: bosses could trigger on-kill effects when hitting certain HP thresholds"
+        ],
+        "quote": "I'm going to put this as a as a low midb tier.",
+        "comparisons": [
+          "Vampire Survivors",
+          "Dark Souls",
+          "Dungeon/Soul Slayer-style survivor-likes (the game covered just before)"
+        ],
+        "design_criteria": [
+          "Discovery/secrets: quest-based campaign and mysteries are the strongest aspect",
+          "Replayability/build diversity: only two paths per character, weak",
+          "Synergies and items: few synergies, bland passives, no rarity",
+          "Meta-progression: powerful but per-character XP feels unfair and unflexible",
+          "Enemy design: good variety and attention, Souls references",
+          "Boss design: single big creatures with no adds hurt horde-focused builds",
+          "Character diversity: characters feel drastically different",
+          "Visuals and audio: solid art and music"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A dark-fantasy pixel-art survivors-like (bullet heaven) from Stingbot Games that mixes Vampire Survivors-style horde survival with ARPG elements and Dark Souls-flavored bosses, with six very different hero classes.",
+      "consensus_summary": "Steam players rate it Very Positive (about 89% of roughly 800 reviews), but the praise is often lukewarm: many positive reviews describe it as a cheap, chill, brain-off auto-shooter and then list major flaws, and many negative reviews say it is fine but loses out to Halls of Torment or Vampire Survivors. Critics barely covered it; Metacritic holds a single critic review (Softpedia, 75/100) so no Metascore is computed, and there is no OpenCritic entry that could be found. It spent time in Early Access (from May 2023) and launched 1.0 on 28 Oct 2024 at about $6.99, with versions on Switch, PlayStation and Xbox. Reviews written through 2026 show the developer is still remembered as supporting it with updates, though the same balance and variety complaints persist.",
+      "best_things": [
+        "Six classes that play very differently (fighting-game-style combo inputs for the Shadow Monk, minion-based Necromancer, tanky dodge-based Bogatyr, etc.), and the cast is praised as unusual versus the standard fighter/mage/assassin set",
+        "Detailed pixel art and a well-liked dark fantasy soundtrack",
+        "Boss fights and enemy design with Souls-like flavor; bosses are more than plain damage sponges (though some call them not especially intricate)",
+        "Cheap price (about $7) and a 10-20 hour campaign make it an easy casual recommendation, described as a relaxing shut-your-brain-off game that suits short 20-30 minute sessions",
+        "ARPG touches: limited healing potions, in-run merchants, a minor quest system, per-character skill trees and a global skill tree that forces choices",
+        "Curses that impose a penalty but can reward you if you survive them, which is a twist on the genre formula",
+        "Skill tree and progression are called fun by some finishers, and quick early power growth suits casual play",
+        "Challenging for the genre, which some players welcome"
+      ],
+      "worst_things": [
+        "Severe class and skill imbalance: Blood Maiden, and to a lesser extent Archer/Pyromancer/Summoner, are described as far stronger, while Monk and Bogatyr are called weak; melee classes can take tens of minutes to kill bosses",
+        "Poor run variety: only 4 maps (one a small square arena), a limited merchant pool, and upgrade options that let you pick up nearly everything, so runs with the same class feel identical",
+        "The power fantasy fades or never arrives; there is a clear ceiling on how strong you become, and several reviewers said they never felt powerful even with talents maxed",
+        "Stat and mechanic opacity: curses, defense value, pickups such as yellow crystals and XP sources are poorly or never explained, and there is no codex or visible list of active curses",
+        "Clunky movement and dodging, and only left/right aiming, which is an odd fit for a genre where enemies surround you",
+        "Visual clutter late in a run hides dodgeable hazards; some players turn effects off to see traps, and certain curse hazards look like background effects",
+        "Seen as derivative: several reviewers say enemies and bosses are very close copies of Dark Souls designs, and that it is a weaker Halls of Torment",
+        "Endgame and story disappoint: the final boss is called underwhelming compared with the third boss, and the story is called nonsensical or almost non-existent",
+        "Frustrating RNG: too few rerolls and upgrade choices that are often poor or junk actives, which reviewers cite alongside balance problems"
+      ],
+      "improvements": [
+        "Rebalance classes so weaker ones (Monk, Bogatyr, Archer, Necromancer) and melee builds are viable, and so one or two classes do not dominate",
+        "Add more maps, stages and a bigger item/merchant/upgrade pool so runs differ from each other; more levels was a direct request from finishers",
+        "Add in-game information: a codex or index for curses, clearer defense/stat effects, a detailed character sheet with damage and bonus breakdowns, and visual indicators for XP sources and elites",
+        "More rerolls or better upgrade choice control, and reduce randomness that hands out junk actives",
+        "More meta-progression depth and unlockables (only six characters, all unlocked from the start, reduces the chase); players also ask for more XP sinks late-game and more tome drops",
+        "Polish controls and sight lines: dodge/aim improvements and clearer hazard telegraphing; one player also requested co-op on the Steam forum"
+      ],
+      "unique_things": [
+        "Hybrid of survivors-like and Diablo-style ARPG: each character has its own full weapon/skill set rather than a single starting weapon",
+        "Souls-lite tone and boss homages layered on a bullet-heaven loop, with bullet-hell style bosses",
+        "Class mechanics that break from the norm, such as the Shadow Monk's directional combo inputs and the Necromancer's corpse/minion play",
+        "Curse system that gives both debuffs and potential boons, plus a minor quest system and limited healing potions",
+        "Individual per-character talent trees on top of a global skill tree where you cannot unlock everything",
+        "Kindled (harder) runs that grant extra XP and are used to advance character talent trees"
+      ],
+      "tedious_or_disliked": [
+        "Grinding the same four maps repeatedly to level each character's talent XP and to see late-game bosses, then restarting the loop with every new class",
+        "Achievement grind: some achievements (for example 1 million kills) are called tedious, and several reviewers say most of their hours after the first 4-15 were achievement grinding",
+        "Hard kindled runs on fresh characters are described as near-impossible until perks are unlocked, which forces the XP grind",
+        "Repetition sets in after roughly 10-15 hours; one reviewer says only about 3-4 hours felt like discovery",
+        "Learning curses and unexplained pickups by trial and error",
+        "Three of the four maps are infinite in all directions, which one reviewer found disorienting and wished had a constrained layout or map",
+        "Character talent XP is slow to earn, which negative reviewers call a drag on progression"
+      ],
+      "divisive_points": [
+        "Difficulty and challenge: some enjoy it as more challenging than most survivors-likes, others find bosses and kindled runs frustrating, especially with weak classes",
+        "Power fantasy: dad-gamer/chill reviewers love quickly getting powerful with AoE and big numbers (especially maxed Blood Maiden), while others never feel powerful",
+        "Value: a low price and roughly 10-hour campaign make it a fair buy for some, while others say wait for a deep sale and buy Halls of Torment or Vampire Survivors instead",
+        "Souls homages: praised as flavor by some and criticized as too close to copying by others"
+      ],
+      "reception_notes": "Early Access began May 2023 and 1.0 shipped 28 Oct 2024 on PC, with versions listed for Switch, PS4/PS5 and Xbox; the Steam community has a thread asking whether console is up to date with PC. Steam is Windows-only (no Mac/Linux). Some players also reported Steam Deck performance issues. Launch and current Steam sentiment are both Very Positive, and the low price is repeatedly cited as a reason players forgive the thin content. Several 2025-2026 reviewers say the developer has kept up with updates, but balance, variety and explanation gaps are still cited as unresolved. One review mentions that design discussions once explored other directions such as a Golden Axe-style beat-em-up, and a few vestiges of the original Souls-lite ARPG design remain (for example the Ebon King boss). Commercial performance appears modest (roughly tens of thousands of owners), and critical press coverage is minimal. Web search budget was exhausted during this task, so fewer outside outlets and no Reddit threads could be consulted (Reddit fetch is blocked); Softpedia review page returned 403, so its content is taken from the Metacritic summary.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2002220.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file); main basis for strengths, balance, grind and explanation complaints"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam data: appid 2002220, developer Stingbot Games, release 28 Oct 2024, $6.99, 89.5% positive of 802, SteamSpy owners 20k-50k"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2002220/Keepers_Toll/",
+          "what": "Steam store page: Early Access since May 2023, 1.0 release, six classes, tags, description"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2002220/discussions/",
+          "what": "Steam community forum: class balance threads, Shadow Monk buff ideas, curses thread, co-op and console parity questions"
+        },
+        {
+          "url": "https://www.metacritic.com/game/keepers-toll/",
+          "what": "Metacritic page: one critic review (Softpedia 75), Metascore TBD, 3 user ratings, platforms"
+        },
+        {
+          "url": "https://opencritic.com/search?q=keeper%27s%20toll",
+          "what": "OpenCritic search: no Keeper's Toll entry found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2002220/keeper-s-toll",
+          "what": "Boxleiter-method revenue estimate: about $64.9k gross, $19.1k net"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: Metascore tbd, 1 critic review (Softpedia 75), 3 user ratings, no user score; critic_scores unchanged. Removed unsupported 'good Steam Deck performance' claim (a review reports Steam Deck performance issues; noted in reception_notes). Rewrote 'progression less grindy' best-thing, contradicted by reviews saying talent XP is too slow. Added RNG/reroll worst-thing and slow talent XP tedious item. Other bullets match reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 9,
+    "his_row_n": 10,
+    "his_spoken": "said low",
+    "his_score": 16.8,
+    "his_top10_bonus": 0,
+    "players_score": 41.2,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 27.4,
+    "labels": [
+      "action",
+      "survivors_like"
+    ],
+    "primary_label": "action"
+  }
+}

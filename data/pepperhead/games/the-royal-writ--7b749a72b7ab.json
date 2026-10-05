@@ -1,0 +1,256 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "the royal writ",
+    "name": "The Royal Writ",
+    "display_name": "The Royal Writ",
+    "appid": 3333700,
+    "img": "img/3333700.jpg",
+    "steam_url": "https://store.steampowered.com/app/3333700/",
+    "website": null,
+    "short_description": "Sacrifice creates stories in this medieval roguelike deckbuilder. Watch your cards march to glory or permanent death as they battle toward the enemy. Each fallen hero becomes part of your kingdom's legend. Command wisely... some sacrifices are necessary.",
+    "developers": [
+      "Save Sloth Studios"
+    ],
+    "publishers": [
+      "Yogscast Games"
+    ],
+    "release_date": "Aug 7, 2025",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 83.1,
+    "steam_total_reviews": 539,
+    "metacritic": 80,
+    "metacritic_url": "https://www.metacritic.com/game/the-royal-writ/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "Very Positive, 83.1% of 539 (448 positive / 91 negative) per local data",
+        "url": "https://store.steampowered.com/app/3333700/The_Royal_Writ/"
+      },
+      {
+        "source": "Softpedia (via Metacritic)",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/the-royal-writ/critic-reviews/"
+      },
+      {
+        "source": "Loot Level Chill (via Metacritic)",
+        "score": "85",
+        "url": "https://www.metacritic.com/game/the-royal-writ/critic-reviews/"
+      },
+      {
+        "source": "The Outerhaven",
+        "score": "4/5 (80 on Metacritic)",
+        "url": "https://www.theouterhaven.net/the-royal-writ-review/"
+      },
+      {
+        "source": "Gaming Age (via Metacritic)",
+        "score": "75",
+        "url": "https://www.metacritic.com/game/the-royal-writ/critic-reviews/"
+      },
+      {
+        "source": "GameGrin (via Metacritic)",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/the-royal-writ/critic-reviews/"
+      }
+    ],
+    "vgi_units": 29189,
+    "vgi_revenue": 278000,
+    "vgi_rating": 83.117,
+    "vgi_reviews": 539,
+    "vgi_url": "https://app.sensortower.com/vgi/game/the-royal-writ",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "95,636.20",
+    "src_net": "28,212.68",
+    "src_url": "https://steam-revenue-calculator.com/app/3333700/the-royal-writ",
+    "final_tier": "B",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "this is going to be a very high B tier",
+        "video_id": "kTg56_oKfGY",
+        "t": 9045,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=9045s",
+        "year_in_title": null,
+        "pos": 3,
+        "row_n": 10,
+        "row_score": 0.7925,
+        "spoken": "said very high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "The Royal Writ is a board-centric deckbuilder where placed cards advance up the board and score points, using a Balatro-style system of additive (blue) and multiplier (red) units. He finds it unique, charming and build-diverse, but it is complex and poorly explained, so it is not casually approachable. He recommends it to experienced deckbuilder and Balatro-like fans. He places it in a very high B tier.",
+        "praise": [
+          "Very unique scoring: units add or multiply, with blue additive and red multiplier pieces",
+          "Extensive build diversity; every run plays out completely differently",
+          "Unique, fun, cute visuals with cool cutscenes and attention to backstory",
+          "Lots of map options: betting, a wheel, shopkeepers with unique traits, tinkering to convert multiplicative/additive and add effects",
+          "Bosses have unique mechanics that are shown ahead of time so you can adjust",
+          "Great vibe, audio and visuals; satisfying once you understand the systems"
+        ],
+        "criticism": [
+          "Complicated and not easy to pick up casually; many mechanics, keywords, temporary vs permanent cards and stats",
+          "Insufficient tutorial and information beyond hovering over things; some events unexplained even after heavy play",
+          "Dying to something you did not understand feels bad",
+          "Cards can be too niche in later runs, leaving offered cards unusable for a specific build"
+        ],
+        "unique_points": [
+          "Balatro-like scoring layered onto a board that cards march up, with permanent statuses and cards that die and need replacing",
+          "Tinkering can flip a card between additive and multiplicative or add teeth/extra effects",
+          "Heavy effort put into out-of-combat map options, which he values for player agency in deckbuilders"
+        ],
+        "quote": "this is going to be a very high B tier",
+        "comparisons": [
+          "Balatro"
+        ],
+        "design_criteria": [
+          "Uniqueness of gameplay: rarely seen scoring/board combination",
+          "Build diversity: completely different runs each time",
+          "Accessibility and onboarding: tutorial and information clarity lacking",
+          "Synergies and card design: some cards too niche late in runs",
+          "Map and run options: betting, wheel, shops, tinkering give player choice",
+          "Boss design: unique mechanics telegraphed in advance",
+          "Visuals, audio and charm: strong vibe, cutscenes, backstory",
+          "Complexity: many keywords and mechanics that take time to learn"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A medieval roguelike deckbuilder from Save Sloth Studios (published by Yogscast Games) in which your cards are animal characters that march down lanes toward the enemy base, and any card that reaches the base is permanently lost from your deck.",
+      "consensus_summary": "Well received by players (Steam Very Positive, about 83% of 539 reviews) and by the handful of critics who covered it (Metacritic 80 from 5 reviews). Praise centers on the art, music, charm and the card-synergy puzzle; complaints center on unclear rules text, RNG swings, and above all a steep difficulty and mechanic jump in Act 2. It is a small-scale indie (Steam revenue estimates around $96k gross) that players repeatedly say deserves more visibility. It is not abandoned: patches 1.1.0 (balance) and 1.2.0.2 (Act 2 boss eased) shipped, and a recent review mentions an announcement of a sequel (single-source, unverified). It has also come to console (Metacritic lists Switch, Xbox Series X and PS5).",
+      "best_things": [
+        "Storybook hand-drawn art, detailed animations and character design are the most consistent praise, often the reason people bought it",
+        "Soundtrack and whimsical medieval tone, with lore-heavy card flavor and historical references",
+        "Card-synergy experimentation: building absurd engines from odd characters, transformations, hidden interactions and events is the core joy",
+        "Two distinct acts with different mechanics and card pools, which some players describe as two games in one",
+        "Permanent card death gives runs memorable stories and meaningful stakes, distinguishing it from Slay the Spire style deckbuilders",
+        "Blend of Inscryption-like board logic, Balatro-like blue damage x red multiplier scoring and Slay the Spire-like map with events and bosses",
+        "Challenge modes, custom seeds, an option to disable timed boss fights and strong accessibility options, plus 41 achievements to chase",
+        "Good value and strong 'one more run' pull; players report anywhere from about 5 to 100 hours"
+      ],
+      "worst_things": [
+        "Act 2 is widely described as a brick wall: new bullet, honor/morale and poison mechanics plus a huge-HP final boss (reported around 444k HP) made many players quit",
+        "Heavy RNG: a run can collapse from card draws or an early card death spiral with little player agency",
+        "Rules and ailment text are unclear; players guess what cards, bosses and keywords do and can lose cards permanently through misunderstanding",
+        "Many cards and relics feel weak or must-pick, so balance feels uneven",
+        "Bullet mechanic and unit death in Act 2 compound each other and are called frustrating or add-nothing by several reviewers",
+        "UI gets cluttered in busy battles; base power vs current power is not clearly shown, and misclicks can put upgrades on the wrong card",
+        "Some critics and players report repetition over extended play and fairness issues where a run is killed before you can react"
+      ],
+      "improvements": [
+        "Clearer tooltips, keyword explanations and on-card display of base vs current power and health",
+        "Rebalance Act 2 (boss HP, bullets, poison cleansing) and the weakest cards and relics; 1.2.0.2 reportedly already helped",
+        "More ways to reliably build around a synergy and reduce feast-or-famine RNG, especially as more unlocks dilute the pool",
+        "Better controller support and UI polish (one reviewer wanted easier controller play; Steam lists full controller support)",
+        "More character cards with hidden unlockable abilities, which a reviewer specifically wanted more of",
+        "Better onboarding so the opening hours are less confusing; more content after the main acts was requested by a couple of reviewers"
+      ],
+      "unique_things": [
+        "Cards are characters that advance column by column toward an enemy base, gaining buffs each column, and die if they hit the base",
+        "Every card is disposable and your deck is repaired and swapped after each battle rather than steadily built up",
+        "Act 1 and Act 2 play by different rules and use different card sets, with some Act 1 characters reappearing with new abilities and art",
+        "Score is blue damage times red multiplier, Balatro-style, plus gambling and shady-bargain sacrifice events",
+        "Character cards with hidden abilities that reveal their text only once triggered",
+        "Stun and corpse mechanics where stunned cards become corpses when trampled, and a cover system and projectiles in Act 2"
+      ],
+      "tedious_or_disliked": [
+        "Constantly replacing dead or injured party members makes it feel like deck repair rather than deck building to some players",
+        "Grinding through failed attempts at Act 2 bosses hoping for good cards, with the huge final boss HP bar seen as a slog",
+        "Opaque interactions that require trial, error and wiki/community lookups",
+        "Rising score requirements while your deck strength drops, producing a downward spiral",
+        "Unlock bloat: more unlocked cards and relics can make it harder to reliably find fun builds"
+      ],
+      "divisive_points": [
+        "Act 2 difficulty: fans see it as the real challenge and a second game; a large share of negative reviews say it ruins the experience",
+        "RNG vs synergy: some love adapting to chaos, others say wins feel like luck and there are too few mechanics to reliably synergize",
+        "Permanent card death: emotional storytelling for some, punishing and tilt-inducing for others",
+        "Length: some finished both acts in around 5 hours while others put in 100 hours, with opinions split on post-game content"
+      ],
+      "reception_notes": "Released Aug 7, 2025 on Windows via Steam at $14.99 with a demo available; Steam user reviews settled at Very Positive with a consistent split over Act 2. Patch 1.1.0 rebalanced cards and 1.2.0.2 reportedly made the Act 2 boss far more manageable (per player reviews, not verified against patch notes). Metacritic shows 5 critic reviews (score 80) and no user score yet; it lists PC, Switch, Xbox Series X and PS5, and The Outerhaven review is dated Sept 2026. No OpenCritic page could be found. Third-party estimates put Steam gross at about $95.6k and net about $28.2k (Boxleiter method, order-of-magnitude only; SteamSpy owners 0-20k). A Steam community thread shows players praising the option to disable timed boss battles and asking for Act 2 boss help; one boss (Bombardier Sorbus) was alleged buggy. Research caveat: the web search budget was exhausted, so Reddit and other outlets could not be read and community findings rely mainly on Steam reviews plus fetched pages.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3333700.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 3333700, release date, price, review counts, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3333700/The_Royal_Writ/",
+          "what": "Steam store page: description, features, review summary, curator count"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-royal-writ/",
+          "what": "Metacritic critic score 80 from 5 reviews; user score not available; platforms"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-royal-writ/critic-reviews/",
+          "what": "Per-outlet critic scores and summaries (Softpedia, Loot Level Chill, The Outerhaven, Gaming Age, GameGrin)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-royal-writ/user-reviews/",
+          "what": "Confirms no Metacritic user reviews yet"
+        },
+        {
+          "url": "https://www.theouterhaven.net/the-royal-writ-review/",
+          "what": "The Outerhaven review, 4/5: praise for lane combat and permadeath, cons on clarity, UI and repetition"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3333700/discussions/",
+          "what": "Steam discussions: Act 2 boss help, alleged boss bug, praise for timed-boss disable option"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3333700/the-royal-writ",
+          "what": "Boxleiter-method revenue estimate (gross about $95.6k, net about $28.2k)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: critic 80 (5 PC reviews, 2 Switch), user score tbd, platforms PC/Switch/XSX/PS5 - confirmed, no change. Checked bullets against top Steam reviews: 444k final boss HP and 41 achievements confirmed. Removed the unsupported 'Baker in most winning decks' example; reworded '40 to 100+ hours' to '5 to 100 hours' (reviews show 5h and 100h); dropped speculative 'console-era review cycle' phrase. Per-outlet scores and OpenCritic null left as is (not independently re-verified)."
+    },
+    "his_anchor": null,
+    "his_pos": 3,
+    "his_row_n": 10,
+    "his_spoken": "said very high",
+    "his_score": 79.2,
+    "his_top10_bonus": 0,
+    "players_score": 15.4,
+    "critics_score": 49.6,
+    "critics_avg": 80.0,
+    "overall": 51.0,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "spelunky 2",
+    "name": "Spelunky 2",
+    "display_name": "Spelunky 2",
+    "appid": 418530,
+    "img": "img/418530.jpg",
+    "steam_url": "https://store.steampowered.com/app/418530/",
+    "website": null,
+    "short_description": "Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.",
+    "developers": [
+      "Mossmouth",
+      "BlitWorks"
+    ],
+    "publishers": [
+      "Mossmouth"
+    ],
+    "release_date": "Sep 29, 2020",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Platformer",
+      "2D Platformer",
+      "Difficult",
+      "Online Co-Op",
+      "Perma Death",
+      "Co-op",
+      "Replay Value",
+      "Indie",
+      "Procedural Generation",
+      "4 Player Local"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 92.8,
+    "steam_total_reviews": 21996,
+    "metacritic": 91,
+    "metacritic_url": "https://www.metacritic.com/game/pc/spelunky-2?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic (PC, 19 critic reviews; Steam lists 91)",
+        "score": "91",
+        "url": "https://www.metacritic.com/game/pc/spelunky-2/"
+      },
+      {
+        "source": "Metacritic (main page, 41 critic reviews; user 8.0 from 180 ratings)",
+        "score": "87",
+        "url": "https://www.metacritic.com/game/spelunky-2/"
+      },
+      {
+        "source": "Metacritic (Switch, limited reviews, per Wikipedia)",
+        "score": "92",
+        "url": "https://en.wikipedia.org/wiki/Spelunky_2"
+      },
+      {
+        "source": "Steam user reviews (Very Positive, 20,412 positive of 21,996)",
+        "score": "92.8%",
+        "url": "https://store.steampowered.com/app/418530/Spelunky_2/"
+      },
+      {
+        "source": "IGN (per Wikipedia)",
+        "score": "10/10",
+        "url": "https://en.wikipedia.org/wiki/Spelunky_2"
+      },
+      {
+        "source": "Game Informer, PCGamesN, Shacknews, Nintendo Life (per Wikipedia)",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Spelunky_2"
+      },
+      {
+        "source": "Destructoid",
+        "score": "8/10",
+        "url": "https://www.destructoid.com/reviews/review-spelunky-2/"
+      },
+      {
+        "source": "GameSpot (per Wikipedia)",
+        "score": "8/10",
+        "url": "https://en.wikipedia.org/wiki/Spelunky_2"
+      },
+      {
+        "source": "Steam Revenue Calculator estimate (Boxleiter method, gross revenue on Steam; SteamSpy owners 1-2 million)",
+        "score": "about $18.4M gross / $5.4M net",
+        "url": "https://steam-revenue-calculator.com/app/418530/spelunky-2"
+      }
+    ],
+    "vgi_units": 660000,
+    "vgi_revenue": 9400000,
+    "vgi_rating": 92.81,
+    "vgi_reviews": 21990,
+    "vgi_url": "https://app.sensortower.com/vgi/game/spelunky-2",
+    "spy_owners": "1,000,000 .. 2,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "18,427,521.63",
+    "src_net": "5,436,118.88",
+    "src_url": "https://steam-revenue-calculator.com/app/418530/spelunky-2",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm gonna put it as a solid beat here uh that I might bump up in the future (ASR \"beat\" = B)",
+        "video_id": "5k_-k4X90ao",
+        "t": 9567,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=9567s",
+        "year_in_title": "2020",
+        "pos": 8,
+        "row_n": 35,
+        "row_score": 0.7571428571428571,
+        "spoken": "said solid/mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Spelunky 2 is the 2020 sequel to the classic Spelunky, a brutal, secret-filled platformer roguelike. PepperHead admits it is not his preferred play style and he has only about five hours in it, so he treats this as a partial review. He found it more fun and more readable than the original, with great art and VFX, but still very punishing later on. He places it in B tier with the note that he may bump it up once he plays more.",
+        "praise": [
+          "Traps and overall readability feel easier and clearer than the first game",
+          "Even more secrets and things to find than the original",
+          "Early game feels friendlier",
+          "Art direction is very good",
+          "VFX are especially great",
+          "He respects the amount of work put in and understands why many would rank it S tier"
+        ],
+        "criticism": [
+          "Still super brutal; later in a run things explode and you die quickly",
+          "Not his kind of play style, limiting how much he enjoys it",
+          "He has limited playtime, so his verdict is provisional"
+        ],
+        "unique_points": [
+          "A huge number of secrets to discover, many found online",
+          "Sequel improves visual clarity of what is happening on screen",
+          "Strong VFX that contribute to feel"
+        ],
+        "quote": "I'm gonna put it as a solid beat here that I might bump up",
+        "comparisons": [
+          "Spelunky (original)",
+          "Rogue Legacy (as a similar old-game-gets-sequel case)"
+        ],
+        "design_criteria": [
+          "Difficulty: brutal, with late-run spikes that kill quickly",
+          "Readability: clearer visuals make traps and hazards easier to parse",
+          "Secrets/content depth: lots to discover",
+          "Art and VFX: praised as excellent",
+          "Personal play-style fit: affects his enjoyment",
+          "Early vs late run pacing: gentle early, explosive late"
+        ],
+        "rerank_note": "He explicitly says the B placement is provisional and he might bump it up in the future after more playtime."
+      }
+    ],
+    "community": {
+      "one_liner": "Derek Yu's 2D procedurally generated platformer-roguelike sequel in which Ana Spelunky, daughter of the original hero, descends through a much larger, more interconnected set of caves on the Moon, with one-life runs, physics-driven chaos and optional 4-player co-op or arena play.",
+      "consensus_summary": "Spelunky 2 is received as a superb, more-of-the-same-but-bigger sequel: critics gave it near-universal acclaim (PC Metacritic 91, IGN 10/10) and Steam players rate it Very Positive (about 93% of roughly 22k reviews). Praise centres on its deep systems, secrets, mounts, branching paths and hilarious emergent deaths. The recurring caveats are brutal difficulty with hidden one-hit-kill hazards, a no-save/no-checkpoint structure that turns the true ending (Cosmic Ocean) into a multi-hour endurance test, and, in recent Steam reviews, long-running online multiplayer/crossplay bugs. Some long-time fans feel it is slightly less tightly balanced than Spelunky HD. It is a finished, shipped game (PC/PS4 2020, Switch 2021, Xbox 2022, PS5 2025) rather than early access, though developer updates appear to have been sparse after the initial patches.",
+      "best_things": [
+        "Systems-driven chaos: liquids, fire, explosives, thrown items and enemy interactions create funny, memorable emergent stories (players describe deaths as punchlines)",
+        "Huge, dense secret and unlock content with branching paths (Jungle/Volcana, Tide Pool/Temple), alternate routes, and shortcuts that reward exploration",
+        "Mounts (turkeys, rock dogs, axolotls, qilins) and new environments add real tactical variety while keeping the classic feel",
+        "Strong mastery loop: reviewers and players describe progress as learning to read threats, with winning a run being unusually satisfying",
+        "Polished art, animation and soundtrack, more expressive visuals than the original, plus a coherent world with NPCs and a family-themed story",
+        "Excellent couch and online co-op for up to four players, plus a customizable arena/deathmatch mode with 40 maps and bots, daily challenges and seeded runs",
+        "Enormous replay value; many Steam reviewers have 100 to 1000+ hours and call it a near-perfect or desert-island game",
+        "Quality-of-life improvements over the first game (e.g. more consistent shopkeeper balance, expanded exploration) that some players think make it more approachable",
+        "Best with friends: reviewers repeatedly say the chaos and deaths are funniest in co-op, and a few call it a calming, even cozy, game once you learn its rules"
+      ],
+      "worst_things": [
+        "Many instant-death or combo-death situations, including hidden hazards such as bear traps concealed by terrain, which critics (e.g. Destructoid) called frustrating and players call cheap or trolling",
+        "Online multiplayer problems widely reported on Steam: stuck on the loading screen, inability to join, crossplay-related breakage, and a bug requiring workaround input to load the next area; some reviewers say it has been broken for months or over a year",
+        "Perceived lack of developer communication/support after launch; Steam complaints mention no word from the developers for a long stretch",
+        "The Dwelling, Jungle and Volcana are called disproportionately hard for early worlds by some veterans, and certain levels feel specially designed to ruin a run",
+        "Some dedicated players feel the added mechanics (and the 'Sunken City'/Cosmic Ocean path requirements) dilute the tight risk-reward balance of Spelunky HD",
+        "Movement/controls friction: no dedicated pickup/drop/throw/climb buttons, leading to accidental climbs or item handling mistakes that kill the run",
+        "Short-range whip and thrown-item ricochet feel punishing to newcomers, who complain about taking damage just to hit a stationary enemy",
+        "Gameplay randomness (seed quality, needing specific items to spawn for shortcut unlocks) is cited as unfair by players who wrote negative reviews"
+      ],
+      "improvements": [
+        "Fix online co-op stability and crossplay bugs, and communicate about fixes on the Steam forums",
+        "Offer optional accessibility or difficulty options (e.g. extra health, easier modes, checkpoints/continues); one reviewer called their absence sadistic, though the developers deliberately preserve the no-continue design",
+        "Reduce reliance on concealed or unreadable hazards so deaths feel more telegraphed and learnable",
+        "Add dedicated buttons or rebind options for pick up/drop/throw/climb to reduce accidental actions",
+        "Smooth the early-game difficulty ramp (Dwelling and Jungle in particular) and make unlock requirements less dependent on random spawns",
+        "More post-launch communication and updates; reviewers complain of over a year of silence while plush merchandise was announced"
+      ],
+      "unique_things": [
+        "Every level is a hand-tuned procedural layout built from templates, so runs feel random but readable and fair at a systems level; the series is the reference for this style",
+        "Permadeath with literally no meta-progression in power: only shortcuts, unlocks and knowledge carry over, so skill is the main upgrade",
+        "Shared physics and item interactions where almost anything can kill you, including your own thrown items, enabling speedrun and trick strategies",
+        "Branching world structure with hidden areas, alternate paths and a secret true ending (Cosmic Ocean) requiring a long perfect run",
+        "Integrated multiplayer modes: 4-player couch and online co-op over the same campaign, and a full arena deathmatch mode with map variety",
+        "Distinct personalities for shopkeepers, NPC family members and the ghost mechanic that punishes slow play"
+      ],
+      "tedious_or_disliked": [
+        "Cosmic Ocean: a many-hour endurance sequence with no saves that many call the main grind; Steam reviewers joke about not being able to spare four hours and about few reaching it",
+        "Starting over from 1-1 after a sudden death, which newcomers and some critics (Gameblog.fr at 60/100) find unpedagogical and demoralizing",
+        "Repeated tedious retries to unlock shortcuts and characters, with rewards like a victory screen and a new character considered underwhelming by some",
+        "Status effects such as poison and curse described as run-ending annoyances",
+        "Fighting the interface and inputs (accidentally climbing or not being able to drop items) rather than the game",
+        "Bug-related restarts in online mode, such as getting stuck on the 'walls are shifting' screen"
+      ],
+      "divisive_points": [
+        "Difficulty and fairness: fans call it a masterclass, others call it a troll game; critics at Destructoid and GameSpot (8/10) noted excess one-hit-kill traps while IGN scored it 10/10",
+        "Versus Spelunky HD: some find 2 the better, more expansive game, while others think HD's risk-reward balance was tighter and that 2 is merely 'more Spelunky' with added complexity",
+        "Randomness vs skill: some players love the unpredictability, others argue too many deaths come from unfair spawns rather than player error",
+        "No-continue philosophy: praised as the source of the game's tension and reward, criticised as disrespectful of player time and a barrier that steers casuals away"
+      ],
+      "reception_notes": "Launched on PS4 (Sept 15, 2020) and PC (Sept 29, 2020) to universal acclaim and a Best Indie nomination at The Game Awards 2020; later ports came to Switch (Aug 2021), Xbox One/Series (Jan 2022) and PS5 (Mar 2025). Launch reception was about difficulty and refinement; the current Steam conversation (recent negatives) is dominated by online co-op and crossplay breakage, with reviewers saying a crossplay update made friend sessions unreliable and that developer communication is scarce. Gameblog.fr (60/100) was the notable critical outlier on pedagogy and progression. Revenue figures are third-party estimates only; no official sales numbers were found. OpenCritic score could not be retrieved: the web search budget was exhausted and the guessed OpenCritic URLs returned other games, so it is left null. Metacritic critic score depends on platform (PC 91, main page 87 (41 reviews), Switch 92); PC is used here to match the Steam listing, and the 8.0 user score came from the main (PS4) page.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/418530.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid 418530, review totals (92.8% positive), Metacritic 91, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/spelunky-2/",
+          "what": "Metacritic main page: Metascore 87 (41 reviews), user score 8.0 (180 ratings), critic consensus, Gameblog.fr 60"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/spelunky-2/",
+          "what": "Metacritic PC page: Metascore 91 from 19 reviews, themes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Spelunky_2",
+          "what": "Release dates/platforms, critical reception, individual outlet scores, Game Awards nomination"
+        },
+        {
+          "url": "https://www.destructoid.com/reviews/review-spelunky-2/",
+          "what": "Destructoid 8/10 review: hidden bear traps, one-hit-kill traps, arena mode, more Spelunky"
+        },
+        {
+          "url": "https://steamcommunity.com/app/418530/discussions/",
+          "what": "Steam discussion forum: online/multiplayer bug reports, feedback threads"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/418530/spelunky-2",
+          "what": "Boxleiter-method revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/418530/Spelunky_2/",
+          "what": "Steam store page data: Very Positive, tags, price $19.99, 4-player co-op"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: main page shows Metascore 87 from 41 reviews (was 42), user 8.0 from 180 ratings (confirmed). PC-specific 91 could not be re-confirmed (fetch returned main page), kept per Steam listing. OpenCritic left null. Rewrote two bullets whose claims (newcomers quit in first hour; fans wanting patch cadence) were not supported by reviews; added one best_things theme (co-op/cozy) from top reviews. Online multiplayer/crossplay bug theme already present."
+    },
+    "his_anchor": null,
+    "his_pos": 8,
+    "his_row_n": 35,
+    "his_spoken": "said solid/mid",
+    "his_score": 75.7,
+    "his_top10_bonus": 0,
+    "players_score": 65.9,
+    "critics_score": 96.6,
+    "critics_avg": 91.0,
+    "overall": 76.5,
+    "labels": [
+      "platformer",
+      "action",
+      "coop"
+    ],
+    "primary_label": "platformer"
+  }
+}

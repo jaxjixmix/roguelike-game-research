@@ -1,0 +1,249 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "r.e.p.o",
+    "name": "R.E.P.O.",
+    "display_name": "R.E.P.O",
+    "appid": 3241660,
+    "img": "img/3241660.jpg",
+    "steam_url": "https://store.steampowered.com/app/3241660/",
+    "website": null,
+    "short_description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "developers": [
+      "semiwork"
+    ],
+    "publishers": [
+      "semiwork"
+    ],
+    "release_date": "Feb 26, 2025",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Early Access"
+    ],
+    "tags": [
+      "Horror",
+      "Online Co-Op",
+      "Multiplayer",
+      "Comedy",
+      "Co-op",
+      "Physics",
+      "3D",
+      "First-Person",
+      "Stealth",
+      "Action"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 96.0,
+    "steam_total_reviews": 426273,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/repo/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (all reviews)",
+        "score": "96% positive, Overwhelmingly Positive (409,207 positive / 17,066 negative)",
+        "url": "https://store.steampowered.com/app/3241660/REPO/"
+      },
+      {
+        "source": "PC Gamer (early access impressions, Mar 2025)",
+        "score": "unscored; praised as a fantastic co-op horror game that can hold its own against Lethal Company",
+        "url": "https://www.metacritic.com/game/repo/"
+      },
+      {
+        "source": "Golden Joystick Awards 2025",
+        "score": "Won Best Early Access Game (Nov 2025)",
+        "url": "https://en.wikipedia.org/wiki/R.E.P.O."
+      }
+    ],
+    "vgi_units": 20800000,
+    "vgi_revenue": 154000000,
+    "vgi_rating": 95.998,
+    "vgi_reviews": 426040,
+    "vgi_url": "https://app.sensortower.com/vgi/game/r-e-p-o",
+    "spy_owners": "10,000,000 .. 20,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "93,995,989.92",
+    "src_net": "27,728,817.03",
+    "src_url": "https://steam-revenue-calculator.com/app/3241660/r-e-p-o",
+    "final_tier": "B",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I think I would probably put it as a top of B tier for me.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 7974,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=7974s",
+        "year_in_title": null,
+        "pos": 1,
+        "row_n": 10,
+        "row_score": 0.95,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "R.E.P.O. is a first-person co-op horror game from the makers of Void Go where players scavenge loot, haul it to a truck, and use the earnings to buy items and permanent upgrades across increasingly dangerous levels. He admits it is only a roguelike to an extent and was included partly for its popularity. He loves it in co-op thanks to proximity chat and chaotic clunkiness, but finds the single player disappointing and the underlying design basic. He settles on top of B tier.",
+        "praise": [
+          "Proximity chat is hilarious, especially the death mechanic with a brief window to speak in a high-pitched voice",
+          "Clunky physics and buggy moments are part of the charm and create funny accidents",
+          "Monster encounters produce great panic and social moments with friends",
+          "Lots of content and steady developer support adding monsters and things to discover",
+          "Variety in items, guns, and player roles (carrier, runner)",
+          "Two layers of enjoyment: discovering monsters, then mastering how to handle each"
+        ],
+        "criticism": [
+          "Single player is poorly balanced and has no real point; needs fewer big items, less aggressive enemies, or unique solo twists",
+          "Dying early means a long wait to be revived, and you come back on low health, punishing less comfortable players",
+          "Loop is repetitive (hide, come out, drag loot, hide) and depends heavily on having good friends",
+          "Some enemies feel similar to each other",
+          "Less confident players can end up being carried, which can be annoying"
+        ],
+        "unique_points": [
+          "Social proximity chat with a death-voice cooldown mechanic is the standout hook",
+          "Clunkiness is deliberately beneficial to the comedy and charm",
+          "Game design is basic but works precisely because it is basic"
+        ],
+        "quote": "the game design is pretty basic, but works because it's basic",
+        "comparisons": [
+          "Void Go (same creators)"
+        ],
+        "design_criteria": [
+          "Roguelike-ness: runs with randomized items and permanent stats, only a roguelike to an extent",
+          "Multiplayer/social design: proximity chat and co-op chaos are the core appeal",
+          "Single-player balance: weak, lacks tuning for solo",
+          "Enemy design: fun spooky variety though some feel alike",
+          "Death and revival penalty: long downtime and low health frustrating",
+          "Repetition/depth: simple loop relies on friends",
+          "Content and replayability: lots of items, monsters, ongoing updates",
+          "Charm/feel: clunky physics add humor"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A physics-based online co-op horror looter for up to 6 players where the team hauls fragile valuables (and each other) to an extraction point while proximity-voice-chatting and dodging monsters, with shop upgrades between randomized levels.",
+      "consensus_summary": "R.E.P.O. is a breakout hit: Steam shows Overwhelmingly Positive (about 96% of roughly 426k reviews) and the local data estimates 10-20M owners, at $9.99. Players love it as a cheap, hilarious, friend-group chaos generator in the vein of Lethal Company. Critic coverage is thin (PC Gamer early-access impressions, Vice praise; Metacritic has only one critic review so no score), and it won Best Early Access Game at the Golden Joystick Awards in Nov 2025. It is still Early Access (launched Feb 26, 2025; devs originally estimated about 1.5 years) and is actively updated (v0.4.0 in May 2026 added cosmetics, a shop redesign, a racing mode and items). The most visible current complaints, from recent negative Steam reviews, are difficulty and RNG for small groups and solo players, plus server/timeout problems, rather than anything about the core loop.",
+      "best_things": [
+        "Physics-driven looting is the core joke and the core challenge: every object has weight and can break, so carrying a piano or sofa through a doorway becomes a team puzzle",
+        "Emergent, story-generating chaos with friends (accidental deaths, friendly fire, using teammates as projectiles, cart mishaps) is the most repeated reason for positive reviews",
+        "Proximity voice chat makes monsters that react to noise and speech part of the comedy and tension",
+        "Very low price ($9.99) for the amount of fun; reviewers call it great value",
+        "Easy to learn: mechanics are simple enough that friends pick it up within a run",
+        "Charming, slightly cute-creepy art and tone that mixes horror with slapstick",
+        "Shop/upgrade loop between levels plus varied maps and many enemy types keeps runs from feeling linear",
+        "Reviewers see strong Early Access potential",
+        "No microtransactions promised, regular quality updates and no bad update since launch per long-time reviewers"
+      ],
+      "worst_things": [
+        "Balance and fairness: players say many deaths feel like bad luck or instant one-shots rather than their own mistakes, especially with tougher tier-3 monsters appearing very early",
+        "Huntsman AI is called inconsistent, sometimes shooting the nearest player instead of the noise source, with complaints it is worse when hosting",
+        "Solo play and small groups are described as punishing; one bad situation can force a full restart, and recent changes are said to hurt single-player",
+        "Recent updates are accused of adding many new monsters of uneven quality (some trivial, some frustrating, e.g. a fast ghost and a bug that locks out defending) and spawning multiple enemies near the player at once",
+        "Server timeout issues where matches close on their own, plus regional connection and visual bugs reported in the Steam community",
+        "Motion sickness complaints: heavy head bob/sway and no FOV option",
+        "Some long-term players say the game has declined since the October 2025 update, with new monsters raising difficulty more than adding interesting challenge"
+      ],
+      "improvements": [
+        "Add a difficulty slider or host options for monster spawns/tiers so mixed-skill groups and solo players can tune the experience",
+        "Rebalance early levels so tier-3 monsters do not appear before players have tools and upgrades",
+        "Rework Huntsman detection (clear audio warning before firing, always target the sound source) similar to Lethal Company's eyeless dogs",
+        "Add accessibility options: FOV slider and reduced head bob/camera sway",
+        "Improve server stability and fix match timeouts and regional connection issues",
+        "Reduce RNG punishment in shop spawns and make solo-friendly tools (revive item, vehicles) more accessible; give solo players smaller, sturdier cargo and solo-tuned monsters"
+      ],
+      "unique_things": [
+        "Fully physics-based valuables that degrade in value when knocked around, so handling items carefully is the scoring mechanic, not just grabbing loot",
+        "Horror-comedy co-op with up to 6 players, larger than most Lethal Company-like games",
+        "Dead players can be carried back to extraction and revived, leading to a lot of dark teammate-handling humor",
+        "Robot-themed setting with permanent upgrades bought at a Service Station using in-game currency, and monsters that also obey physics",
+        "Roguelike run structure with randomized room layouts, item placement and enemy distribution, now with cosmetics and a racing mode"
+      ],
+      "tedious_or_disliked": [
+        "Restarting at level 1 repeatedly after unlucky runs; one reviewer described replaying level 1 ten times before reaching level 2",
+        "Reliance on luck for shop stock and item spawns, which can gate progression",
+        "Solo runs feeling too dangerous and slow, with vehicles awkward to loot with",
+        "A Steam community thread complains the game becomes time-consuming too quickly",
+        "Weapon-less early rounds: hiding spots reportedly fail and monsters find you, so early levels feel like hide-and-hope until weapons randomly appear in the shop"
+      ],
+      "divisive_points": [
+        "Difficulty: many love the brutal, funny fail-state while others say recent updates made it unfun and unfair, especially solo",
+        "Direction of updates: cosmetics, racing mode and many new monsters are welcomed by some and seen by others as distracting from core balance",
+        "Huntsman and similar enemies: some think they are fine, others consider them broken or unfair",
+        "Accessibility debate: motion-sickness complaints drew a hostile reaction from some fans in review comments"
+      ],
+      "reception_notes": "Launched into Early Access on Feb 26, 2025 at $9.99 for Windows only, with about 230,000 concurrent players on opening weekend and about 145,000 by March 11, 2025; it was Steam's top-grossing paid game that week per Wikipedia. Revenue estimate from the Boxleiter-style calculator: about $94M gross, about $27.7M net (an order-of-magnitude figure, not audited). Local data shows peak-tracked CCU around 32k recently. Metacritic lists one critic review (PC Gamer), so no Metascore and no user score; I could not find an OpenCritic page (a guessed URL resolved to a different game, so opencritic is null). Wikipedia notes v0.4.0 (May 7, 2026) with cosmetics, shop redesign, racing mode and items. Recent negative Steam reviews cite an October 2025 update and later ones as turning points for difficulty and single-player. Web search budget was exhausted this session, so Reddit threads could not be read directly; community sentiment is drawn from top Steam reviews and the Steam community discussion list.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3241660.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appdata: review totals, tags, owners estimate, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3241660/REPO/",
+          "what": "Steam store page: early access notes, roadmap, features"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3241660/discussions/",
+          "what": "Steam community discussion topics: connection issues, time-consumption complaint, co-op partner seeking"
+        },
+        {
+          "url": "https://www.metacritic.com/game/repo/",
+          "what": "Metacritic page: only one critic review (PC Gamer early access impressions), no score"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/R.E.P.O.",
+          "what": "Wikipedia: gameplay, release, launch player numbers, Golden Joystick win, v0.4.0 update"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3241660/r-e-p-o",
+          "what": "Estimated gross/net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/search?criteria=repo",
+          "what": "Attempted OpenCritic lookup; no R.E.P.O. score found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic re-fetched: 1 critic review (PC Gamer), Metascore tbd, no user score; nulls confirmed. Removed unsupported cosmetic/lootbox and 'devs prioritize social media' claims, and the generic carrying-objects bullet. Rewrote Hauler and October-2025 bullets. Added no-microtransactions/updates positive and weapon-less early-rounds complaint."
+    },
+    "his_anchor": null,
+    "his_pos": 1,
+    "his_row_n": 10,
+    "his_spoken": null,
+    "his_score": 95.0,
+    "his_top10_bonus": 0,
+    "players_score": 89.6,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 92.7,
+    "labels": [
+      "coop",
+      "action"
+    ],
+    "primary_label": "action"
+  }
+}

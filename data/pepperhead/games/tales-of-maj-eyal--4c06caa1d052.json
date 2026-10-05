@@ -1,0 +1,266 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "tales of maj'eyal",
+    "name": "Tales of Maj'Eyal",
+    "display_name": "Tales of Maj'Eyal",
+    "appid": 259680,
+    "img": "img/259680.jpg",
+    "steam_url": "https://store.steampowered.com/app/259680/",
+    "website": "http://te4.org/",
+    "short_description": "Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of abilities and powers.",
+    "developers": [
+      "Netcore Games"
+    ],
+    "publishers": [
+      "Netcore Games"
+    ],
+    "release_date": "Dec 12, 2013",
+    "coming_soon": false,
+    "price": "$3.49",
+    "is_free": false,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Traditional Roguelike",
+      "Rogue-like",
+      "Turn-Based",
+      "Dungeon Crawler",
+      "Perma Death",
+      "Difficult",
+      "RPG",
+      "Procedural Generation",
+      "2D",
+      "Top-Down"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 94.4,
+    "steam_total_reviews": 7475,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/tales-of-majeyal/",
+    "metacritic_user": 7.3,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (user reviews)",
+        "score": "Very Positive, 94.4% of 7,475 reviews",
+        "url": "https://store.steampowered.com/app/259680/"
+      },
+      {
+        "source": "GOG (user reviews)",
+        "score": "4.5/5 from 87 reviews",
+        "url": "https://www.gog.com/en/game/tales_of_majeyal"
+      },
+      {
+        "source": "USgamer (Metacritic-listed critic review)",
+        "score": "100",
+        "url": "https://www.metacritic.com/game/tales-of-majeyal/critic-reviews/"
+      },
+      {
+        "source": "GameGrin (Metacritic-listed critic review)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/tales-of-majeyal/critic-reviews/"
+      },
+      {
+        "source": "Metacritic user ratings",
+        "score": "7.3/10 from 71 ratings (69% positive, 10% mixed, 21% negative)",
+        "url": "https://www.metacritic.com/game/tales-of-majeyal/"
+      }
+    ],
+    "vgi_units": 477000,
+    "vgi_revenue": 2200000,
+    "vgi_rating": 94.479,
+    "vgi_reviews": 7463,
+    "vgi_url": "https://app.sensortower.com/vgi/game/tales-of-maj-eyal",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,468,571.04",
+    "src_net": "433,228.46",
+    "src_url": "https://steam-revenue-calculator.com/app/259680/tales-of-maj-eyal",
+    "final_tier": "A",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "\"I'm going to put Tales of majal as a low eight tier\" - ASR garble, letter not reliably transcribed (likely 'low A' but uncertain)",
+        "video_id": "zKosjx7EpKA",
+        "t": 8626,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=8626s",
+        "year_in_title": "2012",
+        "pos": 12,
+        "row_n": 13,
+        "row_score": 0.14500000000000002,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Tales of Maj'Eyal is a classic turn-based, traditional roguelike that plays like a huge RPG with many classes and a great deal to do. He says it is a cult favorite and that he understands why people put hundreds of hours into it. His own first run was overwhelming, and he says it demands real knowledge and dedication. He would not recommend it widely, but for fans of traditional roguelikes he calls it a must-play and says it is phenomenal at what it does. He admits he has not played many hours, and notes he forgot to cover it in his earlier 80-plus-game tier list.",
+        "praise": [
+          "Packed with stuff to do; feels like a unique RPG experience each run",
+          "Deep enough that it would work as a big RPG even without roguelike elements",
+          "Many classes and a lot to uncover",
+          "Extensive tutorial and rewarding once mechanics are learned",
+          "One of the games he would pick if stuck with only one or two for months",
+          "Executes the classic traditional roguelike experience very well"
+        ],
+        "criticism": [
+          "Very steep learning curve; needs a lot of knowledge and dedication",
+          "Random run starts felt insanely overwhelming, with many enemies, spells and text at once",
+          "Wishes the start of a run were more minimalistic, or that such an option was clearly indicated",
+          "Not for everybody, especially people who dislike turn-based games; he would not recommend it to many"
+        ],
+        "unique_points": [
+          "Functions as a full RPG experience with roguelike structure layered on top",
+          "Cult-favorite status driven by huge depth and replayability across many classes"
+        ],
+        "quote": "If you do enjoy traditional rogue likes you need to play this game",
+        "comparisons": [
+          "Traditional roguelikes",
+          "Turn-based strategy games"
+        ],
+        "design_criteria": [
+          "Depth and content volume: huge amount to do and many classes",
+          "Onboarding and learning curve: tutorial is extensive but runs start overwhelmingly",
+          "Accessibility: not for everyone, requires dedication",
+          "Replayability: each run feels like a different RPG experience",
+          "Traditional roguelike fidelity: turn-based, classic genre execution"
+        ],
+        "rerank_note": "Was left in his earlier big tier list without being covered (forgotten); this is his first proper evaluation after viewer comments. He also mentions he forgot to rate Star of Providence just before placing it."
+      }
+    ],
+    "community": {
+      "one_liner": "A free, open-source (with paid Steam/GOG builds) tactical turn-based fantasy roguelike RPG by Netcore Games (Nicolas 'DarkGod' Casalini) with a huge roster of races and classes, cooldown-based talent trees and optional permadeath.",
+      "consensus_summary": "Players regard it as one of the deepest and most replayable roguelikes available: Steam sits at Very Positive (about 94% of roughly 7,500 reviews) and GOG at 4.5/5, and Wikipedia reports the wider community rating it very highly. Metacritic is thinner and cooler: the critic score is not yet formed (only 2 reviews, 100 from USgamer and 80 from GameGrin) and user score is 7.3 from 71 ratings, with about 21% negative. Critics and fans alike praise class design, build variety and the forgiving life/difficulty options, while detractors cite a steep learning curve, UI-heavy play, balance spikes, long runs and instability on some setups. It is not early access; core content is complete (three expansions through 2018, version 1.7.6, seasonal events such as Pikataclysm in 2025), but Steam reviewers describe balance and bugs as untouched for years and some keep asking for the long-promised Lost Land content. A late-2025 YouTube video sparked a wave of new and returning players.",
+      "best_things": [
+        "Class and race design: dozens of classes (10 races, 27 classes per GOG listing) with distinct mechanics, e.g. time-controlling archers, psionics dual-wielding with mind and hands, slime mages, and well-liked necromancers",
+        "Enormous build variety and synergy space, so two runs rarely play the same; many reviewers have 500 to 1,500 hours in it",
+        "Tactical cooldown-and-resource combat that sits between slow classic roguelike and action RPG, and enemies use the same classes and rules as the player",
+        "Loot with unique effects plus a meta-progression of unlockable classes, races, arena and endless dungeon modes",
+        "Flexible difficulty and lives: multiple difficulty levels, roguelike permadeath, or extra lives/unlimited save options, so both casual and hardcore players are served",
+        "Passion-project feel: free official version, strong QoL features like auto-explore, autotravel and item transmogrification, modding via Lua addons, and an active community",
+        "Surprisingly good lore and writing for the genre, plus about 1,800 achievements that reward unconventional play",
+        "Cheap: Steam price around $3.49 and a free official download, making it very high value"
+      ],
+      "worst_things": [
+        "Dated, minimal graphics and animation; some tilesets are confusing on dense vegetation maps, and music and sound are described as repetitive",
+        "Steep learning curve and a cluttered, unintuitive UI; the tutorial covers only the basics, so new players struggle with item and talent knowledge",
+        "Balance is uneven: players describe easy cruise-control through trash mobs, then sudden deaths to a unique or boss with a nasty CC or percentage-damage ability they cannot see coming",
+        "Stability issues reported on Steam: crashes on zone load, freezes at loading bars, and corrupted or lost saves (only one save slot is kept)",
+        "macOS build reported as problematic, with screen-setting and cursor-lock issues",
+        "Steam vault (item sharing between characters) is locked if you run non-whitelisted addons, which some see as unnecessary always-online restriction for a single-player game",
+        "UI scaling bugs: increasing font size can make interface elements overlap",
+        "Runs can be very long (reports of 20 to 30 hours per full campaign), which makes failing late very costly"
+      ],
+      "improvements": [
+        "Better onboarding: a deeper tutorial and clearer in-game explanations of talents, status effects and why a monster is dangerous",
+        "Clearer feedback on enemy threats and deaths, such as easier inspection of abilities and readable danger indicators",
+        "Enemy and boss balancing pass, including fewer hard-counter or percent-damage spikes and more consistent threat throughout a run",
+        "Reduce junk loot and the sorting burden, and add shorter run options or mid-run pacing improvements",
+        "Stability and save safety fixes (multiple save slots or automatic backups), plus better macOS and UI scaling support",
+        "More content and new updates: fans keep hoping for the long-awaited Lost Land expansion or at least a dev update, and want more animation and visual polish"
+      ],
+      "unique_things": [
+        "Hybrid of classic roguelike depth with RPG-style skill trees, cooldowns and resource management rather than pure tile-based bump combat",
+        "Lineage from Angband/Zangband/PernAngband/ToME 2 and 3, rewritten in 2009-2012 as an original high-fantasy setting, using its own T-Engine (C plus Lua) with shaders and particle effects",
+        "Lives system and difficulty options that let you choose permadeath or a gentler mode, with an achievement-based life economy",
+        "Enemies that play by the same class rules as the player, making their talents readable and sometimes exploitable",
+        "Free official download with donation-unlocked online features (character vault, chat, stats), alongside paid Steam and DRM-free GOG editions with Workshop and addon support",
+        "Won the ASCII Dreams Roguelike of the Year award three years running (2010-2012)"
+      ],
+      "tedious_or_disliked": [
+        "Auto-explore-and-one-shot loop: many players say most fights require no thought, with real tactics only mattering at bosses or dangerous uniques",
+        "Sorting through large amounts of mediocre loot, and optional escort quests that players call frustrating",
+        "Very long runs and heavy knowledge requirements, so dying late or to a counter-build feels punishing",
+        "Losing progress to one-shot deaths from enemies you cannot see or understand, and a perception that luck plays a large part",
+        "Achievements that do not register lower-difficulty versions once a higher-difficulty one is earned, which annoys completionists",
+        "Fighting the interface and absorbing huge amounts of ability detail, described by some as the main enemy of the game"
+      ],
+      "divisive_points": [
+        "Depth versus illusion of depth: fans see one of the most intricate tactical systems ever, while critics say the complexity hides an autopilot loop with many weak skills",
+        "Randomness and luck: some call the outcomes a slot machine where unique enemies or boss counters decide runs, others say knowledge and preparation beat luck",
+        "Visuals and audio: many say to look past the graphics, others find them and the music a real barrier",
+        "Difficulty: the roguelike mode is praised as tense, but others call it masochistic, and player-facing options (extra lives, saves) are viewed as either accessible or as diluting the stakes"
+      ],
+      "reception_notes": "Launched on Steam on Dec 12, 2013 via Greenlight after years as a free download (ToME 4 released 2012). Early reception was strong: USgamer called it the pinnacle of the fantasy roguelike in 2013, and it won ASCII Dreams Roguelike of the Year for three consecutive years. Expansions followed: Ashes of Urh'Rok (2014), Embers of Rage (2016) and Forbidden Cults (2018). Steam ownership was estimated at over 150,000 by 2016 (Wikipedia via SteamSpy), although a current SteamSpy range shows 50,000 to 100,000 owners, and a third-party revenue calculator estimates about $1.47M gross and $433K net revenue; these are rough estimates only. Metacritic has no formed critic score because only two reviews exist. OpenCritic has no entry. Current Steam reviews show a surge of new players in autumn 2025 after a popular YouTube video and recurring hopes for the Lost Land expansion; some reviewers complain that balance and bugs have not been touched for nearly a decade. Steam has a handful of mixed/negative reviews about crashes, a macOS build that behaves badly, and the addon-whitelisted vault restriction. Platforms: Windows, macOS, Linux; Steam version supports Workshop and trading cards, GOG is DRM-free. WebSearch budget was exhausted during this research, so Reddit and Steam community threads could not be fetched directly; community themes come mainly from the Steam review file, GOG, te4.org, Wikipedia, RogueBasin and Metacritic.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/259680.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews (18 each), main source for community praise and complaints"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store metadata: 94.4% positive, 7,475 reviews, price, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/259680/",
+          "what": "Steam store page for Tales of Maj'Eyal (app id 259680)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/tales-of-majeyal/",
+          "what": "Metacritic page: user score 7.3 from 71 ratings; critic score not yet formed"
+        },
+        {
+          "url": "https://www.metacritic.com/game/tales-of-majeyal/critic-reviews/",
+          "what": "Metacritic critic reviews: USgamer 100 (2013) and GameGrin 80 (2017)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tales_of_Maj%27Eyal",
+          "what": "Development history, expansions, awards, Steam ownership and reception overview"
+        },
+        {
+          "url": "https://te4.org/",
+          "what": "Official site: version 1.7.6, seasonal events, online features, free/open-source status"
+        },
+        {
+          "url": "https://www.gog.com/en/game/tales_of_majeyal",
+          "what": "GOG listing: 4.5/5 from 87 reviews, user review highlights, DRM-free, playtime estimates"
+        },
+        {
+          "url": "https://roguebasin.com/index.php/Tales_of_Maj%27Eyal",
+          "what": "RogueBasin entry: feature list, lineage, platforms, Greenlight and GOG release"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/259680/tales-of-maj-eyal",
+          "what": "Third-party Boxleiter-method revenue estimate (gross about $1.47M, net about $433K); order-of-magnitude only"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: critic score not formed (2 reviews: USgamer 100, GameGrin 80), user 7.3 from 71 ratings (69/10/21%) - matches, metacritic_critic stays null. OpenCritic left null. Spot-checked bullets against Steam reviews (crashes, macOS, vault/mod lock, UI overlap, achievements, cruise-control, slot-machine luck, escort quests, 'needs more content') - all grounded. No content changes."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 13,
+    "his_spoken": "said low",
+    "his_score": 14.5,
+    "his_top10_bonus": 0,
+    "players_score": 73.5,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 40.3,
+    "labels": [
+      "traditional",
+      "turn_based"
+    ],
+    "primary_label": "traditional"
+  }
+}

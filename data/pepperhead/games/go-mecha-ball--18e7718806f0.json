@@ -1,0 +1,290 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "go mecha ball",
+    "name": "Go Mecha Ball",
+    "display_name": "Go Mecha Ball",
+    "appid": 2008510,
+    "img": "img/2008510.jpg",
+    "steam_url": "https://store.steampowered.com/app/2008510/",
+    "website": null,
+    "short_description": "Load up and roll out, in this twin stick shooter with roguelike progression! Blast your way through arcade-style levels, using pinball-style physics mixed with an arsenal of devastating weapons. Defeat waves of enemy bots, battle big bosses, and upgrade your mech between runs.",
+    "developers": [
+      "Whale Peak Games"
+    ],
+    "publishers": [
+      "Super Rare Originals"
+    ],
+    "release_date": "Jan 25, 2024",
+    "coming_soon": false,
+    "price": "$7.99",
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Shoot 'Em Up",
+      "Twin Stick Shooter",
+      "Arcade",
+      "Rogue-like",
+      "Bullet Hell",
+      "Action",
+      "Arena Shooter",
+      "Rogue-lite",
+      "Action Roguelike",
+      "Shooter"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 86.3,
+    "steam_total_reviews": 461,
+    "metacritic": 70,
+    "metacritic_url": "https://www.metacritic.com/game/go-mecha-ball/",
+    "metacritic_user": 6.6,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (Very Positive, about 86% of 461)",
+        "score": "86% positive",
+        "url": "https://store.steampowered.com/app/2008510/Go_Mecha_Ball/"
+      },
+      {
+        "source": "GameGrin",
+        "score": "85",
+        "url": "https://www.gamegrin.com/reviews/go-mecha-ball-review/"
+      },
+      {
+        "source": "God is a Geek",
+        "score": "85",
+        "url": "https://www.godisageek.com/reviews/go-mecha-ball-review/"
+      },
+      {
+        "source": "Game Rant",
+        "score": "8/10",
+        "url": "https://gamerant.com/go-mecha-ball-review/"
+      },
+      {
+        "source": "GameCritics",
+        "score": "8/10",
+        "url": "https://gamecritics.com/eugene-sax/go-mecha-ball-video-review/"
+      },
+      {
+        "source": "Inverse",
+        "score": "7/10",
+        "url": "https://www.inverse.com/gaming/go-mecha-ball-review-pc"
+      },
+      {
+        "source": "Edge Magazine",
+        "score": "60",
+        "url": null
+      },
+      {
+        "source": "Metacritic Xbox Series X",
+        "score": "81 (9 reviews)",
+        "url": "https://www.metacritic.com/game/go-mecha-ball/"
+      },
+      {
+        "source": "Metacritic PlayStation 5",
+        "score": "72 (4 reviews)",
+        "url": "https://www.metacritic.com/game/go-mecha-ball/"
+      }
+    ],
+    "vgi_units": 13830,
+    "vgi_revenue": 187000,
+    "vgi_rating": 86.334,
+    "vgi_reviews": 461,
+    "vgi_url": "https://app.sensortower.com/vgi/game/go-mecha-ball",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "140,729.60",
+    "src_net": "41,515.23",
+    "src_url": "https://steam-revenue-calculator.com/app/2008510/go-mecha-ball",
+    "final_tier": "C",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "C",
+        "verbal_evidence": "to me, Go Mecca Ball is going to be a Ctier. ... for me, Go make a ball as a Ctier.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 5504,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=5504s",
+        "year_in_title": null,
+        "pos": 2,
+        "row_n": 3,
+        "row_score": 0.5,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Go Mecha Ball is a fast-paced action shooter roguelike where you shoot and can curl into a ball to dash and roll around large arenas. He found the core movement and VFX fun but was disappointed, feeling the roguelike layer is thin and many small issues accumulated. Runs are a standard structure of clearing waves, a shop, and bosses across two worlds. He finds it punishing and under-rewarding, and he hit serious frame drops. He places it in C tier, saying that means not a game for him rather than a bad game.",
+        "praise": [
+          "Core gameplay of dashing and rolling into enemies feels good and enjoyable once comfortable",
+          "Visuals and VFX are really solid",
+          "Enemy and boss designs are great",
+          "Launch pads and boosts hint at cool movement options",
+          "Some players will connect with the crazy gameplay much more than he did"
+        ],
+        "criticism": [
+          "Little roguelike depth: guns have no upgrades or variance, character and grenades stay the same every run",
+          "Upgrade choices after levels are generic (more damage, more health) and don't change play; new abilities can be useless with a two-ability cap",
+          "Bosses give no reward beyond a bit of health; not enough rewards throughout runs",
+          "Very hard and punishing with no healing outside the shop; some enemies, like a homing dashing ball, are hard to evade",
+          "Movement focus is underused since fights happen in single rooms with little exploration",
+          "Severe frame drops by the third world, down to 4-5 fps",
+          "Flying up feels awkward since you can't descend quickly"
+        ],
+        "unique_points": [
+          "Transforming into a ball to dash and roll between areas is the core gimmick",
+          "The slam-down area attack ability should have been a core mechanic to make vertical movement feel complete",
+          "Design lesson: a strong movement hook needs level design and roguelike variety that make use of it"
+        ],
+        "quote": "Once again, Ctiers are not bad games. They just are not games for me.",
+        "comparisons": [],
+        "design_criteria": [
+          "Core movement/feel: dashing and rolling is fun but underused",
+          "Visuals/VFX: strong and chaotic",
+          "Roguelike mechanics: too little variety in guns, upgrades, character",
+          "Upgrade quality: generic stat bumps that don't change play",
+          "Rewards: bosses and runs give too little",
+          "Difficulty: punishing, no healing, unkind to new players",
+          "Enemy/boss design: great but some hard to evade",
+          "Level design: rooms too confined to exploit movement",
+          "Performance: frame drops hurt the experience",
+          "Meta-progression: only permanent additions, nothing interesting"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A neon arcade twin-stick shooter roguelite by Whale Peak Games (published by Super Rare Originals) where you switch between a shooting mech and a fast rolling pinball-style ball to smash, bounce and blast enemy bots.",
+      "consensus_summary": "Players like it: Steam sits at Very Positive (about 86% of roughly 460 reviews) and critics landed at a Metacritic 70 from 10 reviews (range 60-85), so the split is 'superb feel, thin roguelike'. Nearly everyone praises the movement, physics-driven collision combat, bosses and presentation, while the recurring complaint is that levels and enemy spawns are fixed, so runs feel samey and content runs out fast (4 zones, 4 bosses, 4 mechs). Metacritic users are noticeably cooler (6.6 from 25 ratings). Launched January 2024 as a full release (not early access); several Steam reviewers say the developers have stopped updating it, leaving bugs such as a pause-menu lock, broken key rebinding and a memory-leak lag unfixed. It is a small commercial success rather than a hit (Steam revenue estimates around $140k gross).",
+      "best_things": [
+        "Movement and game feel: rolling, bouncing, boosting and transforming mid-air feels weighty, snappy and 'juicy' rather than floaty, and is the most-praised element across Steam and critics",
+        "Collision combat: building speed to deal contact damage (which also drops ammo) and launching enemies into each other or off the map is widely called satisfying",
+        "Fusion of genres: pinball physics plus twin-stick shooting plus roguelike progression is described by critics as a combination nothing else quite matches",
+        "Bosses: multiple reviewers (Game Rant, Inverse, Steam players) single out the boss fights as exhilarating pattern-learning set pieces",
+        "Presentation: bright neon art style, fluid animations and a dynamic, interactive soundtrack draw frequent compliments",
+        "Level furniture (bounce pads, boost pads, fans, tubes) feeds into mobility and gives arenas pinball-table character",
+        "Easy to pick up and play: Steam reviewers note the simple core loop and good controller and handheld PC play; runs are short arcade-style sessions",
+        "Solid enemy variety in the moment-to-moment sense that forces use of ball dodging, abilities and weapons together"
+      ],
+      "worst_things": [
+        "Levels, enemy spawns and boss order are the same every run, so as a 'roguelike' it lacks the randomness the genre is known for (the most repeated Steam negative and echoed by Inverse, GameCritics and Game Rant)",
+        "Thin content: only 4 zones, 4 bosses and 4 mechs; unlock lists are long on paper (25+ weapons, 20+ abilities, 50+ upgrades) but many weapons and upgrades feel incremental or same-y",
+        "Higher difficulties mostly add enemy health/armor rather than new enemy types or layout changes, so progression feels static",
+        "Stability and bugs reported on Steam: pause menu that cannot be closed mid-run, key rebinding not working, and lag attributed to a memory leak after 30-60 minutes",
+        "Seemingly abandoned: players report the developers said no further work would be done, so known bugs persist",
+        "Some players find the visuals and audio fatiguing, with reports of eye strain and watering eyes and an 'overstimulating' soundtrack over long sessions",
+        "Steam reviewers also cite little meta-progression beyond unlocks, limited power-up choice (perfect builds feel rare) and burnout after a few hours"
+      ],
+      "improvements": [
+        "Add procedural or shuffled level layouts and enemy spawns (a 'true randomizer') so runs differ",
+        "Clearer upgrade descriptions showing actual stat changes, since players often cannot tell how an option will improve a build",
+        "Higher difficulty tiers that change enemies, bosses and layouts, not just health and armor",
+        "More content: additional zones, bosses, characters and more build-altering weapons and upgrades rather than small stat tweaks",
+        "Deeper meta-progression than the gacha-style unlock system that critics say feels disconnected from progress",
+        "Fix pause menu, rebinding and memory-leak issues, and add accessibility options (GameCritics noted no colorblind mode; some players want a clearer crosshair and less screen strain)"
+      ],
+      "unique_things": [
+        "Instant transformation between an on-foot twin-stick mech and a rolling ball, where ball speed is itself an offensive weapon and ammo source",
+        "Pinball-style arenas with ramps, bumpers, fans and boost pads that turn level geometry into a movement and damage tool",
+        "Arcade structure of three themed levels then a boss, repeated across four worlds, with short runs",
+        "Dynamic, interactive soundtrack and a saturated neon aesthetic; one Steam reviewer likens the hectic pace to an easier ULTRAKILL",
+        "Hub that functions as a small playground with permanent upgrades and unlocks in a gacha-like system"
+      ],
+      "tedious_or_disliked": [
+        "Repeating identical level layouts and spawn patterns every run, which some call a slog after 2-3 hours",
+        "Unlock-only meta progression: once you finish unlocking everything there is little to do",
+        "Repetitive tutorial prompts (noted by Checkpoint Gaming per Metacritic's summary)",
+        "Chaotic, visually busy screens where it can be hard to read what is happening or track the crosshair, which put some players off entirely",
+        "Difficulty jumps between normal and harder tiers that mainly inflate enemy health",
+        "Slog after the first 2-3 hours once the main activity is just unlocking everything (Steam reviewer, with complaints the base price, about 19.49 EUR, is too high for the content)"
+      ],
+      "divisive_points": [
+        "Whether it counts as a true roguelike: fans accept it as an arcade run-based game, others feel misled by fixed levels",
+        "Price vs content: Steam lists $7.99 (may be a sale price; one reviewer cites a 19.49 EUR base price), and some call that overpriced for the content while others call the core loop worth it",
+        "Sensory intensity: praised as thrilling by some and exhausting or eye-straining by others",
+        "Metacritic users (6.6) vs Steam users (86% positive) disagree noticeably on overall quality"
+      ],
+      "reception_notes": "Released on PC (Steam, Windows only per Steam) on January 25, 2024, with console versions via Super Rare Originals; critic reviews clustered around launch (Jan-Apr 2024) and were mostly positive-to-mixed (60-85). Steam users rate it better than Metacritic users do. A Steam reviewer claims the game was overshadowed by Palworld's launch in the same period and that the small team moved on after a few updates; this is one player's account and was not confirmed from a primary source. Multiple recent Steam reviews (2025-2026) repeat that it feels abandoned with unfixed bugs. Steam concurrent players are near zero, and third-party estimates put it at roughly 50k-100k owners and about $140k gross revenue (Boxleiter-based estimate, not audited). OpenCritic page was not found. Search budget ran out during research, so Reddit and Steam community thread contents could not be read. Metacritic also lists console scores: Xbox Series X 81 (9 reviews), PS5 72 (4 reviews).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2008510.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app metadata, review counts, SteamSpy owners and revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2008510/Go_Mecha_Ball/",
+          "what": "Steam store page: features, release date, Very Positive summary"
+        },
+        {
+          "url": "https://www.metacritic.com/game/go-mecha-ball/",
+          "what": "Metacritic critic score 70 (10 reviews) and user score 6.6 (25 ratings)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/go-mecha-ball/critic-reviews/",
+          "what": "Full list of 10 critic reviews with scores and blurbs"
+        },
+        {
+          "url": "https://www.metacritic.com/game/go-mecha-ball/user-reviews/",
+          "what": "Metacritic user review summary: praise and complaints"
+        },
+        {
+          "url": "https://gamerant.com/go-mecha-ball-review/",
+          "what": "Game Rant 8/10 review: genre fusion, bosses, unclear upgrades, static difficulty"
+        },
+        {
+          "url": "https://gamecritics.com/eugene-sax/go-mecha-ball-video-review/",
+          "what": "GameCritics 8/10 review: smooth physics, limited enemy variety, gacha progression"
+        },
+        {
+          "url": "https://www.inverse.com/gaming/go-mecha-ball-review-pc",
+          "what": "Inverse 7/10 review: great bosses, same-y weapons, repeated arenas"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2008510/go-mecha-ball",
+          "what": "Estimated gross revenue about $140.7k and net about $41.5k"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2008510/discussions/",
+          "what": "Steam community forum structure only (thread contents not readable)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Metacritic PC 70 (10 critics) and user 6.6 (25 ratings) confirmed live; added Xbox 81 and PS5 72 entries. Rewrote the 'short runs/Steam Deck' bullet and the ULTRAKILL/Sonic comparison (Sonic 3D Blast unsupported), removed unsupported Metacritic-user progression bullet, added meta-progression/burnout and slog+price themes from Steam reviews, clarified price note. OpenCritic left null (not verified)."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 3,
+    "his_spoken": null,
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 26.5,
+    "critics_score": 6.3,
+    "critics_avg": 70.0,
+    "overall": 33.0,
+    "labels": [
+      "shooter"
+    ],
+    "primary_label": "shooter"
+  }
+}

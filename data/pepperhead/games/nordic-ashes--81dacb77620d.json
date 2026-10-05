@@ -1,0 +1,256 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "nordic ashes",
+    "name": "Nordic Ashes: Survivors of Ragnarok",
+    "display_name": "Nordic Ashes",
+    "appid": 2068280,
+    "img": "img/2068280.jpg",
+    "steam_url": "https://store.steampowered.com/app/2068280/",
+    "website": "https://noxfallstudios.com/nordic-ashes",
+    "short_description": "Nordic Ashes: Survivors of Ragnarok, is a challenging Norse inspired roguelite-survivor game, where you’ll have to survive hordes of creatures that come your way.",
+    "developers": [
+      "Noxfall Studios"
+    ],
+    "publishers": [
+      "Noxfall Studios"
+    ],
+    "release_date": "Apr 26, 2024",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Bullet Hell",
+      "Rogue-lite",
+      "Early Access",
+      "Arena Shooter",
+      "Top-Down Shooter",
+      "Top-Down",
+      "Casual",
+      "Action",
+      "Action RPG"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 88.2,
+    "steam_total_reviews": 6343,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/nordic-ashes-survivors-of-ragnarok/",
+    "metacritic_user": 6.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Movies Games and Tech (via Metacritic)",
+        "score": "80/100",
+        "url": "https://www.metacritic.com/game/nordic-ashes-survivors-of-ragnarok/"
+      },
+      {
+        "source": "The Games Machine (via Metacritic)",
+        "score": "78/100",
+        "url": "https://www.metacritic.com/game/nordic-ashes-survivors-of-ragnarok/"
+      },
+      {
+        "source": "Steam all-time user reviews",
+        "score": "Very Positive, 88% positive",
+        "url": "https://store.steampowered.com/app/2068280/Nordic_Ashes_Survivors_of_Ragnarok/"
+      }
+    ],
+    "vgi_units": 190000,
+    "vgi_revenue": 887000,
+    "vgi_rating": 88.207,
+    "vgi_reviews": 6343,
+    "vgi_url": "https://app.sensortower.com/vgi/game/nordic-ashes",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,420,956.00",
+    "src_net": "419,182.02",
+    "src_url": "https://steam-revenue-calculator.com/app/2068280/nordic-ashes-survivors-of-ragnarok",
+    "final_tier": "A",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "it's probably going to be like a low a tier but it's very very solid",
+        "video_id": "zKosjx7EpKA",
+        "t": 6051,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=6051s",
+        "year_in_title": "2022",
+        "pos": 11,
+        "row_n": 13,
+        "row_score": 0.195,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Nordic Ashes is a horde-survivor style roguelike with a single-level-per-world structure, where you play many different characters and level them through a skill tree instead of finding unique abilities. He was impressed by how much content it has: roughly nine or ten worlds with their own enemies, mini bosses and bosses, plus lots of unlockable characters. He calls it one of the better games of the genre and a very solid take, placing it in low A tier. He enjoys it regularly because unlocks come fast and every run feels rewarding.",
+        "praise": [
+          "Skill tree is surprisingly deep, with many build options despite being the same tree each run",
+          "Only a few skills can be fully upgraded, forcing choices about which attack becomes the main one",
+          "Each character plays very differently and has a unique skill tree",
+          "Nine or ten worlds, each with unique enemies, mini bosses and bosses, giving a real sense of exploration and adventure",
+          "Large amount of content and many characters to unlock",
+          "Fast, rewarding unlock cadence that keeps him excited for the next thing"
+        ],
+        "criticism": [
+          "Passive abilities found during runs are the least impactful part of the game",
+          "Could have used a bit more variety in the abilities found in runs",
+          "Skill-tree-based progression might seem less surprising since you always know what to expect"
+        ],
+        "unique_points": [
+          "Leveling via a shared skill tree instead of unique per-run abilities, yet still produces varied runs",
+          "Multi-world structure gives the horde genre an adventure feel rather than a single repeated arena",
+          "Forced specialization, since only a handful of skills can be maxed, drives run variety"
+        ],
+        "quote": "it's probably going to be like a low a tier but it's very very solid",
+        "comparisons": [
+          "Vampire Survivors",
+          "Death Must Die",
+          "Slay the Spire"
+        ],
+        "design_criteria": [
+          "Build variety: skill tree choices and limited max-level slots create distinct runs",
+          "Content volume: many worlds, enemies, bosses and characters",
+          "Level/world design: nine or ten distinct worlds with unique enemies and bosses",
+          "Character diversity: each character plays drastically differently with own tree",
+          "Meta-progression: fast, frequent unlocks that feel rewarding",
+          "Ability diversity: in-run passives are low impact and somewhat limited"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A cartoony Norse-mythology survivors-like (bullet heaven) where you fight through nine realms in short runs, buying gear at checkpoints and chasing a large meta-progression of characters, constellation skill trees and relics.",
+      "consensus_summary": "Steam players rate it Very Positive (about 88% positive; roughly 6,300 reviews in the local dataset, about 1,950 shown on the store page's main view), with a softer recent score (75% of 20 recent reviews at the time of the store fetch). Fans call it one of the better survivors-likes: charming art, a strong soundtrack, a large varied roster, cheap price and frequent developer updates. Critics are few and lukewarm-to-positive, scoring it around 78-80. The recurring complaints are a very grindy meta-progression, builds that converge on the same optimal setup, balance problems across characters and difficulties, and two grievances with the developer: a repeated bug that pushes the Yggdrasil leaf balance negative after updates, and a first DLC many players dislike. It entered Early Access on Dec 15, 2022, launched 1.0 on Apr 26, 2024 and is still actively updated, with a DLC (Twilight of Yggdrasil) released in 2026.",
+      "best_things": [
+        "Charming hand-drawn cartoon art and a strong Norse theme; several reviewers single out the soundtrack as a highlight",
+        "Large roster (about a dozen base characters, more with DLC) that plays differently thanks to per-character constellation skill trees shaped like their theme",
+        "Huge amount to unlock: realms, weapons, relics (150+), skins and 150+ achievements give a constant carrot to chase",
+        "Short runs that are easy to jump in and out of; good for quick sessions",
+        "Runs great on Steam Deck (Deck verified, 60 fps at low wattage per one reviewer); full controller support",
+        "Cheap price (about $9.99) and steady content updates; daily challenges with global leaderboards and a Tower mode add replay value",
+        "Item synergies and upgrades, plus a checkpoint shop and ultimate abilities, add decisions beyond plain auto-fire"
+      ],
+      "worst_things": [
+        "Meta-progression (Yggdrasil leaves, skill points with steeply rising costs) is slow and described as a chore or 'grindy hell', especially for completionists who must play every character on every realm",
+        "Balance: some characters are weak or unviable on harder realms and difficulties (e.g. Niflheim on Expert), and several reviewers find end bosses trivial while earlier trash enemies or specific mechanics feel unfair",
+        "Builds feel samey: players quickly settle on a meta build and randomly offered stats or altar picks replace real build-crafting; one critic (The Games Machine) flagged limited build variety",
+        "Slow feel for some: movement, time-to-kill and early progression are called sluggish compared with Vampire Survivors-style rivals",
+        "Clunky controls and annoyances: mouse-movement mode locks out keyboard, long death cam, confusion effect that scrambles controls, enemies stuck outside the golden circle trapping the player",
+        "Repeated updates push Yggdrasil leaf totals negative (devs say a bug gave free leaves), forcing hours of re-grinding and angering some players",
+        "Nightmare mode freezes and weak optimisation reported on Steam Deck and other handhelds by some players",
+        "Some felt it gets less fun over time rather than more, with little identity compared to other survivors-likes",
+        "Skill trees are described as linear and dull, with few meaningful decisions compared with Vampire Survivors"
+      ],
+      "improvements": [
+        "Speed up or flatten the meta-progression cost curve and leaf drops so unlocks do not require repeating the same early levels",
+        "Give players real build choice (evolutions, fewer random stat picks) so runs differ more",
+        "Rebalance characters, bosses and the Expert tier so every hero is viable on all realms and end bosses are not trivial",
+        "Fix the recurring negative-leaf bug and communicate update side effects more respectfully, or compensate affected players",
+        "Improve quality-of-life: skippable death screen, keyboard/mouse switching, handheld optimisation, better leaderboard criteria (kills rather than shop time)",
+        "Add co-op, which several players say they miss compared to Vampire Survivors"
+      ],
+      "unique_things": [
+        "Checkpoint shop between waves: each realm has three waves with bosses, and gold is spent on items, unlike pure pick-one-upgrade survivors-likes",
+        "Per-character constellation skill trees that are laid out in shapes matching each character (for example a bow for the hunter)",
+        "Nine Norse realms from Midgard to Asgard, each unlocking the next realm and a higher difficulty tier",
+        "Hidden meta characters such as KAOS that play very differently from the regular roster",
+        "Distinct DLC modes: Remnants of Corruption is effectively a separate game mode with its own rules and progression",
+        "Twitch chat integration for streamers, daily challenges with global leaderboards, and a Tower mode"
+      ],
+      "tedious_or_disliked": [
+        "Grinding leaves and achievements for unlocks, with costs rising steeply (one reviewer says a single upgrade cost about three full runs around 200 leaves)",
+        "Replaying the same realms and enemies with every character to chase completion",
+        "Randomly generated daily quests described as unfun when they force a fragile hero with a weak weapon",
+        "DLC content that keeps a separate grind, and some achievements locked behind paid DLC",
+        "Hunting the last enemy or the last leaves to finish a wave or collection",
+        "Early hours are very slow before the roster and meta tree open up"
+      ],
+      "divisive_points": [
+        "Grind: many players call it a satisfying long-term loop (hundreds of hours, 96% achievements), others call it the worst grind in the genre",
+        "DLC: the first DLC (Remnants of Corruption) is seen as a rough failure by some and, after patches, as a solid extra mode by others; Twilight of Yggdrasil is better received by fans",
+        "Difficulty and balance: some find it fair and satisfyingly powerful once maxed, others find it too easy after shopping or unfair on harder realms",
+        "Art and music: praised by most, but one reviewer finds the art childish and the audio effects cartoonish"
+      ],
+      "reception_notes": "Early Access began Dec 15, 2022; 1.0 released Apr 26, 2024 on PC, later on consoles (PlayStation, Switch as 'The Complete Saga', Xbox) and GOG per the studio site. Five DLC packs exist (Twilight of Yggdrasil, Remnants of Corruption, Dark Knights, soundtrack, artbook). Metacritic has only two critic reviews (no Metascore yet) and five user ratings averaging 6.0, so it is not a meaningful signal. OpenCritic could not be confirmed (no entry found). The main controversy is that patches repeatedly pushed players' Yggdrasil leaf balances negative; the developer said a bug let some upgrades skip their leaf cost, and players with negative balances are excluded from leaderboards until fixed. Steam Spy style estimates put owners at 200k-500k and estimated gross revenue near $1.4M (Boxleiter method, not audited). Note that this session's WebSearch budget was exhausted, so community detail comes from Steam reviews (local file and store pages), a Steam Community thread and Metacritic, not Reddit (Reddit fetch was blocked).",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2068280.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2068280/Nordic_Ashes_Survivors_of_Ragnarok/",
+          "what": "Steam store page: EA/release dates, DLC list, review scores, tags"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2068280/Nordic_Ashes_Twilight_of_Yggdrasil/",
+          "what": "Steam DLC page: DLC list and confirmation base-game score only"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2068280/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Steam community top-rated reviews: praise and criticism themes"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2068280/discussions/0/568162255844281077/",
+          "what": "Steam discussion on negative Yggdrasil leaves bug and developer reply"
+        },
+        {
+          "url": "https://www.metacritic.com/game/nordic-ashes-survivors-of-ragnarok/",
+          "what": "Metacritic page: 2 critic reviews (80 and 78), no Metascore, user score 6.0 on 5 ratings"
+        },
+        {
+          "url": "https://www.metacritic.com/game/nordic-ashes-survivors-of-ragnarok/user-reviews/",
+          "what": "Metacritic user reviews page (5 ratings, no written reviews)"
+        },
+        {
+          "url": "https://noxfallstudios.com/nordic-ashes",
+          "what": "Developer site: platforms and game description"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2068280/nordic-ashes-survivors-of-ragnarok",
+          "what": "Estimated gross revenue of about $1.42M (Boxleiter-method estimate)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: still 2 critic reviews (80, 78), no Metascore, user 6.0 on 5 ratings; critic_scores correct, unchanged. OpenCritic left null. Removed 1 duplicate best_things bullet (developer updates already covered by price/updates bullet). Added 1 worst_things theme (linear, low-decision skill trees, 5 upvotes in top negative reviews). Other bullets match top Steam reviews (leaf bug, grind, balance, DLC)."
+    },
+    "his_anchor": null,
+    "his_pos": 11,
+    "his_row_n": 13,
+    "his_spoken": "said low",
+    "his_score": 19.5,
+    "his_top10_bonus": 0,
+    "players_score": 42.2,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 29.4,
+    "labels": [
+      "survivors_like"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

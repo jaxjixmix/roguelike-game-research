@@ -1,0 +1,13 @@
+{
+  "source_url": "https://pepperhead-tier-list.vercel.app/",
+  "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+  "source_data_date": "01 Oct 2026",
+  "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+  "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5",
+  "game_count": 199,
+  "robots": {
+    "url": "https://pepperhead-tier-list.vercel.app/robots.txt",
+    "status": 404,
+    "allowed": true
+  }
+}

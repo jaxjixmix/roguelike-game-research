@@ -1,0 +1,251 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "paper planet",
+    "name": "Paper Planet",
+    "display_name": "Paper Planet",
+    "appid": 1504250,
+    "img": "img/1504250.jpg",
+    "steam_url": "https://store.steampowered.com/app/1504250/",
+    "website": "https://2leftthumbs.manakeep.com/paper-planet",
+    "short_description": "Paper Planet is a planet-defender, arcade roguelike with a doodley, Flash-inspired artstyle. Battle through waves of unique enemies and bosses. Combine items with strange and wacky effects for insanely overpowered runs. Play with 1-4 players, for some chaotic co-op fun!",
+    "developers": [
+      "Doodlegames"
+    ],
+    "publishers": [
+      "2 Left Thumbs"
+    ],
+    "release_date": "Aug 21, 2023",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Tower Defense",
+      "Bullet Hell",
+      "Arcade",
+      "Local Co-Op",
+      "Rogue-like",
+      "Shoot 'Em Up",
+      "Hand-drawn",
+      "Cartoony",
+      "Space"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 84.2,
+    "steam_total_reviews": 531,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/paper-planet/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all languages, local data)",
+        "score": "84.2% positive of 531 (Very Positive)",
+        "url": "https://store.steampowered.com/app/1504250/Paper_Planet/"
+      },
+      {
+        "source": "Steam store page (as fetched)",
+        "score": "89% positive of 380 (Very Positive)",
+        "url": "https://store.steampowered.com/app/1504250/Paper_Planet/"
+      },
+      {
+        "source": "Steam Revenue Calculator (estimate, Boxleiter method)",
+        "score": "about $111k gross / $32.8k net estimated revenue; copies not stated",
+        "url": "https://steam-revenue-calculator.com/app/1504250/paper-planet"
+      },
+      {
+        "source": "SteamSpy (local data)",
+        "score": "estimated 50,000-100,000 owners",
+        "url": "https://steamspy.com/app/1504250"
+      }
+    ],
+    "vgi_units": 15960,
+    "vgi_revenue": 170000,
+    "vgi_rating": 84.181,
+    "vgi_reviews": 531,
+    "vgi_url": "https://app.sensortower.com/vgi/game/paper-planet",
+    "spy_owners": "50,000 .. 100,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "111,225.80",
+    "src_net": "32,811.61",
+    "src_url": "https://steam-revenue-calculator.com/app/1504250/paper-planet",
+    "final_tier": "B",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "So, I'm going to put this one uh as a uh as a B tier for now.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 8754,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=8754s",
+        "year_in_title": null,
+        "pos": 13,
+        "row_n": 17,
+        "row_score": 0.2647058823529411,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Paper Planet is a cute, hand-drawn, paper-styled bullet-hell roguelike where you defend a small planet with a turret that slides left and right and teleports to the opposite side. Runs are extremely chaotic and usually end with the screen flooded with bullets. He enjoys the vibe, the simple core loop and the boss fights, but finds runs too samey, the meta progression weak, and the game too easily overpowered. He calls it a fun mess worth a few runs and places it in B tier for now.",
+        "praise": [
+          "Cute hand-drawn paper visuals with a Flash-game vibe",
+          "Simple, straightforward core gameplay: move, teleport, aim with cursor, dodge yellow bullets, block red ones",
+          "Roguelike items create chaos that looks different every run",
+          "Bosses have interesting mechanics and require attention and care",
+          "Different planets play drastically differently (moving planet, spaceship orbiting), giving the best replayability"
+        ],
+        "criticism": [
+          "Runs feel repetitive: same biomes and same few bosses every time",
+          "Regular enemies are one-shot so only bosses pose a threat",
+          "Being overpowered almost every run makes it feel less rewarding and less unique",
+          "Meta progression is weak: a shop with random unknown items (others vanish when you pick one) and minimal, situational upgrades",
+          "Wants more bosses and more in-run content; unsure he will return to it"
+        ],
+        "unique_points": [
+          "The game shows an error message when too many bullets fill the screen and need to be removed",
+          "Unlockable planets change the playstyle radically, such as a moving planet or a spaceship not on the planet",
+          "Simple extra block mechanic for red bullets used sparingly"
+        ],
+        "quote": "it is a fun mess for sure",
+        "comparisons": [
+          "Flash games"
+        ],
+        "design_criteria": [
+          "Visuals/charm: hand-drawn paper style is cute though not for everybody",
+          "Power fantasy balance: being overpowered is satisfying but hurts reward when constant",
+          "Core gameplay: simple and enjoyable controls and mechanics",
+          "Item variety: cool items that create different chaos each run",
+          "Boss design: mechanic-driven bosses demanding attention",
+          "Run variety/content: same biomes and few bosses make runs repetitive",
+          "Meta progression: weak, opaque random unlock shop and minimal upgrades",
+          "Replayability: driven mainly by distinct playable planets"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A planet-defender arcade roguelike from Doodlegames (published by 2 Left Thumbs) where you fend off waves and bosses from a stationary circular planet with a hand-drawn, Flash-style look, using wildly synergistic items, in 1-4 player local co-op.",
+      "consensus_summary": "Paper Planet is a small, niche Steam roguelite rated Very Positive (about 84% of roughly 530 reviews, per Steam data pulled locally; the store page shows 89% of 380 for one filter). Players like the doodle art, the chaotic item synergies and the couch co-op, and several say it is fun on sale. Complaints are about luck-dependent balance where you need a broken build or boss fights drag, a short content loop (one reviewer says they finished everything in about 2 hours), and achievements that have stayed broken for years. Critic coverage is essentially nonexistent: Metacritic has a page with no critic reviews and only one user rating, and no OpenCritic entry was found. Community threads include a 'Game abandoned?' topic, and a player review from 2026 says some achievements have been broken for over 2 years, so it reads as lightly supported since launch (Aug 2023). I could not retrieve patch notes, so update cadence is unconfirmed.",
+      "best_things": [
+        "Hand-drawn, notebook-doodle, Flash-game art style that is coherent and charming",
+        "Item synergies are wacky and build-defining (bee-bullet swarms, electric walls, teleporting rocket bombs, bullet recycling)",
+        "1-4 player local couch co-op with Remote Play Together, good for chaotic party play",
+        "Lots of unlockable planets/characters, modes, modifiers and visuals tied to achievements",
+        "Option to skip the metaprogression grind and unlock everything immediately (praised by a 21-hour reviewer)",
+        "Fast, pick-up-and-play arcade runs with enough variety to be 'highly addictive' for a few hours"
+      ],
+      "worst_things": [
+        "Balance is lopsided: runs depend on getting a broken build, and without one boss fights become minutes of low-damage waiting",
+        "Most stats feel nearly meaningless; bullet count, fire rate and bullet recycling dominate while raw damage does little",
+        "At least 8 achievements reported broken for over 2 years, and '100% is bugged' is repeated in multiple reviews",
+        "Heavily luck-based, leaving little room for player skill according to some reviewers",
+        "Item upgrades lack descriptions, so players can't tell what they are picking (one review and a Steam discussion about item descriptions not showing)",
+        "Content runs out fast for some, with the loop feeling repetitive after an hour or two",
+        "Performance issues such as FPS drops in boss fights and lag from heavy bullet counts",
+        "Seen as too pricey for its content at $14.99 by at least one reviewer, even on discount"
+      ],
+      "improvements": [
+        "Fix the long-broken achievements so 100% completion is possible",
+        "Rebalance damage vs. fire rate/bullet count so that stats matter and weak runs are not a slog",
+        "Show clear item and upgrade descriptions in-game",
+        "Fix boss-fight FPS drops and raise the damage-counter integer cap (requested in Steam threads)",
+        "Add more content and variety to extend replay beyond a few hours",
+        "Visible developer communication and updates, since players ask whether the game is abandoned"
+      ],
+      "unique_things": [
+        "You defend a fixed circular planet that cannot move, described by one reviewer as Asteroids without movement",
+        "Blend of arcade bullet-hell shooter and tower-defense style planet defense",
+        "Flash/doodle aesthetic with a school-notebook vibe, cartoony and family friendly",
+        "Items combine freely with each other, leading to absurd overpowered runs",
+        "Local co-op for up to four players on one screen",
+        "A switch to unlock all metaprogression immediately, unusual for the genre"
+      ],
+      "tedious_or_disliked": [
+        "Boss fights that take minutes when your build is weak and you deal little damage",
+        "Waves of high-health enemies that become boring without good items",
+        "Achievement hunting blocked by bugs",
+        "Repetitive feeling after the first hour or two for some players",
+        "Chaotic screen with no item descriptions, making it hard to read what is happening"
+      ],
+      "divisive_points": [
+        "Randomness: some love wild, chaotic build luck; others find it too luck-driven with too little skill",
+        "Value: some call it a great casual game, others say it is too expensive and too short for the price",
+        "Chaos level: fun mayhem for some, unreadable for others who bounced in under an hour"
+      ],
+      "reception_notes": "Released Aug 21, 2023 on Windows only (no Mac/Linux), $14.99. Launch reception was positive among Steam players and it has stayed Very Positive, but it never drew critic coverage (Metacritic lists 0 critic reviews and a single 7/10 user rating from March 2024, with both scores 'tbd'). Steam discussions show user concern about abandonment, unlockable achievements that never worked, and FPS drops during bosses; a 2026 review says achievements have been broken for over 2 years, suggesting sparse post-launch support. I could not fetch patch notes or Reddit (Reddit blocked, WebSearch budget exhausted), so the update history is unverified. Revenue and owner figures are third-party estimates, not audited numbers.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1504250.json",
+          "what": "Local file of top helpful positive and negative English Steam reviews"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam appdetails/review summary, SteamSpy owners and tags"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1504250/Paper_Planet/",
+          "what": "Steam store page: description, features, tags, Very Positive rating"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1504250/discussions/",
+          "what": "Steam discussions: bug reports, achievements, FPS drops, 'Game abandoned?' thread"
+        },
+        {
+          "url": "https://www.metacritic.com/game/paper-planet/",
+          "what": "Metacritic page: no critic reviews, one user review (7/10), scores tbd"
+        },
+        {
+          "url": "https://opencritic.com/search?q=paper%20planet",
+          "what": "OpenCritic search; no entry found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1504250/paper-planet",
+          "what": "Estimated gross and net revenue"
+        },
+        {
+          "url": "https://2leftthumbs.manakeep.com/paper-planet",
+          "what": "Publisher page listed on Steam (not fetched)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Removed 1 unsupported best_things bullet (bosses with distinct personalities; no review backs it). Reworded 1 worst_things bullet to reflect that only one reviewer called it overpriced. Re-fetched Metacritic: critic and user scores both tbd (1 user rating, 4 needed), so nulls are correct. Steam reviews (mostly low-vote) match the themes: broken achievements, luck/balance, short content, chaos, no item descriptions, lag. No themes added."
+    },
+    "his_anchor": null,
+    "his_pos": 13,
+    "his_row_n": 17,
+    "his_spoken": null,
+    "his_score": 26.5,
+    "his_top10_bonus": 0,
+    "players_score": 18.9,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 23.2,
+    "labels": [
+      "shooter",
+      "coop",
+      "survivors_like"
+    ],
+    "primary_label": "shooter"
+  }
+}

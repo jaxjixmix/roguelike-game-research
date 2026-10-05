@@ -1,0 +1,266 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "dungeon souls",
+    "name": "Dungeon Souls",
+    "display_name": "Dungeon Souls",
+    "appid": 383230,
+    "img": "img/383230.jpg",
+    "steam_url": "https://store.steampowered.com/app/383230/",
+    "website": "http://www.laminastudios.com",
+    "short_description": "Dungeon Souls is an action-adventure roguelike dungeon crawler which draws heavy inspiration from Nuclear Throne, Risk of Rain, and Overture. Explore vast procedurally generated dungeons, collect loot, and slay hordes of challenging enemies!",
+    "developers": [
+      "Lamina Studios"
+    ],
+    "publishers": [
+      "Lamina Studios"
+    ],
+    "release_date": "Dec 2, 2016",
+    "coming_soon": false,
+    "price": "$12.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Action Roguelike",
+      "Pixel Graphics",
+      "Dungeon Crawler",
+      "Indie",
+      "Action",
+      "Rogue-like",
+      "Rogue-lite",
+      "Adventure",
+      "Hack and Slash"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 73.9,
+    "steam_total_reviews": 2226,
+    "metacritic": 67,
+    "metacritic_url": "https://www.metacritic.com/game/pc/dungeon-souls?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 6.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Hardcore Gamer",
+        "score": "80/100",
+        "url": "https://www.metacritic.com/game/pc/dungeon-souls"
+      },
+      {
+        "source": "Hooked Gamers",
+        "score": "75/100",
+        "url": "https://www.metacritic.com/game/pc/dungeon-souls"
+      },
+      {
+        "source": "New Game Network",
+        "score": "70/100",
+        "url": "https://www.metacritic.com/game/pc/dungeon-souls"
+      },
+      {
+        "source": "GameSpew",
+        "score": "70/100",
+        "url": "https://www.metacritic.com/game/pc/dungeon-souls"
+      },
+      {
+        "source": "Destructoid",
+        "score": "6/10",
+        "url": "https://www.destructoid.com/reviews/review-dungeon-souls/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Mostly Positive, about 74% of 2,226 reviews (local data)",
+        "url": "https://store.steampowered.com/app/383230/Dungeon_Souls/"
+      },
+      {
+        "source": "SteamSpy (estimate)",
+        "score": "200,000 to 500,000 owners",
+        "url": "https://store.steampowered.com/app/383230/Dungeon_Souls/"
+      },
+      {
+        "source": "Steam Revenue Calculator (estimate)",
+        "score": "about $613k gross, about $181k net",
+        "url": "https://steam-revenue-calculator.com/app/383230/dungeon-souls"
+      }
+    ],
+    "vgi_units": 126000,
+    "vgi_revenue": 1000000,
+    "vgi_rating": 73.899,
+    "vgi_reviews": 2226,
+    "vgi_url": "https://app.sensortower.com/vgi/game/dungeon-souls",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "613,076.04",
+    "src_net": "180,857.43",
+    "src_url": "https://steam-revenue-calculator.com/app/383230/dungeon-souls",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "as a guilty pleasure I'll put it as a low beat here because it is pretty fun (ASR 'beat' = B)",
+        "video_id": "5k_-k4X90ao",
+        "t": 2872,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=2872s",
+        "year_in_title": "2016",
+        "pos": 29,
+        "row_n": 35,
+        "row_score": 0.19071428571428573,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Dungeon Souls is a basic top-down dungeon crawler that got a little recognition at one point. He says nothing about it is unique, but it is chaotic and unbalanced, and you quickly become overpowered if you survive. He has a soft spot for it, played it multiplayer with a friend, and calls it a guilty pleasure rather than a great game. He places it in low B because it is fun.",
+        "praise": [
+          "Chaotic, unbalanced feel that is part of the fun",
+          "You quickly become overpowered if you survive long enough",
+          "Different characters and a few secrets",
+          "Bugs he finds amusing",
+          "Good for quick, low-thought fun",
+          "Enjoyable multiplayer with a friend"
+        ],
+        "criticism": [
+          "Nothing unique about it; extremely basic design",
+          "Pretty unbalanced",
+          "Lots of bugs",
+          "Not a great game, just enjoyable"
+        ],
+        "unique_points": [
+          "Its charm comes from chaos, imbalance and bugs rather than design quality; he treats it as a guilty pleasure"
+        ],
+        "quote": "it's not a great game it's just kind of enjoyable",
+        "comparisons": [],
+        "design_criteria": [
+          "Uniqueness: nothing distinctive, a classic top-down crawler",
+          "Balance: unbalanced, which he finds part of the fun",
+          "Power curve: quickly overpowered if you survive",
+          "Character variety: a few different characters",
+          "Secrets: a few hidden things",
+          "Polish: many bugs, tolerated",
+          "Multiplayer: fun with a friend",
+          "Personal entertainment: ranks by his enjoyment, guilty pleasure"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D pixel-art action roguelite dungeon crawler by Lamina Studios (Dec 2016) that mixes Nuclear Throne-style shooting/melee, Risk of Rain-style item stacking and snowballing power, with 10 classes and local co-op.",
+      "consensus_summary": "Dungeon Souls is received as a decent but derivative budget roguelite. Steam players rate it Mostly Positive (about 74% of ~2,200 reviews by the local data; the store page shows 77% of 1,310), and Metacritic sits at a Mixed 67 from 8 critic reviews with a 6.0 user score. Critics called it a fun, casual tribute to older dungeon crawlers that borrows heavily from its inspirations and is quickly forgotten. Long-time players say it gets addictive once the between-run upgrades start compounding. It is a finished 2016 release (not early access); the Steam forum has threads asking whether the game is dead, and recent negative reviews cite unresolved controller and crash problems on modern systems. Web searches were unavailable for this run (search budget exhausted), so community color is drawn from Steam reviews, Steam forum titles, and the Destructoid and Metacritic pages.",
+      "best_things": [
+        "Ten distinct hero classes with different abilities (e.g. Barbarian with health and area attacks, Cleric with bouncing projectiles and a shield) that change how a run plays",
+        "Items and passives (50+) provide a snowballing, overpowered-build feeling in the Risk of Rain mould; one 40-hour reviewer says runs start short but become an avalanche once meta upgrades kick in",
+        "Addictive, replayable loop with lots of RNG and unlocks; one reviewer calls it among the most addictive dungeon crawlers they have played in a while",
+        "Bite-sized, turn-your-brain-off action that suits short sessions; Hardcore Gamer said practice and learning the characters eventually pays off",
+        "Pleasant pixel-art presentation and simple fitting audio, plus local split-screen co-op",
+        "Nostalgic old-school dungeon crawler feel; one reviewer feels it set a standard later games improved on"
+      ],
+      "worst_things": [
+        "Heavily derivative of Nuclear Throne, Risk of Rain and Spelunky without its own identity (Destructoid, LEVEL, High-Def Digest: forgettable)",
+        "Bland, repetitive procedurally generated environments with poor visibility; traps blend into the dark",
+        "Melee characters are poorly balanced in a bullet-heavy game with no dodge mechanic; enemies feel like bullet sponges",
+        "Unfair hazards: floor traps in narrow corridors, ritual-marker rooms, and enemies that spawn directly on the player",
+        "Confusing interface and item placement (chests look like shop items, accidental warps to secret levels)",
+        "Technical issues: stated Xbox controller support reportedly does not register input (negative reviewers say unresolved since at least 2018), mouse is not captured on multi-monitor setups, black screen and crash reports on newer Windows",
+        "Low-sophistication story and visuals; the plot is described as merely present"
+      ],
+      "improvements": [
+        "Fix controller detection and make the advertised Xbox controller support actually work",
+        "Capture the mouse cursor and fix window/taskbar handling for multi-monitor play",
+        "Add a dodge or mobility option and rebalance melee classes against projectile-heavy enemies",
+        "Make traps, chests and shop items readable against dark backgrounds; clarify interface and warp triggers",
+        "Stabilise the game on modern Windows 11 to stop crashes and black screens",
+        "Clearer explanation of how to unlock characters (Brawler, Redeemer) and find crafting recipes such as Nimby's Grace"
+      ],
+      "unique_things": [
+        "Cross-breed of Nuclear Throne action, Risk of Rain item scaling and Overture-style dungeon crawling, according to its own store description",
+        "Activating marks/altars on a level to open the escape portal rather than simply reaching an exit",
+        "Crafting system with recipes that players must discover, plus permanent meta upgrades between runs",
+        "Ten hero classes with unlockable characters such as the Brawler and Redeemer",
+        "Shared/split-screen local co-op and Remote Play Together support in a pixel-art roguelite at a low price"
+      ],
+      "tedious_or_disliked": [
+        "Early runs feel short with little progress until meta upgrades accumulate; one reviewer calls the meta progression 'dark' and monotonous",
+        "Slow walking speed makes fleeing traps and enemies hard",
+        "Random monster spawns punish stopping to level up, so the pace forces constant movement",
+        "Crafting reportedly disables gameplay while it is active (one negative review)",
+        "Losing a run's progress by exiting to the main menu (Steam forum PSA) and unclear save behaviour",
+        "Limited variety between characters according to a negative reviewer, with monotonous gameplay over time"
+      ],
+      "divisive_points": [
+        "Simplicity: some enjoy mindless, easy-to-pick-up action; others find it monotonous and shallow",
+        "Difficulty and balance: Hardcore Gamer says mastery pays off, while Destructoid found melee classes badly outmatched by bullets",
+        "Derivativeness: some see a loving tribute to the genre's greats, others an unoriginal copy",
+        "Class variety: praised by critics and many players, but one negative reviewer says characters offer little gameplay variety"
+      ],
+      "reception_notes": "Launched Dec 2, 2016 to mixed-positive reviews (Metacritic 67, 8 critics ranging 60 to 80). The Steam page lists a Digital World Game Expo Best Game award. Steam forum has a v1.1 bugs thread, a 'Dungeon Souls 2?' thread and an 'Is the game dead?' thread, suggesting development has stopped. Recent (2025-2026) Steam reviews are still mostly positive from nostalgic players, but negative ones report crashes on Windows 11, non-working controller support and mouse capture issues. Available on Windows, Mac and Linux. OpenCritic has no matching entry that could be confirmed (the page fetched belonged to a different game), so opencritic is null. Revenue and owner figures are third-party estimates, not audited.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/383230.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review counts, Metacritic 67, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/383230/Dungeon_Souls/",
+          "what": "Steam store page: features, 10 characters, 50+ items, co-op, review summary, award"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/dungeon-souls",
+          "what": "Metacritic: Metascore 67 from 8 critics, user score 6.0, critic blurbs"
+        },
+        {
+          "url": "https://www.destructoid.com/reviews/review-dungeon-souls/",
+          "what": "Destructoid review 6/10: pros and cons on classes, balance, traps, interface"
+        },
+        {
+          "url": "https://steamcommunity.com/app/383230/discussions/",
+          "what": "Steam discussion thread titles: controller, black screen, unlocks, 'is the game dead', Dungeon Souls 2"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/383230/dungeon-souls",
+          "what": "Boxleiter-method revenue estimate"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 67 from 8 critics, user 6.0 confirmed; opencritic left null. Steam review sample is small (10 reviews, near-zero upvotes). Removed unsupported 'good value for ~$13' bullet; rewrote 'several players logged 40+ hours' (only one reviewer supports the addictiveness claim) to match reviews. Clarified controller complaint attribution. Recurring review themes (controller, crashes on Win11, slow walking, random spawns, monotony) already covered; nothing added."
+    },
+    "his_anchor": null,
+    "his_pos": 29,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 19.1,
+    "his_top10_bonus": 0,
+    "players_score": 3.8,
+    "critics_score": 3.4,
+    "critics_avg": 67.0,
+    "overall": 10.6,
+    "labels": [
+      "action",
+      "shooter",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "hand of fate 2",
+    "name": "Hand of Fate 2",
+    "display_name": "Hand of Fate 2",
+    "appid": 456670,
+    "img": "img/456670.jpg",
+    "steam_url": "https://store.steampowered.com/app/456670/",
+    "website": "http://www.defiantdev.com/hof2.html",
+    "short_description": "A new hero rises to challenge the Dealer in Hand of Fate 2! Master a living boardgame of infinitely replayable quests - unlock new cards, build your adventure, then defeat your foes in brutal real-time combat! Draw your cards, play your hand and discover your fate!",
+    "developers": [
+      "Defiant Development"
+    ],
+    "publishers": [
+      "Defiant Development"
+    ],
+    "release_date": "Nov 7, 2017",
+    "coming_soon": false,
+    "price": "$29.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "RPG",
+      "Roguelike Deckbuilder",
+      "Card Game",
+      "Action",
+      "Deckbuilding",
+      "Rogue-lite",
+      "Indie",
+      "Action Roguelike",
+      "Singleplayer",
+      "Board Game"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 84.3,
+    "steam_total_reviews": 5826,
+    "metacritic": 80,
+    "metacritic_url": "https://www.metacritic.com/game/pc/hand-of-fate-2?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.0,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (local data)",
+        "score": "84.3% positive, Very Positive (4,909 up / 917 down)",
+        "url": "https://store.steampowered.com/app/456670/Hand_of_Fate_2/"
+      },
+      {
+        "source": "IGN",
+        "score": "80 (per Metacritic page)",
+        "url": "https://www.metacritic.com/game/pc/hand-of-fate-2"
+      },
+      {
+        "source": "PC Gamer",
+        "score": "82 (per Metacritic page)",
+        "url": "https://www.metacritic.com/game/pc/hand-of-fate-2"
+      },
+      {
+        "source": "PC PowerPlay",
+        "score": "90 (per Metacritic page)",
+        "url": "https://www.metacritic.com/game/pc/hand-of-fate-2"
+      },
+      {
+        "source": "Wccftech",
+        "score": "60 (per Metacritic page)",
+        "url": "https://www.metacritic.com/game/pc/hand-of-fate-2"
+      },
+      {
+        "source": "GameWatcher",
+        "score": "8.5/10 (per Steam store page)",
+        "url": "https://store.steampowered.com/app/456670/Hand_of_Fate_2/"
+      }
+    ],
+    "vgi_units": 296000,
+    "vgi_revenue": 6100000,
+    "vgi_rating": 84.263,
+    "vgi_reviews": 5827,
+    "vgi_url": "https://app.sensortower.com/vgi/game/hand-of-fate-2",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,674,837.00",
+    "src_net": "494,076.92",
+    "src_url": "https://steam-revenue-calculator.com/app/456670/hand-of-fate-2",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm still gonna put it as a low beat here",
+        "video_id": "5k_-k4X90ao",
+        "t": 4366,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=4366s",
+        "year_in_title": "2017",
+        "pos": 24,
+        "row_n": 35,
+        "row_score": 0.3392857142857143,
+        "spoken": "said low"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Hand of Fate 2 is the sequel to Hand of Fate, a deck-building game mixed with real-time action combat. He tried it because he likes deck builders and the reviews were strong. It keeps the same vibe as the first game but improves nearly everything. He enjoyed it, yet the clash between slow strategic deck building and fast action still bothers him. He places it in low B and would not recommend it as a deck-building game.",
+        "praise": [
+          "Clearly better than the first game overall and more fun to play",
+          "Visuals are much more polished",
+          "Design aspects are much improved across the board",
+          "Deck-building portion is far more extensive",
+          "Cooler events",
+          "Action combat is a lot more fun and feels almost like a proper action game"
+        ],
+        "criticism": [
+          "Still super slow, which is by design",
+          "Deck building and action genres clash: strategy wants focus, action wants speed",
+          "Game fights with its own style",
+          "Not his favorite and he would not recommend it as a deck builder",
+          "Sequel changed little in vibe"
+        ],
+        "unique_points": [
+          "Merges a deck-building/event-card structure with real-time action combat",
+          "Sequel improves on every aspect of the first without changing its core identity"
+        ],
+        "quote": "it's still kind of clashing for me",
+        "comparisons": [
+          "Hand of Fate (first game)"
+        ],
+        "design_criteria": [
+          "Genre blend: deck building versus action pacing clash",
+          "Combat feel: action much improved over the first game",
+          "Visual polish: noticeably better",
+          "Deck-building depth: much more extensive",
+          "Events: cooler and more varied",
+          "Pacing: very slow by design",
+          "Improvement over predecessor: improved everything"
+        ],
+        "rerank_note": "Discussed right after the first Hand of Fate, which he put in mid C; this sequel moves up to low B as a re-evaluation of the same concept."
+      }
+    ],
+    "community": {
+      "one_liner": "A third-person action RPG wrapped in a roguelite deck-builder, where a mysterious Dealer lays out a card-built board-game dungeon and you fight real-time combat whenever the cards demand it.",
+      "consensus_summary": "Critics and players largely agree it is a clear, more ambitious step up from the 2015 original, with a Metacritic score of 80 and Steam 'Very Positive' (about 84% of roughly 5.8k reviews in the local data). The atmosphere, writing, narrator and the unusual card-as-dungeon loop are the main draws. The persistent complaints are combat that is serviceable but shallow and repetitive, randomness that can ruin a run, and bloat or grind in longer play. The developer Defiant stopped making new games in 2019 and only maintains the title, so the game is effectively in maintenance mode (not early access). The Steam store page showed recent reviews as only Mixed (66% of 15) against Very Positive overall, which suggests a small, aging player base with some lingering technical complaints.",
+      "best_things": [
+        "Atmosphere and presentation: art, music, sound design and the Dealer narrator's personality are repeatedly called out as the standout feature",
+        "A genuinely unusual gameplay loop: you build a hand of encounter and equipment cards, then navigate a board-game map that unfolds like a choose-your-own-adventure",
+        "Strong writing and story-driven scenarios (20+ campaign quests plus endless mode) with varied outcomes built from the cards you unlock",
+        "New mini-game-style challenges (dice, pendulum, wheel) add skill-based variety beyond the original's card-shuffle challenge",
+        "Companions with their own questlines and abilities improve both exploration and combat compared with the first game",
+        "Unlockable gear that levels up and token challenges give a steady reason to keep unlocking cards and equipment",
+        "Combat grows more satisfying in later acts once riposte and block-breaking mechanics open up (Arkham-style comparison appears in several Steam reviews)",
+        "Character customization and more diverse cast were noted as improvements"
+      ],
+      "worst_things": [
+        "Combat is the weakest pillar: Arkham-lite, one-enemy-at-a-time feel, repetitive and often just spam-attack once you out-gear encounters (echoed by PC Gamer and Game Informer per Wikipedia summary)",
+        "Randomness and luck-based challenges can be run-killing or feel unfair in later campaigns; GameSpot noted some quests lean too heavily on luck",
+        "Late-game bloat: decks of 20+ cards with no search or filter make pre-run deck building a chore",
+        "Technical rough edges in some Steam reviews: long loading screens before each fight, enemy AI breaking (reported fix: turn vsync on), bugged dice rerolls, an unlocked sword not appearing in equipment",
+        "Sluggish-feeling hero evade and chaotic, hard-to-read fights in crowded encounters according to negative reviewers",
+        "Progression and grind: Wccftech scored it 60 citing unsatisfying progression, punishing randomness and clunky combat; some Steam reviewers call it overpriced at $30 and repetitive",
+        "Later campaigns spike in difficulty and feel unfair to some players, leading to frustration (and grinding for gold-token gear) before progress is possible"
+      ],
+      "improvements": [
+        "Deeper, more varied combat: more enemy variety and more tactical options beyond attack, counter and block",
+        "Deck-management quality of life: a search or filter for the growing card collection and a faster way to build hands",
+        "Shorter or skippable loading screens and intro animations when restarting encounters",
+        "Better balance for Endless mode, where item degradation makes daggers nearly useless",
+        "Less punishing RNG or more mitigation tools so one bad draw does not sink a long run",
+        "Bug fixes, since the studio is in maintenance mode and some bugs reported in 2025 remain"
+      ],
+      "unique_things": [
+        "The dungeon is literally a tabletop built from cards that the Dealer lays out, and the cards you choose determine encounters, loot and events",
+        "A sitting-in-the-Dealer's-wagon framing with a charismatic narrator who comments on your successes and failures",
+        "Hybrid of deckbuilding and real-time third-person action combat, often compared to Arkham-style fighting with a card-game shell",
+        "Tarot-flavoured theming and choose-your-own-adventure storytelling rather than a pure arena roguelike",
+        "Hand-built campaign scenarios with persistent unlocks, rather than fully random runs, plus a separate Endless mode",
+        "Steam tags label it a roguelike deckbuilder, but most players describe it as closer to a narrative adventure with roguelite unlock progression"
+      ],
+      "tedious_or_disliked": [
+        "Repeating the same lock-on combat over many encounters; some players mash attack to get through it",
+        "Scrolling a large card collection to build a deck before each run",
+        "Long loading and intro sequences each time you retry a level",
+        "Luck-heavy mini-games that must be passed for story progress and can be frustrating",
+        "Grinding the campaign to unlock the cards and gear needed for later, harder scenarios",
+        "Endless mode's item degradation making some weapon types feel pointless"
+      ],
+      "divisive_points": [
+        "Combat: some find it fun and increasingly rewarding, others find it the weakest, clunkiest part of the game",
+        "Difficulty and RNG: some enjoy the tension and sense of accomplishment, others see late campaigns as unfair and want to uninstall",
+        "Value: recommended by many at full price as a unique experience, but some say wait for a sale at $15 or less",
+        "Roguelike label: players split on whether it satisfies roguelike cravings or plays more like a campaign-based adventure"
+      ],
+      "reception_notes": "Launched November 2017 on PC, PS4 and Xbox One to generally favourable reviews (Metacritic 80 from 27 critics; user score 7.0 from about 99 ratings). It won an AGDA Game of the Year award and was listed among Kotaku's top 10 games of 2017 per the Steam page. Defiant reported Hand of Fate 2 earned about 40% more revenue than the original in its first six months. Three story DLC packs followed (Outlands and Outsiders, The Servant and the Beast, A Cold Hearth). Defiant stopped making new games in July 2019 and moved to a caretaker mode, so the game gets no active development; in 2025 it only began publishing the spin-off Hordes of Fate. Steam's recent reviews were Mixed on the store page, driven by technical complaints like load times and bugs. Third-party estimates (Steam revenue calculator) put gross revenue around $1.67M and SteamSpy owners at 200k to 500k, but these are Boxleiter-style estimates and exclude console sales. No OpenCritic score was confirmed, so it is left null. Metacritic 80 (27 critics) and user 7.0 (99 ratings) were re-verified on the Metacritic page; individual outlet scores in 'other' were not independently re-checked and the AGDA/Kotaku award claims are unverified.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/456670.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review counts, tags, SteamSpy owners and revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/hand-of-fate-2",
+          "what": "Metascore 80, user score 7.0, critic snippets from IGN, PC Gamer, PC PowerPlay and Wccftech"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hand_of_Fate_2",
+          "what": "Gameplay overview and reception themes (praise for depth, criticism of weak combat and luck)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/456670/Hand_of_Fate_2/",
+          "what": "Steam review summary, tags, DLC list, awards, outlet quotes"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Defiant_Development",
+          "what": "Studio status: caretaker mode since 2019, 40% higher first-six-month revenue than original"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/456670/hand-of-fate-2",
+          "what": "Third-party revenue estimate"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: metascore 80 (27 reviews), user 7.0 (99 ratings) confirmed; OpenCritic left null (unconfirmed). Removed unsourced Rock Paper Shotgun bullet from worst_things; added late-campaign difficulty spike theme (recurring in top Steam reviews); updated reception_notes to flag unverified outlet scores/awards. Other bullets match Steam review themes."
+    },
+    "his_anchor": null,
+    "his_pos": 24,
+    "his_row_n": 35,
+    "his_spoken": "said low",
+    "his_score": 33.9,
+    "his_top10_bonus": 0,
+    "players_score": 28.5,
+    "critics_score": 49.6,
+    "critics_avg": 80.0,
+    "overall": 35.2,
+    "labels": [
+      "deckbuilder",
+      "action"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

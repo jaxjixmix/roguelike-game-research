@@ -1,0 +1,285 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "white knuckle",
+    "name": "White Knuckle",
+    "display_name": "White Knuckle",
+    "appid": 3195790,
+    "img": "img/3195790.jpg",
+    "steam_url": "https://store.steampowered.com/app/3195790/",
+    "website": "https://whiteknuckle.net/",
+    "short_description": "White Knuckle is a first-person roguelite speed-climbing game. Ascend through the guts of SUB-STRUCTURE 17 using precision movement mechanics. Sharp reflexes and resource management will bring you out from under ten thousand meters of concrete and decay.",
+    "developers": [
+      "Dark Machine Games"
+    ],
+    "publishers": [
+      "DreadXP"
+    ],
+    "release_date": "Apr 17, 2025",
+    "coming_soon": false,
+    "price": "$16.99",
+    "is_free": false,
+    "genres": [
+      "Early Access"
+    ],
+    "tags": [
+      "Early Access",
+      "Parkour",
+      "First-Person",
+      "3D Platformer",
+      "Horror",
+      "Platformer",
+      "Adventure",
+      "Rogue-like",
+      "Old School",
+      "FPS"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 98.0,
+    "steam_total_reviews": 14963,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/white-knuckle/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all time)",
+        "score": "98% positive, Overwhelmingly Positive, 14,963 reviews (per local data)",
+        "url": "https://store.steampowered.com/app/3195790/White_Knuckle/"
+      }
+    ],
+    "vgi_units": 290000,
+    "vgi_revenue": 3100000,
+    "vgi_rating": 97.984,
+    "vgi_reviews": 14882,
+    "vgi_url": "https://app.sensortower.com/vgi/game/white-knuckle",
+    "spy_owners": "100,000 .. 200,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,822,317.20",
+    "src_net": "832,583.57",
+    "src_url": "https://steam-revenue-calculator.com/app/3195790/white-knuckle",
+    "final_tier": "A",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I'm going to put this as a really solid A because of just how unique and enjoyable the gameplay is.",
+        "video_id": "kTg56_oKfGY",
+        "t": 9903,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=9903s",
+        "year_in_title": null,
+        "pos": 4,
+        "row_n": 9,
+        "row_score": 0.5722222222222222,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [
+      {
+        "year": "2025",
+        "rank": 8,
+        "video_id": "BlodPuxYUwk",
+        "t": 148,
+        "url": "https://www.youtube.com/watch?v=BlodPuxYUwk&t=148s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "White Knuckle is a first-person horror climbing roguelike in early access, where you grab surfaces with left and right mouse buttons and climb out of a hellish place while a rising ooze chases you. He finds it very unique, intense and immersive, with a very high skill ceiling and a stressful, punishing feel. His main complaints are that it takes too long to reach its best content and that it lacks meta progression. He recommends it for players who want a hardcore experience and places it in A tier.",
+        "praise": [
+          "Highly unique combination of climbing, horror and a Portal-like comedic radio voice",
+          "Minimalistic controls that are hard to master, giving a very high skill ceiling",
+          "Many varied biomes and hidden late-game areas he calls awesome",
+          "Immersive, spooky and intensely stressful atmosphere",
+          "Lots of secrets and a strong community (debug world, terminal secret area), reminiscent of Inscryption",
+          "Stamina and grip mechanics that reward experimentation",
+          "Extra roguelike game mode with more replayability"
+        ],
+        "criticism": [
+          "Very punishing: a big fall can end a long run, and runs take a long time",
+          "Most players never see the later biomes because of difficulty; it takes too long to get there",
+          "Little meta progression; the shortcut system is so cruel it is not worth using",
+          "Consumables with hidden effects are unhelpful and mean in such a punishing game",
+          "Few passives, some much weaker than others; room layouts become repetitive once seen"
+        ],
+        "unique_points": [
+          "Fuses first-person climbing with horror and a Portal-like comedic radio narrator",
+          "Campaign is a fixed biome order with randomness only from picking room layouts from a library",
+          "Hidden debug-world secret reachable via terminal commands found by the community"
+        ],
+        "quote": "I'm going to put this as a really solid A",
+        "comparisons": [
+          "Portal",
+          "Inscryption",
+          "Shovel Knight Dig"
+        ],
+        "design_criteria": [
+          "Uniqueness: rare genre combination of climbing and horror",
+          "Difficulty: extremely punishing, high skill ceiling, hurts accessibility",
+          "Meta-progression: minimal, shortcuts not worth using",
+          "Run length: very long runs make failure costly",
+          "Level design: fixed biomes with randomized room layouts from a library",
+          "Atmosphere/immersion: spooky and stressful with comedic radio narration",
+          "Item design: hidden consumables that are opaque and frustrating",
+          "Replayability: extra roguelike mode adds more, campaign is one-and-done",
+          "Secrets/community: lots of secrets and discovery"
+        ],
+        "rerank_note": ""
+      },
+      {
+        "part": "top10-2025",
+        "label": "Top 10 of 2025 (#8)",
+        "summary": "White Knuckle is a first-person climbing horror roguelike where an unfortunate character tries to escape horrors by going ever upward. He calls it possibly the most unique game on his list, blending 3D platforming with horror. The mechanics are easy to grasp but have a very high skill ceiling, and the story mode is an excellent adventure. He admits it is the hardest to recommend because it is punishing and very stressful, but still suggests trying this stressful gem, especially in early access.",
+        "praise": [
+          "Most unique game on the list, mixing 3D platforming and horror, two uncommon roguelike subgenres",
+          "Simple to understand but with an extremely high skill ceiling",
+          "Dedicated community showing insane climbing speed is fun to watch",
+          "Main story mode is an incredible adventure",
+          "Each biome is unique, with its own disturbing and fun obstacles"
+        ],
+        "criticism": [
+          "Very punishing and possibly the most stressful roguelike he has played, which can be a pro or con",
+          "Early section is constantly on the clock, leaving beginners little room to experiment and risking missing later highlights",
+          "Early section differs wildly from the rest of the game",
+          "Roguelike elements are not the focal point",
+          "Community speed feats can be discouraging; content still thin in early access (wants more biomes, layouts, secrets, consumables, passives)"
+        ],
+        "unique_points": [
+          "Combines 3D platforming and horror in a roguelike, a rare pairing",
+          "Climbing upward as the escape loop, with a high skill-ceiling movement core"
+        ],
+        "quote": "this stressful gem",
+        "comparisons": [],
+        "design_criteria": [
+          "Uniqueness: rare genre blend of 3D platforming and horror",
+          "Skill ceiling: simple mechanics but very high mastery potential",
+          "Level/biome design: each biome has distinct obstacles",
+          "Difficulty/accessibility: punishing and stressful, harsh for beginners",
+          "Roguelike depth: elements are secondary, wants more consumables and passives",
+          "Content/replayability: wants more biomes, layouts and secrets in early access"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A first-person roguelite speed-climbing horror game where you grab ledges with left and right mouse buttons and ascend the vast SUB-STRUCTURE 17 while monsters, hazards and permadeath push you along.",
+      "consensus_summary": "Players love it: Steam lists it as Overwhelmingly Positive at about 98% of roughly 15,000 reviews (14,662 positive, 301 negative), and the review sample shows very high playtimes (many 60 to 400+ hours), which signals unusual stickiness. The tactile two-hand climbing, the horror atmosphere and a very high skill ceiling that feeds a speedrun community are the headline praise. It launched in Early Access on 17 April 2025 from Dark Machine Games and publisher DreadXP, and reviews from late 2025 into 2026 describe regular large content drops (new regions such as the Nest, an Endless mode, an elevator for skipping climbs). Formal critic coverage is thin: Metacritic shows only two early critic reviews without a score, and I could not find an OpenCritic page. The small negative camp mostly likes the core climbing but dislikes permadeath, lack of mid-run saves, RNG perks and harsh late-game enemies.",
+      "best_things": [
+        "Climbing feel: holding ledges with separate left and right mouse buttons feels tactile and physical, and players compare the immersion to Shadow of the Colossus-style grabbing",
+        "Very high skill ceiling; a first campaign clear can take an hour or more while top players finish in under 10 to 20 minutes, which drives heavy speedrun/competitive engagement",
+        "Sweaty-palm tension: horror atmosphere, sound design and the constant risk of falling combine into genuine anxiety, with no easy respawn or checkpoint",
+        "Environments become more colorful and varied as you ascend, and a full-scale structure with no loading screens gives a strong sense of place",
+        "Depth layered under a simple premise: secret rooms, item caches, facility upgrades, artifacts, and lore people keep uncovering after the first clear",
+        "Frequent substantial content updates during Early Access (new regions, Endless mode, new perks/artifacts) keep long-time players returning",
+        "Distinctive dark humor and community in-jokes (roach currency at vending machines, a joke-review culture around the elevator), plus controller support although keyboard and mouse is widely considered best",
+        "Critics who covered early builds noted it was nearly bug-free for Early Access and had a motivating faster-and-longer loop",
+        "Streamer-driven word of mouth: several top reviews say they bought it after watching Jerma struggle with it, and many joke-reviews celebrate the clenching tension"
+      ],
+      "worst_things": [
+        "Permadeath sends you back to the start of a long run; many negative reviewers say progress loss is soul-crushing and time-wasting, especially for new players",
+        "No cheap mid-run save: saving and quitting is costly (bugs currency) or awkward, and floppy-disk backups only respawn you at the computer where you inserted them",
+        "Late-game areas (the Abyss, Hanging Gardens, later regions) are called brutally hard, with enemies like the flying head and harpoon barnacles criticised as frustrating or unfair on precarious terrain",
+        "Heavy trial-and-error: several reviewers describe the campaign as a series of knowledge checks, and deaths can feel like they come from RNG or ragdoll/enemy randomness rather than player error",
+        "Physically demanding for long sessions; one older reviewer found the continuous intense mouse-and-keyboard input exhausting",
+        "Grab detection is seen by some as finicky (crosshair must sit on a hold for a moment), making recoveries inconsistent",
+        "Recent regions (the Nest) were criticised by a few high-hour players as repetitive, visually hard to read and thin on tile variety",
+        "Roguelike layer feels thin to some: perks are rarely offered and lackluster, so there is little power-growth excitement compared with other roguelikes"
+      ],
+      "improvements": [
+        "Add a casual/campaign mode with checkpoints or persistent progress so players can reach new areas without replaying old ones",
+        "Make saving and quitting mid-run cheaper and more accessible, or let floppy-disk backups be banked or transferred between computers",
+        "Rebalance late-game enemies (Abyss and Hanging Gardens threats, harpoon barnacles) and reconsider the gun-driven last section",
+        "Clean up or merge the perk pool so weak perks do not dilute runs, and make perk offers feel more impactful",
+        "Improve transparency of mechanics such as inventory weight and its effect on movement speed, and add clearer on-screen tutorials",
+        "Commonly requested extras: a relaxed zen/no-enemy mode, a level editor or workshop, and more cosmetic/collectible content"
+      ],
+      "unique_things": [
+        "A first-person climbing roguelite where your two hands are literally the core input, which almost no other game matches",
+        "Runs are a vertical ascent through a single continuous megastructure (SUB-STRUCTURE 17) rather than generic room-to-room levels",
+        "Horror that comes from physical exertion and fear of falling, not jump scares; chasing threats like the Mass force you to keep moving fast",
+        "Speedrun-first design: a built-in timer, a competitive mode that trims the perk pool, and a community that clears the campaign in minutes",
+        "Endless mode with an Abyss section where players compete for altitude (one reviewer reports steady runs around 5000 m)",
+        "Roach/bug currency, vending machines, floppy-disk lives and computer respawn points as a quirky meta-layer"
+      ],
+      "tedious_or_disliked": [
+        "Replaying the same early regions every run because there are no real checkpoints is the most repeated complaint",
+        "Long time per run before reaching the next section, which punishes players with limited play time",
+        "Low-value or rarely offered perks can make early runs feel empty when RNG gives nothing useful",
+        "Rage-inducing hazards in the Abyss and Hanging Gardens where enemies block or harpoon you mid-traverse",
+        "Repeated tile reuse in newer regions makes Endless mode feel like a slog to some veterans"
+      ],
+      "divisive_points": [
+        "Roguelite structure: fans see permadeath and randomness as the tension that makes it special, while several reviewers call it a great climbing game held back by being a roguelike",
+        "Difficulty of late-game and new content updates: hardcore players welcome the challenge, but some high-hour players say recent regions are overtuned or less fun than earlier builds",
+        "Input method and stress: some call it relaxing, others find it physically and mentally exhausting, and there is debate whether permanent progression and perks smooth or distort the skill challenge"
+      ],
+      "reception_notes": "Launched into Early Access on 17 April 2025 (Steam, Windows only, about $16.99 in local data) with a demo available, and the original roadmap cited about a year in Early Access with seven regions and extra modes. By 2026 Steam reviews mention multiple large content drops including the Nest region and Endless mode changes; the store listing in local data still shows the Early Access genre tag. Streamer exposure (for example Jerma and Spiff are named in Steam reviews) appears to have driven discovery. Steam-revenue-calculator.com estimates roughly $2.8M gross and $833K net revenue, but it appears to use an old review count (5,230), so this likely underestimates; SteamSpy in local data lists 100,000 to 200,000 owners. Metacritic shows only two early critic reviews (Try Hard Guides and Loot Level Chill) and no Metascore or user score. No OpenCritic page was found. I was unable to run web searches (session search budget exhausted) and could not read Reddit, so community detail relies on Steam reviews plus fetched pages; I could not verify exact patch names or dates.",
+      "sources": [
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3195790.json",
+          "what": "Top helpful positive and negative English Steam reviews (main basis for community themes)"
+        },
+        {
+          "url": "file:///private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 3195790, review counts, price, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3195790/White_Knuckle/",
+          "what": "Steam store page (cached older content: Early Access roadmap, three regions, year-long EA plan)"
+        },
+        {
+          "url": "https://www.metacritic.com/game/white-knuckle/",
+          "what": "Metacritic page: no Metascore yet, needs 4 critic reviews, no user score"
+        },
+        {
+          "url": "https://www.metacritic.com/game/white-knuckle/critic-reviews/",
+          "what": "The two early critic reviews (Try Hard Guides, Loot Level Chill) without scores"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3195790/white-knuckle",
+          "what": "Boxleiter-method revenue estimate (about $2.82M gross, $833K net), likely based on a stale review count"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3195790/reviews/?browsefilter=toprated",
+          "what": "Steam community top-rated reviews: praise for climbing and atmosphere; requests for transparency, zen mode, level editor"
+        },
+        {
+          "url": "https://whiteknuckle.net/",
+          "what": "Official site: premise, demo, Steam and Discord links"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no Metascore/user score yet (2 critic reviews, needs 4), so nulls confirmed; OpenCritic could not be checked (search budget exhausted), left null. Removed single-review performance-regression bullet (2 votes, not a recurring theme). Added streamer/Jerma discovery theme to best_things and thin-roguelike-perks theme to worst_things, both from top Steam reviews. Steam numbers match local data; other bullets consistent with reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 4,
+    "his_row_n": 9,
+    "his_spoken": "said solid",
+    "his_score": 57.2,
+    "his_top10_bonus": 0,
+    "players_score": 97.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 74.9,
+    "labels": [
+      "platformer",
+      "action"
+    ],
+    "primary_label": "platformer"
+  }
+}

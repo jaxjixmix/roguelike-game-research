@@ -1,0 +1,277 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "ring of pain",
+    "name": "Ring of Pain",
+    "display_name": "Ring of Pain",
+    "appid": 998740,
+    "img": "img/998740.jpg",
+    "steam_url": "https://store.steampowered.com/app/998740/",
+    "website": "http://ringofpain.com",
+    "short_description": "Enter the Ring of Pain, a roguelike card crawler where encounters come to you. Each step around the ring a dire decision. Go for the loot or backstab a creeping horror? Meet strange friends bearing gifts and treasure. Choose your gear wisely to survive and discover the secrets of the Ring of Pain.",
+    "developers": [
+      "Simon Boxer",
+      "Twice Different"
+    ],
+    "publishers": [
+      "Balor Games"
+    ],
+    "release_date": "Oct 15, 2020",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Dungeon Crawler",
+      "Card Game",
+      "Rogue-lite",
+      "Turn-Based",
+      "Difficult",
+      "Rogue-like",
+      "Dark",
+      "Strategy",
+      "RPG",
+      "Stylized"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 91.4,
+    "steam_total_reviews": 5107,
+    "metacritic": 74,
+    "metacritic_url": "https://www.metacritic.com/game/ring-of-pain/",
+    "metacritic_user": 7.1,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam all-time user reviews",
+        "score": "91.4% positive (4,666 of 5,107), Very Positive",
+        "url": "https://store.steampowered.com/app/998740/Ring_of_Pain/"
+      },
+      {
+        "source": "Metacritic user score sample size",
+        "score": "7.1 from only 38 user ratings (9 critic reviews)",
+        "url": "https://www.metacritic.com/game/ring-of-pain/"
+      },
+      {
+        "source": "PC Invasion (via Metacritic)",
+        "score": "85/100",
+        "url": "https://www.metacritic.com/game/ring-of-pain/critic-reviews/"
+      },
+      {
+        "source": "GameSpot (via Metacritic)",
+        "score": "80/100",
+        "url": "https://www.metacritic.com/game/ring-of-pain/critic-reviews/"
+      },
+      {
+        "source": "TheSixthAxis",
+        "score": "7/10",
+        "url": "https://www.thesixthaxis.com/2020/10/15/ring-of-pain-review/"
+      },
+      {
+        "source": "GamingTrend (via Metacritic)",
+        "score": "55/100",
+        "url": "https://www.metacritic.com/game/ring-of-pain/critic-reviews/"
+      },
+      {
+        "source": "Steam Spy owner estimate",
+        "score": "200,000 to 500,000 owners",
+        "url": "https://steamspy.com/app/998740"
+      },
+      {
+        "source": "Steam revenue calculator estimate",
+        "score": "about $2.2M gross, about $649K net",
+        "url": "https://steam-revenue-calculator.com/app/998740/ring-of-pain"
+      }
+    ],
+    "vgi_units": 153000,
+    "vgi_revenue": 2100000,
+    "vgi_rating": 91.365,
+    "vgi_reviews": 5107,
+    "vgi_url": "https://app.sensortower.com/vgi/game/ring-of-pain",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "2,199,219.84",
+    "src_net": "648,769.85",
+    "src_url": "https://steam-revenue-calculator.com/app/998740/ring-of-pain",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "it's going to be like a solid b-tier like a mid B tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 7028,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=7028s",
+        "year_in_title": "2020",
+        "pos": 22,
+        "row_n": 35,
+        "row_score": 0.37,
+        "spoken": "said mid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Ring of Pain is a dark, creepy deck-building roguelite where you move around a scrolling ring of cards and always face two at a time. Your equipment acts as your cards, and you fight and customize through it over each run. He loves the horror-ish vibe, art style, bosses and music. He finds the core gameplay a bit bland and repetitive, and runs feel samey unless you find interesting items. Overall it lands as a solid mid B tier.",
+        "praise": [
+          "Unique ring-of-cards gimmick where you always face two cards and move left or right",
+          "Dark, depressing, almost horror theme and vibe",
+          "Awesome, creepy art style and visuals",
+          "Creepy, cool bosses at the end of runs",
+          "Music adds a lot to the atmosphere",
+          "Finding the right item combinations yields rewarding builds",
+          "Large pool of equipment to find and customize"
+        ],
+        "criticism": [
+          "Gameplay feels bland and gets repetitive over time",
+          "Item finds are hit or miss; some runs you get nothing exciting",
+          "Pre-game customization is minimal, so runs feel very similar at the start",
+          "Needs cool items to stay interesting from run to run",
+          "Slow start, where you have to get going before things get interesting"
+        ],
+        "unique_points": [
+          "Equipment doubles as your deck, so there are no traditional cards",
+          "Scrolling ring board with two cards always in front of you is a distinctive deck-building twist"
+        ],
+        "quote": "it's going to be like a solid b-tier like a mid B tier",
+        "comparisons": [],
+        "design_criteria": [
+          "Core gameplay loop: distinctive but repetitive and bland over time",
+          "Item/build variety and synergies: great when found, inconsistent run to run",
+          "Pre-run customization: too minimal, runs feel similar",
+          "Theme and visuals: creepy horror art style is a strong point",
+          "Boss design: creepy and cool",
+          "Audio: music supports the atmosphere",
+          "Replayability/updates: DLCs and updates noted"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A turn-based roguelike card crawler where enemies, loot and shrines sit as cards arranged in a ring around you and you choose what to act on each turn.",
+      "consensus_summary": "Ring of Pain is well liked by players (about 91% positive across roughly 5,100 Steam reviews, Very Positive) but only middling with critics and Metacritic users (Metascore 74, user score 7.1). Everyone agrees the ring layout, dark art and cryptic rhyming writing are distinctive and the core loop is easy to pick up. The dominant complaint in both critic and player reviews is that runs are decided more by RNG and item luck than by skill, with swingy balance and a hard late-game spike. It is a finished, complete game (released Oct 2020, later ported to Switch and Xbox One), not early access or abandoned; current Steam concurrency is tiny (about 30) and recent reviews are still positive. Several players say it is overpriced at $19.99 and lacks endless or modding options.",
+      "best_things": [
+        "The ring layout is a fresh twist on card crawling: you decide which card around you to hit, loot or skip, and each step is a risk/reward choice",
+        "Dark, creepy art direction, audio and atmosphere are consistently praised; the rhyming dialogue and mysterious Owl character add personality",
+        "Simple to learn in minutes yet with real depth in how stats interact with turn order and survivability",
+        "Large unlock pool (Steam lists 300+ items) with real build variety, including combos like petrify, gem and spellbook builds",
+        "Short runs suit quick sessions, and some players use it as a relaxed, low-thought game to play while listening to something",
+        "Daily Dungeon mode with modifiers and multiple difficulty levels and endings add replay value",
+        "Players who love the genre call it a creepier, harder cousin of Slay the Spire with its own identity"
+      ],
+      "worst_things": [
+        "Heavy RNG: the most common complaint, with reviewers calling it a glorified slot machine where a great build can die to one unlucky encounter",
+        "Item balance is uneven: a few common items can reportedly auto-win a run while many legendaries need several other items to work",
+        "Hard difficulty feels too hard while medium feels too easy, so the difficulty curve is awkward",
+        "Late-game and final boss difficulty spike (TheSixthAxis describes a 500 HP final boss against a 29 HP player)",
+        "Runs can be lost to misreading enemy info or a misclick, and some enemies in the back of the ring are hard to see",
+        "Some players find the lore confusing and the ring format not adding enough beyond stats and items",
+        "Some feel it lacks variety and depth once you know the dominant strategies, and compare it unfavourably to Slay the Spire or Balatro"
+      ],
+      "improvements": [
+        "Add an endless or post-game mode, since players who hit both endings say there is little reason to continue",
+        "Rebalance items and enemy scaling so fewer runs are won or lost on item luck",
+        "Smooth the medium-to-hard difficulty jump and the late-game spike",
+        "Let players unequip items without needing a replacement, and give shrines clearer information about outcomes",
+        "Better information UI, for example a way to tab out and inspect the board while choosing stat upgrades or items",
+        "Workshop or modding support, which a long-time player said would have helped the game a lot",
+        "Lower the base price (a reviewer argued it is priced too high to convince friends to try)"
+      ],
+      "unique_things": [
+        "Encounters are arranged in a ring around the player, so the core decision is which card to interact with rather than which card to play from a hand",
+        "Gear, loot, enemies and shrines are all cards in the same ring, and standing still or sneaking past are real options",
+        "Inventory is a limited slot set where swapping equipment and sacrificing health to shrines carry risk",
+        "Horror-tinged dungeon crawl tone with an Owl narrator, a shadow figure and rhyming speech",
+        "Two main endings (light and dark path) plus candle difficulty modes and a Daily Dungeon"
+      ],
+      "tedious_or_disliked": [
+        "Some achievements require replaying the start of a run over and over for hours, and unlocks can be grindy or extremely nasty",
+        "One player reports 802 runs started with 519 abandoned, largely because bad RNG made them give up early",
+        "Final fights with some builds, such as petrify, can take around 30 minutes, which discourages trying hard mode",
+        "Once you find a cheap winning strategy, the game feels samey and repetitive",
+        "Gated difficulty and 'die 250 times' style achievements feel like padding",
+        "The Owl mascot and overly stylised tone grated on at least one reviewer"
+      ],
+      "divisive_points": [
+        "RNG: some players love the high-variance chaos and 'win when it works' feeling, others say skill barely matters",
+        "Price: praised as cheaper than a movie ticket by some, called too expensive at $19.99 by others",
+        "Depth: some see substantial build variety, others find it shallow compared to Slay the Spire and similar deckbuilders",
+        "Difficulty: some enjoy the brutal challenge as fitting the name, others find it unfair rather than hard"
+      ],
+      "reception_notes": "Launched Oct 15, 2020 on PC (Windows and Mac) by Simon Boxer / Twice Different and publisher Balor Games, then came to Nintendo Switch and Xbox One. Critics were mostly mixed-to-good (9 Metacritic reviews from 55 to 85), with 'enjoyable but luck-dependent' as the recurring theme; no critic scored it negatively. Steam players are warmer (Very Positive all-time) though the most helpful negative reviews focus on RNG and balance. Steam lists a Daily Dungeon mode and 300+ unlockable items. No major controversy found; the Mac build is listed as not officially supporting M1 chips. OpenCritic score could not be retrieved in this run (web search budget was exhausted and the OpenCritic page could not be located), so it is recorded as null rather than guessed.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/998740.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review totals, SteamSpy owners and revenue estimates (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/998740/Ring_of_Pain/",
+          "what": "Steam store page: description, tags, features, platforms"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ring-of-pain/",
+          "what": "Metacritic Metascore 74 and user score 7.1 with outlet list"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ring-of-pain/critic-reviews/",
+          "what": "Metacritic critic review blurbs: PC Invasion, COGconnected, Noisy Pixel, GameSpot, Screen Rant, etc."
+        },
+        {
+          "url": "https://www.metacritic.com/game/ring-of-pain/user-reviews/",
+          "what": "Metacritic user review themes: RNG, price, art style"
+        },
+        {
+          "url": "https://www.thesixthaxis.com/2020/10/15/ring-of-pain-review/",
+          "what": "TheSixthAxis 7/10 review: depth, shrines, final boss spike"
+        },
+        {
+          "url": "https://steamcommunity.com/app/998740/discussions/",
+          "what": "Steam community discussion topics: crashes, saves, achievements, sequel questions"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/998740/ring-of-pain",
+          "what": "Estimated gross and net revenue"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 74 (9 critics) and user 7.1 confirmed; added that user score rests on only 38 ratings. OpenCritic left null (web search budget exhausted, could not verify). Removed 2 bullets: generic Steam-feature-list filler ('fully controller supported') from best_things and unverifiable crash/save-corruption claim from worst_things (not in top Steam reviews). RNG-dominant, late-game balance, awkward difficulty, lack of post-game themes confirmed against top helpful Steam reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 22,
+    "his_row_n": 35,
+    "his_spoken": "said mid",
+    "his_score": 37.0,
+    "his_top10_bonus": 0,
+    "players_score": 57.8,
+    "critics_score": 16.8,
+    "critics_avg": 74.0,
+    "overall": 40.3,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "archons",
+    "name": "Archons",
+    "display_name": "Archons",
+    "appid": 2779570,
+    "img": "img/2779570.jpg",
+    "steam_url": "https://store.steampowered.com/app/2779570/",
+    "website": "https://bullethellstudios.com/",
+    "short_description": "Archons is a Roguelite/Survivor game where you control two characters, the Archons- simultaneously! Customize your build and abilities to fit your own unique playstyle and blast your way through enemy parasites and bosses!",
+    "developers": [
+      "BulletHell Studios"
+    ],
+    "publishers": [
+      "BulletHell Studios"
+    ],
+    "release_date": "Dec 6, 2024",
+    "coming_soon": false,
+    "price": "$0.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action",
+      "Action Roguelike",
+      "Bullet Hell",
+      "Rogue-lite",
+      "Action-Adventure",
+      "Controller",
+      "Rogue-like",
+      "Adventure",
+      "RPG",
+      "Atmospheric"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 92.3,
+    "steam_total_reviews": 428,
+    "metacritic": null,
+    "metacritic_url": null,
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "Very Positive, 92.3% of 428 (395 up / 33 down)",
+        "url": "https://store.steampowered.com/app/2779570/Archons/"
+      },
+      {
+        "source": "SteamSpy user score",
+        "score": "94%",
+        "url": "https://steamspy.com/app/2779570"
+      },
+      {
+        "source": "Steam Revenue Calculator (estimate)",
+        "score": "approx. $55.3k gross / $16.3k net",
+        "url": "https://steam-revenue-calculator.com/app/2779570/archons"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "0-20,000",
+        "url": "https://steamspy.com/app/2779570"
+      }
+    ],
+    "vgi_units": 15989,
+    "vgi_revenue": 79146,
+    "vgi_rating": 92.453,
+    "vgi_reviews": 424,
+    "vgi_url": "https://app.sensortower.com/vgi/game/archons",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "55,344.60",
+    "src_net": "16,326.66",
+    "src_url": "https://steam-revenue-calculator.com/app/2779570/archons",
+    "final_tier": "A",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "I think Arkin deserves a solid A spot.",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 519,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=519s",
+        "year_in_title": null,
+        "pos": 10,
+        "row_n": 14,
+        "row_score": 0.3839285714285714,
+        "spoken": "said solid"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Arkins is a horde-like (vampire survivors / bullet heaven) game where you control two characters at once, which he says he has never seen done before. He treats the single-player two-character setup as the more interesting way to play and calls it a pleasantly amazing surprise. The music-synced sound design and slow, forgiving onboarding win him over. The main complaints are the short length (three levels, repeated bosses) and that many abilities do nothing in single-boss fights. He places it in A tier.",
+        "praise": [
+          "Two-character control is a unique twist on the horde-like genre and feels great once it clicks",
+          "Abilities tie into the two-character movement, so each run feels different",
+          "Everything is synced to the electronic music beat, and this can be used strategically (e.g. timed grenades)",
+          "Gentle progression: starts simple, introduces more, slow early gameplay lets players adjust to the controls",
+          "Good damage feedback and readability, so he usually knows why he took damage even with characters far apart",
+          "Solid meta progression and enemy design; attractive look and feel"
+        ],
+        "criticism": [
+          "Game is short: only three levels, each ending in a boss",
+          "Bosses are identical every run and the difficulty meter adds little new",
+          "Wants more content and enemy variation in levels",
+          "On-death and bounce-type abilities are useless against lone bosses with no adds, discouraging those boons",
+          "The two-character control may not click for everyone"
+        ],
+        "unique_points": [
+          "Controlling two characters at once in a horde-like is a novel mechanic combined with a fitting genre",
+          "Beat-synced damage ticks and ability triggers merge music and sound design, and enable rhythm-based strategy",
+          "Design lesson: give boss fights small adds so on-kill and bounce effects still trigger"
+        ],
+        "quote": "Arkin deserves a solid A spot.",
+        "comparisons": [
+          "Vampire Survivors",
+          "other horde-likes / bullet heaven games"
+        ],
+        "design_criteria": [
+          "Novelty/unique twist: two-character control is the core hook",
+          "Audio/music integration: beat-synced effects and sound design",
+          "Meta-progression: substantial unlocks that suit the learning curve",
+          "Onboarding and difficulty curve: slow, forgiving start that builds comfort",
+          "Readability/feedback: clear cause of damage",
+          "Content volume: only three levels and repeated bosses",
+          "Boss design and build synergy: lone bosses invalidate some ability types",
+          "Enemy design: liked, but wants more variety",
+          "Replayability: abilities plus movement make runs feel different"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A short roguelite/survivor bullet-hell from BulletHell Studios in which one player controls two characters at once, one per hand/stick, with weapons that fire in time to the music.",
+      "consensus_summary": "Archons is a small, cheap indie (Steam, Windows only, Dec 6 2024) that sits at Very Positive on Steam (about 92-94% of roughly 430 reviews). Players love the two-character control hook, the tight positioning-focused combat and the music that syncs with weapon attacks. The recurring complaints are that it is short (around 3 hours for the main story, 3 bosses/levels), that content and enemy variety are thin, and that solo play is very mentally taxing while the game is clearly tuned for a controller or local co-op. It has no Metacritic or OpenCritic entry, so there is no critic consensus; reception is entirely player-driven. A few reviewers feel it is under-supported, and one said it seems abandoned, but I found no public patch notes confirming or refuting that. It is frequently discounted to about $1 (90% off the $9.99 base).",
+      "best_things": [
+        "The dual-character mechanic is fresh: controlling two Archons at once is hectic but 'just works' and creates a flow state",
+        "Weapons and attack animations are synced to the soundtrack, praised as a standout (composer Oliver Orand is named in a review)",
+        "Movement and positioning matter more than spamming abilities; you cannot stand still or circle-strafe and win",
+        "Polished and respects your time: a short run-based experience, with endless mode and a hard mode for replay",
+        "Spectacular boss fights and satisfying build combos when rolls line up",
+        "Great value at its frequent steep discounts; StarCraft references delight some players",
+        "Full controller support and local split-screen co-op"
+      ],
+      "worst_things": [
+        "Very short: main story is only 3 stages/bosses, and reviewers call it short or a bit short",
+        "Limited enemy variety; reviewers say many enemies use the same attack pattern and there are few maps",
+        "Maps are too dark and hard to read; some players had to raise brightness",
+        "No camera control and a rotating camera that adds to the stress",
+        "Mouse and keyboard play is poor or problematic; a controller is strongly recommended",
+        "Weak ability synergies and lackluster ability evolutions; the Archon ultimate is a static barrage",
+        "Polish and optimization issues reported, plus poor translation and UI complaints in one negative review",
+        "Ultimate is hard-coded to F even after rebinding (one reviewer)"
+      ],
+      "improvements": [
+        "Add a real single-character or AI-companion mode so solo players are not forced to control two characters",
+        "More content: more bosses/stages, maps and enemy types with distinct attacks",
+        "Give abilities real synergies with the Archon ultimate and stronger ability evolutions",
+        "Improve map brightness/visibility and add camera options",
+        "Fix mouse and keyboard support, rebinding bugs (ultimate on F) and UI/translation rough spots",
+        "Add online co-op (requested in Steam discussions) and New Game+ / quality-of-life features",
+        "Differentiate the two characters visually (color suggestion in discussions)"
+      ],
+      "unique_things": [
+        "You control two characters simultaneously, one per hand, as a survivor-style bullet hell, compared by one reviewer to It Takes Two meets Furi",
+        "Attacks and weapons are rhythm-synced to the music",
+        "Bloodrunes let you sacrifice health for power, and there are multiple currencies to spend",
+        "Local split-screen co-op where each player pilots one Archon, versus solo where one player pilots both",
+        "Positioning-first design rather than screen-filling particle chaos or auto-fire snowballing"
+      ],
+      "tedious_or_disliked": [
+        "Solo play demands a lot of mental juice and is described as stressful; one reviewer called it the most stressful roguelike they had tried",
+        "Some unlocks/research feel grindy ('after a few grind sessions') and one reviewer said difficulty collapsed once a certain research was unlocked",
+        "Healing pickups are time-limited and released by breaking containers, so they get wasted when damage breaks them at random",
+        "Dark maps and lack of camera control are frustrating",
+        "Reported bugs: freezing after reroll, an ice-ground mechanic problem in Endless Hard mode, and an achievement (Heartache) not unlocking"
+      ],
+      "divisive_points": [
+        "Solo vs co-op: some say the game is meant to be played solo (that is the challenge), others say it is made for co-op and solo is too hectic",
+        "Price and length: some call it great only on discount while others say even full price is fair for the polish",
+        "Difficulty: challenging until the two-character skill clicks, then some find builds too easy or some weapons unviable on hard mode"
+      ],
+      "reception_notes": "Launched Dec 6 2024 on Steam for Windows only (no Mac/Linux listed, no console release found). Steam reviews have stayed Very Positive, with about 410-430 total and a recent-review score of 92%; it still gets positive reviews in 2026, including several by players who say they slept on it. Base price is $9.99 and it is heavily discounted to about $1 at times. Steam Community threads in early 2026 show the dev-facing asks (online co-op, mouse support, single-character mode) and some bug reports; one negative reviewer felt it was abandoned and lacked an Early Access tag, though I could not verify the update cadence from public patch notes. No professional critic reviews, Metacritic or OpenCritic pages were found; Deku Deals lists Metacritic as not yet available. Revenue and owner figures are third-party estimates (Boxleiter method), so treat them as order of magnitude only.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2779570.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2779570/Archons/",
+          "what": "Steam store page: description, features, review summary, price"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2779570/discussions/",
+          "what": "Steam community discussion themes: co-op requests, bugs, single-character mode asks"
+        },
+        {
+          "url": "https://steamspy.com/app/2779570",
+          "what": "Owners estimate, user score, tags, price history"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2779570/archons",
+          "what": "Estimated gross and net revenue"
+        },
+        {
+          "url": "https://www.dekudeals.com/items/archons",
+          "what": "Platform, price, playtime range, Metacritic not available"
+        },
+        {
+          "url": "https://gg.deals/gb/game/archons/",
+          "what": "Price tracking and review aggregation (search result only)"
+        },
+        {
+          "url": "https://videogamegeek.com/videogame/460241/archons",
+          "what": "Database entry (fetch blocked, search result only)"
+        },
+        {
+          "url": "https://backloggd.com/games/archons/",
+          "what": "User ratings page (fetch blocked, search result only)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-read local Steam reviews (12 pos, 5 neg shown) and steam_data. Removed best_things bullet on meta progression (not supported by reviews). Reworded 'Very short' worst_thing to drop the unsupported 4-5 hour claim. Critic scores left null: Steam metadata has no Metacritic, WebSearch budget exhausted so OpenCritic/Metacritic could not be re-checked. Healing-pickup and specific bug bullets are not in the local reviews (likely from Steam discussions) and were left unverified."
+    },
+    "his_anchor": null,
+    "his_pos": 10,
+    "his_row_n": 14,
+    "his_spoken": "said solid",
+    "his_score": 38.4,
+    "his_top10_bonus": 0,
+    "players_score": 49.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 43.4,
+    "labels": [
+      "action",
+      "shooter",
+      "survivors_like",
+      "coop"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

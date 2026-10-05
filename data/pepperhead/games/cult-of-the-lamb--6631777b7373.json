@@ -1,0 +1,267 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "cult of the lamb",
+    "name": "Cult of the Lamb",
+    "display_name": "Cult of the Lamb",
+    "appid": 1313140,
+    "img": "img/1313140.jpg",
+    "steam_url": "https://store.steampowered.com/app/1313140/",
+    "website": "http://cultofthelamb.com",
+    "short_description": "Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland Followers and spread your Word to become the one true cult.",
+    "developers": [
+      "Massive Monster"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "release_date": "Aug 11, 2022",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [
+      "Base-Building",
+      "Cute",
+      "Action Roguelike",
+      "Singleplayer",
+      "Dungeon Crawler",
+      "Character Customization",
+      "Rogue-lite",
+      "Dark Humor",
+      "Colony Sim",
+      "Building"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.9,
+    "steam_total_reviews": 130095,
+    "metacritic": 82,
+    "metacritic_url": "https://www.metacritic.com/game/pc/cult-of-the-lamb?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.9,
+    "opencritic": 84,
+    "opencritic_url": "https://opencritic.com/game/13509/cult-of-the-lamb",
+    "other_scores": [
+      {
+        "source": "Steam user reviews",
+        "score": "Overwhelmingly Positive, 95.9% of 130,095 reviews",
+        "url": "https://store.steampowered.com/app/1313140/"
+      },
+      {
+        "source": "OpenCritic player rating",
+        "score": "80/100; 88% of critics recommend",
+        "url": "https://opencritic.com/game/13509/cult-of-the-lamb"
+      },
+      {
+        "source": "GameRevolution",
+        "score": "9/10",
+        "url": "https://www.gamerevolution.com/review/712376-cult-of-the-lamb-review-pc-ps5-ps4-xbox-worth-buying"
+      },
+      {
+        "source": "Steam Woolhaven DLC",
+        "score": "Very Positive, about 93% (469 reviews at launch)",
+        "url": "https://wnhub.io/news/stores-and-publishing/item-49922"
+      }
+    ],
+    "vgi_units": 3900000,
+    "vgi_revenue": 67100000,
+    "vgi_rating": 95.89,
+    "vgi_reviews": 130047,
+    "vgi_url": "https://app.sensortower.com/vgi/game/cult-of-the-lamb",
+    "spy_owners": "2,000,000 .. 5,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "116,292,614.34",
+    "src_net": "34,306,321.23",
+    "src_url": "https://steam-revenue-calculator.com/app/1313140/cult-of-the-lamb",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "I'm gonna put this um probably like above uh children immortum (Children of Morta, just placed low B)",
+        "video_id": "5k_-k4X90ao",
+        "t": 1822,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=1822s",
+        "year_in_title": "2022",
+        "pos": 18,
+        "row_n": 35,
+        "row_score": 0.5,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Cult of the Lamb is a management sim fused with an action roguelite: you tend a cult village between short dungeon runs. He feels combining two very different design approaches leaves both halves underdeveloped, with minimal building and underwhelming combat. He nonetheless got invested thanks to the art and characters and recommends it, placing it just above Children of Morta rather than naming a letter tier.",
+        "praise": [
+          "Art style and visuals are superb and drew him into the cult and its characters",
+          "Looking forward to returning to the village to check on followers",
+          "Finding new map locations felt rewarding and built the world",
+          "Building, though minimalistic, was enjoyable",
+          "Ambitious attempt to merge two genres is respected"
+        ],
+        "criticism": [
+          "Management/building side feels underwhelming",
+          "Action gameplay feels underwhelming",
+          "Runs are super short (around three rooms), so strong build combinations rarely matter",
+          "Few distinct map locations",
+          "Low replay value once the village is built and the game finished"
+        ],
+        "unique_points": [
+          "Combines a village management sim with an action roguelite, splitting time between the two",
+          "Short runs are dictated by the need to tend the village, which some players like"
+        ],
+        "quote": "gameplay wise not a huge fan but I did really enjoy playing it",
+        "comparisons": [
+          "Children of Morta"
+        ],
+        "design_criteria": [
+          "Genre blending: two design approaches each left not fully fleshed out",
+          "Run length: very short runs undermine build power",
+          "Charm/visuals: art style carries investment",
+          "Meta-progression/management: village building is minimal",
+          "World/exploration: map discovery feels rewarding",
+          "Replayability: drops after the first completion"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A cute-but-macabre action roguelite from Massive Monster (published by Devolver Digital, 2022) where you play a sacrificed lamb who founds a cult, alternating between dungeon runs and managing a village of followers.",
+      "consensus_summary": "Cult of the Lamb is received as a highly successful, charming genre blend: critics sit at Metacritic 82 (88 reviews) and OpenCritic 84 (143 reviews, 88% recommend), and Steam players rate it Overwhelmingly Positive (about 96% of 130k reviews). Praise centres on art, music, tone and the addictive loop between combat and cult management; criticism centres on thin combat depth, limited run variety and management that can turn into micromanagement. It has been supported for years with free updates and paid DLC (Sinful Pack, Pilgrim Pack, and the large Woolhaven expansion in January 2026), and is not early access or abandoned. A minority of players find both halves shallow or repetitive, and Woolhaven launch brought some save-corruption and bug complaints.",
+      "best_things": [
+        "Distinctive cute-meets-dark art style, humour and tone; very widely praised",
+        "Catchy, memorable soundtrack that players mention repeatedly",
+        "Combat is responsive, fast and easy to pick up, with short, satisfying dungeon runs",
+        "The loop of running dungeons to feed cult management, then returning to build, is called addictive and cozy",
+        "Emotional attachment to followers (naming, marrying, reviving them, grieving deaths) creates stories players love",
+        "Strong accessibility and difficulty options let players with disabilities or different skill levels enjoy it",
+        "Generous free post-launch content and later DLC; co-op on the Steam version",
+        "Rich lore, hidden quests and steady new unlocks keep progression engaging for fans (though some find the ending and final boss underwhelming)"
+      ],
+      "worst_things": [
+        "Combat is shallow compared with Hades or Binding of Isaac: few real builds, limited weapon/curse variety and little run-to-run difference",
+        "Dungeons start to feel samey once you have cleared several; repetition sets in over time",
+        "The two halves do not fully integrate and some critics call it two genres each done competently but not deeply",
+        "Vague or unexplained mechanics and building descriptions, which the game then punishes you for missing",
+        "Bugs and technical issues: performance on some platforms, menu pause not stopping the village simulation, and save corruption reports around DLC",
+        "Enemy bullets and clutter can be hard to read, and healing items are rare, so early damage can ruin a run",
+        "Endgame does not go as far as other roguelites for players wanting huge replayability"
+      ],
+      "improvements": [
+        "Add more combat depth: parry mechanics, more build-defining weapon and curse synergies and more run variety",
+        "Explain systems, quests and building effects better in-game",
+        "Split-screen or independent village play in co-op so the second player is not tethered and idle during management",
+        "Fix save corruption and pause behavior; clearer timers that do not punish absences",
+        "More variety between dungeon layouts and more endgame replay incentives",
+        "Clearer readability of enemies and projectiles"
+      ],
+      "unique_things": [
+        "Fuses an action roguelite with a cult-running colony sim (Animal Crossing/Stardew style) in one loop",
+        "Adorable woodland-animal aesthetic used to tell a dark, sacrificial cult story with black humour",
+        "Followers have traits, loyalty and lives; you can indoctrinate, marry, sacrifice or revive them",
+        "Choose moral direction of your cult through doctrines, rituals and sermons, with real tradeoffs",
+        "Side activities like fishing, farming, gambling and decorating plus a large cosmetic/customisation set",
+        "Woolhaven adds winter, animal husbandry and new enemies as a second campaign-scale layer"
+      ],
+      "tedious_or_disliked": [
+        "Constant follower needs (feeding, cleaning waste, curing illness, sermons, quests) can feel like chores or laundry rather than fun",
+        "Day/night pressure and timed follower quests add stress and a sense of maintenance over achievement",
+        "Unlock pace slows sharply after the first ~6 hours, with long unlock animations and grindy costs, so progress feels slower over time",
+        "Losing part of your haul on death and rare healing feels punishing to players who came for base building",
+        "Grinding resources and travelling between activities (for example fishing just to support base management) feels like busywork to some",
+        "In co-op, the village management phase leaves one player bored or left out",
+        "Followers age and die quickly, and naming or bonding with them makes deaths and forced sacrifices feel bad for some players"
+      ],
+      "divisive_points": [
+        "Difficulty and roguelike elements: developers said they are core, while some players want them softened; others find Normal just right and praise the difficulty options",
+        "Whether the management half is relaxing and cozy or stressful micromanagement",
+        "Whether the game-of-two-halves structure is a strength or means neither half is excellent",
+        "Whether the game is a masterpiece or merely a charming, repetitive game carried by style"
+      ],
+      "reception_notes": "Launched Aug 11 2022 on PC, consoles and later iOS to strong critic scores and big sales (Steam Revenue Calculator estimates roughly $116M gross, about $34M net to the developer; SteamSpy owners 2-5M; estimates only, not audited). Steam price $24.99 and it is often discounted. The game kept receiving free updates and paid content; Woolhaven (Jan 22 2026) reportedly sold over 60,000 copies on Steam at launch and outsold earlier add-ons, though some players reported save corruption and bugs, especially when adding or removing DLC. Steam and OpenCritic user scores are high, while Metacritic user score (7.9, 70% positive) is notably lower than Steam, suggesting more mixed sentiment there. Available on Windows and macOS on Steam, not Linux.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1313140.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam app data, review summary, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/cult-of-the-lamb/",
+          "what": "Metascore 82 from 88 critics, user score 7.9"
+        },
+        {
+          "url": "https://opencritic.com/game/13509/cult-of-the-lamb",
+          "what": "OpenCritic 84, 143 reviews, 88% recommend, player rating 80"
+        },
+        {
+          "url": "https://www.gamerevolution.com/review/712376-cult-of-the-lamb-review-pc-ps5-ps4-xbox-worth-buying",
+          "what": "9/10 review with pros and cons"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1313140/discussions/0/3410929607725388420",
+          "what": "Steam discussion on roguelike difficulty and developer response"
+        },
+        {
+          "url": "https://slantmagazine.com/games/cult-of-the-lamb-review",
+          "what": "Critical review cited in search for repetition and shallow combat (found via search snippet, page fetch returned 403)"
+        },
+        {
+          "url": "https://criticalvideogamestudies.com/a-roguelike-most-unlike-rogue/",
+          "what": "Critical essay on dungeon runs being brief and the two-half structure (search snippet)"
+        },
+        {
+          "url": "https://nme.com/reviews/game-reviews/cult-of-the-lamb-review-3287112",
+          "what": "NME review on the roguelike/management mishmash (search snippet)"
+        },
+        {
+          "url": "https://wnhub.io/news/stores-and-publishing/item-49922",
+          "what": "Woolhaven sales and Steam reception (search snippet)"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1313140/cult-of-the-lamb",
+          "what": "Revenue estimate via Boxleiter method"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (82, 88 PC critic reviews, user 7.9) and OpenCritic (84, 143 reviews, 88% recommend, player 80): all match, unchanged. Steam data matches 95.9% of 130,095. Rewrote best_things boss/lore bullet (top negative reviews call the final boss underwhelming); rewrote 'long unlock animations' bullet to reflect reviews about unlocks slowing after ~6h; added follower aging/death theme to tedious_or_disliked. Woolhaven 60k sales and Slant/NME snippets not independently re-verified."
+    },
+    "his_anchor": null,
+    "his_pos": 18,
+    "his_row_n": 35,
+    "his_spoken": null,
+    "his_score": 50.0,
+    "his_top10_bonus": 0,
+    "players_score": 88.1,
+    "critics_score": 67.2,
+    "critics_avg": 83.0,
+    "overall": 66.8,
+    "labels": [
+      "action",
+      "strategy",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

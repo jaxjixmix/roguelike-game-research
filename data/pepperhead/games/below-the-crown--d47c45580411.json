@@ -1,0 +1,233 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "below the crown",
+    "name": "Below the Crown",
+    "display_name": "Below the Crown",
+    "appid": 1883920,
+    "img": "img/1883920.jpg",
+    "steam_url": "https://store.steampowered.com/app/1883920/",
+    "website": null,
+    "short_description": "Explore the dungeons Below the Crown, in this love letter to Roguelikes, Dungeon Crawlers, and Chess. Prepare for strategy, game-changing spells, psychological tests, and challenges from your fellow players. From the award-winning creators of Duskers &amp; A Virus Named TOM.",
+    "developers": [
+      "Misfits Attic"
+    ],
+    "publishers": [
+      "Misfits Attic",
+      "Shochiku"
+    ],
+    "release_date": "Apr 21, 2026",
+    "coming_soon": false,
+    "price": "$14.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "tags": [],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 94.5,
+    "steam_total_reviews": 109,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/below-the-crown/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "GameGrin",
+        "score": "8/10 (listed as 80/100 on Metacritic)",
+        "url": "https://gamegrin.com/reviews/below-the-crown-review/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 94.5% of 109 (local snapshot); store page showed 96% of 64",
+        "url": "https://store.steampowered.com/app/1883920/Below_the_Crown/"
+      }
+    ],
+    "vgi_units": 4445,
+    "vgi_revenue": 38514,
+    "vgi_rating": 94.495,
+    "vgi_reviews": 109,
+    "vgi_url": "https://app.sensortower.com/vgi/game/below-the-crown",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": null,
+    "src_net": null,
+    "src_url": null,
+    "final_tier": "B",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put this as a high B tier to me, probably more to a lot of people.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 1152,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=1152s",
+        "year_in_title": null,
+        "pos": 6,
+        "row_n": 10,
+        "row_score": 0.55,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Below the Crown is a small, strategy-focused chess roguelike where you command a wizard who summons pieces onto a board inside dungeons. He feels it is the first chess roguelike that truly captures real chess, since good chess play matters more than wild mechanics. Roguelike elements are tiny per-encounter boosts that never overshadow the core chess thinking. He admits he would not play it a lot himself and it may feel repetitive, but he recommends it to chess fans and places it at high B.",
+        "praise": [
+          "Captures the feel of real chess better than other chess roguelikes; chess skill genuinely makes you better",
+          "Tutorials teach basic chess tactics like pinning, so players learn something",
+          "Smart AI, with gold rewards for strategic plays like checkmates and pins rather than just clearing pieces",
+          "Small, simple roguelike elements (easier placement, one-time freeze, one-time transform) fit the game's goals",
+          "Limited pieces and a sparse board keep turns slow and deliberate",
+          "Unexpected story with fourth-wall-breaking elements",
+          "Rooks look like frogs"
+        ],
+        "criticism": [
+          "Gameplay can feel repetitive, like chess itself",
+          "Slow turns and long individual encounters due to heavy thinking",
+          "Not a game for everyone; requires careful step-by-step play",
+          "He would not personally play it a ton since he is not a strong chess player"
+        ],
+        "unique_points": [
+          "Roguelike upgrades stay modest so the run is still about playing chess well, even at the final boss",
+          "Rewards strategic chess play (checkmate, pins) with gold",
+          "Avoids the common trap of piling on crazy rules that erase the chess feel"
+        ],
+        "quote": "it's finally a chess rogike that I could honestly recommend to chess players.",
+        "comparisons": [
+          "Other chess roguelikes (unnamed, one to be discussed afterwards)"
+        ],
+        "design_criteria": [
+          "Fidelity to core genre (chess): strategy must remain central rather than gimmicks",
+          "Roguelike element restraint: small upgrades that do not break the core loop",
+          "Reward design: gold for checkmates and pins encourages strategic play",
+          "AI quality: smart opponents demand careful thinking",
+          "Pacing/run length: slow turns and long encounters, potential repetitiveness",
+          "Teaching/accessibility: tutorials on basic chess tactics",
+          "Charm/story: frog rooks and fourth-wall-breaking narrative"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A chess-flavoured roguelike puzzle/dungeon crawler from Misfits Attic (Duskers, A Virus Named TOM) where you control a wizard-king, summon and upgrade chess-style pieces, and clear room-sized tactical puzzles.",
+      "consensus_summary": "Players are very positive: Steam shows Very Positive at roughly 94-96 percent across about 110 reviews (103 positive, 6 negative in the local snapshot). It entered Early Access on Nov 10, 2025 and reached 1.0 on Apr 21, 2026 at $14.99, Windows only. The one critic review found (GameGrin, 80/100 or 8/10) calls it creative and fairly balanced but more of a side-activity puzzler than something for long sessions. It is a small, niche title with thin critic coverage, so most of the signal is Steam user reviews. Early Linux crashes and some puzzle-state bugs were reported and at least the Linux crash was later reported fixed. Note: web search quota ran out during research, so Reddit and outlet coverage could not be checked; this summary relies on Steam and one critic review.",
+      "best_things": [
+        "Approachable even for people who are bad at or indifferent to chess: moves are explained, and a danger-tile button shows which squares are threatened",
+        "Fair, well-designed puzzles: failures usually feel like your own mistake rather than cheap unfairness (echoed by reviewers and players)",
+        "Fresh take on chess roguelikes: you start with no pieces, must move the wizard before placing pieces or casting spells, forcing long-term planning instead of just building an overpowered board",
+        "Pieces stay mostly standard with a few restrictive variants, so the game feels 'not too chess but enough chess', with spells, hazard tiles and non-chess pieces adding variety",
+        "Retro neon vector/scanline presentation, hum of old electronics and a tense-but-relaxing atmosphere inherited from Duskers",
+        "Daily challenge leaderboards, shareable replays and community challenges give short-session replayability",
+        "Short runs that can be resumed anytime and multiple win conditions (capture everything or checkmate, board shrinks over time) keep pace brisk",
+        "Interesting meta layer: odd psychological-assessment questionnaires and a mysterious emperor narrative that some compare to Inscryption"
+      ],
+      "worst_things": [
+        "Some players find it shallow or just 'worse than playing chess with generic roguelike mechanics bolted on' (mostly short-playtime negative reviews)",
+        "Technical problems at launch/EA: a Linux crash with heavy memory use, invalid game states, a hopper capture not ending a level, a boss turn that would not end, and achievement tracking glitches",
+        "Board can feel chaotic once more than about five pieces are in play",
+        "Performance issues mentioned in an early negative review",
+        "No mid-puzzle restart: failing means leaving the room without bonuses or upgrades (per GameGrin)",
+        "Minimal animation; the presentation is stylish but sparse",
+        "Narrative is light, especially in the early access build"
+      ],
+      "improvements": [
+        "Controller support was requested on Steam discussions",
+        "A campaign mode built around the Hopper King character was suggested",
+        "A way to restart a puzzle mid-room without forfeiting rewards",
+        "Bug fixes for stuck boss turns, level-completion triggers and achievements",
+        "More depth or content so it holds attention beyond short sessions",
+        "Linux stability: early Linux crash with heavy memory use (reported fixed later), although the store page lists Windows only"
+      ],
+      "unique_things": [
+        "You are a wizard who starts each level with zero pieces and summons them within the wizard's line of sight, unlike drop-anywhere chess roguelikes such as The Rookery",
+        "Shrinking board and alternative win conditions remove the need to actually orchestrate a checkmate",
+        "Psychological-test questionnaires interleaved with play that affect the runs",
+        "Undo tokens, a good-move hint and saved/shared replays make it puzzle-forward and forgiving",
+        "Dungeon-crawler framing with RPG-style piece upgrades and spells layered on real chess tactics (forks, pins, skewers)"
+      ],
+      "tedious_or_disliked": [
+        "Losing a room means losing the run's upgrades from that room with no mid-puzzle restart",
+        "Crowded boards with many pieces can become hard to read and calculate",
+        "Some situations are perceived as unfair, particularly at the highest difficulty",
+        "Players who dislike chess-like thinking find the core loop not engaging",
+        "Not a game for long single sittings; better as a second-monitor or between-chores game"
+      ],
+      "divisive_points": [
+        "Chess as foundation: fans love that chess knowledge is optional, while a few critics say it is simply worse than playing chess",
+        "Depth vs shallowness: long-playtime players find deep synergies and builds, short-playtime negative reviewers call it shallow",
+        "Session length: praised as bite-sized and flexible, but criticised by the critic as unable to hold focus for a full session"
+      ],
+      "reception_notes": "Early Access launched Nov 10, 2025 to strongly positive feedback from fans of Duskers and chess games, with praise for the daily challenge leaderboard. 1.0 launched Apr 21, 2026 (publisher Shochiku alongside Misfits Attic) and sentiment stayed Very Positive. A Linux memory/crash bug present in early builds was reported fixed a few weeks after launch by a user. Also distributed in a Humble bundle (Checkmate! A Chess Games Collection) per a Steam review. Metacritic shows no Metascore yet (only one critic review, needs four) and OpenCritic had no findable entry. Steam owner estimate is tiny/unknown (SteamSpy 0-20k). Windows only; Steam Deck/controller support was a player request.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1883920.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 1883920, release, price, review counts, SteamSpy owners"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1883920/Below_the_Crown/",
+          "what": "Steam store page: features, EA and 1.0 dates, review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1883920/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Steam top-rated reviews page, recurring praise and criticism"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1883920/discussions/",
+          "what": "Steam discussions: bugs, controller support and campaign requests"
+        },
+        {
+          "url": "https://www.metacritic.com/game/below-the-crown/",
+          "what": "Metacritic page: no Metascore yet, GameGrin 80 is the only critic review"
+        },
+        {
+          "url": "https://gamegrin.com/reviews/below-the-crown-review/",
+          "what": "GameGrin review: 8/10, pros and cons"
+        },
+        {
+          "url": "https://opencritic.com/search?q=below%20the%20crown",
+          "what": "OpenCritic search, no entry found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-checked Metacritic page: no Metascore (1 critic review, GameGrin 80, needs 4), no user score; critic_scores null values confirmed correct. Steam reviews confirm best/worst themes (approachable chess, fair puzzles, daily leaderboard; shallow/worse-than-chess, Linux crash). Removed improvement bullet about Mac/Linux builds not being listed (store-page fact, not a player theme) and replaced with a Linux stability bullet grounded in reviews. No bullets added."
+    },
+    "his_anchor": null,
+    "his_pos": 6,
+    "his_row_n": 10,
+    "his_spoken": "said high",
+    "his_score": 55.0,
+    "his_top10_bonus": 0,
+    "players_score": 46.7,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 51.4,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy",
+      "traditional"
+    ],
+    "primary_label": "turn_based"
+  }
+}

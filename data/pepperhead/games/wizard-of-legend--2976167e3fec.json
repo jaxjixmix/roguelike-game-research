@@ -1,0 +1,250 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "wizard of legend",
+    "name": "Wizard of Legend",
+    "display_name": "Wizard of Legend",
+    "appid": 445980,
+    "img": "img/445980.jpg",
+    "steam_url": "https://store.steampowered.com/app/445980/",
+    "website": "http://wizardoflegend.com/",
+    "short_description": "Wizard of Legend is a no-nonsense, action-packed take on wizardry that emphasizes precise movements and smart comboing of spells in a rogue-like dungeon crawler that features over a hundred unique spells and relics!",
+    "developers": [
+      "Contingent99"
+    ],
+    "publishers": [
+      "Contingent99",
+      "Balor Games"
+    ],
+    "release_date": "May 15, 2018",
+    "coming_soon": false,
+    "price": "$15.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Pixel Graphics",
+      "Rogue-like",
+      "Dungeon Crawler",
+      "Local Co-Op",
+      "Action",
+      "Magic",
+      "Multiplayer",
+      "Adventure",
+      "Rogue-lite"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 90.5,
+    "steam_total_reviews": 21076,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/pc/wizard-of-legend?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.4,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic Switch (critic)",
+        "score": "76",
+        "url": "https://www.metacritic.com/game/wizard-of-legend/"
+      },
+      {
+        "source": "Steam all reviews (local dataset)",
+        "score": "90.5% positive of 21,076 (Very Positive)",
+        "url": "https://store.steampowered.com/app/445980/Wizard_of_Legend/"
+      },
+      {
+        "source": "Destructoid (Switch)",
+        "score": "6/10",
+        "url": "https://www.destructoid.com/reviews/review-wizard-of-legend/"
+      }
+    ],
+    "vgi_units": 1500000,
+    "vgi_revenue": 16500000,
+    "vgi_rating": 90.515,
+    "vgi_reviews": 21075,
+    "vgi_url": "https://app.sensortower.com/vgi/game/wizard-of-legend",
+    "spy_owners": "500,000 .. 1,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "13,188,040.32",
+    "src_net": "3,890,471.89",
+    "src_url": "https://steam-revenue-calculator.com/app/445980/wizard-of-legend",
+    "final_tier": "A",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "A",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "this is going to be a very very high a tier for me; Wizard of Legend a final game of tonight is going to be a high a tier",
+        "video_id": "5k_-k4X90ao",
+        "t": 11365,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=11365s",
+        "year_in_title": "2018",
+        "pos": 4,
+        "row_n": 18,
+        "row_score": 0.8095000000000001,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Wizard of Legend is a flashy top-down hack-and-slash roguelite where you pick spells and feel extremely powerful. PepperHead has a deep personal history with it, having played since early access and followed every update, including on stream with a friend. He thinks it is really good but is disappointed it no longer gets updates and that it gets boring after a very long time. He places it as a high A, the last game of the night, and says it could be an easy S with more content and variety.",
+        "praise": [
+          "Core gameplay of unique spells and items makes repetitive content fun",
+          "Makes you feel super powerful",
+          "Very flashy and fun to play",
+          "Huge variety of builds",
+          "Strong personal attachment; he played it a ton over years",
+          "Each past update made the game feel fresh and exciting"
+        ],
+        "criticism": [
+          "Level layouts are mundane and generic",
+          "Repetitive: same layouts recur constantly",
+          "Fights the same enemies over and over while running between areas",
+          "No more updates; he wants a large DLC and more content",
+          "Gets a little boring after a very long time once everything is done"
+        ],
+        "unique_points": [
+          "Spell and item variety alone carries otherwise generic level design",
+          "Design lesson: ongoing content updates keep a roguelite feeling fresh, and their absence limits replay"
+        ],
+        "quote": "it could be an easy s tier if uh there would be more updates",
+        "comparisons": [],
+        "design_criteria": [
+          "Build diversity: many spells and items enable varied builds",
+          "Game feel and power fantasy: flashy, empowering combat",
+          "Level design: generic and repetitive layouts",
+          "Enemy variety: too few, repeated often",
+          "Longevity and content updates: lack of updates and DLC limits replay",
+          "Personal attachment: long history influences the placement"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A fast, spell-combo-driven top-down action roguelite by Contingent99 in which you fight through a dungeon of elemental trials to beat the Council of Magic, building a loadout of spells (Arcana) and relics.",
+      "consensus_summary": "Wizard of Legend is well regarded by players (Steam 'Very Positive', about 90% positive across roughly 21k reviews in the local dataset) and generally favorably by critics (Metacritic PC 79, Switch 76). Praise centres on the huge spell and relic build space, the power-fantasy combo combat, and the couch co-op. The recurring complaints are dashes with no invincibility frames, pit deaths, stunlock from crowds, a slow unlock grind that gates viable builds, and thin environment and boss variety. It is a full release (2018, all major consoles, mobile in 2023) rather than early access, and it has kept receiving content updates. Many current Steam reviewers also compare it favourably to the 2025 sequel, which they say disappointed.",
+      "best_things": [
+        "Enormous build variety: hundreds of spells and relics, and players report still finding new builds after 40+ hours",
+        "Spell combo combat gives a strong 'feel like a real wizard' power fantasy once a build clicks (Avatar-style elemental play is a frequent comparison)",
+        "Relics/Arcana have interesting effects rather than flat percentage stat bumps",
+        "Local couch co-op is frequently called out as a highlight, by reviewers and players alike",
+        "Polished pixel art, animated spell effects and music (Dale North soundtrack)",
+        "Lots of challenge and endgame content: Chaos Trials, challenge modes, a Boss Rush mode and powerful unlockable 'dark spells'",
+        "No microtransactions; Steam reviewers thank the dev for adding content rather than selling it as DLC",
+        "Good short-session runs: players use it for a quick 20-minute run to test a new build"
+      ],
+      "worst_things": [
+        "Dashes have no invincibility frames and any enemy can stagger you, so crowded fights feel like stunlock rather than skill",
+        "Easy to dash or get knocked into pits and void, described by several reviewers as a frustrating death source",
+        "Environments and bosses are limited (three dungeon themes in the original release), so runs feel repetitive over time",
+        "Combat can be cluttered by effects and cramped arenas, making telegraphs hard to read",
+        "Spells and items give little information before purchase, so it is easy to waste currency on gear that does not fit you",
+        "Early difficulty spikes; new players often stall on the second boss and some find the first waves brutal",
+        "Basic attacks dominate while strong spells sit on cooldown, which some find dull",
+        "Accessibility gaps, e.g. a colourblind player says ground markers are hard to see; Switch frame skips noted by Destructoid"
+      ],
+      "improvements": [
+        "Add dash invincibility frames or a more forgiving dodge",
+        "Add some form of light meta-progression (starting stat boosts or more starting spell/relic options) so unlocking feels rewarding",
+        "Show descriptions for cursed relics and spells in-game instead of forcing players to a wiki",
+        "More environment, enemy and boss variety to reduce repetition",
+        "Online co-op (the Destructoid review called out its absence)",
+        "Better colourblind options and clearer hazard/telegraph readability"
+      ],
+      "unique_things": [
+        "Spell-crafting around four base Arcana slots with combo timing and cooldown management, closer to a fighting-game or spell-cast rhythm than a hack-and-slash",
+        "Hard cap on how many unlocked spells you can start a run with, so it plays closer to a pure roguelike than most roguelites despite the unlock shop",
+        "Elemental magic theme with a large cosmetic and signature-spell layer (outfits, signature attacks)",
+        "Built-in local two-player co-op and Boss Rush / Chaos Trial modes",
+        "Relics with build-defining effects instead of generic stat boosts"
+      ],
+      "tedious_or_disliked": [
+        "Unlock grind: guides say to grind certain items first, so the 'steep learning curve' is really a prerequisite grind (a widely upvoted negative Steam review)",
+        "Buying and unlocking spells, relics and robes that many players never use feels pointless with no stat meta-progression",
+        "Many unlocked spells are felt to be weak or redundant compared with the starting set",
+        "Waiting out cooldowns while using basic attacks, and cornering/kiting enemies to pile them up",
+        "Story and boss dialogue beats are disliked by some and felt to undercut the ending"
+      ],
+      "divisive_points": [
+        "No dash i-frames and stunlockable player: some call it bad design, others say it is the core of the game's high-skill power fantasy and what makes success feel earned",
+        "Difficulty and unlock grind: long-time players love mastering it, newcomers and Hades fans often bounce off",
+        "Story and lore amount: one reviewer wants more, others find the narrative unsatisfying",
+        "Comparison to Hades: some find it a poorer fit for the Hades-style expectation, others enjoy it for being slower and more methodical"
+      ],
+      "reception_notes": "Kickstarted in June 2016 (about $72.7k raised vs a $50k goal), published by Humble Games, and launched on May 15, 2018 on PC, Mac, Linux, PS4, Switch and Xbox One; sold 300k copies in 16 days and passed 500k by end of July 2018 per Wikipedia. Steam revenue estimate is about $13.2M gross (about $3.9M net) per steam-revenue-calculator.com (Boxleiter-style estimate), with SteamSpy showing 500k-1M owners. Reception has held up since launch, with a recent Steam window still Very Positive (82% of 28 recent reviews when fetched). Mobile versions arrived Oct 2023. The sequel, Wizard of Legend 2 (Dead Mage), released in June 2025 and several 2025-26 Steam reviewers describe it as a letdown relative to the original. Note: I could not obtain an OpenCritic page (web search budget exhausted and the guessed page was for another game), and Metacritic user score is based on only about 114 ratings.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/445980.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store metadata, review totals, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/445980/Wizard_of_Legend/",
+          "what": "Steam store page, all-time and recent review status"
+        },
+        {
+          "url": "https://www.metacritic.com/game/wizard-of-legend/",
+          "what": "Metacritic aggregate: Switch critic score, user score 7.4, outlet summaries"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/wizard-of-legend",
+          "what": "Metacritic PC Metascore 79"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wizard_of_Legend",
+          "what": "Development, Kickstarter, release platforms, sales milestones, reception, sequel"
+        },
+        {
+          "url": "https://www.destructoid.com/reviews/review-wizard-of-legend/",
+          "what": "Destructoid 6/10 Switch review: performance, missing spell info, no online co-op"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/445980/wizard-of-legend",
+          "what": "Estimated gross/net revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://steamcommunity.com/app/445980/discussions/",
+          "what": "Steam community discussion topics: difficulty, Steam Deck issues, mod requests"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: page shows 76 critic (16 reviews) and user 7.4 (114 ratings); Steam API reports PC Metascore 79, so 79 PC / 76 Switch kept as is, not independently resolvable. Removed two 'other' scores (Nintendo Insider 90, GameGrin 85) that cited only the generic Metacritic URL and could not be verified. OpenCritic left null (search budget exhausted). Did not re-audit review bullets; they align with the cited Steam review data."
+    },
+    "his_anchor": null,
+    "his_pos": 4,
+    "his_row_n": 18,
+    "his_spoken": "said high",
+    "his_score": 81.0,
+    "his_top10_bonus": 0,
+    "players_score": 54.3,
+    "critics_score": 42.0,
+    "critics_avg": 79.0,
+    "overall": 63.8,
+    "labels": [
+      "action",
+      "coop"
+    ],
+    "primary_label": "action"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "fury unleashed",
+    "name": "Fury Unleashed",
+    "display_name": "Fury Unleashed",
+    "appid": 465200,
+    "img": "img/465200.jpg",
+    "steam_url": "https://store.steampowered.com/app/465200/",
+    "website": "http://www.awesomegamesstudio.com",
+    "short_description": "Shoot your way through the pages of an ever-changing comic book in this fast-paced roguelike. Play solo, in local or online co-op, expand your weaponry, and upgrade your hero with each run. All that to find out why has your creator lost his faith in you and to prove him wrong.",
+    "developers": [
+      "Awesome Games Studio"
+    ],
+    "publishers": [
+      "Awesome Games Studio"
+    ],
+    "release_date": "May 8, 2020",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Replay Value",
+      "Rogue-like",
+      "Fast-Paced",
+      "Difficult",
+      "Online Co-Op",
+      "Old School",
+      "Platformer",
+      "Shooter",
+      "Local Multiplayer",
+      "2D Platformer"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 87.2,
+    "steam_total_reviews": 2922,
+    "metacritic": 79,
+    "metacritic_url": "https://www.metacritic.com/game/pc/fury-unleashed?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 7.5,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic (all-platform page, 10 critic reviews)",
+        "score": "76",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "87.2% positive of 2,922 (Very Positive)",
+        "url": "https://store.steampowered.com/app/465200/Fury_Unleashed/"
+      },
+      {
+        "source": "GameGrin",
+        "score": "85",
+        "url": "https://www.gamegrin.com/reviews/fury-unleashed-review/"
+      },
+      {
+        "source": "Vandal",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "The Digital Fix",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "4Players",
+        "score": "78",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "Destructoid",
+        "score": "75 (7.5/10)",
+        "url": "https://www.destructoid.com/reviews/review-fury-unleashed/"
+      },
+      {
+        "source": "Gameblog.fr",
+        "score": "60",
+        "url": "https://www.metacritic.com/game/fury-unleashed/"
+      },
+      {
+        "source": "Steam-revenue-calculator estimate",
+        "score": "about $125k gross / $37k net; 20k-50k owners (SteamSpy)",
+        "url": "https://steam-revenue-calculator.com/app/465200/fury-unleashed"
+      }
+    ],
+    "vgi_units": 87690,
+    "vgi_revenue": 880000,
+    "vgi_rating": 87.239,
+    "vgi_reviews": 2923,
+    "vgi_url": "https://app.sensortower.com/vgi/game/fury-unleashed",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "125,083.44",
+    "src_net": "36,899.61",
+    "src_url": "https://steam-revenue-calculator.com/app/465200/fury-unleashed",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "unclear",
+        "verbal_evidence": "none",
+        "video_id": "5k_-k4X90ao",
+        "t": 3757,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=3757s",
+        "year_in_title": "2017",
+        "pos": 23,
+        "row_n": 35,
+        "row_score": 0.3571428571428571,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Fury Unleashed is a flashy, comic-book-framed action roguelike with big guns and explosions against Nazis, aliens and monsters. He loves the meta-story about a tired comic writer, which turns emotional and feels personal to the developer. Individual runs get repetitive because guns feel alike and there are no unique run-altering abilities. He treats it as more of a campaign-like experience that he finished once in about 10 hours, and he places it around the middle of the board without naming a tier letter.",
+        "praise": [
+          "Surprisingly heartwarming, emotional story framed as a comic book writer's tale, told through emails",
+          "Awesome bosses",
+          "Great music and art",
+          "Flashy, explosive gunplay with big guns",
+          "Best story-to-gameplay ratio on the list",
+          "Fun for roughly a 10 hour playthrough"
+        ],
+        "criticism": [
+          "Runs get very repetitive",
+          "Many guns but they feel fairly similar to one another",
+          "No unique abilities found during runs, so runs do not feel different",
+          "Plays like a one-and-done campaign with little reason to return"
+        ],
+        "unique_points": [
+          "The whole game is framed as a comic book being written by a burnt-out writer, with an emotional real-feeling meta narrative",
+          "Story strength is unusually high relative to the gameplay depth"
+        ],
+        "quote": "best story to gameplay ratio yeah the story was so good",
+        "comparisons": [],
+        "design_criteria": [
+          "Run variety: weapons feel similar and lack unique abilities, so runs blur together",
+          "Replayability: campaign-like, finished once and unlikely to return",
+          "Boss design: bosses are awesome",
+          "Audio and visuals: great music and art",
+          "Narrative: standout emotional story and framing",
+          "Game feel: flashy, explosive, what you see is what you get"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A fast 2D run-and-gun roguelite platformer set inside a living comic book, where each room is a comic panel and ink is the upgrade currency; playable solo or in local/online co-op.",
+      "consensus_summary": "Fury Unleashed is well liked but rarely treated as a genre heavyweight. Steam shows about 87% positive across roughly 2,900 reviews (Very Positive), and Metacritic critic scores sit in the high 70s (79 on PC, 76 across platforms), with user reviews and critic reviews both calling it polished, tight and cheap fun. Reviewers compare it to Contra/Metal Slug crossed with Dead Cells and Rogue Legacy, and lean on its combo system and control feel. Criticism centres on repetitive content (few level themes, samey bosses), modest meta-progression, and spongy enemies on the default Hard setting. The other recurring complaint in recent years is flaky online co-op. It is a released, non-early-access game (Steam release listed as May 8, 2020); the developer keeps an active Steam community presence (bug-report threads, Discord), but recent reviews show online co-op and platform issues (Steam Deck, Linux audio, crashes) are still open pain points. No OpenCritic page was located.",
+      "best_things": [
+        "Tight, responsive controls: dash, double jump, stomp, shoot and melee feel smooth and precise, which reviewers call the game's strongest asset",
+        "Combo/heat system rewards aggressive, damage-free play with escalating rewards such as health and shield drops, and is described as the freshest mechanic",
+        "Comic-book framing: chapters are individual comics and stages are laid out as comic panels, which players find creative and cohesive",
+        "Big arsenal and many power-ups with trade-offs, giving varied runs; cited as a source of replayability, plus about 40 bosses",
+        "Very customisable: adjustable difficulty sliders, full button remapping and character/face customisation",
+        "Couch and online co-op make it far more fun with a friend, and two controllers even work in single-player for a silly shared-character mode",
+        "Great value: often heavily discounted, with many reviewers saying it is worth more than they paid",
+        "Strong soundtrack and a fast, chaotic, adrenaline-heavy feel that several players call an underrated gem"
+      ],
+      "worst_things": [
+        "Online co-op is unreliable: players report failing to connect over half the time, desyncs, and in 2026 reviews it is described as hard to get working",
+        "Co-op design gripes: in online lobbies only the host can customise a character while the guest waits",
+        "Repetition: only four level themes, rooms, weapons and bosses can feel alike over long sessions",
+        "Enemies are spongy on Hard, slowing the pace; some find enemies spawning underneath them cheap",
+        "Progression is seen as minor and mostly stat upgrades (health, etc.) rather than changing how you play; some upgrades are barely noticeable, like the blink invulnerability",
+        "Weapon drops are random, and some runs go long stretches with nothing good",
+        "Stability issues reported by some: a top-upvoted negative review reports consistent crashes shortly after launch; Steam forum topics mention black-screen crashes, Steam Deck and Linux audio problems",
+        "Some reviewers find it short and, for solo play, outclassed by better action roguelites"
+      ],
+      "improvements": [
+        "Fix and modernise online co-op connectivity and sync, and let guests customise their own characters",
+        "Add more level themes, enemy types and boss variety to reduce sameness",
+        "Deeper meta-progression: unlocks that change playstyle rather than small stat bumps",
+        "Rebalance enemy health on the default Hard difficulty to keep pacing brisk",
+        "Smoother Switch performance (Nintendo Life cited framerate issues) and better Steam Deck/Linux support",
+        "More reliable weapon availability per run so a run is not dead for long stretches"
+      ],
+      "unique_things": [
+        "Every stage is a page of a comic book, with rooms as panels and chapters as issues, tied into a story about a creator who has lost faith in his hero",
+        "Ink is both the currency dropped by enemies and the thing you spend on upgrades",
+        "Combo meter tied to survival: a whole run on one continuous combo is a stated challenge, and heat increases damage and healing drops",
+        "Full customisation: players can change every difficulty setting, remap every button and design their character's look",
+        "Hard is the default, with Easy mode locking leaderboards and achievements, plus harder modes and a secret final level unlocked later",
+        "Roguelite with light grinding until the late secret final level, blended with old-school Contra-style run-and-gun"
+      ],
+      "tedious_or_disliked": [
+        "Hard-mode enemy sponginess and tiptoeing around damage makes some runs feel slow and tedious",
+        "Early-game low-level runs feel very hard before upgrades make it easy (one reviewer likens it to Destiny: the game starts at full level)",
+        "Upgrade grinding is called a grind by some, and the secret final level surprised and frustrated a reviewer",
+        "Repetitive bosses, which one reviewer summarises as jumping around and shooting",
+        "Connecting to online co-op is a hassle, sometimes harder than playing the game",
+        "Basic for genre veterans: one top negative review says anyone who plays a lot of roguelikes will get bored of it"
+      ],
+      "divisive_points": [
+        "Difficulty: Hard default is praised as challenging-but-fair by some and as spongy, tedious and unfair by others",
+        "Art style: some enjoy the personality of the paper cut-out comic look; Gameblog.fr called the art direction insipid, and one reviewer admits he dislikes games that look like flash games (though he ended up recommending it)",
+        "Value: many call it a steal on sale, while a couple of reviewers say it is not worth full price and is better with a friend than solo",
+        "Progression depth: some find upgrades motivating and enough to keep playing; others find them too minor to matter"
+      ],
+      "reception_notes": "Metacritic lists PC, PS4, Xbox One, Switch and iOS versions. PC Metascore is 79 from 9 reviews (90% positive, 10% mixed, 0% negative) and the all-platform page shows 76 from 10, with user score 7.5 from 31 ratings. Steam sample: 87% positive of about 2,900 reviews, with a SteamSpy owner estimate of 20k-50k and a steam-revenue-calculator estimate near $125k gross (order-of-magnitude only, Boxleiter method). Steam lists release May 8, 2020, no early-access history was found on the store page, and the developer describes five years of polish. Price is $19.99 but heavily discounted often. Recent (2025-2026) Steam reviews still praise it as a cheap, fun game but increasingly flag broken or hard-to-use online co-op. The Steam forum has an active bug-report thread, Discord, and topics about Steam Deck, Linux audio and crashes. Note: the orchestrator's listed year of 2017 conflicts with the Steam date; Steam release 2020 is what the data shows, and an earlier 2017 date could reflect development/Kickstarter stage but was not verified. The OpenCritic page and Reddit could not be checked (web search budget exhausted; Reddit fetch blocked).",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/465200.json",
+          "what": "Local Steam top-helpful positive (18) and negative (9) English reviews file"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store metadata, review totals, SteamSpy tags/owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/465200/Fury_Unleashed/",
+          "what": "Steam store page: features, tags, review rating, developer description"
+        },
+        {
+          "url": "https://steamcommunity.com/app/465200/discussions/",
+          "what": "Steam community forum topics: co-op connectivity, Steam Deck, Linux audio, crashes, Discord"
+        },
+        {
+          "url": "https://www.metacritic.com/game/fury-unleashed/",
+          "what": "Metacritic all-platform page: 76 critic (10 reviews), 7.5 user, outlet scores and blurbs"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/fury-unleashed/",
+          "what": "Metacritic PC page: 79 Metascore from 9 reviews"
+        },
+        {
+          "url": "https://www.destructoid.com/reviews/review-fury-unleashed/",
+          "what": "Destructoid 7.5/10 review: combo praise, limited progression, four level themes"
+        },
+        {
+          "url": "https://www.gamegrin.com/reviews/fury-unleashed-review/",
+          "what": "GameGrin 8.5/10 Switch review: tight combat, repetitive bosses, inconsequential upgrades"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/465200/fury-unleashed",
+          "what": "Boxleiter-method revenue estimate"
+        },
+        {
+          "url": "https://opencritic.com/search?q=fury%20unleashed",
+          "what": "Checked for OpenCritic listing; no score found"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: all-platform 76 (10 critics), user 7.5 (31 ratings); PC 79 (9 critics) matches Steam metacritic field, so scores left unchanged; OpenCritic stays null. Removed 'mobile-like/flash-like' tedious bullet (one reviewer who actually praised the game; misrepresented as a recurring complaint) and replaced with 'basic for genre veterans' from top negative review. Clarified art-style divisive bullet and stability bullet attribution to reviews vs forum. Core themes (controls, combo, comic framing, co-op bugs, repetition, spongy Hard enemies) consistent with top-voted reviews."
+    },
+    "his_anchor": null,
+    "his_pos": 23,
+    "his_row_n": 35,
+    "his_spoken": null,
+    "his_score": 35.7,
+    "his_top10_bonus": 0,
+    "players_score": 37.6,
+    "critics_score": 42.0,
+    "critics_avg": 79.0,
+    "overall": 37.6,
+    "labels": [
+      "shooter",
+      "platformer",
+      "action",
+      "coop"
+    ],
+    "primary_label": "shooter"
+  }
+}

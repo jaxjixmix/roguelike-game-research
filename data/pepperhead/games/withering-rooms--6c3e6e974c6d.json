@@ -1,0 +1,134 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "withering rooms",
+    "name": "Withering Rooms",
+    "display_name": "Withering Rooms",
+    "appid": 2006140,
+    "img": "img/2006140.jpg",
+    "steam_url": "https://store.steampowered.com/app/2006140/",
+    "website": "https://witheringrooms.com",
+    "short_description": "Withering Rooms is a challenging 2.5D horror RPG set in a procedurally generated Victorian mansion that changes each night. Explore Mostyn House to collect the perfect items for your build and face a huge cast of overgrown undead, invisible ghosts, devious witches, and more.",
+    "developers": [
+      "Moonless Formless"
+    ],
+    "publishers": [
+      "Perp Games"
+    ],
+    "release_date": "Apr 5, 2024",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "tags": [
+      "Horror",
+      "Action Roguelike",
+      "2.5D",
+      "Mystery",
+      "Adventure",
+      "Procedural Generation",
+      "2D",
+      "Female Protagonist",
+      "Stealth",
+      "Action"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.5,
+    "steam_total_reviews": 1600,
+    "metacritic": null,
+    "metacritic_url": null,
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [],
+    "vgi_units": 29233,
+    "vgi_revenue": 540000,
+    "vgi_rating": 95.5,
+    "vgi_reviews": 1600,
+    "vgi_url": "https://app.sensortower.com/vgi/game/withering-rooms",
+    "spy_owners": "20,000 .. 50,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "492,802.80",
+    "src_net": "145,376.83",
+    "src_url": "https://steam-revenue-calculator.com/app/2006140/withering-rooms",
+    "final_tier": null,
+    "final_part": null,
+    "placements": [],
+    "top10": [
+      {
+        "year": "2024",
+        "rank": 7,
+        "video_id": "pKh9Soutfj8",
+        "t": 390,
+        "url": "https://www.youtube.com/watch?v=pKh9Soutfj8&t=390s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "top10-2024",
+        "label": "Top 10 of 2024 (#7)",
+        "summary": "Withering Rooms is a 2.5D action horror roguelike mixing stealth and soulslike mechanics in a surprisingly large adventure. You play a young girl who starts out weak and hiding from monsters, then grows into a fighter or wizard. He calls it the most surprising and interesting game on his list, feeling more like an action horror adventure than a typical roguelike. Despite UI, repetition and weak-boss complaints, he highly recommends it to anyone wanting a different roguelike experience.",
+        "praise": [
+          "Surprising scope: keeps expanding until it feels like a massive adventure game",
+          "Intentionally slow, simple, clunky gameplay that supports the vulnerable start",
+          "Progression from helpless hiding to becoming a true fighter or wizard",
+          "Hardcore death system that sends you back to chapter start, making combat risky and frightening",
+          "Remembrance shrines let you pay to permanently keep items, an interesting player decision",
+          "Curse rot mechanic changes visuals, audio and gameplay, with fantastic effort put into the changes",
+          "Strong sense of adventure and unique monsters"
+        ],
+        "criticism": [
+          "Map and inventory UI could use better filters and player feedback",
+          "Late-game fast travel is lacking",
+          "Gets repetitive by the end despite its size",
+          "Player became so overpowered as to be near invincible",
+          "Many bosses look cool but are mechanically uninteresting, and infinite lives in boss fights reduce the threat"
+        ],
+        "unique_points": [
+          "Permadeath treated as a hardcore chapter-reset death system rather than a full run reset, keeping levels and permanent items",
+          "Curse meter that rises with horrifying events and transforms the world and mechanics",
+          "Roguelike elements (random loot, rings with randomized stats) serve an action horror adventure"
+        ],
+        "quote": "I cannot deny how unique and surprising withering rooms was to me",
+        "comparisons": [],
+        "design_criteria": [
+          "Risk vs reward: hardcore death and loot loss make combat frightening",
+          "Meta-progression: remembrance shrines to permanently keep items",
+          "Atmosphere/visuals/audio: curse-driven changes to the world",
+          "Boss design: visually cool but mechanically shallow, infinite lives reduce threat",
+          "UI/usability: map and inventory filtering and feedback",
+          "Pacing/repetition: large game that gets repetitive late",
+          "Difficulty/balance: becomes overpowered late",
+          "Exploration/adventure feel: sense of expanding world"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": null,
+    "his_anchor": null,
+    "his_pos": null,
+    "his_row_n": null,
+    "his_spoken": null,
+    "his_score": null,
+    "his_top10_bonus": 0,
+    "players_score": 78.0,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 78.0,
+    "labels": [
+      "action"
+    ],
+    "primary_label": "action"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "the spell brigade",
+    "name": "The Spell Brigade",
+    "display_name": "The Spell Brigade",
+    "appid": 2904000,
+    "img": "img/2904000.jpg",
+    "steam_url": "https://store.steampowered.com/app/2904000/",
+    "website": "https://thespellbrigade.com",
+    "short_description": "Survivors-like with ONLINE CO-OP for 1-4 players. Team up with your wizard friends to slay hordes of dark creatures. Complete team-based objectives, unlock new upgrades and create overpowered spell synergies. Friend nor foe is safe in this friendly fire bullet hell!",
+    "developers": [
+      "Bolt Blaster Games"
+    ],
+    "publishers": [
+      "Bolt Blaster Games"
+    ],
+    "release_date": "Apr 29, 2026",
+    "coming_soon": false,
+    "price": "$12.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Online Co-Op",
+      "Bullet Hell",
+      "Rogue-lite",
+      "Co-op",
+      "Magic",
+      "Action",
+      "Rogue-like",
+      "Multiplayer",
+      "3D"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 81.4,
+    "steam_total_reviews": 16921,
+    "metacritic": 69,
+    "metacritic_url": "https://www.metacritic.com/game/the-spell-brigade/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (all reviews, local data)",
+        "score": "81.4% positive of 16,921 reviews (Very Positive)",
+        "url": "https://store.steampowered.com/app/2904000/The_Spell_Brigade/"
+      },
+      {
+        "source": "Steam store page (live fetch)",
+        "score": "86% positive overall; 81% positive last 30 days (Very Positive)",
+        "url": "https://store.steampowered.com/app/2904000/The_Spell_Brigade/"
+      },
+      {
+        "source": "Metacritic PC (4 critic reviews)",
+        "score": "73",
+        "url": "https://www.metacritic.com/game/the-spell-brigade/"
+      },
+      {
+        "source": "Video Chums",
+        "score": "80/100",
+        "url": "https://www.metacritic.com/game/the-spell-brigade/critic-reviews/"
+      },
+      {
+        "source": "Gaming Boulevard",
+        "score": "75/100",
+        "url": "https://www.metacritic.com/game/the-spell-brigade/critic-reviews/"
+      },
+      {
+        "source": "PlayStation Country",
+        "score": "50/100",
+        "url": "https://www.metacritic.com/game/the-spell-brigade/critic-reviews/"
+      }
+    ],
+    "vgi_units": 1600000,
+    "vgi_revenue": 12400000,
+    "vgi_rating": 81.435,
+    "vgi_reviews": 16908,
+    "vgi_url": "https://app.sensortower.com/vgi/game/the-spell-brigade",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "3,405,071.52",
+    "src_net": "1,004,496.10",
+    "src_url": "https://steam-revenue-calculator.com/app/2904000/the-spell-brigade",
+    "final_tier": "B",
+    "final_part": "4",
+    "placements": [
+      {
+        "part": "4",
+        "date": "2025-12-01",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "A",
+        "verbal_evidence": "Currently, in its early access is going to be a low A tier.",
+        "video_id": "kTg56_oKfGY",
+        "t": 7765,
+        "url": "https://www.youtube.com/watch?v=kTg56_oKfGY&t=7765s",
+        "year_in_title": null,
+        "pos": 2,
+        "row_n": 10,
+        "row_score": 0.8095000000000001,
+        "spoken": "said A, placed B"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "4",
+        "label": "Tier list Part 4 (2025)",
+        "summary": "The Spell Brigade is a top-down, movement-only survivor-like in early access, built around finding and upgrading spells and combining elements onto them. He finds it very satisfying and enjoyable at its core, especially for its movement feel and multiplayer, but wants more content (spells, elements, relics, maps, bosses) and balance work. He places it in low A for now and thinks it could climb as updates land.",
+        "praise": [
+          "Movement-only gameplay is a confident choice and the movement feel is excellent, possibly better than Brotato's",
+          "Elemental combos on spells (fire, lightning, frost, acid, dark) create chaotic, varied builds with unique visuals per combination",
+          "Randomized upgrade numbers based on luck",
+          "Exploding enemies chain reactions act as a catch-up mechanic for players behind",
+          "Revive system that works even in single player",
+          "Mini quests during runs add variety",
+          "Multiplayer is a blast and clearly the design focus; straightforward meta progression and many unlockable characters keep him playing"
+        ],
+        "criticism": [
+          "Only four maps and they feel repetitive, with not enough to do on them",
+          "Characters feel too similar; unique stats are minimal",
+          "Relic chests are oddly designed, small and specific, and annoying to find in single player since looking for them costs XP",
+          "Mini quests are unbalanced, some trivial and some nearly impossible",
+          "Some spells are weaker than others, feedback on damage and friendly fire is unclear, and only two final bosses with uneven difficulty",
+          "Fourth spell choice feels useless and muddies the upgrade pool; wants a choice of spell count and more rerolls"
+        ],
+        "unique_points": [
+          "Elemental infusion system where any element can combine with any spell, with distinct visuals",
+          "Enemies slow slightly when near the player, making weaving between them feel badass",
+          "Explosive-enemy chain reactions as a catch-up mechanic",
+          "Designed primarily for multiplayer with friendly fire and generous revives"
+        ],
+        "quote": "Currently, in its early access is going to be a low A tier.",
+        "comparisons": [
+          "Brotato"
+        ],
+        "design_criteria": [
+          "Movement and mobility: core to a minimalistic survivor-like, praised highly",
+          "Synergies/build variety: elemental combinations on spells",
+          "Content diversity: wants more spells, elements, relics, bosses, maps",
+          "Map/level design: four maps feel repetitive",
+          "Character diversity: characters too similar",
+          "Balance: uneven quests, spells and final bosses",
+          "Player feedback: unclear damage and friendly-fire signals",
+          "Catch-up mechanics and revives: explosive chains, revive system",
+          "Meta progression: straightforward currency upgrades and unlocks",
+          "Multiplayer design: fun, friendly fire, primary design focus",
+          "Visuals: unique spell looks per element"
+        ],
+        "rerank_note": "Early access placement; he says it could climb the ranks as content and balance are added."
+      }
+    ],
+    "community": {
+      "one_liner": "A 3D survivors-like (bullet heaven) from Bolt Blaster Games where 1-4 wizards fight hordes together online, with friendly fire, team objectives and elemental spell infusions.",
+      "consensus_summary": "Steam players rate it Very Positive (about 81% of ~16.9k reviews in the local data; the live store page showed 86% overall and 81% in the last 30 days), driven mainly by co-op chaos, charming art and a satisfying core loop. The full 1.0 release on Apr 29, 2026 (after Early Access from Sep 16, 2024) sharply split the community: the most upvoted negative reviews blame a 3-5x increase in grind, costlier permanent upgrades and wizards locked behind gold instead of achievements. Critics are more lukewarm, with a Metacritic score of 69 (Mixed) from a handful of mostly PS5 reviews that praise the multiplayer but flag limited enemy variety and slow progression. Overall: a fun, friend-oriented co-op survivors-like that many feel is thin on variety and too grindy.",
+      "best_things": [
+        "Online co-op for up to 4 is the standout; friendly fire, spell combos and accidentally wiping teammates generate the fun, and reviewers call it the game that makes or breaks the experience",
+        "Art style, animation and cute wizard designs with cosmetics and skins are widely praised as polished and welcoming",
+        "Easy to pick up, chaotic 'brain off' gameplay that works for chill sessions with friends; several groups report returning weekly",
+        "Elemental infusions, augments and spell synergies allow varied, sometimes overpowered builds",
+        "Team-based map objectives and quests add some structure beyond pure survival (Metacritic critics cite novel map design and quest systems)",
+        "Regular developer updates and receptive, community-oriented devs during Early Access",
+        "Runs well on Steam Deck and has cross-platform multiplayer, solo option and controller support",
+        "Low price (about $13) and a long-lasting time sink for some players, with several reviewers logging 100-280 hours"
+      ],
+      "worst_things": [
+        "1.0 grind spike: gold rewards reduced while prices of permanent upgrades, enchantments, prestige resets and covenant unlocks rose sharply; reviewers say unlocking everything would take hundreds of hours",
+        "Wizard unlocks moved from achievement/challenge-based to gold purchases, removing a beloved mechanic and adding tedium",
+        "Limited variety: same enemies on every map, only a couple of bosses, and about a third of spells described as weak",
+        "Shallow progression: hour 30 plays like hour 1 with bigger stats, so runs feel repetitive after a dozen matches",
+        "Netcode and connection problems: no reconnect after a disconnect (a dropped player cannot rejoin), and lag with players matched from distant regions due to no region lock",
+        "Performance: endless mode gets very laggy as the screen fills up",
+        "Music is seen as basic, repetitive and poorly fitted to the game",
+        "Patch cycle perceived as fixing one thing while breaking another (e.g. controller problems after patch 1.1.4 reported on the Steam forum)"
+      ],
+      "improvements": [
+        "Reduce the gold/grind economy and restore cheaper or achievement-based ways to unlock wizards and covenants",
+        "Add more enemy types, bosses, maps and spells, and better balance across augments and elements",
+        "Add reconnect-to-session support and region locking or region filters for multiplayer matchmaking",
+        "Optimise endless mode and late-run performance; players also ask for split-screen multiplayer (a popular forum thread)",
+        "Add rerolls for build-defining traits and infusions, and clearer stat descriptions with exact numbers",
+        "Better teammate communication tools and deeper multiplayer synergy; Metacritic critics say co-op can feel like playing next to each other",
+        "More music and soundscape options"
+      ],
+      "unique_things": [
+        "Online co-op first design for 1-4 players in a survivors-like, with friendly fire so teammates can hurt each other",
+        "Team-based map objectives and quests (e.g. football/sheep/torch-style minigames) layered on top of wave survival",
+        "Elemental infusion system combined with spell augments for build crafting",
+        "Covenants as unlockable run modifiers with prestige-style resets of wizards",
+        "Full 3D camera with a colorful, cartoonish wizard aesthetic and cosmetic skins, unusual in a genre dominated by 2D pixel art",
+        "Cross-platform multiplayer, with a console release (PS5) alongside Steam"
+      ],
+      "tedious_or_disliked": [
+        "Gold grind needed for permanent upgrades, wizard unlocks and covenants; a single 45-minute multiplayer match may only afford one upgrade",
+        "Prestige resets and max-leveling a wizard repeatedly just to unlock one covenant",
+        "Some objective minigames (especially the football one) described as boring or impossible to complete with a swarm around",
+        "Quest/achievement difficulty is uneven; a third of achievements are pure time sinks, and some Early Access quests were RNG-locked (e.g. needing specific infusions without rerolls)",
+        "Hardcore mode outcomes hinge on early trait rolls (lightning/shadow good, acid/dark bad), forcing restarts",
+        "Endless-mode lag and the screen becoming unreadable as spells pile up"
+      ],
+      "divisive_points": [
+        "The 1.0 overhaul: some say the UI redesign, polish and added wizard/boss made it better, while the top negative reviews say it made progression worse and less fun",
+        "Solo play: some find it fine, others say it became much less playable solo after the grind increase and that the game only really works with friends",
+        "Difficulty and build variety: fans enjoy the chaos and scaling difficulty, while roguelike veterans find builds shallow and spells unbalanced",
+        "Visual chaos: a feature for some ('unreadable screen adds to the fun') and a problem for others"
+      ],
+      "reception_notes": "Early Access launched Sep 16, 2024 and was generally well liked, with frequent content updates. The 1.0 launch on Apr 29, 2026 brought a UI overhaul, a new wizard and boss, but also an economy rework that triggered a wave of negative reviews (the top two negative reviews have 350-400 helpful votes), leaving the recent review window weaker than before; the dev team was noted as receptive, and later patches (1.1.x) continued. Some players say it has improved since and praised the UI redesign. Metacritic shows a Metascore of 69 from 6 mostly PS5 critic reviews (PC 73 from 4; the page did not clearly state which platform the headline score refers to), and no user score yet. Steam-only on PC (no Mac/Linux); console version on PS5. OpenCritic page could not be confirmed, so null. Revenue estimate: about $3.4M gross and about $1.0M net per steam-revenue-calculator (Boxleiter-style estimate, SteamSpy owners 200k-500k). Note: the WebSearch budget was exhausted in this session, so web research relied on direct page fetches (Metacritic, Steam store and forum) and the local Steam reviews file; Reddit could not be fetched.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/2904000.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file), main source for player praise and complaints"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: review totals, tags, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2904000/The_Spell_Brigade/",
+          "what": "Steam store page: features, EA and 1.0 dates, overall and recent review status"
+        },
+        {
+          "url": "https://steamcommunity.com/app/2904000/discussions/",
+          "what": "Steam community forum: difficulty, slow leveling, split-screen requests, controller/multiplayer issues after patch 1.1.4"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-spell-brigade/",
+          "what": "Metacritic overview: Metascore 69, PC 73, no user score, critic strengths and weaknesses"
+        },
+        {
+          "url": "https://www.metacritic.com/game/the-spell-brigade/critic-reviews/",
+          "what": "Metacritic critic list: Video Chums 80, Gaming Boulevard 75, Console Creatures 70, Digital Chumps 70, IGN France 70, PlayStation Country 50"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/2904000/the-spell-brigade",
+          "what": "Estimated gross and net Steam revenue (Boxleiter method)"
+        },
+        {
+          "url": "https://opencritic.com/search?q=the%20spell%20brigade",
+          "what": "Checked for an OpenCritic entry; nothing found in the fetched content"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 69 (Mixed; 6 PS5 reviews, 4 PC), user score tbd - matches file. OpenCritic left null (unconfirmed). Cross-checked bullets against top Steam reviews (grind spike, gold-locked wizards, no reconnect, endless-mode lag, repetitive enemies/bosses, basic music, RNG infusions); all supported, no generic filler or wrong-game content found. No changes to content."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 10,
+    "his_spoken": "said A, placed B",
+    "his_score": 81.0,
+    "his_top10_bonus": 0,
+    "players_score": 18.4,
+    "critics_score": 5.0,
+    "critics_avg": 69.0,
+    "overall": 43.9,
+    "labels": [
+      "survivors_like",
+      "shooter",
+      "coop"
+    ],
+    "primary_label": "survivors_like"
+  }
+}

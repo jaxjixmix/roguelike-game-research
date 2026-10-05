@@ -1,0 +1,272 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "risk of rain 2",
+    "name": "Risk of Rain 2",
+    "display_name": "Risk of Rain 2",
+    "appid": 632360,
+    "img": "img/632360.jpg",
+    "steam_url": "https://store.steampowered.com/app/632360/",
+    "website": "https://www.riskofrain.com/",
+    "short_description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+    "developers": [
+      "Hopoo Games"
+    ],
+    "publishers": [
+      "Gearbox Publishing",
+      "2K"
+    ],
+    "release_date": "Aug 11, 2020",
+    "coming_soon": false,
+    "price": "$24.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Third-Person Shooter",
+      "Action Roguelike",
+      "Multiplayer",
+      "Co-op",
+      "Action",
+      "Rogue-lite",
+      "Rogue-like",
+      "Looter Shooter",
+      "Loot",
+      "Online Co-Op"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 93.8,
+    "steam_total_reviews": 353288,
+    "metacritic": 85,
+    "metacritic_url": "https://www.metacritic.com/game/pc/risk-of-rain-2?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.2,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam (all reviews, local data)",
+        "score": "93.8% positive, 353,288 reviews (Very Positive per API)",
+        "url": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/"
+      },
+      {
+        "source": "OpenCritic (via Wikipedia)",
+        "score": "93% recommend",
+        "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+      },
+      {
+        "source": "IGN (via Wikipedia)",
+        "score": "9/10",
+        "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+      },
+      {
+        "source": "GameRevolution (via Wikipedia)",
+        "score": "5/5",
+        "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+      },
+      {
+        "source": "PC Gamer (via Wikipedia)",
+        "score": "84/100",
+        "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+      },
+      {
+        "source": "Destructoid (via Wikipedia)",
+        "score": "8.5/10",
+        "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+      },
+      {
+        "source": "Steam DLC: Seekers of the Storm",
+        "score": "54% positive, Mixed (9,643 reviews)",
+        "url": "https://store.steampowered.com/app/2306620/Risk_of_Rain_2_Seekers_of_the_Storm/"
+      }
+    ],
+    "vgi_units": 9800000,
+    "vgi_revenue": 151000000,
+    "vgi_rating": 93.832,
+    "vgi_reviews": 353233,
+    "vgi_url": "https://app.sensortower.com/vgi/game/risk-of-rain-2",
+    "spy_owners": "5,000,000 .. 10,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "264,025,147.68",
+    "src_net": "77,887,418.57",
+    "src_url": "https://steam-revenue-calculator.com/app/632360/risk-of-rain-2",
+    "final_tier": "S",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "\"going to be an easy s tier for me ... it's still going to be an S tier that's for sure\"",
+        "video_id": "5k_-k4X90ao",
+        "t": 7285,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=7285s",
+        "year_in_title": "2020",
+        "pos": 9,
+        "row_n": 9,
+        "row_score": 0.05555555555555558,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Risk of Rain 2 is the 3D third-person shooter sequel to the 2D original, widely popular and heavily updated with patches and DLC. He loves it: the core shooting is so fun that it never gets old even though runs start fairly similarly. The constant stream of items keeps the character feeling steadily stronger. He places it in S tier, noting he plays it less these days than Peglin or Ravenous-style favourites, but it still earns the top spot.",
+        "praise": [
+          "Core gameplay is so enjoyable it does not get old despite few starting customizations",
+          "Constant item drops (roughly five to ten per level) keep the player feeling rewarded and increasingly powerful",
+          "Huge item pool means steady power growth with core abilities even if individual items are not game-changing",
+          "The jump from 2D to 3D works amazingly well as a shooter",
+          "Many secrets, areas, biomes and bosses to discover",
+          "Varied characters with slight ability customization at the start",
+          "Visually pleasing, great multiplayer, and lots of updates and DLC"
+        ],
+        "criticism": [
+          "Runs start fairly similarly from run to run with few early customizations",
+          "Many items do not drastically change gameplay"
+        ],
+        "unique_points": [
+          "Rare case of a sequel moving from 2D to 3D successfully",
+          "Always-flowing reward loop from items compensates for limited starting variety",
+          "Easy to pick up, hard to master"
+        ],
+        "quote": "it's going to be an easy S tier for me",
+        "comparisons": [
+          "Risk of Rain (original)",
+          "Peglin",
+          "Ravenous (ASR-mangled 'ravida')"
+        ],
+        "design_criteria": [
+          "Core gameplay feel: fun enough to carry the game on its own",
+          "Item frequency and rewards: constant drops drive a sense of power growth",
+          "Item diversity: large pool, though individually modest",
+          "Starting variety: limited, but judged not to matter",
+          "Content and exploration: secrets, biomes, bosses",
+          "Accessibility: easy to play, hard to master",
+          "Level length: levels last several minutes",
+          "Visuals and multiplayer: noted as positives but not affecting the rating"
+        ],
+        "rerank_note": "Rated with the new content and DLC factored in; no explicit move from a prior tier stated."
+      }
+    ],
+    "community": {
+      "one_liner": "A 3D third-person co-op action roguelite by Hopoo Games in which you fight through escalating waves on an alien planet, stacking hundreds of items into absurd power builds before the difficulty clock overwhelms you.",
+      "consensus_summary": "Risk of Rain 2 is widely regarded as one of the defining action roguelites: Steam lists it at about 94% positive across roughly 353k reviews, Metacritic critics give it 85, and outlets called it among the best roguelikes, especially in co-op. Praise centers on the item-stacking power fantasy, the character roster and the soundtrack. It left early access (March 2019) for 1.0 in August 2020 and has kept receiving paid expansions (Survivors of the Void 2022, Seekers of the Storm 2024, Alloyed Collective Nov 2025). The main friction today is less the game than its ownership: after Gearbox bought the IP in 2022 and 2K/Take-Two's EULA (mandatory arbitration) was added, many long-time players leave negative reviews while still praising gameplay.",
+      "best_things": [
+        "Item stacking snowballs builds from a plain pistol into screen-filling chain reactions; the power-fantasy and 'one more run' loop is the core praise",
+        "Huge item pool and synergies reward experimentation and produce very different runs",
+        "Survivor roster plays distinctly, each with unlockable skill variants and alternate loadouts that add mastery depth",
+        "Co-op with friends (up to 4) is cited as the best way to play and the main reason people buy it",
+        "Stylish cel-shaded look and a widely loved soundtrack",
+        "Difficulty scales continuously in real time, so pacing and risk/reward (when to open chests versus finish the stage) stay tense",
+        "Lots of unlockables, artifacts, Eclipse difficulties and mods give hundreds of hours of replay; reviewers report 100-300+ hours",
+        "Post-launch support over several years, with Alloyed Collective seen by some as repairing the goodwill lost by Seekers of the Storm"
+      ],
+      "worst_things": [
+        "One-shot deaths from enemies or bosses (Brass Contraption, Elder Lemurian, Void Reavers) feel unfair when you are otherwise stacked with defence",
+        "Late-game screens fill with particles and effects until they are unreadable, and huge item counts can tank FPS",
+        "Repetitive environments and limited story, which critics flagged in reviews",
+        "Enemy variety feels thin to some players, and runs can feel like searching for the teleporter",
+        "Multiplayer desyncs, lobby failures and mid-run crashes reported since the Gearbox-era updates, with no reconnect option",
+        "Gearbox/2K ownership: a later EULA with mandatory arbitration and the console-port codebase drove waves of negative Steam reviews despite high playtime",
+        "Seekers of the Storm launched buggy and unbalanced (DLC alone sits around 54% positive on Steam)",
+        "No mid-run save, so long runs are all-or-nothing"
+      ],
+      "improvements": [
+        "Reduce or add options to tone down visual clutter and performance drops in late-game item-heavy runs",
+        "Better onboarding: new players report struggling to find the teleporter and learn mechanics, and only discover helper settings by accident",
+        "Fix long-standing multiplayer desync, lobby and reconnect issues",
+        "Add mid-run saving or suspend to support 1-2 hour runs",
+        "Address one-shot mechanics and tune balance so defence builds are not negated by single attacks",
+        "Revert or clarify the EULA changes and give players a way to report bugs in-game"
+      ],
+      "unique_things": [
+        "3D third-person shooter take on a roguelite, unlike 2D top-down peers like Isaac or Hades",
+        "No fixed run timer, but difficulty scales continuously with time spent: enemies get stronger the longer you stay, so pace is part of strategy",
+        "Items are almost all passive and stack without a cap, creating emergent build chaos rather than fixed builds",
+        "Looping the game (continuing past the final boss) and the Void, Lunar and Eclipse layers give it a long endgame",
+        "Lunar items are deliberate risk/reward trade-offs that can cost you mobility or your whole inventory",
+        "Teleporter boss fights plus an open-ended hunt for chests, shrines and multishops in each stage"
+      ],
+      "tedious_or_disliked": [
+        "Hunting for the hidden teleporter on each stage can eat time; many players rely on the indicator settings",
+        "Shrine of Chance and other gambling objects feel punishing with low success rates",
+        "Unlocking all artifacts, skins and challenges can be grindy and repeats risky deaths",
+        "Long late-game loops where screens are unreadable and performance drops",
+        "Some find the game never clicks; a negative reviewer said they never felt like continuing despite good music, visuals and pacing"
+      ],
+      "divisive_points": [
+        "Difficulty and one-shot deaths: lovers call it fair rule-mastery, others call it cheap",
+        "Simple environments and visuals: praised as gameplay-first clarity by some, called tech-demo-like by others",
+        "Whether the paid expansions (especially Seekers of the Storm) improved or diluted the game",
+        "Whether to recommend the game at all, given the Gearbox/Take-Two EULA, with many positive-playtime reviewers voting down on principle"
+      ],
+      "reception_notes": "Early access launched March 2019 and drew over 650,000 players in week one and over a million sales in the first month; PC sales passed 4 million by March 2021 (Wikipedia). Full 1.0 release was Aug 11, 2020, consoles Oct 2020, PS5/Xbox Series in Aug 2024. SteamSpy estimates 5-10 million owners and the steam-revenue-calculator estimate is around $264M gross / $78M net (rough Boxleiter-method estimates, not audited). Gearbox acquired the IP in Nov 2022 and Hopoo Games went on hiatus in Sept 2024 when key developers joined Valve. Steam now shows wave of negative reviews tied to a newer EULA with mandatory arbitration and to multiplayer desync, even from players with hundreds of hours. Some sources saw web-search limits: OpenCritic page could not be fetched, so the opencritic score is null (Wikipedia mentions 93% recommend). Steam store page fetch showed 95% of 163k reviews, apparently a cached older number; local data shows 93.8% of 353k.",
+      "sources": [
+        {
+          "url": "local:/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/632360.json",
+          "what": "Top helpful positive and negative Steam reviews (18 each), including EULA/Gearbox complaints and one-shot deaths"
+        },
+        {
+          "url": "local:/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review totals, tags, SteamSpy owners and revenue estimate"
+        },
+        {
+          "url": "https://www.metacritic.com/game/risk-of-rain-2/",
+          "what": "Metascore 85 from 18 critics, user score 8.2; critic themes (praise and repetitiveness, no mid-run save)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Risk_of_Rain_2",
+          "what": "Release timeline, early access sales, outlet scores, DLC list, Gearbox acquisition, Hopoo hiatus"
+        },
+        {
+          "url": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/",
+          "what": "Tags and Steam review summary, EULA requirement"
+        },
+        {
+          "url": "https://store.steampowered.com/app/2306620/Risk_of_Rain_2_Seekers_of_the_Storm/",
+          "what": "Seekers of the Storm DLC review rating (54% positive) and content summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/632360/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Top rated reviews: late-game clutter, one-shots, Shrine of Chance complaints"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/632360/risk-of-rain-2",
+          "what": "Revenue estimate (Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Metascore 85 (18 critics) and user 8.2 (733 ratings) confirmed; OpenCritic left null (not fetched). Rewrote three bullets: replaced unsupported '700+ hours' with 100-300+ hours seen in reviews, clarified difficulty-clock wording (no fixed timer, continuous scaling), and corrected paraphrase of a negative review. Checked best/worst/tedious lists against top Steam reviews (EULA/Gearbox, desync, one-shots, clutter, teleporter hunt); all recurring themes already present, nothing added."
+    },
+    "his_anchor": null,
+    "his_pos": 9,
+    "his_row_n": 9,
+    "his_spoken": null,
+    "his_score": 5.6,
+    "his_top10_bonus": 0,
+    "players_score": 73.0,
+    "critics_score": 76.1,
+    "critics_avg": 85.0,
+    "overall": 43.3,
+    "labels": [
+      "shooter",
+      "action",
+      "coop"
+    ],
+    "primary_label": "shooter"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "cubic cosmos",
+    "name": "Cubic Cosmos",
+    "display_name": "Cubic Cosmos",
+    "appid": 3332600,
+    "img": "img/3332600.jpg",
+    "steam_url": "https://store.steampowered.com/app/3332600/",
+    "website": null,
+    "short_description": "Cubic Cosmos is a thrilling fast-paced roguelike card game. You have been trapped in a deadly game. One wrong move could see you reduced to a plaything of the goddess. Can you free yourself from the endless cycle and escape your fate?",
+    "developers": [
+      "Inkstone Atelier"
+    ],
+    "publishers": [
+      "Inkstone Atelier"
+    ],
+    "release_date": "Apr 28, 2026",
+    "coming_soon": false,
+    "price": "$12.99",
+    "is_free": false,
+    "genres": [
+      "Strategy"
+    ],
+    "tags": [],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 92.0,
+    "steam_total_reviews": 1003,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/cubic-cosmos/",
+    "metacritic_user": null,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all-time)",
+        "score": "Very Positive, about 92% of ~1,003 reviews positive (923 up / 80 down)",
+        "url": "https://store.steampowered.com/app/3332600/Cubic_Cosmos/"
+      },
+      {
+        "source": "Steam user reviews (recent)",
+        "score": "about 68% positive of a small recent sample (16 reviews at time of fetch)",
+        "url": "https://store.steampowered.com/app/3332600/Cubic_Cosmos/"
+      }
+    ],
+    "vgi_units": 67947,
+    "vgi_revenue": 593000,
+    "vgi_rating": 92.024,
+    "vgi_reviews": 1003,
+    "vgi_url": "https://app.sensortower.com/vgi/game/cubic-cosmos",
+    "spy_owners": "0 .. 20,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "0.00",
+    "src_net": "0.00",
+    "src_url": "https://steam-revenue-calculator.com/app/3332600/cubic-cosmos",
+    "final_tier": "C",
+    "final_part": "5",
+    "placements": [
+      {
+        "part": "5",
+        "date": "2026-07-01",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I'm going to put Cubic Cosmos as a mid low B tier.",
+        "video_id": "JZgYPEjZ2Pc",
+        "t": 2574,
+        "url": "https://www.youtube.com/watch?v=JZgYPEjZ2Pc&t=2574s",
+        "year_in_title": null,
+        "pos": 2,
+        "row_n": 3,
+        "row_score": 0.6225,
+        "spoken": "said B, placed C"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "5",
+        "label": "Tier list Part 5 (2026)",
+        "summary": "Cubic Cosmos is an auto-battler-style deck-building roguelike where you place up to five units on a board and they attack on their own, with most cards granting permanent buffs for the rest of the run. He enjoys the big-number combos and the feeling of understanding the systems well enough to break the game. The runs become repetitive, the art style, music and sound design feel weak, and information and keyword clarity are poor. He recommends it to people who like the concept but places it in mid-low B.",
+        "praise": [
+          "Permanent buffs from nearly every battle make progression feel big and unusual for the genre",
+          "Building broken combos is super satisfying, especially the first few times",
+          "Lots to do between battles, plus triple and fuse mechanics to duplicate effects",
+          "VFX are satisfying: explosions and flying tokens",
+          "Rewarding to learn, since system knowledge directly produces crazy effects",
+          "Different champion classes change things somewhat",
+          "Developers were not afraid to use huge effects"
+        ],
+        "criticism": [
+          "Game is very easy to break, so it often ends up as one card then waiting for animations (his Steam review: the deck played itself)",
+          "Repetitive and redundant after a few runs",
+          "Art style feels uninspired, almost AI-generated in vibe; music and sound design are weak",
+          "Too much on screen, enemy effects are hard to track, and player info is meh since you usually just kill everything",
+          "Card effects and complicated keywords are poorly explained and hard to visualize"
+        ],
+        "unique_points": [
+          "Permanent run-long buffs on most units and cards are the core hook, which also makes balance very fragile",
+          "Triple-and-fuse of units duplicates permanent effects, allowing runaway builds",
+          "Pro and con: extreme breakability is both the fun and the weakness"
+        ],
+        "quote": "I'm going to put Cubic Cosmos as a mid low B tier.",
+        "comparisons": [
+          "Monster Train",
+          "auto battlers"
+        ],
+        "design_criteria": [
+          "Balance/breakability: permanent buffs make it easy to trivialize the game",
+          "Replayability: repetitive gameplay loop after a few runs",
+          "Synergies/combos: big satisfying combos are the main draw",
+          "Charm/visuals: art style feels uninspired, VFX are good",
+          "Audio: music and sound design are weak",
+          "Information clarity: cluttered enemy info and unclear card effects and keywords",
+          "Meta/run progression: permanent in-run progression is the core system",
+          "Skill/knowledge reward: understanding systems is rewarding"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A fast-paced roguelike deckbuilder with tower-defense-style lane combat (monsters attack back to front) from Inkstone Atelier, built around run-long stat stacking and explosive combo chains.",
+      "consensus_summary": "Cubic Cosmos is a low-profile but well-liked indie: Steam shows about 1,000 reviews at roughly 92% positive (Very Positive), with recent reviews noticeably weaker (about 68% of a small recent sample). Players praise its permissive, break-the-game synergy building, the run-long scaling of cards and a generous amount of content (12 heroes, 240+ cards). The main sources of negative sentiment are undisclosed generative-AI card art, a sense that the game is easy/repetitive once a build snowballs, and unclear UI/keyword explanations. It launched in Early Access on Sept 16, 2025 and had its 1.0 launch on Apr 28, 2026, with the dev apparently still patching (an earlier reviewer flipped to positive citing steady improvements). No critic coverage exists on Metacritic (page has zero critic reviews) and nothing turned up on OpenCritic.",
+      "best_things": [
+        "Anything-goes synergy building: players love assembling absurd, over-the-top combos and scaling to huge numbers, and like that the game does not try to cap power the way Slay the Spire-style games do",
+        "Stat boosts from spells, monsters and events last for the whole run, so cards genuinely grow and you plan around growing specific units",
+        "Selling cards in shops (about 50% value) instead of paying to remove them eases RNG pressure and encourages pivoting builds",
+        "Lots of content and variety: 12 heroes across 3 classes with distinct synergies, 240+ cards, 50+ relics, multiple modes and 10+ difficulty levels",
+        "Strong 'one more run' pull; several reviewers report 25-60 hours and one 260+ hours",
+        "Satisfying combo chains with lots of animation and effects going off; the game feels powerful from the very first run",
+        "Doll Code system lets you export cards and share/receive others' pawns and replays, adding a light meta layer",
+        "Low price ($12.99) relative to the amount of content, frequently cited as great value"
+      ],
+      "worst_things": [
+        "Undisclosed generative-AI card art is the top complaint: the two most-upvoted negative Steam reviews (93 and 125 helpful votes) cite odd fingers, repeated poses and 'obviously AI' cards, and people say they feel misled",
+        "Game is easy and repetitive for some: one reviewer beat the top difficulty with every character without a loss, with decks effectively locked in by the first boss",
+        "Heroes are said to play too similarly, with hero abilities easy to ignore (only a couple felt truly distinct to that reviewer)",
+        "Stat stacking has little downside, so builds converge on a few stat enablers plus a few hard hitters",
+        "UI/readability gaps: card types (artifact vs sorcery etc.) are unclear, keyword phrasing is odd, and many things are left unexplained",
+        "Chain reactions can be too fast or opaque to follow, leaving some players confused about why their board was wiped",
+        "Technical rough edges: game freeze when starting a new run (pinned Steam workaround), buggy controller support, poor text on Steam Deck, a Linux launch failure (no native Linux build), a reported crash",
+        "Repetitive, looping music mentioned by a reviewer"
+      ],
+      "improvements": [
+        "Disclose or replace the generative-AI art and be transparent about the art pipeline",
+        "Better in-game explanation of keywords, card types and monster effects, plus general QoL and UI clarity work",
+        "Add downsides or tension to stat stacking and make higher difficulties and late-game builds more varied (late-game builds called limited)",
+        "Differentiate heroes more so their special abilities meaningfully change play",
+        "Improve controller and Steam Deck support and fix the new-run freeze; community also asks for ultrawide support and more languages (Russian, German)",
+        "More Steam achievements, and clearer purpose for the dolls/meta systems (one reviewer collected dolls without knowing what they do)"
+      ],
+      "unique_things": [
+        "Monsters attack from back to front in a lane/tower-defense style layout, so reaching enemy backlines is a real strategic lever",
+        "Most attribute boosts persist for the entire run rather than one fight, pushing a 'grow your cards' play pattern",
+        "Tension between prolonging fights to buff cards and finishing fast to earn more lucre (currency)",
+        "Selling cards for lucre instead of paying to discard",
+        "Doll Code system for exporting cards, sharing pawns and battle replays with other players",
+        "Hearthstone/Battlegrounds-like creature-and-spell feel mixed with roguelike path choices; reviewers compare the card-modifier depth to Inscryption"
+      ],
+      "tedious_or_disliked": [
+        "Undisclosed AI art (some buyers refunded or wrote negative reviews purely over this)",
+        "Feeling the run is decided early, then just watching the deck play out",
+        "Long chains of auto-triggering effects that some find hard to follow",
+        "Having to learn unusual keyword terms (mobility, auto, death, lasting, charge) before the game clicks",
+        "Steam-page tags/marketing: players who expected a roguelite with persistent power-up meta-progression felt misled, since the dev reportedly said it is not meant to have that (though the game does have XP-based unlocks of cards/characters)"
+      ],
+      "divisive_points": [
+        "Is it a roguelite or a roguelike? Some say the tag is misleading because there is no permanent power meta-progression, while others note unlocks/XP and Doll Code carry-over count as meta progression",
+        "Difficulty and balance: fans love that it is wildly breakable, while critics find it too easy and shallow once you learn the stacking loop",
+        "AI art: some players call it a dealbreaker that warrants a negative review, while others say they enjoy the game regardless and dismiss the complaint",
+        "Hero diversity: one reviewer with hundreds of hours found some heroes 'world enders' with very different styles, while another felt they mostly play the same"
+      ],
+      "reception_notes": "Early Access launched Sept 16, 2025 and 1.0 released Apr 28, 2026 on PC (Windows/Mac; Steam lists Inkstone Atelier as developer and publisher). Steam priced at $12.99. Reviewers describe it as an under-the-radar sleeper ('best roguelike deckbuilder nobody is talking about'), and one early negative reviewer later rewrote their review positively after learning the systems. Since late 2025 the AI-art controversy has dominated negative reviews and is now the most upvoted criticism, which likely explains the softer recent score. Steam community has a pinned workaround for a new-run freeze and a FAQ. Sales estimates from third-party Steam trackers were empty/zero at time of check so no reliable copies/revenue figure was obtained. Metacritic has no critic reviews and only a single user rating (9/10; user score needs 4 ratings); no OpenCritic entry could be found. Note: web search budget was exhausted, so Reddit and outlet reviews could not be retrieved; conclusions rest on Steam data, Steam reviews and discussion pages.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/3332600.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam store data: appid 3332600, dev, release date, review counts, price"
+        },
+        {
+          "url": "https://store.steampowered.com/app/3332600/Cubic_Cosmos/",
+          "what": "Steam store page: features (240+ cards, 12 heroes, modes), EA dates, review summary"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3332600/discussions/",
+          "what": "Steam community discussions: freeze bug, difficulty, AI art thread, feature requests"
+        },
+        {
+          "url": "https://steamcommunity.com/app/3332600/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Steam top-rated reviews page: praise themes and AI art controversy"
+        },
+        {
+          "url": "https://www.metacritic.com/game/cubic-cosmos/",
+          "what": "Metacritic page: no critic reviews, one user rating, platforms and publisher listed"
+        },
+        {
+          "url": "https://opencritic.com/search?q=cubic+cosmos",
+          "what": "OpenCritic search: no Cubic Cosmos entry found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/3332600/cubic-cosmos",
+          "what": "Third-party revenue estimate page: showed $0 (no usable sales data)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: no critic reviews, user score unavailable (1 rating, 9/10), so critic scores stay null. Steam counts match local data (923/80). Reviews support the existing best/worst/tedious themes (AI art, easy/repetitive, UI clarity, synergy freedom). Removed unverified Switch/Lilith Games publisher claim and clarified Metacritic user rating. No bullets added or removed."
+    },
+    "his_anchor": null,
+    "his_pos": 2,
+    "his_row_n": 3,
+    "his_spoken": "said B, placed C",
+    "his_score": 62.3,
+    "his_top10_bonus": 0,
+    "players_score": 54.8,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 59.0,
+    "labels": [
+      "deckbuilder",
+      "turn_based",
+      "strategy"
+    ],
+    "primary_label": "deckbuilder"
+  }
+}

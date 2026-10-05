@@ -1,0 +1,259 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "roguelands",
+    "name": "Roguelands",
+    "display_name": "Roguelands",
+    "appid": 364420,
+    "img": "img/364420.jpg",
+    "steam_url": "https://store.steampowered.com/app/364420/",
+    "website": null,
+    "short_description": "Embark on an epic journey in this hardcore Multiplayer RPG! As a Galactic Cadet, you and your Combat Squad of friends must brave hostile worlds in search of valuable loot and resources. Craft powerful gear, slay otherworldly creatures, and save the galaxy.",
+    "developers": [
+      "Sean Young"
+    ],
+    "publishers": [
+      "SmashGames"
+    ],
+    "release_date": "Jun 13, 2016",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action Roguelike",
+      "Rogue-like",
+      "Multiplayer",
+      "RPG",
+      "Pixel Graphics",
+      "2D",
+      "Adventure",
+      "Action",
+      "Co-op",
+      "Indie"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 80.2,
+    "steam_total_reviews": 3723,
+    "metacritic": null,
+    "metacritic_url": "https://www.metacritic.com/game/roguelands/",
+    "metacritic_user": 8.1,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Steam user reviews (all time)",
+        "score": "Very Positive, 80.2% positive (2,984 up / 739 down, 3,723 reviews)",
+        "url": "https://store.steampowered.com/app/364420/Roguelands/"
+      },
+      {
+        "source": "Metacritic user score",
+        "score": "8.1/10 from 7 user ratings (86% positive, Generally Favorable); no critic Metascore (tbd)",
+        "url": "https://www.metacritic.com/game/roguelands/"
+      },
+      {
+        "source": "SteamSpy owners estimate",
+        "score": "200,000 to 500,000 owners",
+        "url": "https://steamspy.com/app/364420"
+      },
+      {
+        "source": "Steam Revenue Calculator estimate",
+        "score": "About $1.05M gross, about $310K net (Boxleiter-based, order of magnitude only)",
+        "url": "https://steam-revenue-calculator.com/app/364420/roguelands"
+      }
+    ],
+    "vgi_units": 197000,
+    "vgi_revenue": 1400000,
+    "vgi_rating": 80.156,
+    "vgi_reviews": 3724,
+    "vgi_url": "https://app.sensortower.com/vgi/game/roguelands",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,052,666.28",
+    "src_net": "310,536.55",
+    "src_url": "https://steam-revenue-calculator.com/app/364420/roguelands",
+    "final_tier": "B",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "I would put this um in a solid like High beat here",
+        "video_id": "5k_-k4X90ao",
+        "t": 7902,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=7902s",
+        "year_in_title": "2016",
+        "pos": 10,
+        "row_n": 35,
+        "row_score": 0.7349999999999999,
+        "spoken": "said high"
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Roguelands is a survival roguelike and the sequel to Magicite, which he thinks executes the idea better. You build one character and play it for tens of hours until permadeath, though a ship lets you stash gear for the next character. He loves the exploration and secrets but notes the game explains nothing, so you eventually have to look things up. He calls it an oldie but a goodie and places it in a high B tier.",
+        "praise": [
+          "Amazing sense of exploration; each new world makes you curious about its creatures and bosses",
+          "Many secrets and a strong feeling of discovery, best played blind at first",
+          "Long-lived characters that you play for tens of hours",
+          "Ship stash lets you pass powerful gear to your next character after death",
+          "Combat is minimalistic but fun and rewarding",
+          "Lucky weapon drops from ordinary enemies feel exciting and rewarding"
+        ],
+        "criticism": [
+          "Game gives almost no information, so progressing further requires looking things up",
+          "Permadeath of a character with tens of hours invested can make you quit after dying",
+          "Fighting is fairly minimalistic",
+          "Pretty old, with dated design"
+        ],
+        "unique_points": [
+          "Long-running single character with permadeath, softened by a ship stash for inheritance of gear",
+          "Discovery-driven worlds with hidden secrets and unexplained systems"
+        ],
+        "quote": "it's an oldie but it's a goodie uh this game is pretty good",
+        "comparisons": [
+          "Magicite"
+        ],
+        "design_criteria": [
+          "Exploration and discovery: new worlds create curiosity about creatures and bosses",
+          "Secrets and information opacity: rewarding but forces outside lookups",
+          "Meta-progression: ship stash passes gear between characters",
+          "Permadeath and run length: tens of hours per character before death",
+          "Combat feel: minimalistic yet fun and rewarding",
+          "Loot randomness: lucky powerful weapon drops feel great"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D pixel-art action RPG roguelite by Sean Young (SmashGames) where a squad of Galactic Cadets, solo or in co-op, hops between procedurally generated planets to fight bosses, loot, and craft gear with permadeath softened by carry-over progression.",
+      "consensus_summary": "Roguelands is rated Very Positive on Steam (about 80% of roughly 3,700 reviews positive, 2,984 up vs 739 down) and is remembered fondly as a distinctive, deep, addictive crafting-and-loot roguelite, especially in co-op. The dominant caveat is that the developer stopped updating it after 2017 (last substantial patches were 1.5 and 1.5.1 in Feb 2017) while the game still feels unfinished, so even positive reviews are hedged with warnings about abandonment, missing content and bugs. Critics barely covered it: Metacritic has no critic score and only a handful of user ratings, and no OpenCritic entry was found. Its price ($9.99) and abandonment make many recent reviewers suggest it is best bought on sale, and a modding community plus fan wiki carry a lot of its longevity.",
+      "best_things": [
+        "Distinctive blend of Terraria-style 2D action, loot grinding and roguelike permadeath that reviewers say they have not found elsewhere",
+        "Deep crafting and build-making: Droids harvest resources, Emblems craft gear, and there are 80+ weapons, augments and Combat Chips for varied builds",
+        "Slow, rewarding progression where items and some progress carry over between characters, softening permadeath",
+        "Co-op is described as insanely fun when it works; solo play is also considered enjoyable",
+        "Music gets praise in reviews, and the pixel art and planet variety are part of the game's pitch (store page and tags), though review praise for them is sparse",
+        "Plenty of content for the price: reviewers report 60-190+ hour playtimes and say you get a finished game's worth despite being 'unfinished'",
+        "Story and lore via rescued NPCs and the Destroyer plot, including the Gray Enigma storyline added in v1.4",
+        "Active modding community and an in-depth fan wiki add content and fixes (mods are said to make the game feel far more complete)",
+        "Fans appreciate that an abandoned game can no longer be nerfed or changed under them (a recurring tongue-in-cheek positive in reviews)"
+      ],
+      "worst_things": [
+        "Developer abandonment: no meaningful updates since early 2017, promised content never arrived, and many negative reviews are about this rather than gameplay",
+        "Feels unfinished: no proper final boss or ending for some storylines, tier 4+ items reportedly not craftable, half-implemented features such as drones",
+        "Multiplayer needs port-forwarding or tools like Hamachi rather than Steam integration, which is a serious barrier to the co-op that fans love most",
+        "No Steam achievements or stat tracking and no controller support (a 276-comment Steam thread asks for it), which stands out against modern roguelites",
+        "Bugs and rough UI polish: fans list issues such as quest UI, overlapping UI layers, dialogue glitches and potions unusable at full HP",
+        "Level layouts described as repetitive copy-pasted square loops joined by tunnels, with limited layout variety"
+      ],
+      "improvements": [
+        "Steam-integrated multiplayer (lobbies/invites) instead of port-forwarding or Hamachi",
+        "Achievements, stat tracking and controller support, the most repeated feature asks on the Steam forums",
+        "Longer, more varied level layouts and better map generation",
+        "Quality-of-life fixes: quick-stack to chests, deposit chest for shops, health bars on enemies and bosses, item rarity colors, a proper quest UI",
+        "A tutorial or better onboarding, since the early game is described as confusing",
+        "Finish the missing content: ending/final boss, uncraftable tier 4+ gear, recipes marked with question marks, and unfinished drone features; also replace 'die to unlock' unlock conditions"
+      ],
+      "unique_things": [
+        "Mixes roguelike permadeath with RPG character levels, loot and a Terraria-like crafting loop in a 2D side-on planet-hopping format",
+        "Droid-based resource gathering and Emblem crafting system is unusual among roguelites",
+        "Legacy-style carry-over: you can bring some items/progress from dead characters into new runs",
+        "Sci-fi setting of Galactic Cadets chasing the Destroyer, which eats planetary Aether cores, rather than generic fantasy dungeons",
+        "Playable races and classes unlocked over time, plus Ultra Bosses and a Forbidden Arena added post-launch",
+        "Shares a creator and spirit with Magicite, and some reviewers frame it as a spiritual sequel or evolution"
+      ],
+      "tedious_or_disliked": [
+        "Late-game and item hunting become very grindy, with repetitive farming of the same levels",
+        "Harsh permadeath frustrates some players, especially 'die to unlock' unlocks that force sacrificing a long-term character",
+        "Early game is confusing with little guidance",
+        "Setting up multiplayer (port-forwarding, Hamachi) is seen as a chore",
+        "Repetitive, samey level layouts make long sessions feel monotonous",
+        "Bugs and UI quirks that will now never be patched"
+      ],
+      "divisive_points": [
+        "Is it complete? Some reviewers say it is story complete and worth it, others say it is clearly unfinished and abandonware",
+        "Price value: some say $9.99 is fine for 100+ hours, others say it is only worth it at about $5",
+        "Permadeath and grind: some enjoy the slow progression and difficulty, others find it tedious",
+        "Whether it lives up to Magicite or its original premise, with mixed opinions from Magicite fans"
+      ],
+      "reception_notes": "Roguelands launched on Steam in 2015-2016 (a fetched store page gave Nov 6, 2015 while the local Steam data lists Jun 13, 2016, likely Early Access versus 1.0, not confirmed) and got major content updates through v1.4 (Oct 2016, Gray Enigma storyline, new races, Forbidden Arena boss) and v1.5/1.5.1 (Feb 2017, eight Ultra Bosses, new gear sets, droid stat mechanics, balance fixes). The last developer news post is from Feb 2019, when Sean Young announced Wraithslayer (another SmashGames title programmed by Devin Cole) and said he hoped to hire programmers by end of 2019 to revamp Roguelands; that revamp never appeared and recent reviews (2025-2026) treat the game as abandoned. Recent review volume is still active, with several reviews asking for it to return. Available on Windows, Mac and Linux. The Steam forum has long pinned Bug Reports (2,500+ comments) and Suggestions (1,400+ comments) threads and a small demand for a Roguelands 2. Web search budget was exhausted during this task, so Reddit, OpenCritic and editorial reviews could not be checked; the lack of critic coverage is based on Metacritic showing none and OpenCritic search returning nothing.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/364420.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Local Steam metadata: appid 364420, review totals, SteamSpy owner range, tags"
+        },
+        {
+          "url": "https://store.steampowered.com/app/364420/Roguelands/",
+          "what": "Steam store page: description, features (Droids, Emblems, Combat Chips, permadeath), tags"
+        },
+        {
+          "url": "https://steamcommunity.com/app/364420/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Top rated Steam reviews: abandonment, unfinished content, grind, port-forwarding complaints"
+        },
+        {
+          "url": "https://steamcommunity.com/app/364420/discussions/",
+          "what": "Steam forum: no controller support thread, achievements requests, pinned bug/suggestion threads, Roguelands 2 demand"
+        },
+        {
+          "url": "https://store.steampowered.com/feeds/news/app/364420/",
+          "what": "Steam news feed: v1.4, v1.5, v1.5.1 updates and the Feb 2019 Wraithslayer/revamp announcement"
+        },
+        {
+          "url": "https://www.metacritic.com/game/roguelands/",
+          "what": "Metacritic: no critic score, user score 8.1 from 7 ratings"
+        },
+        {
+          "url": "https://opencritic.com/search?q=roguelands",
+          "what": "OpenCritic search: no Roguelands entry found"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/364420/roguelands",
+          "what": "Estimated revenue (about $1.05M gross, $310K net, Boxleiter method)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: critic score none (tbd), user 8.1 from 7 ratings - matches, no change. Reviews sample has low upvote counts; top themes (abandonment, unfinished, port-forwarding/Hamachi, no achievements, boring copy-paste maps, bring-back-the-game) already covered. Rewrote the pixel art/boss design/music bullet (only music supported by sampled reviews); removed 'saves local only' (not in reviews); added 1 best-thing (no-nerfs-since-abandoned); clarified Metacritic user score detail."
+    },
+    "his_anchor": null,
+    "his_pos": 10,
+    "his_row_n": 35,
+    "his_spoken": "said high",
+    "his_score": 73.5,
+    "his_top10_bonus": 0,
+    "players_score": 11.4,
+    "critics_score": null,
+    "critics_avg": null,
+    "overall": 46.3,
+    "labels": [
+      "action",
+      "platformer",
+      "coop",
+      "shooter"
+    ],
+    "primary_label": "action"
+  }
+}

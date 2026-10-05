@@ -1,0 +1,320 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "hades 2",
+    "name": "Hades II",
+    "display_name": "Hades 2",
+    "appid": 1145350,
+    "img": "img/1145350.jpg",
+    "steam_url": "https://store.steampowered.com/app/1145350/",
+    "website": "http://www.supergiantgames.com",
+    "short_description": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler.",
+    "developers": [
+      "Supergiant Games"
+    ],
+    "publishers": [
+      "Supergiant Games"
+    ],
+    "release_date": "Sep 25, 2025",
+    "coming_soon": false,
+    "price": "$20.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action",
+      "Rogue-like",
+      "Rogue-lite",
+      "Hack and Slash",
+      "RPG",
+      "Action Roguelike",
+      "Mythology",
+      "Dungeon Crawler",
+      "Action RPG",
+      "Isometric"
+    ],
+    "steam_review_desc": "Overwhelmingly Positive",
+    "steam_positive_pct": 95.7,
+    "steam_total_reviews": 123744,
+    "metacritic": 94,
+    "metacritic_url": "https://www.metacritic.com/game/pc/hades-ii?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 8.7,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic critic (overall/default page, 54 reviews)",
+        "score": "95",
+        "url": "https://www.metacritic.com/game/hades-ii/"
+      },
+      {
+        "source": "Metacritic critic (Nintendo Switch 2)",
+        "score": "95",
+        "url": "https://en.wikipedia.org/wiki/Hades_II"
+      },
+      {
+        "source": "Metacritic critic (Nintendo Switch)",
+        "score": "98",
+        "url": "https://en.wikipedia.org/wiki/Hades_II"
+      },
+      {
+        "source": "OpenCritic critics recommend (per Wikipedia, exact average not retrieved)",
+        "score": "99%",
+        "url": "https://en.wikipedia.org/wiki/Hades_II"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "95.7% positive (118,433 of 123,744), Overwhelmingly Positive",
+        "url": "https://store.steampowered.com/app/1145350/Hades_II/"
+      },
+      {
+        "source": "Metacritic PC user score (223 positive, 27 mixed, 17 negative)",
+        "score": "8.7",
+        "url": "https://www.metacritic.com/game/hades-ii/user-reviews/?platform=pc"
+      }
+    ],
+    "vgi_units": 3500000,
+    "vgi_revenue": 80300000,
+    "vgi_rating": 95.708,
+    "vgi_reviews": 123679,
+    "vgi_url": "https://app.sensortower.com/vgi/game/hades-ii",
+    "spy_owners": "2,000,000 .. 5,000,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "109,664,492.98",
+    "src_net": "32,351,025.43",
+    "src_url": "https://steam-revenue-calculator.com/app/1145350/hades-ii",
+    "final_tier": "S",
+    "final_part": "3",
+    "placements": [
+      {
+        "part": "3",
+        "date": "2025-04-21",
+        "tier": "S",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "this is going to be our first S tier uh of tonight. I really like Hades 2 more than the first",
+        "video_id": "VrHgKDkC3_Q",
+        "t": 5935,
+        "url": "https://www.youtube.com/watch?v=VrHgKDkC3_Q&t=5935s",
+        "year_in_title": null,
+        "pos": 1,
+        "row_n": 1,
+        "row_score": 0.8343333333333334,
+        "spoken": null
+      }
+    ],
+    "top10": [
+      {
+        "year": "2024",
+        "rank": 3,
+        "video_id": "pKh9Soutfj8",
+        "t": 1023,
+        "url": "https://www.youtube.com/watch?v=pKh9Soutfj8&t=1023s"
+      },
+      {
+        "year": "2025",
+        "rank": 1,
+        "video_id": "BlodPuxYUwk",
+        "t": 880,
+        "url": "https://www.youtube.com/watch?v=BlodPuxYUwk&t=880s"
+      }
+    ],
+    "commentary": [
+      {
+        "part": "3",
+        "label": "Tier list Part 3 (2025)",
+        "summary": "Hades II is the early-access sequel to Supergiant's Hades, starring Melinoe, a magic-wielding protagonist fighting to save her family from Kronos. He considers the original a masterpiece and finds the sequel a true sequel rather than DLC, keeping the feel while twisting the mechanics. He calls the current early access build fantastic, and even bigger than Hades 1. It becomes his first S tier of the night, and he likes it more than the original, though he is pausing until full release and suggests newcomers may want to wait.",
+        "praise": [
+          "Keeps the original Hades feel while feeling like a real sequel, not a DLC",
+          "Melinoe as a magic user changes pacing: longer dash, running, mana, chargeable attacks",
+          "Arcana cards replace the mirror with far more build and permanent-ability customization",
+          "Two full paths (surface and underground) with entirely different biomes and monsters, both feeling full",
+          "Developers actively take player feedback and change mechanics in each update",
+          "Voice acting, art and a deeper, more serious story with flashbacks are excellent",
+          "Wider resource/crafting currencies (seeds, minerals, fishing) that tie into route choice"
+        ],
+        "criticism": [
+          "More complicated mechanics than Hades 1, losing some of the first game's simplicity",
+          "Wonders whether building two paths was necessary versus one path with double the content",
+          "Many currencies and systems are hard to grasp without seeing them",
+          "Still in early access, so he recommends newcomers consider waiting for the full release"
+        ],
+        "unique_points": [
+          "Two entirely separate paths with no reused biomes or monsters, effectively two games in one",
+          "Route choice driven by which craftable materials you want to bring back to the hub",
+          "Arcana card system with unlock-by-filling-slots progression is a richer meta-progression than the mirror",
+          "Sequel design that adds complexity yet stays playable even when tired"
+        ],
+        "quote": "I really like Hades 2 more than the first",
+        "comparisons": [
+          "Hades (1)"
+        ],
+        "design_criteria": [
+          "Sequel identity: distinct enough from the first game to justify existing",
+          "Mechanical complexity vs simplicity: more depth but still approachable",
+          "Meta-progression: Arcana cards and many crafting currencies versus the simple mirror",
+          "Content breadth: two paths with unique biomes and enemies",
+          "Developer responsiveness: feedback-driven iteration during early access",
+          "Presentation: voice acting, art and story depth",
+          "Build flexibility: mana, charged attacks and a bigger starting arsenal"
+        ],
+        "rerank_note": "He says he already discussed Hades 2 in depth a few months earlier; this is an early-access evaluation and things have changed since."
+      },
+      {
+        "part": "top10-2024",
+        "label": "Top 10 of 2024 (#3)",
+        "summary": "Hades II is Supergiant's action roguelite sequel, still in early access in 2024, where Melinoe fights to rescue her family from Kronos. He calls it one of his top games of the year and keeps the original as a long-time favourite. He finds it slightly slower and more complex than the first game, and more reliant on meta-progression and grind, which he enjoys. He is unsure the dual-path (underworld or surface) split was necessary, but finds it an impressive inclusion and praises the developers for listening to feedback.",
+        "praise": [
+          "New mechanics added while keeping the feel of the original",
+          "Hack-and-slash combat that still feels good despite Melinoe being more of a magic user",
+          "Hub full of NPCs, permanent upgrades and cosmetic options that keep players engaged between runs",
+          "Story is more serious, which he prefers",
+          "Large amount of content for an early access game, at least as much as Hades 1",
+          "Start-of-run choice between underworld and surface, each a complete world with its own biomes, enemies and bosses",
+          "Developers keep listening to player feedback and updating the game"
+        ],
+        "criticism": [
+          "Everything is a bit more complex, which may not suit every player",
+          "Meta-progression needs multiple ingredient types, making it more grindy and longer to finish",
+          "Unsure the two-path split was needed versus doubling content on one path",
+          "Some players may be disappointed by changes from the first game"
+        ],
+        "unique_points": [
+          "Choosing the underworld or surface path before a run, each a fully separate world",
+          "Additional dash/sprint mechanic, extra Omega weapon moves, and Arcana cards that are more intricate than the Mirror",
+          "Heavier meta-progression tied to the increased importance of story"
+        ],
+        "quote": "Hades 2 is one of my top games of the year",
+        "comparisons": [
+          "Hades"
+        ],
+        "design_criteria": [
+          "Fidelity to the original feel: new mechanics should keep the prequel's identity",
+          "Combat feel: slower but still satisfying hack and slash",
+          "Hub and between-run activities: keep players engaged",
+          "Meta-progression: deeper and grindier, multi-ingredient, tied to story",
+          "Complexity: added systems (sprint, Omega moves, Arcana) versus accessibility",
+          "Content volume: multiple full paths with unique biomes, enemies and bosses",
+          "Story and tone: more serious narrative",
+          "Developer responsiveness to feedback during early access"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "Supergiant Games' isometric action roguelite sequel to Hades, in which Melinoe, witch princess of the Underworld, fights through Underworld and Surface routes to kill the Titan of Time, Chronos.",
+      "consensus_summary": "Hades II is received as a near-universal success. Steam shows roughly 95.7% positive (about 123.7k reviews, Overwhelmingly Positive), PC Metacritic is 94 from 46 critic reviews with no mixed or negative scores, and Wikipedia cites 99% of critics recommending it on OpenCritic. Most players and critics say it improves on the original in combat depth, build variety, content volume, art and music. It left Early Access (launched May 2024) for a full release on Sep 25, 2025, then came to PS5 and Xbox in April 2026. The main fault line is the story ending and some repetition or grind in the late game, not the moment-to-moment gameplay. Third-party estimates put it at 2-5 million Steam owners and over $100M gross revenue (estimates, not audited).",
+      "best_things": [
+        "Combat is praised as faster, deeper and more skill-driven than Hades 1, with critics calling it some of the best action combat in games",
+        "Weapon variety (multiple distinct weapon types with aspects) plus the Magick bar and Omega moves give many viable build styles",
+        "Boons, Hexes and the Arcana (tarot) system combine into varied, experimental builds; progression is allocated after a run, which pulls you into the next one",
+        "Art direction, character design, Darren Korb's music and the voice acting are singled out by both critics and players",
+        "The witchy, tarot and Greek-myth setting feels fresh rather than a reskin; Melinoe has a distinct feel from Zagreus",
+        "Huge content volume and replayability, with reviewers reporting hundreds of hours and still seeing new dialogue",
+        "Story and dialogue are woven into the run loop, with witty characters and reactive bosses (e.g. Chronos and Scylla reacting to pausing or muting music)",
+        "Supergiant's polish and responsiveness to feedback, from a long Early Access period to post-launch ending patches, is widely appreciated"
+      ],
+      "worst_things": [
+        "The ending is the most criticised element: Rock Paper Shotgun noted the game did not end with Chronos being killed as advertised, and Final Weapon called it extremely disappointing",
+        "Many Steam negative reviews call the narrative resolution weak or an anticlimax, even while praising the gameplay",
+        "Players complained that Zagreus and the Hades 1 cast overshadow Melinoe in her own game",
+        "Some feel the boon system is less tightly tuned for synergies than in Hades 1, with some weapons or builds feeling weaker or too limited",
+        "Several users feel it is a polished more-of-the-same iteration rather than a leap, with a familiar boon, weapon and gifting loop",
+        "Some negative reviewers find the progression loop hollow or unrewarding after long play",
+        "Several negative reviewers say the supporting characters feel static, with little growth or plot twists compared with Hades 1"
+      ],
+      "improvements": [
+        "A more satisfying, better-paced story conclusion and payoff for Melinoe specifically (Supergiant added extra scenes and an option to revert to the pre-ending state about a month after launch)",
+        "Less reliance on returning Hades 1 characters; more focus on Melinoe's own arc",
+        "Tighter boon and weapon balance so every weapon feels worthwhile and build synergies are clearer",
+        "Reduce the resource farming and number of runs needed to reach the true ending",
+        "More variation in levels and boss encounters to cut down repetition over long playtime"
+      ],
+      "unique_things": [
+        "Two separate routes, an Underworld path and a Surface path, instead of one descent (Erebus/Oceanus/Fields of Mourning/Tartarus vs Ephyra/Thessaly Rift/Mount Olympus/Summit)",
+        "Magick bar that recharges by attacking, used for casts and Omega moves that pin or control enemies",
+        "Witchcraft systems: Hexes channelling Selene's power, plus a tarot-style Arcana deck with Fear-style difficulty",
+        "Gathering and crafting resources in the Crossroads and between runs, with a larger hub and overworld feel",
+        "Story told through run-by-run reactive dialogue, with a sequel that took years of Early Access updates (Olympic, Warsong, Unseen)"
+      ],
+      "tedious_or_disliked": [
+        "Resource farming and the many runs required to reach the true ending are called padding by some Metacritic users",
+        "Repetitive boss encounters and limited level variety over long playtime",
+        "Some players dislike specific weapons as too limited or uninteresting, and feel the loop wears thin after 100+ hours"
+      ],
+      "divisive_points": [
+        "The ending and Zagreus's role: praised story depth from some, called a nothingburger or emotional letdown by others",
+        "Whether it is a huge improvement over Hades 1 or a safe refinement of the same formula",
+        "Late-game grind for the true ending: seen as satisfying replay value by some, padding by others",
+        "Boon balance: some like the varied viable options, others miss the tuned synergies of the original"
+      ],
+      "reception_notes": "Early Access began May 5, 2024 (Windows), with macOS in Oct 2024; updates included Olympic (Oct 2024), Warsong (Feb 2025, final boss and expanded story) and Unseen (Jun 2025). Version 1.0 launched Sep 25, 2025 on Windows, macOS, Switch and Switch 2; PS5 and Xbox Series X/S followed Apr 14, 2026, including Game Pass. Launch reception was overwhelmingly positive, with backlash on Steam focused on the ending; Supergiant responded roughly a month later with added scenes and an option to revert to the pre-conclusion state. The game won Best Action Game at The Game Awards 2025 and several audio and Steam Deck awards, and was nominated for Game of the Year at several ceremonies. Steam price is $20.99 (Mac supported, no Linux build). Revenue and ownership figures are third-party estimates: Steam-revenue-calculator estimates about $109.7M gross and $32.4M net to the developer; SteamSpy lists 2-5M owners. The OpenCritic integer score could not be retrieved because web search budget was exhausted and the OpenCritic page fetch failed.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1145350.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam appid, review totals, SteamSpy owners, revenue estimate"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1145350/Hades_II/",
+          "what": "Steam store page: 95.7% positive, Overwhelmingly Positive, release date and price"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades-ii/",
+          "what": "Metacritic overall: critic 95 from 54 reviews, user 8.5; critic and user summaries"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades-ii/critic-reviews/?platform=pc",
+          "what": "PC Metascore 94 from 46 reviews, all positive; critic praise"
+        },
+        {
+          "url": "https://www.metacritic.com/game/hades-ii/user-reviews/?platform=pc",
+          "what": "PC user score 8.7; repetition, grind and narrative complaints"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hades_II",
+          "what": "Reception, awards, Early Access timeline, ending controversy and patch, platform release dates"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1145350/reviews/?browsefilter=toprated&filterLanguage=english",
+          "what": "Top-rated Steam community reviews: praise for polish, art, music, addictive loop"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1145350/hades-ii",
+          "what": "Estimated gross and net revenue (Boxleiter method, not audited)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Removed 4 unsupported/anecdotal bullets (Switch 2 performance x2, floor debuff anecdote, dialogue pacing interrupting flow). Added 1 recurring theme (static characters/weak arcs) from top negative Steam reviews. Re-fetched Metacritic: overall page shows 95 from 54 critics, user 8.5; file's 94/8.7 are the PC-specific figures (matches Steam API metacritic=94), left as-is and both are listed. OpenCritic fetch returned a different game and web search budget is exhausted, so opencritic stays null (99% recommend is from Wikipedia, unverified). Steam 95.7% and revenue figures match local data."
+    },
+    "his_anchor": "placed just above Monster Train 2, the next game down in his Top 10 of 2025",
+    "his_pos": 1,
+    "his_row_n": 1,
+    "his_spoken": null,
+    "his_score": 83.4,
+    "his_top10_bonus": 0,
+    "players_score": 85.6,
+    "critics_score": 99.6,
+    "critics_avg": 94.0,
+    "overall": 87.4,
+    "labels": [
+      "action",
+      "hades_like"
+    ],
+    "primary_label": "hades_like"
+  }
+}

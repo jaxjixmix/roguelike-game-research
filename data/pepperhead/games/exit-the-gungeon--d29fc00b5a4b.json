@@ -1,0 +1,281 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "exit the gungeon",
+    "name": "Exit the Gungeon",
+    "display_name": "Exit The Gungeon",
+    "appid": 1209490,
+    "img": "img/1209490.jpg",
+    "steam_url": "https://store.steampowered.com/app/1209490/",
+    "website": "http://www.enterthegungeon.com",
+    "short_description": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
+    "developers": [
+      "Dodge Roll",
+      "Singlecore"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "release_date": "Mar 17, 2020",
+    "coming_soon": false,
+    "price": "$9.99",
+    "is_free": false,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Arcade",
+      "Action",
+      "Indie",
+      "Adventure",
+      "Bullet Hell",
+      "Pixel Graphics",
+      "2D",
+      "Difficult",
+      "Singleplayer",
+      "2D Platformer"
+    ],
+    "steam_review_desc": "Mostly Positive",
+    "steam_positive_pct": 73.9,
+    "steam_total_reviews": 3765,
+    "metacritic": 67,
+    "metacritic_url": "https://www.metacritic.com/game/pc/exit-the-gungeon?ftag=MCD-06-10aaa1f",
+    "metacritic_user": 6.4,
+    "opencritic": null,
+    "opencritic_url": null,
+    "other_scores": [
+      {
+        "source": "Metacritic PC (Metascore, 11 critics)",
+        "score": "67",
+        "url": "https://www.metacritic.com/game/pc/exit-the-gungeon/"
+      },
+      {
+        "source": "Metacritic Xbox One (5 critics)",
+        "score": "78",
+        "url": "https://www.metacritic.com/game/exit-the-gungeon/"
+      },
+      {
+        "source": "OpenCritic percent recommended (per Wikipedia)",
+        "score": "45%",
+        "url": "https://en.wikipedia.org/wiki/Exit_the_Gungeon"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Mostly Positive, 73.9% of 3,765",
+        "url": "https://store.steampowered.com/app/1209490/Exit_the_Gungeon/"
+      },
+      {
+        "source": "IGN",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/exit-the-gungeon/critic-reviews/"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/exit-the-gungeon/critic-reviews/"
+      },
+      {
+        "source": "Destructoid",
+        "score": "7/10",
+        "url": "https://www.destructoid.com/reviews/review-exit-the-gungeon/"
+      },
+      {
+        "source": "Switch Player",
+        "score": "90",
+        "url": "https://www.metacritic.com/game/exit-the-gungeon/critic-reviews/"
+      }
+    ],
+    "vgi_units": 113000,
+    "vgi_revenue": 781000,
+    "vgi_rating": 73.904,
+    "vgi_reviews": 3763,
+    "vgi_url": "https://app.sensortower.com/vgi/game/exit-the-gungeon",
+    "spy_owners": "200,000 .. 500,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,170,268.56",
+    "src_net": "345,229.23",
+    "src_url": "https://steam-revenue-calculator.com/app/1209490/exit-the-gungeon",
+    "final_tier": "C",
+    "final_part": "1",
+    "placements": [
+      {
+        "part": "1",
+        "date": "2023-09-29",
+        "tier": "C",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "S",
+        "verbal_evidence": "so I'm gonna put it above the dungeman's as a seat here",
+        "video_id": "5k_-k4X90ao",
+        "t": 3364,
+        "url": "https://www.youtube.com/watch?v=5k_-k4X90ao&t=3364s",
+        "year_in_title": "2019",
+        "pos": 13,
+        "row_n": 14,
+        "row_score": 0.1071428571428571,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "1",
+        "label": "Tier list Part 1 (2023)",
+        "summary": "Exit the Gungeon is the spin-off follow-up to Enter the Gungeon, originally built with mobile in mind, so it is far more minimalistic. It is a side-on 2D bullet hell with cramped space, fast runs and randomly swapping guns. He finds the gameplay boring and dislikes the RNG design, and he beat it on his first run. Its gorgeous remodeled Gungeon art and characters save it from a low placement, and he puts it above Enter the Gungeon on the board.",
+        "praise": [
+          "Art style is straight Gungeon and looks awesome",
+          "Characters were remodeled rather than reusing sprites",
+          "Nostalgic to see the Gungeon cast alive again",
+          "Runs are much faster than the original"
+        ],
+        "criticism": [
+          "Gameplay is not really fun and feels kind of boring",
+          "Very minimalistic compared to Enter the Gungeon, disappointing as a follow-up",
+          "Much less space to dodge bullets in the side-on view, which feels awkward",
+          "Random gun swapping with no gun collection; snowballing when you get strong guns",
+          "Too easy: he beat it on his first run"
+        ],
+        "unique_points": [
+          "Guns switch randomly after a few seconds instead of being collected",
+          "Side-on 2D perspective rather than top-down for a bullet hell",
+          "Strong guns make better guns more likely, creating a snowball effect"
+        ],
+        "quote": "I can't put this super low because look at the art style",
+        "comparisons": [
+          "Enter the Gungeon"
+        ],
+        "design_criteria": [
+          "Charm/visuals: art style and remodeled characters carry the placement",
+          "Gameplay feel: found it unfun and boring",
+          "Randomness: random gun swapping feels weird and snowballs",
+          "Space/level design: cramped side-on arena limits dodging",
+          "Difficulty: beat it on the first run",
+          "Run length: fast runs",
+          "Scope/depth: minimalistic versus the original"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A 2D vertical bullet-hell platformer spin-off of Enter the Gungeon where the Gungeoneers ride a collapsing elevator upward, with a blessed gun that keeps morphing into random weapons.",
+      "consensus_summary": "Exit the Gungeon is received as a competent but clearly lesser spin-off: critics land in mixed-to-decent territory (Metacritic 68 Switch / 67 PC, about 45% of OpenCritic critics recommending) and Steam players are Mostly Positive at about 74% across roughly 3,800 reviews. Most praise the chaotic arcade energy, art, humor and bosses, while criticising the forced random gun-swapping, cramped arenas and reduced depth versus Enter the Gungeon. It began life as an Apple Arcade mobile title (Sept 2019) before reaching Switch/PC (Mar 2020), and many negative reviews are really 'this is not Enter the Gungeon' complaints. A late content update (Hello to Arms, adding an Arsenal Mode with normal weapon pickups) softened the biggest complaint, but a Meowitzer boss softlock bug is still reported in recent Steam reviews. It is a cheap, often-discounted short-session game rather than a long-term roguelite.",
+      "best_things": [
+        "Frantic, nonstop arcade bullet-hell action with very little downtime and short runs that suit quick sessions",
+        "Same Gungeon charm: humor, weapon designs, pixel art and animation, soundtrack and sound design",
+        "Boss fights that remix the original's bosses into fusion bosses with new attack patterns",
+        "Per-character elevator routes and a new vertical structure give it a distinct feel from the first game",
+        "Unlockable hats, new costumes and small extras (Winchester and Loblina minigames, robot hearts now useful, Cultist playable without co-op) that completionists enjoy",
+        "Cheap price and frequent sales make it decent value as a pickup-and-play game"
+      ],
+      "worst_things": [
+        "Constantly changing blessed gun means you rarely build toward anything; combo-based weapon quality still delivers junk guns at bad moments",
+        "Meowitzer boss bug (boss turns invisible, softlocks or kills the run) is reported by many reviewers and persists years later",
+        "Elevator arenas are small, flat and cramped, leaving little room for dodging or platforming; enemies spawn constantly",
+        "Much less content and depth than Enter the Gungeon: no synergies, little new enemy/gun/music content, runs feel repetitive quickly",
+        "Jump-immunity and dodge-roll spam can trivialise bullets and some bosses instead of rewarding skillful movement",
+        "Stiff/odd controls and sometimes disorienting camera, cluttered visuals that hide hazards, and moving shooting platforms in later stages",
+        "Feels like a simplified, mobile-origin spin-off rather than a true sequel; the most upvoted negative reviews are fans saying it is not Enter the Gungeon and forces blessed-style runs on them"
+      ],
+      "improvements": [
+        "Fix the Meowitzer softlock and other audio/visual bugs",
+        "Offer more freedom over weapons by default (normal pickups/synergies) instead of relying on blessed guns; Arsenal Mode only partially addresses this",
+        "Larger, more varied arenas with real platforming space and less spawn spam",
+        "More new content (guns, enemies, characters, music) rather than recycled assets from Enter the Gungeon",
+        "Tuning of blanks, hazards and weapon rolls so randomness feels less unfair"
+      ],
+      "unique_things": [
+        "Vertical elevator-climb structure instead of exploring a branching dungeon",
+        "Weapon auto-morphs every ~30 seconds, with quality tied to a hitless kill combo (0-20)",
+        "Jumping grants airborne invulnerability, making jump a core defensive tool alongside rolling",
+        "Bosses are fusions of Enter the Gungeon bosses",
+        "Hub (Underbreach) with NPCs and small minigames like Angry-Birds-style and pachinko-style games",
+        "Began as an Apple Arcade exclusive and was designed as an arcade-style bite-sized spin-off"
+      ],
+      "tedious_or_disliked": [
+        "Forced elevator waves in early levels feel tedious and repetitive",
+        "Random weapon swaps at bad moments, and combo reset on any hit, feel punishing rather than fun",
+        "100%-ing the game becomes grindy; reviewers describe it as dragging after the main content is done",
+        "Repeated boss and enemy reuse and small gun pool make runs feel samey after a few characters",
+        "Getting Meowitzer repeatedly and needing to restart runs because of the bug",
+        "Levels feel flat and compact, with little platforming space, making later runs a grind of dodging spawn waves"
+      ],
+      "divisive_points": [
+        "Blessed/random weapon system: some find it chaotic fun, many find it the game's biggest flaw",
+        "Comparison to Enter the Gungeon: defenders say it should be judged as a different arcade game, detractors call it a creative failure and letdown for fans",
+        "Difficulty: some say it is very hard (bosses, tiny arenas), others find it easy once jump-dodging is discovered",
+        "Value: cheap sale price seen as fair for what it is, but others feel even that is too much"
+      ],
+      "reception_notes": "Launched Sept 2019 on Apple Arcade, then Mac/Windows/Switch in March 2020, PS4/Xbox One in Nov 2020, and separate iOS/Android releases in Aug 2025 per Wikipedia. Critics were mixed (71% of Metacritic Switch reviews rated Mixed, none Negative); the random-gun mechanic and loss of depth were the main sticking points. Steam is Mostly Positive (about 74%), with negative reviews heavily focused on the Meowitzer softlock, forced blessed-style runs and disappointment versus Enter the Gungeon. Final update Hello to Arms added Arsenal Mode for normal weapon pickups per a Steam reviewer. Steam has roughly 200k-500k owners (SteamSpy) and an estimated $1.17M gross / $345k net revenue (steam-revenue-calculator.com, Boxleiter-method estimate, not audited). Price $9.99, often on deep sale. Windows only on Steam, no Mac/Linux listing there. Steam recent reviews continue through 2026, indicating an ongoing trickle of players and a still-present boss bug. Caveat: live web search budget was exhausted, so Reddit was not reachable and community themes come mainly from Steam reviews, Metacritic, Wikipedia and the Steam discussions page.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1209490.json",
+          "what": "Top helpful positive and negative Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam store data: review summary, Metacritic 67, owners and revenue estimates"
+        },
+        {
+          "url": "https://www.metacritic.com/game/exit-the-gungeon/",
+          "what": "Metacritic overview: Switch 68 from 21 critics, user 6.4, consensus and platform scores"
+        },
+        {
+          "url": "https://www.metacritic.com/game/pc/exit-the-gungeon/",
+          "what": "Metacritic PC/Switch page with review breakdown and critic consensus"
+        },
+        {
+          "url": "https://www.metacritic.com/game/exit-the-gungeon/critic-reviews/",
+          "what": "Individual critic scores from IGN, Nintendo Life, Switch Player and others"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Exit_the_Gungeon",
+          "what": "Gameplay, release history and reception including OpenCritic 45% recommended"
+        },
+        {
+          "url": "https://www.destructoid.com/reviews/review-exit-the-gungeon/",
+          "what": "Destructoid 7/10 review: bite-sized arcade spin-off, lost depth"
+        },
+        {
+          "url": "https://steamcommunity.com/app/1209490/discussions/",
+          "what": "Steam community discussions showing Meowitzer and other bug threads"
+        },
+        {
+          "url": "https://steam-revenue-calculator.com/app/1209490/exit-the-gungeon",
+          "what": "Estimated gross and net revenue"
+        },
+        {
+          "url": "https://store.steampowered.com/app/1209490/Exit_the_Gungeon/",
+          "what": "Steam store page (review counts, price, release)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic: Switch 68 (21 critics), user 6.4, PC 67, Xbox One 78; individual critic scores (IGN 70, Nintendo Life 70, Switch Player 90) confirmed. Removed unsupported Steam Deck claim and vague mobile-port glitch bullet; trimmed unsupported co-op suggestion; added 'not Enter the Gungeon' simplified-spin-off theme (top upvoted negatives) and flat/compact levels tedium."
+    },
+    "his_anchor": null,
+    "his_pos": 13,
+    "his_row_n": 14,
+    "his_spoken": null,
+    "his_score": 10.7,
+    "his_top10_bonus": 0,
+    "players_score": 4.8,
+    "critics_score": 3.4,
+    "critics_avg": 67.0,
+    "overall": 7.2,
+    "labels": [
+      "shooter",
+      "platformer",
+      "action",
+      "coop"
+    ],
+    "primary_label": "shooter"
+  }
+}

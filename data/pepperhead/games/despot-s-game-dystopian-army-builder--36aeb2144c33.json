@@ -1,0 +1,261 @@
+{
+  "provenance": {
+    "source_url": "https://pepperhead-tier-list.vercel.app/",
+    "fetched_at_utc": "2026-10-05T20:04:28.800644+00:00",
+    "source_data_date": "01 Oct 2026",
+    "notice": "Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.",
+    "html_sha256": "7b65f7f9daf53d3ec86f07ec7b3560d3179247d526db426cb0abdb24d12e27c5"
+  },
+  "game": {
+    "key": "despot's game: dystopian army builder",
+    "name": "Despot's Game: Dystopian Battle Simulator",
+    "display_name": "Despot's Game: Dystopian Army Builder",
+    "appid": 1227280,
+    "img": "img/1227280.jpg",
+    "steam_url": "https://store.steampowered.com/app/1227280/",
+    "website": "https://www.despotsgame.com/",
+    "short_description": "Guide puny humans through Despot's Game - a rogue-like tactics army battler. Equip your team and sacrifice them through procedural dungeons as you fight enemies, and other players!",
+    "developers": [
+      "Konfa Games"
+    ],
+    "publishers": [
+      "tinyBuild"
+    ],
+    "release_date": "Sep 29, 2022",
+    "coming_soon": false,
+    "price": "$19.99",
+    "is_free": false,
+    "genres": [
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "tags": [
+      "Auto Battler",
+      "Pixel Graphics",
+      "Rogue-like",
+      "Tactical",
+      "Indie",
+      "RPG",
+      "Turn-Based Tactics",
+      "2D",
+      "Dark Humor",
+      "Rogue-lite"
+    ],
+    "steam_review_desc": "Very Positive",
+    "steam_positive_pct": 84.0,
+    "steam_total_reviews": 3361,
+    "metacritic": 73,
+    "metacritic_url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/",
+    "metacritic_user": 6.5,
+    "opencritic": 73,
+    "opencritic_url": "https://opencritic.com/game/13662/view",
+    "other_scores": [
+      {
+        "source": "GameCritics (via Metacritic)",
+        "score": "80",
+        "url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/"
+      },
+      {
+        "source": "COGconnected (via Metacritic)",
+        "score": "75",
+        "url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/"
+      },
+      {
+        "source": "But Why Tho? (via Metacritic)",
+        "score": "70",
+        "url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/"
+      },
+      {
+        "source": "XboxEra (via Metacritic)",
+        "score": "68",
+        "url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/"
+      },
+      {
+        "source": "Steam user reviews",
+        "score": "Very Positive, 84% of 3,361",
+        "url": "https://store.steampowered.com/app/1227280/"
+      }
+    ],
+    "vgi_units": 100800,
+    "vgi_revenue": 1193306,
+    "vgi_rating": 84.018,
+    "vgi_reviews": 3360,
+    "vgi_url": "https://app.sensortower.com/vgi/game/despot-s-game-dystopian-battle-simulator",
+    "spy_owners": "100,000 .. 200,000",
+    "spy_avg_min": 0,
+    "spy_median_min": 0,
+    "src_gross": "1,974,692.16",
+    "src_net": "582,534.19",
+    "src_url": "https://steam-revenue-calculator.com/app/1227280/despot-s-game-dystopian-battle-simulator",
+    "final_tier": "B",
+    "final_part": "2",
+    "placements": [
+      {
+        "part": "2",
+        "date": "2024-05-24",
+        "tier": "B",
+        "tier_source": "board",
+        "board_detail": "board:2 readers agree",
+        "verbal_tier": "B",
+        "verbal_evidence": "you definitely put it as a like a middle B tier",
+        "video_id": "zKosjx7EpKA",
+        "t": 4009,
+        "url": "https://www.youtube.com/watch?v=zKosjx7EpKA&t=4009s",
+        "year_in_title": "2021",
+        "pos": 12,
+        "row_n": 13,
+        "row_score": 0.11538461538461542,
+        "spoken": null
+      }
+    ],
+    "top10": [],
+    "commentary": [
+      {
+        "part": "2",
+        "label": "Tier list Part 2 (2024)",
+        "summary": "Despot's Game is a funny, casual auto-battler where you assemble a small army, press play, and watch the fight unfold. He finds it satisfying and charming, with a great vibe, but shallow and repetitive. Class and character variety is much smaller than it first appears, and you have no control once a battle starts. He got bored after six or seven hours and places it in middle B.",
+        "praise": [
+          "Satisfying auto-battler loop of preparing a team and watching the chaos play out",
+          "Funny, unserious tone with lots of humor",
+          "Cute art style",
+          "Passive effects are plentiful and impactful",
+          "Enemy/ally AI is pretty good despite many triggering abilities",
+          "Great overall vibe that makes it fun to watch"
+        ],
+        "criticism": [
+          "Far fewer classes and characters than first expected (about five per class, fixed abilities)",
+          "You collect all the classes and characters you want by roughly mid-run, so there are no rare build-defining finds",
+          "Passives make you stronger but do not change how you play; unit placement stays about the same",
+          "No interaction during battles, which feels frustrating with so many abilities",
+          "Strategy stays shallow; builds like fighter just mean collecting fighters and their passives",
+          "Gets repetitive and he grew bored after six to seven hours"
+        ],
+        "unique_points": [
+          "Pure watch-and-see auto-battler format where all decisions happen before the fight",
+          "Fixed-ability characters (e.g. the fridge guy) tied to classes instead of customizable units",
+          "Humor and vibe carry a mechanically minimal game"
+        ],
+        "quote": "it's fun it's casual it's very casual I like the vibe of this one",
+        "comparisons": [],
+        "design_criteria": [
+          "Build diversity: fewer classes/characters than promised limits variety",
+          "Player agency: no control during battles reduces engagement",
+          "Synergies/passives: impactful but do not alter play patterns",
+          "Strategic depth: minimalistic mechanics cap strategy",
+          "Charm/visuals/humor: cute art and funny tone are strong points",
+          "Replayability/run length: becomes repetitive, bored after ~6-7 hours",
+          "AI quality: pretty good given chaotic ability triggers"
+        ],
+        "rerank_note": ""
+      }
+    ],
+    "community": {
+      "one_liner": "A pixel-art roguelite auto-battler by Konfa Games (tinyBuild) where you recruit and equip an army of up to 49 puny humans, march through procedural dungeons managing food and shops, then test your build against other players' teams asynchronously.",
+      "consensus_summary": "Players rate it Very Positive on Steam (about 84% of roughly 3,360 reviews), and critics are lukewarm-positive (Metacritic 73 from only 4 reviews, OpenCritic 73 with 55% recommending). The core loop of drafting weird synergies, min-maxing and watching tiny units fight is widely called addictive and charming. The recurring complaint is that it is shallow and short: once you have won a run there is little reason to continue beyond PvP leaderboards and mutation grinding. Many reviewers say it is worth buying only on sale. It launched in Early Access in 2021 and went to 1.0 on Sept 29, 2022 on PC and consoles; it still receives player discussion and some seasonal content as of late 2026, but this is a finished game, not abandoned.",
+      "best_things": [
+        "Gorgeous, detailed pixel art and weapon animations, plus a well-liked soundtrack",
+        "Addictive core loop: drafting classes and weapon synergies and trying a different build after each failed run",
+        "Asynchronous PvP (fighting ghosts of other players' builds, leaderboards, King of the Hill/Brawl modes) is the most-loved part for many",
+        "Dark, cheerful-cruelty humor and pop-culture references in the writing and unit designs",
+        "Accessible and streamlined: easy to pick up, hands-off battles are quick to read, runs are short",
+        "Progression unlocks give new options rather than raw power, so you can still lose to your own bad decisions",
+        "Food-meter mechanic stops aimless wandering and limits army size in an interesting way",
+        "Good value when bought on sale; several reviewers say they got their money's worth (e.g. 41 hours in)"
+      ],
+      "worst_things": [
+        "Little replayability after the first victory; many players feel the game ends too early and call it a long demo",
+        "Shallow strategic depth and one-note items/classes; PvE gets boring quickly",
+        "PvP is dominated by a few meta builds and RNG rolls, and PvP balance concerns spill into PvE",
+        "Levels and biomes feel samey; minimap icons and some rules (magic damage) are confusing",
+        "Heavy RNG and sudden difficulty spikes in later floors, including shop availability that can leave you unable to refill ranks",
+        "Mutation/achievement completion becomes a grind",
+        "Bugs reported in places (loading-circle bug in Brawl runs, mantrap enemies seen as unfairly tanky)",
+        "Many reviewers will not recommend it at the $19.99 full price: 'wait for a sale', and one calls it a very long demo"
+      ],
+      "improvements": [
+        "More content and variety in biomes, enemies, classes and items to extend replay value after the first win",
+        "Better PvP balance and anti-meta measures so non-meta builds can compete",
+        "Fairer, more reliable shop/market access so runs are less RNG-gated",
+        "Clearer tutorialisation and UI (mutation reminders, minimap icons, magic damage explanation)",
+        "Make it more of a true roguelite with lasting meta-progression rather than a one-win-then-PvP structure",
+        "Bigger, more explosive death feedback so losses register (early reviewer suggestion)"
+      ],
+      "unique_things": [
+        "Roguelike dungeon crawl combined with auto-battler army building at up to 49 units, rather than a small party",
+        "Food meter as a run-length and army-size constraint",
+        "Asynchronous PvP where your winning run becomes a ghost team for others, with a leaderboard",
+        "Class synergy by equipping a number of unique items from the same class, unlocking powerful abilities",
+        "Part of the Despot universe (Despotism 3k, Slime 3K) with a shared puny-humans pixel-art style and dystopian dark comedy"
+      ],
+      "tedious_or_disliked": [
+        "Grinding all mutations and achievements (one 79-hour reviewer enjoyed the first 20-30 hours, then found it a slog)",
+        "Replaying runs until RNG hands you the meta build for PvP",
+        "Early PvE repeated across runs feels brain-dead or easy once solved",
+        "Hands-off combat leaves some players feeling it is fun to watch rather than play",
+        "Late-floor traps/bosses such as mantraps and repeated first-biome bosses that can wipe high-XP units"
+      ],
+      "divisive_points": [
+        "Value: many call it great on sale and a ripoff at full price",
+        "Hands-off auto-battle: some love the streamlined fights, others want more control or interaction",
+        "PvP emphasis: loved as the endgame by some, called pointless (bragging rights only) or meta-driven by others",
+        "Roguelike vs roguelite identity: some wish it were more of a roguelite with persistent progression"
+      ],
+      "reception_notes": "Launched in Early Access in 2021 (reviewers then already found it essentially complete) and released 1.0 on Sept 29, 2022 on PC, PS4/5, Xbox and Switch. Critics praised art, writing and gameplay loop but noted difficulty pacing and randomness; Switch controls were called lackluster versus PC. Metacritic has very few reviews (4 critics, 13 users), so scores are low-confidence. Steam rating stays Very Positive years later. One angry reviewer wants developer attention on Slime 3K instead of seasonal updates (single review, not a trend). OpenCritic lists 11 critic reviews. tinyBuild acquired Konfa during development. The Steam page also lists a Challenges DLC which was excluded here.",
+      "sources": [
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/reviews/1227280.json",
+          "what": "Top helpful positive and negative English Steam reviews (local file)"
+        },
+        {
+          "url": "/private/tmp/claude-501/-Users-joseocampo-Desktop/89544bf0-54d3-4fd6-89e1-9e5ed435823e/scratchpad/steam_data.json",
+          "what": "Steam metadata: 84% positive of 3,361, Very Positive, $19.99, release date"
+        },
+        {
+          "url": "https://www.metacritic.com/game/despots-game-dystopian-army-builder/",
+          "what": "Metascore 73 (4 critics), user 6.5 (13 ratings), critic blurbs"
+        },
+        {
+          "url": "https://opencritic.com/game/13662/view",
+          "what": "OpenCritic 73, 55% recommend, critic consensus"
+        },
+        {
+          "url": "https://vaporlens.app/app/1227280",
+          "what": "AI summary of Steam reviews: praise for art, complaints on replay value and price"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Despot%27s_Game",
+          "what": "Development background, series history, tinyBuild acquisition, Metacritic reception"
+        },
+        {
+          "url": "https://buried-treasure.org/2021/10/despots-game-dystopian-army-builder/",
+          "what": "Early Access impressions: food mechanic, hands-off combat, PvP endgame"
+        },
+        {
+          "url": "https://www.gamingonlinux.com/2022/10/roguelike-tactical-auto-battler-despots-game-dystopian-army-builder-is-out-now",
+          "what": "1.0 launch coverage (appeared in search results, not fetched)"
+        },
+        {
+          "url": "https://www.thexboxhub.com/despots-game-dystopian-army-builder-review/",
+          "what": "Console review (appeared in search results, not fetched)"
+        }
+      ],
+      "verified": true,
+      "verification_notes": "Re-fetched Metacritic (73 from 4 critics, user 6.5 from 13) and OpenCritic (73, 55% recommend, 11 reviews): scores confirmed, no change. Removed unsupported 'Steam Deck play well' claim (merged into value bullet), rewrote the unsupported '~10 hours core content' price bullet to the sale-vs-full-price theme seen in reviews, dropped the one-review seasonal/Slime 3K complaint from tedious_or_disliked and caveated it in reception_notes. No themes added; top reviews already covered."
+    },
+    "his_anchor": null,
+    "his_pos": 12,
+    "his_row_n": 13,
+    "his_spoken": null,
+    "his_score": 11.5,
+    "his_top10_bonus": 0,
+    "players_score": 25.0,
+    "critics_score": 11.3,
+    "critics_avg": 73.0,
+    "overall": 16.2,
+    "labels": [
+      "strategy"
+    ],
+    "primary_label": "strategy"
+  }
+}
