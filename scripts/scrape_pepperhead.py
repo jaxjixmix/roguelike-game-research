@@ -176,6 +176,13 @@ def archive(data, output, source_url, fetched_at, robots, html_sha):
         stem = item["markdown"][:-3]
         rows.append(f"| {plain(item['name'])} | {plain(item['tier'] or 'Unresolved')} | [Read]({stem}.md) · [JSON]({stem}.json) |")
     (output / "README.md").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    raw_base = "https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/"
+    llm_rows = ["# Roguelike Game Research — Pepperhead game index", "",
+                "> Public, attributed research links. Source summaries are AI-assisted, not independently verified.",
+                "", NOTICE, "", "## Games", ""]
+    for item in index:
+        llm_rows.append(f"- [{plain(item['name'])}]({raw_base}{item['markdown']}): Source tier {plain(item['tier'] or 'Unresolved')}; full attributed game record.")
+    (output / "llms.txt").write_text("\n".join(llm_rows) + "\n", encoding="utf-8")
     return len(games)
 
 

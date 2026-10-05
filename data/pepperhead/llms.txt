@@ -1,0 +1,207 @@
+# Roguelike Game Research — Pepperhead game index
+
+> Public, attributed research links. Source summaries are AI-assisted, not independently verified.
+
+Unofficial fan compilation, not produced, reviewed or endorsed by PepperHead. The site's summaries were written with AI assistance from auto-generated transcripts and can contain mistakes. Check the linked original videos and sources before treating claims as fact. Metrics are dated snapshots and sales/revenue figures may be estimates.
+
+## Games
+
+- [20 Minutes Till Dawn](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/20-minutes-till-dawn--1dab9a2109c5.md): Source tier B; full attributed game record.
+- [A Robot Named Fight!](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/a-robot-named-fight--b93efbabcf86.md): Source tier B; full attributed game record.
+- [Absolum](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/absolum--d375a1b24bc6.md): Source tier A; full attributed game record.
+- [Across the Obelisk](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/across-the-obelisk--b54e13d916ee.md): Source tier A; full attributed game record.
+- [Alina of the Arena](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/alina-of-the-arena--37aec5f05572.md): Source tier A; full attributed game record.
+- [Arcanium: Rise of Akhan](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/arcanium--18861affe960.md): Source tier A; full attributed game record.
+- [Archons](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/archons--b59740c88dee.md): Source tier A; full attributed game record.
+- [Astral Ascent](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/astral-ascent--8d8f0b667d54.md): Source tier A; full attributed game record.
+- [Astrea: Six-Sided Oracles](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/astrea-six-sided-oracles--79b115099663.md): Source tier A; full attributed game record.
+- [Atomicrops](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/atomicrops--c41cd8f4a80a.md): Source tier A; full attributed game record.
+- [Backpack Hero](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/backpack-hero--584443d32944.md): Source tier C; full attributed game record.
+- [Bad North: Jotunn Edition](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/bad-north--da7731bb8f6d.md): Source tier C; full attributed game record.
+- [Balatro](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/balatro--9722f86f45c4.md): Source tier S; full attributed game record.
+- [BALL x PIT](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ball-x-pitt--7b50b2df8a16.md): Source tier B; full attributed game record.
+- [Ballionaire](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ballionaire--da4b5b082283.md): Source tier B; full attributed game record.
+- [Barony](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/barony--96eaf23dcfbe.md): Source tier B; full attributed game record.
+- [Below the Crown](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/below-the-crown--d47c45580411.md): Source tier B; full attributed game record.
+- [Below the Stone](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/below-the-stone--c1c9d9e2d002.md): Source tier C; full attributed game record.
+- [The Binding of Isaac: Rebirth](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/binding-of-isaac--4093fa9611e3.md): Source tier S; full attributed game record.
+- [Bing in Wonderland](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/bing-in-wonderland--99a9e88acd05.md): Source tier B; full attributed game record.
+- [BlazBlue Entropy Effect](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/blazblue-entropy-effect--6a0235781fd3.md): Source tier A; full attributed game record.
+- [Blazing Beaks](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/blazing-beaks--24daeb2ccec6.md): Source tier D; full attributed game record.
+- [BloodDome99](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/blooddome99--f119de4a55b9.md): Source tier B; full attributed game record.
+- [Blue Prince](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/blue-prince--7f5bf92f1884.md): Source tier S; full attributed game record.
+- [Boneraiser Minions](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/boneraiser-minions--b16f270951e3.md): Source tier B; full attributed game record.
+- [Breachway](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/breachway--af1058a70779.md): Source tier C; full attributed game record.
+- [Brotato](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/brotato--fd65e8f57f65.md): Source tier A; full attributed game record.
+- [Brutal Orchestra](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/brutal-orchestra--f5468b6a4f8d.md): Source tier A; full attributed game record.
+- [Captain Forever Remix](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/captain-forever-remix--e8bc50f6604a.md): Source tier D; full attributed game record.
+- [Caves of Qud](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/caves-of-qud--11930ffdc0ee.md): Source tier A; full attributed game record.
+- [Cavity Busters](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/cavity-busters--0d04ef59fea6.md): Source tier C; full attributed game record.
+- [Children of Morta](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/children-of-morta--65f02856c0f7.md): Source tier B; full attributed game record.
+- [CloverPit](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/clover-pit--10189391aad2.md): Source tier A; full attributed game record.
+- [Cobalt Core](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/cobalt-core--a04e899aded9.md): Source tier A; full attributed game record.
+- [Convoy](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/convoy--56dc1a011eb4.md): Source tier C; full attributed game record.
+- [Crab Champions](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/crab-champions--a79f645a35fb.md): Source tier C; full attributed game record.
+- [Crown Trick](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/crown-trick--1bfd3b3b0109.md): Source tier B; full attributed game record.
+- [Crypt of the NecroDancer](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/crypt-of-the-necrodancer--54d287ce72eb.md): Source tier B; full attributed game record.
+- [Cubic Cosmos](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/cubic-cosmos--75229742afb5.md): Source tier C; full attributed game record.
+- [Cult of the Lamb](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/cult-of-the-lamb--6631777b7373.md): Source tier B; full attributed game record.
+- [Curse of the Dead Gods](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/curse-of-the-dead-gods--f444936993b3.md): Source tier A; full attributed game record.
+- [Cursorblade](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/cursorblade--2aa649d2f73c.md): Source tier C; full attributed game record.
+- [Dandy Ace](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dandy-ace--fea2a6df64a8.md): Source tier B; full attributed game record.
+- [Darkest Dungeon®](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/darkest-dungeon--2517a4b77e99.md): Source tier A; full attributed game record.
+- [Darkest Dungeon® II](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/darkest-dungeon-2--2ba2cc9547f1.md): Source tier A; full attributed game record.
+- [Dead Cells](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dead-cells--9aa6bac70dc1.md): Source tier S; full attributed game record.
+- [Dead Estate](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dead-estate--457ac3bb7bb0.md): Source tier C; full attributed game record.
+- [Death Must Die](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/death-must-die--7fb38a0cab28.md): Source tier B; full attributed game record.
+- [Deck of Ashes](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/deck-of-ashes--7751c6862326.md): Source tier D; full attributed game record.
+- [Decktamer](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/decktamer--2a0250c8f0ef.md): Source tier A; full attributed game record.
+- [Deep Rock Galactic: Survivor](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/deep-rock-galactic-survivor--b19500a3d88c.md): Source tier B; full attributed game record.
+- [Deflector](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/deflector--bf52825b465f.md): Source tier B; full attributed game record.
+- [Despot's Game: Dystopian Battle Simulator](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/despot-s-game-dystopian-army-builder--36aeb2144c33.md): Source tier B; full attributed game record.
+- [Dicefolk](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dicefolk--dc75c032150c.md): Source tier B; full attributed game record.
+- [DICEOMANCER](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/diceomancer--4bf4a06c5383.md): Source tier A; full attributed game record.
+- [Dicey Dungeons](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dicey-dungeons--697899e19499.md): Source tier B; full attributed game record.
+- [Die in the Dungeon](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/die-in-the-dungeon--1bda4d53fe92.md): Source tier B; full attributed game record.
+- [Dome Keeper](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dome-keeper--97f065e191eb.md): Source tier A; full attributed game record.
+- [Don't Starve](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dont-starve--8163026821c9.md): Source tier B; full attributed game record.
+- [Doomspire](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/doomspire--974c23815595.md): Source tier D; full attributed game record.
+- [Downwell](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/downwell--0e0451bf26e1.md): Source tier D; full attributed game record.
+- [Dreamscaper](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dreamscaper--69defcd25043.md): Source tier B; full attributed game record.
+- [Drop Duchy](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/drop-duchy--25ea33dc68f0.md): Source tier A; full attributed game record.
+- [Dungeon Clawler](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dungeon-clawer--26bb31748a44.md): Source tier B; full attributed game record.
+- [Dungeon Souls](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dungeon-souls--14c732bc6723.md): Source tier B; full attributed game record.
+- [Dungeonmans](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dungeonmans--4db19cebd58a.md): Source tier C; full attributed game record.
+- [Dungreed](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/dungreed--4aa2e87a1a3f.md): Source tier A; full attributed game record.
+- [ELDEN RING NIGHTREIGN](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/elden-ring-nightreign--8450e82c7da0.md): Source tier S; full attributed game record.
+- [Ember Knights](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ember-knights--04f2b023146a.md): Source tier A; full attributed game record.
+- [Emberward](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/emberward--43c2a42e95b3.md): Source tier B; full attributed game record.
+- [Enter the Gungeon](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/enter-the-gungeon--db4e6085204e.md): Source tier S; full attributed game record.
+- [Everything is Crab: The Animal Evolution Roguelite](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/everything-is-crab--1c0210c40502.md): Source tier B; full attributed game record.
+- [Exit the Gungeon](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/exit-the-gungeon--d29fc00b5a4b.md): Source tier C; full attributed game record.
+- [FTL: Faster Than Light](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ftl--f9394510528c.md): Source tier A; full attributed game record.
+- [Fury Unleashed](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/fury-unleashed--300963cf0367.md): Source tier B; full attributed game record.
+- [Galactic Glitch](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/galactic-glitch--b2f03464efd9.md): Source tier B; full attributed game record.
+- [Gambonanza](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/gambonanza--e712d47c0f22.md): Source tier B; full attributed game record.
+- [Gnomes](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/gnomes--9443a5460610.md): Source tier B; full attributed game record.
+- [Go Mecha Ball](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/go-mecha-ball--18e7718806f0.md): Source tier C; full attributed game record.
+- [God Of Weapons](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/god-of-weapons--2c9a65a81ddb.md): Source tier B; full attributed game record.
+- [Going Under](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/going-under--744ee0714f5e.md): Source tier B; full attributed game record.
+- [Goobies](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/goobies--a90bc49f9747.md): Source tier B; full attributed game record.
+- [Gunfire Reborn](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/gunfire-reborn--85223fa48cb6.md): Source tier A; full attributed game record.
+- [Hades](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/hades--915320dfdd5b.md): Source tier S; full attributed game record.
+- [Hades II](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/hades-2--6df6d8afdcf7.md): Source tier S; full attributed game record.
+- [Halls of Torment](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/halls-of-torment--5adcfa8bcd70.md): Source tier A; full attributed game record.
+- [Hand of Fate](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/hand-of-fate--ae0d327e3f35.md): Source tier C; full attributed game record.
+- [Hand of Fate 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/hand-of-fate-2--bca2bbab04c5.md): Source tier B; full attributed game record.
+- [Haste](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/haste--49fa6d753c7a.md): Source tier A; full attributed game record.
+- [Have a Nice Death](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/have-a-nice-death--1d400e28328c.md): Source tier A; full attributed game record.
+- [He is Coming](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/he-is-coming--6f469318dcc7.md): Source tier A; full attributed game record.
+- [Heroes of Hammerwatch](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/heroes-of-hammerwatch--c054929f654e.md): Source tier B; full attributed game record.
+- [Heroes of Hammerwatch II](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/heroes-of-hammerwatch-2--262611c10039.md): Source tier B; full attributed game record.
+- [Hollow Survivors](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/hollow-survivors--229282bf11f7.md): Source tier B; full attributed game record.
+- [Inkshade](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/inkshade--a3c6f3065cf1.md): Source tier C; full attributed game record.
+- [Inscryption](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/inscryption--6fabd2813431.md): Source tier S; full attributed game record.
+- [Into the Breach](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/into-the-breach--af51d1fcb00b.md): Source tier S; full attributed game record.
+- [Jotunnslayer: Hordes of Hel](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/jotunnslayer-hordes-of-hel--373418436b6c.md): Source tier B; full attributed game record.
+- [Keeper's Toll](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/keeper-s-toll--631b6cb7bd44.md): Source tier B; full attributed game record.
+- [Let Him Cook](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/let-him-cook--5d23e970e416.md): Source tier B; full attributed game record.
+- [Loop Hero](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/loop-hero--ccccb3287227.md): Source tier B; full attributed game record.
+- [Loot River](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/loot-river--46cd3fd582aa.md): Source tier C; full attributed game record.
+- [Luck be a Landlord](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/luck-be-a-landlord--771756ee7271.md): Source tier B; full attributed game record.
+- [Magic Book Autobattler](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/magic-book-autobattler--481afc1bd1c4.md): Source tier unplaced; full attributed game record.
+- [Magicite](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/magicite--05c2be3e39e6.md): Source tier C; full attributed game record.
+- [Magicraft](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/magicraft--5d4fd3d63a70.md): Source tier A; full attributed game record.
+- [Megabonk](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/megabonk--f4ddaef09b4b.md): Source tier A; full attributed game record.
+- [Mewgenics](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/mewgenics--0070df03bd73.md): Source tier S; full attributed game record.
+- [Monster Train](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/monster-train--55cebf56cb59.md): Source tier A; full attributed game record.
+- [Monster Train 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/monster-train-2--0e5544ebacd3.md): Source tier S; full attributed game record.
+- [Moon Watch](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/moon-watch--2cb95fb46cc5.md): Source tier C; full attributed game record.
+- [Moonlighter](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/moonlighter--9fd8759ff044.md): Source tier B; full attributed game record.
+- [Moonlighter 2: The Endless Vault](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/moonlighter-2--e0e924b420f7.md): Source tier A; full attributed game record.
+- [Mortal Sin](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/mortal-sin--7b9e5ad9e891.md): Source tier A; full attributed game record.
+- [Necrosmith](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/necrosmith--dcffdf3a0cf9.md): Source tier B; full attributed game record.
+- [Necrosmith 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/necrosmith-2--09bbf5a23a06.md): Source tier C; full attributed game record.
+- [Neon Abyss](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/neon-abyss--2d986d1b1240.md): Source tier B; full attributed game record.
+- [Noita](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/noita--5d6d39a10aac.md): Source tier A; full attributed game record.
+- [Nordic Ashes: Survivors of Ragnarok](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/nordic-ashes--81dacb77620d.md): Source tier A; full attributed game record.
+- [Nova Drift](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/nova-drift--bdd16aa74b4c.md): Source tier B; full attributed game record.
+- [Nuclear Throne](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/nuclear-throne--539f4c8c957c.md): Source tier A; full attributed game record.
+- [One Step From Eden](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/one-step-from-eden--40929ebfe495.md): Source tier B; full attributed game record.
+- [Paper Planet](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/paper-planet--9a1d5b98bbb5.md): Source tier B; full attributed game record.
+- [Patch Quest](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/patch-quest--42ce808a3a28.md): Source tier B; full attributed game record.
+- [Peglin](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/peglin--fbdcc4c0f1a5.md): Source tier S; full attributed game record.
+- [Picayune Dreams](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/picayune-dreams--084c919b0b4e.md): Source tier A; full attributed game record.
+- [Pogo Rogue](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/pogo-rogue--29c7d1fd402e.md): Source tier B; full attributed game record.
+- [R.E.P.O.](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/r-e-p-o--94b40125415b.md): Source tier B; full attributed game record.
+- [RAM: Random Access Mayhem](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ram-random-access-mayhem--ad99ea4afaa7.md): Source tier A; full attributed game record.
+- [Ravenswatch](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ravenswatch--6c66e9c9fb4d.md): Source tier B; full attributed game record.
+- [\[REDACTED\]](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/redacted--b68919aff001.md): Source tier B; full attributed game record.
+- [Repetendium](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/repetendium--45d0ea21d1e4.md): Source tier C; full attributed game record.
+- [Returnal™](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/returnal--6273add34650.md): Source tier A; full attributed game record.
+- [Revita](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/revita--e49a35e380fe.md): Source tier S; full attributed game record.
+- [Ring of Pain](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ring-of-pain--2ccc7326f871.md): Source tier B; full attributed game record.
+- [Risk of Rain (2013)](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/risk-of-rain--a5789895db1f.md): Source tier B; full attributed game record.
+- [Risk of Rain 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/risk-of-rain-2--4cababe842ad.md): Source tier S; full attributed game record.
+- [Risk of Rain Returns](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/risk-of-rain-returns--22d280b601ac.md): Source tier A; full attributed game record.
+- [Roboquest](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/roboquest--17b05e96efae.md): Source tier A; full attributed game record.
+- [Rogue Legacy](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/rogue-legacy--dad54893c259.md): Source tier C; full attributed game record.
+- [Rogue Legacy 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/rogue-legacy-2--99b2ab2897b8.md): Source tier B; full attributed game record.
+- [Rogue Tower](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/rogue-tower--c1da3ca82c2b.md): Source tier B; full attributed game record.
+- [Roguebook](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/roguebook--e6a2afa647d3.md): Source tier A; full attributed game record.
+- [Roguelands](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/roguelands--bdfdf848cdac.md): Source tier B; full attributed game record.
+- [ScourgeBringer](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/scourge-bringer--c9c109a15aa1.md): Source tier C; full attributed game record.
+- [Sculplings](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sculplings--4a8c27b7300f.md): Source tier A; full attributed game record.
+- [Sephiria](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sephiria--6f66f5693e50.md): Source tier A; full attributed game record.
+- [Shape Shifter: Formations](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/shape-shifter-formations--55525d44b504.md): Source tier A; full attributed game record.
+- [Ship of Fools](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/ship-of-fools--895f23289982.md): Source tier B; full attributed game record.
+- [Shotgun King: The Final Checkmate](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/shotgun-king--81f6b430acd0.md): Source tier C; full attributed game record.
+- [Shovel Knight Dig](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/shovel-knight-dig--69f1c4d940ce.md): Source tier B; full attributed game record.
+- [Skul: The Hero Slayer](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/skul-the-hero-slayer--d560e51b4c56.md): Source tier A; full attributed game record.
+- [Slay the Spire](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/slay-the-spire--e8836cff3775.md): Source tier S; full attributed game record.
+- [Slay the Spire 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/slay-the-spire-2--d8fcc89132c3.md): Source tier S; full attributed game record.
+- [Slice &amp; Dice](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/slice-and-dice--26374578d73e.md): Source tier A; full attributed game record.
+- [Slime 3K: Rise Against Despot](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/slime-3k--b8161aec40a4.md): Source tier C; full attributed game record.
+- [Slots &amp; Daggers](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/slots-and-daggers--90f0b87f747a.md): Source tier B; full attributed game record.
+- [Sol Cesto](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sol-cesto--3863e31d664c.md): Source tier A; full attributed game record.
+- [Solitairica](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/solitairica--431960f26049.md): Source tier B; full attributed game record.
+- [Soulstone Survivors](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/soulstone-survivors--cc33ee6d58a5.md): Source tier B; full attributed game record.
+- [Space Gladiators](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/space-gladiators--af03c699fcb9.md): Source tier B; full attributed game record.
+- [SpellRogue](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/spellrogue--ec9aab4a5eff.md): Source tier C; full attributed game record.
+- [Spelunky](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/spelunky--a0daa970e524.md): Source tier C; full attributed game record.
+- [Spelunky 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/spelunky-2--d681209688c5.md): Source tier B; full attributed game record.
+- [Spiritfall](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/spiritfall--4a8d901bddbc.md): Source tier S; full attributed game record.
+- [Star of Providence](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/star-of-providence--27ea73515e2d.md): Source tier C; full attributed game record.
+- [Star Renegades](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/star-renegades--d697d5ba5adb.md): Source tier B; full attributed game record.
+- [Streets of Rogue](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/streets-of-rogue--327dc3a8b7cc.md): Source tier A; full attributed game record.
+- [SULFUR](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sulfur--7e6da33aec66.md): Source tier A; full attributed game record.
+- [Sundered®: Eldritch Edition](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sundered--016b5cf811f3.md): Source tier B; full attributed game record.
+- [SWORN](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/sworn--7eed750be358.md): Source tier A; full attributed game record.
+- [SYNTHETIK: Legion Rising](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/synthetik--284b32b66dd5.md): Source tier B; full attributed game record.
+- [Tales of Maj'Eyal](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/tales-of-maj-eyal--4c06caa1d052.md): Source tier A; full attributed game record.
+- [Tangledeep](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/tangledeep--46ddfae7e7af.md): Source tier B; full attributed game record.
+- [The Legend of Bum-Bo](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/the-legend-of-bumbo--6758fe3addd5.md): Source tier B; full attributed game record.
+- [The Royal Writ](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/the-royal-writ--7b749a72b7ab.md): Source tier B; full attributed game record.
+- [The Spell Brigade](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/the-spell-brigade--349e9adc6618.md): Source tier B; full attributed game record.
+- [The Void Rains Upon Her Heart](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/the-void-rains-upon-her-heart--9b57a8d69289.md): Source tier S; full attributed game record.
+- [Tiny Rogues](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/tiny-rogues--d492cf65af42.md): Source tier A; full attributed game record.
+- [Tower Factory](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/tower-factory--afa76b1e6828.md): Source tier A; full attributed game record.
+- [UnderMine](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/undermine--5d13e04fd93b.md): Source tier A; full attributed game record.
+- [Vagante](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/vagante--8994f5f62779.md): Source tier B; full attributed game record.
+- [Vampire Crawlers: The Turbo Wildcard from Vampire Survivors](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/vampire-crawlers--8c0be8d2c0c2.md): Source tier B; full attributed game record.
+- [Vampire Hunters](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/vampire-hunters--e6b56996196d.md): Source tier B; full attributed game record.
+- [Vampire Survivors](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/vampire-survivor--b402da1dd75d.md): Source tier A; full attributed game record.
+- [Vault of the Void](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/vault-of-the-void--4ecbdb389ce7.md): Source tier A; full attributed game record.
+- [Void Crew](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/void-crew--ea48ef6663a7.md): Source tier B; full attributed game record.
+- [Voidigo](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/voidigo--f79e1526e162.md): Source tier A; full attributed game record.
+- [暖雪 Warm Snow](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/warm-snow--bc61c50a5c2e.md): Source tier B; full attributed game record.
+- [Watchword](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/watchword--87781a6af42e.md): Source tier B; full attributed game record.
+- [White Knuckle](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/white-knuckle--0df6c001d78f.md): Source tier A; full attributed game record.
+- [Wildermyth](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wildermyth--4ec8376364cf.md): Source tier B; full attributed game record.
+- [Wildfrost](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wildfrost--87539afa0100.md): Source tier A; full attributed game record.
+- [Windblown](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/windblown--e601fc796741.md): Source tier A; full attributed game record.
+- [Withering Rooms](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/withering-rooms--6c3e6e974c6d.md): Source tier Unresolved; full attributed game record.
+- [WizardChess](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wizard-chess--d9ab9e6d0409.md): Source tier B; full attributed game record.
+- [Wizard of Legend](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wizard-of-legend--2976167e3fec.md): Source tier A; full attributed game record.
+- [Wizard of Legend 2](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wizard-of-legend-2--d9ad950bd2e4.md): Source tier C; full attributed game record.
+- [Wizard with a Gun](https://raw.githubusercontent.com/jaxjixmix/roguelike-game-research/main/data/pepperhead/games/wizard-with-a-gun--7e0135a32691.md): Source tier B; full attributed game record.

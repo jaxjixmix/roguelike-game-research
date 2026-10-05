@@ -60,6 +60,10 @@ class ScraperTests(unittest.TestCase):
             self.assertEqual(index[0]["image_url"], scraper.SOURCE + "img/a.jpg")
             self.assertIn("Unverified", (root / index[0]["markdown"]).read_text())
             self.assertEqual(json.loads((root / "source-data.json").read_text()), data)
+            llm_index = (root / "llms.txt").read_text()
+            self.assertIn("https://raw.githubusercontent.com/", llm_index)
+            self.assertIn(index[0]["markdown"], llm_index)
+            self.assertIn("[Demo]", llm_index)
 
     def test_scalar_fields_precede_nested_sections(self):
         rendered = "\n".join(scraper.render_fields({"tags": ["tag"], "price": "$1"}))
